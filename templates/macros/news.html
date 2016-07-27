@@ -5,8 +5,8 @@
     {% if image %}
       <img src="{{ image.thumbnail(320)|url }}" alt="">
     {% endif %}
-    {{ news_article.title }}
-    {{ news_article.pub_date }}
+      <div class="news-teaser-title">{{ news_article.title }}</div>
+      <div class="news-teaser-date">{{ news_article.pub_date }}</div>
     </a>
   </div>
 {% endmacro %}
