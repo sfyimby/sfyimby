@@ -1,0 +1,12 @@
+{% macro render_news_teaser(news_article) %}
+  <div class="news-teaser">
+    {% set image = news_article.attachments.get(news_article.banner_img) %}
+    <a href={{ news_article.path }}>
+    {% if image %}
+      <img src="{{ image.thumbnail(320)|url }}" alt="">
+    {% endif %}
+    {{ news_article.title }}
+    {{ news_article.pub_date }}
+    </a>
+  </div>
+{% endmacro %}

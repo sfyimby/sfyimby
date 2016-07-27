@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% from "macros/news.html" import render_news_teaser %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  <h2>{{ this.title }}</h2>
+  {{ this.body }}
+  {% for child in this.children if child.record_label == 'News' %}
+  <div class="splashsection">
+    <a href={{ child.path | url}}><h3>{{ child.title }}</h3></a>
+    {% for news_article in child.children %}
+    {% if loop.index <= 2 %}
+      {{ render_news_teaser(news_article) }}
+    {% endif %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+{% endblock %}
