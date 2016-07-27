@@ -61,3 +61,11 @@ div.photo-caption {
     font-size: .8em;
     text-align: center;
 }
+
+div.news-teaser {
+    text-align: center;
+}
+
+div.news-teaser-date {
+    font-size: .7em;
+}
