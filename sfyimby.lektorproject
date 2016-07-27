@@ -1,2 +1,5 @@
 [project]
 name = sfyimby.com
+
+[servers.ghpages]
+target = ghpages+https://sfyimby/sfyimby
