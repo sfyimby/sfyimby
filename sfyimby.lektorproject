@@ -2,4 +2,8 @@
 name = sfyimby.com
 
 [servers.ghpages]
+target = ghpages://sfyimby/sfyimby
+default = yes
+
+[servers.ghpages-https]
 target = ghpages+https://sfyimby/sfyimby
