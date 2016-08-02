@@ -1,7 +1,23 @@
 {% extends "layout.html" %}
-{% from "macros/blog.html" import render_blog_post %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   <img src="{{ this.banner_img }}" alt="" class="news_banner">
-  {{ render_blog_post(this) }}
+  <div class="news-article">
+  {% if from_index %}
+    <h2><a href="{{ this|url }}">{{ this.title }}</a></h2>
+  {% else %}
+    <h2>{{ this.title }}</h2>
+  {% endif %}
+  <p class="meta">
+    written by
+    {% if this.twitter_handle %}
+      <a href="https://twitter.com/{{ this.twitter_handle
+        }}">{{ this.author or this.twitter_handle }}</a>
+    {% else %}
+      {{ this.author }}
+    {% endif %}
+    on {{ this.pub_date }}
+  </p>
+  {{ this.body }}
+  </div>
 {% endblock %}

@@ -6,12 +6,13 @@
   {{ this.body }}
   {% for child in this.children if child.record_label == 'News' %}
   <div class="splashsection">
-    <a href={{ child.path | url}}><h3>{{ child.title }}</h3></a>
+    <h3>Latest News</h3>
     {% for news_article in child.children %}
-    {% if loop.index <= 2 %}
+    {% if loop.index <= 3 %}
       {{ render_news_teaser(news_article) }}
     {% endif %}
     {% endfor %}
+    <a href={{ child.path | url}}><h3>more...</h3></a>
   </div>
   {% endfor %}
 {% endblock %}

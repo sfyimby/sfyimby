@@ -1,6 +1,6 @@
 {% set image = record.attachments.get(this.image) %}
-<div>
-  <img src="{{ image| url}}" alt="" class="news_banner"/>
+<div class="photo-with-caption">
+  <img src="{{ image| url}}" alt="" class="news_photo"/>
 {% if this.caption %}
   <div class="photo-caption">{{ this.caption }}</div>
 {% endif %}
