@@ -5,6 +5,7 @@
   <h2>{{ this.title }}</h2>
   {{ this.body }}
   {% for child in this.children if child.record_label == 'News' %}
+  <div class="splashcontainer">
   <div class="splashsection">
     <h3>Latest News</h3>
     {% for news_article in child.children %}
@@ -13,6 +14,19 @@
     {% endif %}
     {% endfor %}
     <a href={{ child.path | url}}><h3>more...</h3></a>
+  </div>
+  <div class="splashsection">
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+    <div>ads</div>
+  </div>
   </div>
   {% endfor %}
 {% endblock %}
