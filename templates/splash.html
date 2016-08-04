@@ -16,16 +16,13 @@
     <a href={{ child.path | url}}><h3>more...</h3></a>
   </div>
   <div class="splashsection">
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
-    <div>ads</div>
+    <h3>More News</h3>
+    {% for news_article in child.children %}
+    {% if 3 < loop.index <= 6 %}
+      {{ render_news_teaser(news_article) }}
+    {% endif %}
+    {% endfor %}
+    <a href={{ child.path | url}}><h3>more...</h3></a>
   </div>
   </div>
   {% endfor %}
