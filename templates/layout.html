@@ -2,17 +2,16 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-{% if this.title == "SF BAMO" %}
+{% if this.title == "Bay Area Metropolitan Observer" %}
   <title>{{this.title}}</title>
 {% else %}
-  <title>{% block title %}Welcome{% endblock %} — SF BAMO</title>
+  <title>{% block title %}Welcome{% endblock %} — Bay Area Metropolitan Observer</title>
 {% endif %}
 <body>
   <header>
     <a href="{{ '/'|url }}">
-      <h1>The San Francisco Bay Area Metropolitan Observer
-    </h1>
-    </a>
+      <h1>Bay Area Metropolitan Observer</h1>
+    </li>
     <nav>
       <ul class="nav navbar-nav">
         {% for href, title in [
@@ -22,7 +21,7 @@
           <li{% if this.is_child_of(href) %} class="active"{% endif
             %}><a href="{{ href|url }}">{{ title }}</a></li>
         {% endfor %}
-        <li><a href="http://www.facebook.com/sfyimby">Facebook</a></li>
+        <li><a href="https://www.facebook.com/BARentersFed/">Facebook</a></li>
         <li><a href="https://twitter.com/SFyimby">Twitter</a></li>
       </ul>
     </nav>
