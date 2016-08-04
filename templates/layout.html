@@ -2,16 +2,17 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-{% if this.title == "San Francisco YIMBY" %}
+{% if this.title == "SF BAMO" %}
   <title>{{this.title}}</title>
 {% else %}
-  <title>{% block title %}Welcome{% endblock %} — San Francisco YIMBY</title>
+  <title>{% block title %}Welcome{% endblock %} — SF BAMO</title>
 {% endif %}
 <body>
   <header>
     <a href="{{ '/'|url }}">
-      <h1>San Francisco YIMBY</h1>
-    </li>
+      <h1>The San Francisco Bay Area Metropolitan Observer
+    </h1>
+    </a>
     <nav>
       <ul class="nav navbar-nav">
         {% for href, title in [
@@ -30,6 +31,6 @@
     {% block body %}{% endblock %}
   </div>
   <footer>
-    &copy; Copyright 2016 by SF YIMBY.
+    &copy; Copyright 2016 by SF BAMO.
   </footer>
 </body>
