@@ -94,6 +94,17 @@ div.splashsection {
     border-color: #333333;
 }
 
+div.splash_ads {
+  float: left;
+  overflow: hidden;
+  height: 62em;
+}
+
+div.splash_ads img {
+  height: 8em;
+  display: block;
+}
+
 div.splashcontainer {
     overflow: auto;
 }
@@ -112,6 +123,7 @@ div.photo-with-caption {
 
 div.news-teaser {
     text-align: center;
+    height: 18em;
 }
 
 div.news-teaser-date {
@@ -123,3 +135,22 @@ div.news-article {
   -webkit-column-count: 3;
   column-count: 3;
 }
+
+div.news-article-header {
+  background-color: #333333;
+  color: white;
+  padding: 0em 1em;
+}
+
+div.news-article-header a {
+  color: #bbf;
+}
+
+div.news-teaser-text-block {
+  background-color: #333333;
+  color: white;
+  padding: 0em 0em;
+  font-size: 1.2em;
+}
+
+
