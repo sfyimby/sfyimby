@@ -73,12 +73,16 @@ body {
     background: #eeeeee;
 }
 
+div.news_banner_container {
+  text-align:center;
+}
+
 img.news_banner {
     max-height: 30em;
     max-width: 100%;
     margin: auto;
     text-align: center;
-    display: block;
+    display: inline-block;
 }
 
 
@@ -153,4 +157,6 @@ div.news-teaser-text-block {
   font-size: 1.2em;
 }
 
-
+.news-navigation-node > a { 
+  font-size: 1.4em;
+}
