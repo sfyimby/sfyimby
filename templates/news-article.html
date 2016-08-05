@@ -3,21 +3,19 @@
 {% block body %}
   <img src="{{ this.banner_img }}" alt="" class="news_banner">
   <div class="news-article">
-  {% if from_index %}
-    <h2><a href="{{ this|url }}">{{ this.title }}</a></h2>
-  {% else %}
+  <div class="news-article-header">
     <h2>{{ this.title }}</h2>
-  {% endif %}
-  <p class="meta">
-    written by
-    {% if this.twitter_handle %}
-      <a href="https://twitter.com/{{ this.twitter_handle
-        }}">{{ this.author or this.twitter_handle }}</a>
-    {% else %}
-      {{ this.author }}
-    {% endif %}
-    on {{ this.pub_date }}
-  </p>
+    <p class="meta">
+      written by
+      {% if this.twitter_handle %}
+        <a href="https://twitter.com/{{ this.twitter_handle
+          }}">{{ this.author or this.twitter_handle }}</a>
+      {% else %}
+        {{ this.author }}
+      {% endif %}
+      on {{ this.pub_date|dateformat('full') }}
+    </p>
+  </div>
   {{ this.body }}
   </div>
 {% endblock %}

@@ -2,8 +2,14 @@
 {% from "macros/news.html" import render_news_teaser %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
   {{ this.body }}
+  <div class="splash_ads">
+    {% for ii in range(10) %}
+    <img src="{{ '/static/fake_ad_1.png' | url }}" >
+    <img src="{{ '/static/fake_ad_2.png' | url }}" >
+    <img src="{{ '/static/fake_ad_3.png' | url }}" >
+    {% endfor %}
+  </div>
   {% for child in this.children if child.record_label == 'News' %}
   <div class="splashcontainer">
   <div class="splashsection">
