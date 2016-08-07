@@ -46,6 +46,10 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+.text-block {
+    font-family: 'Cormorant Garamond', serif;
+}
+
 a {
     color: #2a99b6;
 }
