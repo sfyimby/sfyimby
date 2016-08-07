@@ -4,8 +4,11 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   <h2>{{ this.title }}</h2>
-  {% for child in this.pagination.items %}
-    {{ render_news_teaser(child) }}
-  {% endfor %}
+  {{ render_pagination(this.pagination) }}
+  <div class="news-page">
+    {% for child in this.pagination.items %}
+      {{ render_news_teaser(child) }}
+    {% endfor %}
+  </div>
   {{ render_pagination(this.pagination) }}
 {% endblock %}
