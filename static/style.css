@@ -12,6 +12,12 @@
     column-count: 1;
   }
 
+  body .page div.news-page {
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
+    column-count: 1;
+  }
+
 }
 
 @media screen and (max-width: 1400px) {
@@ -114,6 +120,13 @@ div.news-splash {
     border-color: #333333;*/
 }
 
+div.news-page {
+    -moz-column-count: 2;
+    -webkit-column-count: 2;
+    column-count: 2;
+}
+
+
 div.splash_ads {
   float: left;
   overflow: hidden;
@@ -144,6 +157,10 @@ div.photo-with-caption {
 div.news-teaser {
     text-align: center;
     height: 18em;
+  -webkit-column-break-inside: avoid;
+  page-break-inside: avoid;
+  break-inside: avoid;
+
 }
 
 div.news-teaser-date {
