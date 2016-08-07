@@ -2,4 +2,4 @@
 name = sfyimby.com
 
 [servers.ghpages]
-target = ghpages+https://sfyimby/sfyimby.git
+target = ghpages+https://sfyimby/sfyimby.git?cname=sfbamo.com
