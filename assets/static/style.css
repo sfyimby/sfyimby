@@ -44,6 +44,11 @@ footer {
     color: white;
 }
 
+img.banner_logo {
+  height: 15em;
+
+}
+
 header h1 {
     font-family: mono;
     color: #ffffff;
