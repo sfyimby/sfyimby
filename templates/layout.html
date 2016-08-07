@@ -10,23 +10,25 @@
 {% endif %}
 <body>
   <header>
-    <a href="{{ '/'|url }}">
-      <!--<h1>Bay Area Metropolitan Observer</h1>-->
-      <img src="{{ '/static/logo.png'|url }}" class="banner_logo" alt="SF BAMO logo"/>
-    </a>
-    <nav>
-      <ul class="nav navbar-nav">
-        {% for href, title in [
-          ['/news', 'News'],
-          ['/about', 'About']
-        ] %}
-          <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href|url }}">{{ title }}</a></li>
-        {% endfor %}
-        <li><a href="https://www.facebook.com/BARentersFed/">Facebook</a></li>
-        <li><a href="https://twitter.com/SFyimby">Twitter</a></li>
-      </ul>
-    </nav>
+    <div>
+      <a href="{{ '/'|url }}">
+        <!--<h1>Bay Area Metropolitan Observer</h1>-->
+        <img src="{{ '/static/logo.png'|url }}" class="banner_logo" alt="SF BAMO logo"/>
+      </a>
+      <nav>
+        <ul class="nav navbar-nav">
+          {% for href, title in [
+            ['/news', 'News'],
+            ['/about', 'About']
+          ] %}
+            <li{% if this.is_child_of(href) %} class="active"{% endif
+              %}><a href="{{ href|url }}">{{ title|upper }}</a></li>
+          {% endfor %}
+          <li><a href="https://www.facebook.com/BARentersFed/">FACEBOOK</a></li>
+          <li><a href="https://twitter.com/SFyimby">TWITTER</a></li>
+        </ul>
+      </nav>
+    </div>
   </header>
   <div class="page">
     {% block body %}{% endblock %}

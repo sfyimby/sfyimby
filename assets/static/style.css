@@ -18,6 +18,22 @@
 
 }
 
+header div {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.navbar-nav li {
+    background-color: #ceffe8;
+    padding: .3em;
+    margin: .3em;
+}
+
+.navbar-nav a {
+    color: #333;
+
+}
+
 
 
 body {
@@ -45,8 +61,8 @@ footer {
 }
 
 img.banner_logo {
-  height: 15em;
-
+    max-height: 15em;
+    max-width: 100%;
 }
 
 header h1 {
