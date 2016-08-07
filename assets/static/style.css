@@ -6,6 +6,12 @@
     column-count: 1;
   }
 
+  body .page div.news-splash {
+    -moz-column-count: 1;
+    -webkit-column-count: 1;
+    column-count: 1;
+  }
+
 }
 
 @media screen and (max-width: 1400px) {
@@ -18,27 +24,20 @@
 
 }
 
-header div {
-  width: 50%;
-  margin: 0 auto;
-}
-
-.navbar-nav li {
+nav div.nav-link {
+    text-align: center;
+    font-size: 1.8em;
     background-color: #ceffe8;
-    padding: .3em;
-    margin: .3em;
 }
 
-.navbar-nav a {
+nav a {
     color: #333;
-
+    text-decoration: none;
+    text-transform: uppercase;
 }
-
-
 
 body {
     font-family: 'Work Sans', sans-serif;
-    margin: 50px 25px;
 }
 
 a {
@@ -49,41 +48,29 @@ a:hover {
     color: #33bbdf;
 }
 
-header, footer, div.page {
-    width: 85%;
-    margin: 0 auto;
+header, footer {
+    width: 100%;
     background: #333333;
-    padding: 20px 30px;
+    padding: 1em 0em;
+}
+
+div.page {
+    margin: 0 auto;
 }
 
 footer {
     color: white;
 }
 
+h1 {
+  margin: 0 auto;
+}
+
 img.banner_logo {
-    max-height: 15em;
-    max-width: 100%;
-}
-
-header h1 {
-    font-family: mono;
-    color: #ffffff;
-    margin: 0;
-    font-weight: normal;
-    font-size: 42px;
-}
-
-
-header nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-
-header nav ul li {
-    display: inline;
-    margin: 0 8px 0 0;
-    padding: 0;
+    max-height: 8em;
+    max-width: 95%;
+    display:block;
+    margin: 0 auto;
 }
 
 div.page {
@@ -98,9 +85,14 @@ div.news_banner_container {
   text-align:center;
 }
 
+img.ad {
+  width:100%;
+
+}
+
 img.news_banner {
     max-height: 30em;
-    max-width: 100%;
+    max-width: 95%;
     margin: auto;
     text-align: center;
     display: inline-block;
@@ -111,12 +103,15 @@ img.news_photo {
     width: 100%;
 }
 
-div.splashsection {
-    float: left;
+div.news-splash {
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-count: 2;
+    /*float: left;
     width: 44%;
     border-width: 1px;
     border-style: solid;
-    border-color: #333333;
+    border-color: #333333;*/
 }
 
 div.splash_ads {

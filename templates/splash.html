@@ -3,33 +3,23 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   {{ this.body }}
+  <div class="pure-g">
   {% for child in this.children if child.record_label == 'News' %}
-  <div class="splashcontainer">
-  <div class="splashsection">
-    <h3>Latest News</h3>
-    {% for news_article in child.children %}
-    {% if loop.index <= 3 %}
-      {{ render_news_teaser(news_article) }}
-    {% endif %}
-    {% endfor %}
-    <a href={{ child.path | url}}><h3>more...</h3></a>
+    <div class="pure-u-20-24 news-splash">
+      <h3>Latest News</h3>
+      {% for news_article in child.children %}
+      {% if loop.index <= 6 %}
+        {{ render_news_teaser(news_article) }}
+      {% endif %}
+      {% endfor %}
+      <a href={{ child.path | url}}><h3>more...</h3></a>
+    </div>
+    <div class="pure-u-4-24">
+      <img src="{{ '/static/fake_ad_1.png' | url }}" class="ad">
+      <img src="{{ '/static/fake_ad_2.png' | url }}" class="ad">
+      <img src="{{ '/static/fake_ad_3.png' | url }}" class="ad">
+    </div>
   </div>
-  <div class="splashsection">
-    <h3>More News</h3>
-    {% for news_article in child.children %}
-    {% if 3 < loop.index <= 6 %}
-      {{ render_news_teaser(news_article) }}
-    {% endif %}
-    {% endfor %}
-    <a href={{ child.path | url}}><h3>more...</h3></a>
-  </div>
-  <div class="splash_ads">
-    {% for ii in range(10) %}
-    <img src="{{ '/static/fake_ad_1.png' | url }}" >
-    <img src="{{ '/static/fake_ad_2.png' | url }}" >
-    <img src="{{ '/static/fake_ad_3.png' | url }}" >
-    {% endfor %}
-  </div>
-  </div>
+
   {% endfor %}
 {% endblock %}

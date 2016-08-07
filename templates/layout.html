@@ -2,6 +2,13 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="{{ '/static/style.css'|url }}">
 <link href='https://fonts.googleapis.com/css?family=Work+Sans' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+<!--<![endif]-->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% if this.title == "Bay Area Metropolitan Observer" %}
   <title>{{this.title}}</title>
@@ -10,26 +17,25 @@
 {% endif %}
 <body>
   <header>
-    <div>
+    <h1>
       <a href="{{ '/'|url }}">
-        <!--<h1>Bay Area Metropolitan Observer</h1>-->
         <img src="{{ '/static/logo.png'|url }}" class="banner_logo" alt="SF BAMO logo"/>
       </a>
-      <nav>
-        <ul class="nav navbar-nav">
-          {% for href, title in [
-            ['/news', 'News'],
-            ['/about', 'About']
-          ] %}
-            <li{% if this.is_child_of(href) %} class="active"{% endif
-              %}><a href="{{ href|url }}">{{ title|upper }}</a></li>
-          {% endfor %}
-          <li><a href="https://www.facebook.com/BARentersFed/">FACEBOOK</a></li>
-          <li><a href="https://twitter.com/SFyimby">TWITTER</a></li>
-        </ul>
-      </nav>
-    </div>
+    </h1>
   </header>
+  <nav>
+    <div class="pure-g">
+      {% for link, title in (('/news'|url, 'News'),
+                             ('/about'|url, 'About'),
+                             ('https://www.facebook.com/BARentersFed', 'Facebook'),
+                             ('https://twitter.com/sfyimby', 'Twitter'),
+                             )  %}
+        <div class="pure-u-lg-1-4 pure-u-md-1-2 pure-u-1 nav-link">
+          <a href="{{ link }}">{{title}}</a>
+        </div>
+      {% endfor %}
+    </div>
+  </nav>
   <div class="page">
     {% block body %}{% endblock %}
   </div>
