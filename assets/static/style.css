@@ -46,8 +46,11 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
-.text-block {
+.news-article .text-block {
     font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2em;
+    line-height: 1.4em;
+
 }
 
 a {
