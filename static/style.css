@@ -99,9 +99,9 @@ div.news_banner_container {
   text-align:center;
 }
 
-img.ad {
-  width:100%;
-
+img.splash-ad {
+  max-height: 8em;
+  width: 100%;
 }
 
 img.news_banner {
@@ -200,4 +200,16 @@ div.news-teaser-text-block {
 
 .news-navigation-node > a { 
   font-size: 1.4em;
+}
+
+div.splash-message {
+  background-color: #333333;
+  margin: 0;
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+.splash-message p {
+  margin: 0;
 }
