@@ -2,10 +2,27 @@
 {% from "macros/news.html" import render_news_teaser %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  {{ this.body }}
+  <div class="splash-message">
+    <p>
+    {{ this.body }}
+    </p>
+  </div>
+  <div class="pure-g">
+    {% for _ in range(4) %}
+    <div class="pure-u-2-24">
+      <img src="{{ '/static/fake_ad_1.png' | url }}" class="splash-ad">
+    </div>
+    <div class="pure-u-2-24">
+      <img src="{{ '/static/fake_ad_2.png' | url }}" class="splash-ad">
+    </div>
+    <div class="pure-u-2-24">
+      <img src="{{ '/static/fake_ad_3.png' | url }}" class="splash-ad">
+    </div>
+    {% endfor %}
+  </div>
   <div class="pure-g">
   {% for child in this.children if child.record_label == 'News' %}
-    <div class="pure-u-20-24 news-splash">
+    <div class="pure-u-1 news-splash">
       <h3>Latest News</h3>
       {% for news_article in child.children %}
       {% if loop.index <= 6 %}
@@ -13,11 +30,6 @@
       {% endif %}
       {% endfor %}
       <a href={{ child.path | url}}><h3>more...</h3></a>
-    </div>
-    <div class="pure-u-4-24">
-      <img src="{{ '/static/fake_ad_1.png' | url }}" class="ad">
-      <img src="{{ '/static/fake_ad_2.png' | url }}" class="ad">
-      <img src="{{ '/static/fake_ad_3.png' | url }}" class="ad">
     </div>
   </div>
 
