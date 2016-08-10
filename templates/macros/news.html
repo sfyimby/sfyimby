@@ -2,9 +2,9 @@
   <div class="news-teaser">
     {% set image = news_article.attachments.get(news_article.banner_img) %}
     <a href={{ news_article.path|url }}>
-    {% if image %}
-      <img src="{{ image.thumbnail(320)|url }}" alt="">
-    {% endif %}
+      <div class="news-teaser-image">
+        <img src="{{ image.thumbnail(width=320, height=320, crop=True)|url }}" alt="">
+      </div>
       <div class="news-teaser-text-block">
         <div class="news-teaser-title">{{ news_article.title }}</div>
         <div class="news-teaser-date">{{ news_article.pub_date | dateformat('medium') }}</div>

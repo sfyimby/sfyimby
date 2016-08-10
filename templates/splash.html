@@ -21,14 +21,18 @@
     {% endfor %}
   </div>
   <div class="pure-g">
+    <div class="pure-u-1">
+      <h3>Latest News</h3>
+    </div>
   {% for child in this.children if child.record_label == 'News' %}
     <div class="pure-u-1 news-splash">
-      <h3>Latest News</h3>
       {% for news_article in child.children %}
-      {% if loop.index <= 6 %}
+      {% if loop.index <= 9 %}
         {{ render_news_teaser(news_article) }}
       {% endif %}
       {% endfor %}
+    </div>
+    <div class="pure-u-1">
       <a href={{ child.path | url}}><h3>more...</h3></a>
     </div>
   </div>
