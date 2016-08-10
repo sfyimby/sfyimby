@@ -195,11 +195,17 @@ div.news-teaser {
 
 div.news-teaser-title {
   background-color: #333333;
+  text-decoration: none;
 }
 
 div.news-teaser-date {
   background-color: #333333;
   font-size: .7em;
+}
+
+.news-teaser a {
+  text-decoration: none;
+
 }
 
 div.news-teaser-text-block {
