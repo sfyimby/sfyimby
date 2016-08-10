@@ -1,3 +1,5 @@
 <div class="text-block">
+  {{ '<p'.join(this.text.__html__().split('<p'))|safe }}
+  {{ range(1, 51)|random }}
   {{ this.text }}
 </div>
