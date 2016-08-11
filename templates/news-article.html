@@ -14,19 +14,21 @@
     </div>
   </div>
   <div class="news-article">
-  <div class="news-article-header">
-    <h2>{{ this.title }}</h2>
-    <p class="meta">
-      written by
-      {% if this.twitter_handle %}
-        <a href="https://twitter.com/{{ this.twitter_handle
-          }}">{{ this.author or this.twitter_handle }}</a>
-      {% else %}
-        {{ this.author }}
-      {% endif %}
-      on {{ this.pub_date|dateformat('full') }}
-    </p>
-  </div>
-  {{ this.body }}
-  </div>
+    <div class="news-article-header">
+      <h2>{{ this.title }}</h2>
+      <p class="meta">
+        written by
+        {% if this.twitter_handle %}
+          <a href="https://twitter.com/{{ this.twitter_handle
+            }}">{{ this.author or this.twitter_handle }}</a>
+        {% else %}
+          {{ this.author }}
+        {% endif %}
+        on {{ this.pub_date|dateformat('full') }}
+      </p>
+    </div>
+    <div class="pure-u-1 news-article-body">
+      {{ this.body }}
+    </div> <!-- END news-article-body -->
+  </div> <!-- END news-article -->
 {% endblock %}
