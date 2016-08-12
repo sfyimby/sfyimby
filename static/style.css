@@ -12,6 +12,11 @@
     column-count: 1;
   }
 
+  body nav div.nav-link {
+    font-size: 1.3em;
+    background-color: #ceffe8;
+  }
+
 }
 
 @media screen and (max-width: 1400px) {
@@ -176,6 +181,7 @@ div.news-teaser {
   break-inside: avoid;
   width: 500px;
   margin: 0 auto;
+  margin-left: 2em;
   display: inline-block;
 }
 
