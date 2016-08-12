@@ -30,5 +30,16 @@
     <div class="pure-u-1 news-article-body">
       {{ this.body }}
     </div> <!-- END news-article-body -->
+
+    {% if this.tags %}
+      <ul>
+        {% for t in this.tags -%}
+          <li>
+            <a href="{{ ('/news/tag/' ~ t)|url }}">
+              All posts tagged {{ t }}
+        {% endfor %}
+      </ul>
+    {% endif %}
+
   </div> <!-- END news-article -->
 {% endblock %}
