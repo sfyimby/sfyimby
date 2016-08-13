@@ -32,13 +32,12 @@
     </div> <!-- END news-article-body -->
 
     {% if this.tags %}
-      <ul>
+        Tags:
         {% for t in this.tags -%}
-          <li>
-            <a href="{{ ('/news/tag/' ~ t)|url }}">
-              All posts tagged {{ t }}
+          <div class="news-article-tag">
+            <a href="{{ ('/news/tag/' ~ t)|url }}">{{ t }}</a>
+          </div>
         {% endfor %}
-      </ul>
     {% endif %}
 
   </div> <!-- END news-article -->
