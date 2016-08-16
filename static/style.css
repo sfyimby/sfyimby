@@ -65,7 +65,7 @@ a:hover {
 header, footer {
     width: 100%;
     background: #333333;
-    padding: 1em 0em;
+    padding: 1em 0 0 0;
 }
 
 div.page {
@@ -78,7 +78,7 @@ footer {
     color: white;
 }
 
-h1 {
+header h1 {
   margin: 0 auto;
 }
 
@@ -247,3 +247,19 @@ div.news-article-tag {
   overflow: hidden;
 }
 
+div.social_media_links {
+  text-align: center;
+  background-color: #333333;
+}
+
+div.social_media_links a {
+  text-decoration: none;
+}
+
+img.nav-social-logo {
+  height: 30px;
+  margin: 0 auto;
+  margin-left: 2em;
+  margin-top: .5em;
+  display: inline-block;
+}
