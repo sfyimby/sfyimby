@@ -237,5 +237,13 @@ div.news-article-ad-container {
 
 div.splash-ad-container {
   margin: 0 auto;
-
 }
+
+div.news-article-tag {
+  background-color: #ceffe8;
+  display: inline-block;
+  width: 120px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
