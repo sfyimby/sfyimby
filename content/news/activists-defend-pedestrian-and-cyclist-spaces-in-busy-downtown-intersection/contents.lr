@@ -6,10 +6,8 @@ banner_img: bikelane.jpg
 ---
 body:
 
-#### photocaption ####
-image: bikelane.jpg
-----
-caption:
+#### text-block ####
+text:
 
 Last Friday evening, three cyclists of the bikepocalypse rode along an Acheron of asphalt toward the pedestrian hell at 6th & Mission. There is no hyperbole here: 24 people have been killed by cars in San Francisco so far this year. Over the past 7 years, 126 pedestrians have been killed in traffic collisions, along with 20 cyclists. The anonymous activists [told KQED](http://ww2.kqed.org/news/2016/08/08/spurred-by-s-f-cyclist-deaths-guerrilla-safe-streets-activists-take-action/) they were there to enforce the city’s Vision Zero plan, the goal to have no traffic fatalities by 2024.
 
@@ -20,3 +18,5 @@ Transportation activists have [criticized](http://ww2.kqed.org/news/2016/06/23/t
 pub_date: 2016-08-09
 ---
 twitter_handle: daguilarcanabal
+---
+tags: SF
