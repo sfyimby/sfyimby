@@ -1,4 +1,5 @@
 {% extends "layout.html" %}
+{% from "macros/news.html" import render_news_teaser %}
 
 {% block title %}Tag: {{ this.tag }}{% endblock %}
 
@@ -6,7 +7,7 @@
   <h2>Tag: {{ this.tag }}</h2>
   <ul>
     {% for i in this.items %}
-      <li><a href="{{ i|url }}">{{ i.title }}</a></li>
+      {{ render_news_teaser(i) }}
     {% else %}
       <li><em>No items.</em></li>
     {% endfor %}
