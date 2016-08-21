@@ -21,7 +21,7 @@
   {% for child in this.children if child.record_label == 'News' %}
     <div class="pure-u-1 news-splash">
       {% for news_article in child.children %}
-      {% if loop.index <= 9 %}
+      {% if loop.index <= 10 %}
         {{ render_news_teaser(news_article) }}
       {% endif %}
       {% endfor %}
