@@ -4,7 +4,7 @@
 {% block title %}Tag: {{ this.tag }}{% endblock %}
 
 {% block body %}
-  <h2>Tag: {{ this.tag }}</h2>
+  <h3 class="page-header">{{ this.tag }}</h3>
   <ul>
     {% for i in this.items %}
       {{ render_news_teaser(i) }}
