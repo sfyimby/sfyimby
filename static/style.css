@@ -17,6 +17,10 @@
     background-color: #ceffe8;
   }
 
+body h3 {
+  font-size: 2em;
+}
+
 }
 
 @media screen and (max-width: 1400px) {
@@ -260,4 +264,13 @@ img.nav-social-logo {
   margin-left: 2em;
   margin-top: .5em;
   display: inline-block;
+}
+
+h3 {
+  font-family: 'Shrikhand', cursive;
+  text-transform: lowercase;
+  font-size: 3em;
+  letter-spacing: 3vw;
+  text-decoration: none;
+  margin: 0;
 }
