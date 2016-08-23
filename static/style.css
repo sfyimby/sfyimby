@@ -58,6 +58,16 @@ body {
     text-align: justify;
 }
 
+.news-article blockquote {
+    font-family: 'Alegreya', serif;
+    font-size: 1.4em;
+    line-height: 1.5em;
+    color: #555555;
+    width: 95%;
+    margin: auto;
+    text-align: justify;
+}
+
 a {
     color: #2a99b6;
 }
@@ -243,11 +253,19 @@ div.splash-ad-container {
 }
 
 div.news-article-tag {
-  background-color: #ceffe8;
+  border-color: black;
+  border-style: solid;
+  border-width: .1em;
   display: inline-block;
   width: 120px;
   margin: 0 auto;
   overflow: hidden;
+}
+
+div.news-article-tag a {
+  color: black;
+  font-style: italic;
+  text-decoration: none;
 }
 
 div.social_media_links {
@@ -262,7 +280,8 @@ div.social_media_links a {
 img.nav-social-logo {
   height: 30px;
   margin: 0 auto;
-  margin-left: 2em;
+  margin-left: 1em;
+  margin-right: 1em;
   margin-top: .5em;
   display: inline-block;
 }
