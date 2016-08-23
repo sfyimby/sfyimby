@@ -21,6 +21,12 @@ body h3 {
   font-size: 2em;
 }
 
+body h3.page-header {
+  text-align: left;
+  padding-left: .2em;
+}
+
+
 }
 
 @media screen and (max-width: 1400px) {
