@@ -32,7 +32,6 @@
     </div> <!-- END news-article-body -->
 
     {% if this.tags %}
-        Tags:
         {% for t in this.tags -%}
           <div class="news-article-tag">
             <a href="{{ ('/news/tag/' ~ t)|url }}">{{ t }}</a>
