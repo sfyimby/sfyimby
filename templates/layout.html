@@ -36,14 +36,22 @@
     <div class="pure-g">
       {% for link, title in (
                              ('/news/tag/East Bay', 'East Bay'),
-                             ('/news/tag/SF', 'SF'),
-                             ('/news/tag/Peninsula', 'Peninsula'),
-                             ('/news/tag/South Bay', 'South Bay'),
+                             ('/news/tag/San Francisco', 'San Francisco'),
                              )  %}
-        <div class="pure-u-lg-1-4 pure-u-md-1-2 pure-u-1 nav-link">
+        <div class="pure-u-lg-1-5 pure-u-md-1-2 pure-u-1 nav-link">
           <a href="{{ link }}">{{title}}</a>
         </div>
       {% endfor %}
+      {% for link, title in (
+                             ('/news/tag/Peninsula', 'Peninsula'),
+                             ('/news/tag/South Bay', 'South Bay'),
+                             ('/news/tag/Elsewhere', 'Elsewhere'),
+                             )  %}
+        <div class="pure-u-lg-1-5 pure-u-md-1-3 pure-u-1 nav-link">
+          <a href="{{ link }}">{{title}}</a>
+        </div>
+      {% endfor %}
+
     </div>
   </nav>
   <div class="page">
