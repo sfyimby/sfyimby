@@ -24,12 +24,12 @@
         <img src="{{ '/static/logo_small.png'|url }}" class="banner_logo" alt="SF BAMO logo"/>
       </a>
     </h1>
+    <div class="social_media_links">
+        <a href="https://twitter.com/sfyimby">
+          <img src={{ '/static/twitter.png'|asseturl }} alt="Twitter" class="nav-social-logo">
+        </a>
+    </div>
   </header>
-  <div class="social_media_links">
-    <a href="https://twitter.com/sfyimby">
-      <img src={{ '/static/twitter.png'|asseturl }} alt="Twitter" class="nav-social-logo">
-    </a>
-  </div>
   <nav>
     <div class="pure-g">
       {% for link, title in (
