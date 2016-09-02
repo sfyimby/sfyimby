@@ -162,9 +162,9 @@ div.news-teaser {
 }
 
 div.news-teaser-text-block {
-  display:block;
-  background-color: #333333;
-  color: white;
+  display:inline-block;
+  background-color: white;
+  color: #333;
   font-size: 1.2em;
   text-align: center;
   width: 320px;
