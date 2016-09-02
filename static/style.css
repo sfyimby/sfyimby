@@ -77,7 +77,7 @@ header h1 {
 img.banner_logo {
     max-height: 8em;
     max-width: 95%;
-    display:block;
+    display:inline-block;
     margin: 0 auto;
 }
 
@@ -250,6 +250,7 @@ img.nav-social-logo {
   margin-right: 1em;
   margin-top: .5em;
   display: inline-block;
+  float: right;
 }
 
 h3 {
