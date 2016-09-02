@@ -19,13 +19,13 @@
 {% endif %}
 <body>
 
-  <header>
-    <h1>
+  <header class="row">
+    <h1 class="col-md-2">
         <a href="{{ '/'|url }}">
             <img src="{{ '/static/logo_small.png'|url }}" class="banner_logo" alt="SF BAMO logo"/>
         </a>
     </h1>
-    <nav>
+    <nav class="col-md-9">
         <div class="pure-g">
           {% for link, title in (
                                  ('/news/tag/East Bay', 'East Bay'),
@@ -48,7 +48,7 @@
         </div>
     </nav>
     
-    <div class="social_media_links">
+    <div class="social_media_links col-md-1">
         <a href="https://twitter.com/sfyimby">
           <img src={{ '/static/twitter.png'|asseturl }} alt="Twitter" class="nav-social-logo">
         </a>
