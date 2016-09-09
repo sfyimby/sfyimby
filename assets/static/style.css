@@ -141,6 +141,7 @@ div.photo-with-caption {
 
 div.news-splash {
 		max-width: 860px;
+		margin: 0 auto;
 }
 
 div.news-article-header {
@@ -162,9 +163,13 @@ div.news-teaser {
 		padding-top: 32px;
 }
 
+div.news-teaser-tags-and-date-holder {
+		padding-top: 9px;
+}
+
 div.news-teaser-image {
 		float: left;
-		width: 40%;
+		width: 25%;
 }
 
 div.news-teaser-image img {
@@ -177,21 +182,63 @@ div.news-teaser-text-block {
   color: #333;
   font-size: 1.2em;
   text-align: center;
-  width: 60%;
+  width: 75%;
+	padding-left: 16px;
 }
-
 
 div.news-teaser-title {
   background-color: #fff;
   text-decoration: none;
-
+	color: #333;
 	font-size: 35px;
 	font-weight: bold;
+	text-align: left;
+	line-height: 40px;
+
+	transition: color .1s,background-color .1s,fill .1s;
+	webkit-transition: color .1s,background-color .1s,fill .1s;
+}
+
+div.news-teaser-title:hover {
+	color: #718a83;
 }
 
 div.news-teaser-date {
   background-color: #fff;
-  font-size: 13px;
+  font-size: 16px;
+	float: left;
+	text-align: left;
+}
+
+div.news-teaser-summary {
+	padding-top: 16px;
+	font-size: 13px;
+	text-align: left;
+}
+
+div.news-teaser-tag {
+		transition: color .1s,background-color .1s,fill .1s;
+		webkit-transition: color .1s,background-color .1s,fill .1s;
+
+		background: #546662;
+		padding: 0 8px;
+		margin: 0 4px;
+		font-weight: 300;
+		font-size: 15px;
+		float: left;
+}
+
+div.news-teaser-tag:hover {
+		background: #42514e;
+}
+
+div.news-teaser-tag a {
+		color: #FFF;
+}
+
+div.news-teaser-tag-holder {
+	float: left;
+	padding-left: 16px;
 }
 
 .news-teaser a {
