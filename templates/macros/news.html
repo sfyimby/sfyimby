@@ -17,9 +17,11 @@
 								{% if news_article.tags %}
 										{% for t in news_article.tags -%}
 												{% if loop.index < 4 %}
-														<div class="news-teaser-tag">
-																<a href="{{ ('/news/tag/' ~ t)|url }}">{{ t }}</a>
-														</div>
+														<a href="{{ ('/news/tag/' ~ t)|url }}">
+																<div class="news-teaser-tag">
+																		{{ t }}
+																</div>
+														</a>
 												{% endif %}
 										{% endfor %}
 								{% endif %}

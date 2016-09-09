@@ -232,7 +232,7 @@ div.news-teaser-tag:hover {
 		background: #42514e;
 }
 
-div.news-teaser-tag a {
+div.news-teaser-tag-holder a {
 		color: #FFF;
 }
 
@@ -243,7 +243,6 @@ div.news-teaser-tag-holder {
 
 .news-teaser a {
   text-decoration: none;
-
 }
 
 .news-navigation-node > a { 
