@@ -1,5 +1,5 @@
 {% macro render_news_teaser(news_article) %}
-  <div class="news-teaser">
+  <div class="news-teaser clearfix">
     {% set image = news_article.attachments.get(news_article.banner_img) %}
     <a href={{ news_article.path|url }}>
       <div class="news-teaser-image">
@@ -8,6 +8,7 @@
       <div class="news-teaser-text-block">
         <div class="news-teaser-title">{{ news_article.title }}</div>
         <div class="news-teaser-date">{{ news_article.pub_date | dateformat('medium') }}</div>
+        <div class="news-teaser-summary">{{ news_article.body.blocks[0].text | string | striptags | truncate(255) }}</div>
       </div>
     </a>
   </div>
