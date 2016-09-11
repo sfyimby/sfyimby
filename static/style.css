@@ -1,16 +1,22 @@
-@media screen and (max-width: 950px) {
-		body nav div.nav-link {
-				font-size: 1.3em;
-				background-color: #ceffe8;
+@media screen and (max-width: 515px) {
+		div.header-social-contact {
+				display: none;
 		}
 
-		body h3 {
-				font-size: 2em;
+		div.header-social-twitter {
+				display: none;
 		}
+}
 
-		body h3.page-header {
-				text-align: left;
-				padding-left: .2em;
+@media screen and (max-width: 850px) {
+		div.news-teaser-summary {
+				display: none;
+		}
+}
+
+@media screen and (max-width: 1300px) {
+		div.header-text-tag-holder {
+				display: none;
 		}
 }
 
@@ -332,7 +338,7 @@ div.splash-message {
   margin: 0;
   color: #333;
   text-align: center;
-  font-size: 32px;
+  font-size: 24px;
 	padding-top: 16px;
 }
 
