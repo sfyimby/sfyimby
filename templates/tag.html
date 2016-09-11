@@ -1,15 +1,16 @@
 {% extends "layout.html" %}
 {% from "macros/news.html" import render_news_teaser %}
+{% from "macros/news-list.html" import render_news_list %}
 
 {% block title %}Tag: {{ this.tag }}{% endblock %}
 
 {% block body %}
-  <h3 class="page-header">{{ this.tag }}</h3>
-  <ul>
-    {% for i in this.items %}
-      {{ render_news_teaser(i) }}
-    {% else %}
-      <li><em>No items.</em></li>
-    {% endfor %}
-  </ul>
+  <div class="page-header">{{ this.tag }}</div>
+	{% if this.items.count() > 0 %}
+		{{ render_news_list(this.items) }}
+	{% else %}
+		<ul>
+				<li><em>No items.</em></li>
+		</ul>
+	{% endif %}
 {% endblock %}

@@ -1,13 +1,36 @@
 {% macro render_news_teaser(news_article) %}
-  <div class="news-teaser">
+  <div class="news-teaser clearfix">
     {% set image = news_article.attachments.get(news_article.banner_img) %}
-    <a href={{ news_article.path|url }}>
       <div class="news-teaser-image">
-        <img src="{{ image.thumbnail(width=320, height=320, crop=True)|url }}" alt="">
+				<a href="{{ news_article.path|url }}">
+						<img src="{{ image.thumbnail(width=320, height=320, crop=True)|url }}" alt="">
+				</a>
       </div>
       <div class="news-teaser-text-block">
-        <div class="news-teaser-title">{{ news_article.title }}</div>
-        <div class="news-teaser-date">{{ news_article.pub_date | dateformat('medium') }}</div>
+				<a href={{ news_article.path|url }}>
+						<div class="news-teaser-title">{{ news_article.title }}</div>
+				</a>
+
+				<div class="news-teaser-tags-and-date-holder clearfix">
+						<div class="news-teaser-date">{{ news_article.pub_date | dateformat('medium') }}</div>
+						<div class="news-teaser-tag-holder clearfix">
+								{% if news_article.tags %}
+										{% for t in news_article.tags -%}
+												{% if loop.index < 4 %}
+														<a href="{{ ('/news/tag/' ~ t)|url }}">
+																<div class="news-teaser-tag">
+																		{{ t }}
+																</div>
+														</a>
+												{% endif %}
+										{% endfor %}
+								{% endif %}
+						</div>
+				</div>
+        <div class="news-teaser-summary">
+						{{ news_article.body.blocks[0].text | string | striptags | truncate(500, end="...") }}
+						<a class="news-teaser-more-link" href="{{ news_article.path | url }}"> more</a>
+				</div>
       </div>
     </a>
   </div>

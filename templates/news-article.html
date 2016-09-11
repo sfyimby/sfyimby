@@ -2,7 +2,7 @@
 {% set siblings = this.get_siblings() %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h3 class="page-header">{{ this.title }}</h3>
+  <div class="news-header">{{ this.title }}</div>
       <p class="meta">
         {% if this.twitter_handle %}
           <a href="https://twitter.com/{{ this.twitter_handle
@@ -16,14 +16,6 @@
 
   <div class="news_banner_container">
     <img src="{{ this.banner_img }}" alt="" class="news_banner">
-    <div class="news-navigation-node">
-    {% if siblings.prev_page %}
-      <a href="{{ siblings.prev_page|url }}">previous</a>
-    {% endif %}
-    {% if siblings.next_page %}
-      <a href="{{ siblings.next_page|url }}">/next</a>
-    {% endif %}
-    </div>
   </div>
   <div class="news-article">
     <div class="pure-u-1 news-article-body">
@@ -32,11 +24,23 @@
 
     {% if this.tags %}
         {% for t in this.tags -%}
-          <div class="news-article-tag">
+            <div class="news-article-tag">
             <a href="{{ ('/news/tag/' ~ t)|url }}">{{ t }}</a>
-          </div>
+            </div>
         {% endfor %}
     {% endif %}
+
+    <div class="news-navigation-node">
+        {% if siblings.prev_page %}
+            <a href="{{ siblings.prev_page|url }}">&laquo; previous</a>
+        {% endif %}
+        {% if siblings.prev_page and siblings.next_page %}
+         / 
+        {% endif %}
+        {% if siblings.next_page %}
+            <a href="{{ siblings.next_page|url }}">next &raquo;</a>
+        {% endif %}
+    </div>
 
   </div> <!-- END news-article -->
 {% endblock %}

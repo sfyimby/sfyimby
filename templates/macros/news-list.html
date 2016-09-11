@@ -1,0 +1,12 @@
+{% from "macros/news.html" import render_news_teaser %}
+{% macro render_news_list(news_articles) %}
+  <div class="pure-g">
+		{% for news_article in news_articles %}
+				<div class="pure-u-1 news-splash">
+						{% if loop.index <= 10 %}
+								{{ render_news_teaser(news_article) }}
+						{% endif %}
+				</div>
+		{% endfor %}
+	</div>
+{% endmacro %}
