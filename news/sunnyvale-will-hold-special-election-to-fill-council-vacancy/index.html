@@ -17,50 +17,55 @@
 
 <body>
 
-  <header class="row">
-    <h1 class="col-md-3">
+  <header class="clearfix">
+    <div class="header-logo">
         <a href="../../">
             <img src="../../static/logo_small.png" class="banner_logo" alt="SF BAMO logo"/>
         </a>
-    </h1>
-    <nav class="col-md-8">
-        <div class="pure-g">
+    </div>
+    <div class="header-text">
+        <div class="header-text-tag-holder clearfix">
           
-            <div class="pure-u-lg-1-5 pure-u-md-1-2 pure-u-1 nav-link">
+            <div class="header-text-tag nav-link">
               <a href="/news/tag/East Bay">East Bay</a>
             </div>
           
-            <div class="pure-u-lg-1-5 pure-u-md-1-2 pure-u-1 nav-link">
+            <div class="header-text-tag nav-link">
               <a href="/news/tag/San Francisco">San Francisco</a>
             </div>
           
-          
-            <div class="pure-u-lg-1-5 pure-u-md-1-3 pure-u-1 nav-link">
+            <div class="header-text-tag nav-link">
               <a href="/news/tag/Peninsula">Peninsula</a>
             </div>
           
-            <div class="pure-u-lg-1-5 pure-u-md-1-3 pure-u-1 nav-link">
+            <div class="header-text-tag nav-link">
               <a href="/news/tag/South Bay">South Bay</a>
             </div>
           
-            <div class="pure-u-lg-1-5 pure-u-md-1-3 pure-u-1 nav-link">
+            <div class="header-text-tag nav-link">
               <a href="/news/tag/Elsewhere">Elsewhere</a>
             </div>
           
-      
         </div>
-    </nav>
+    </div>
     
-    <div class="social_media_links col-md-1">
-        <a href="https://twitter.com/sfyimby">
-          <img src=../../static/twitter.png?h=0a2a6bc4 alt="Twitter" class="nav-social-logo">
-        </a>
+    <div class="header-social-logos clearfix">
+				<div class="header-social-contact">
+					<a href="../../contact/">
+						Contact
+					</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://twitter.com/sfyimby">
+								<img src=../../static/twitter.png?h=0a2a6bc4 alt="Twitter" class="nav-social-logo">
+						</a>
+				</div>
     </div>
   </header>
 
   <div class="page">
     
-  <h3 class="page-header">Sunnyvale Will Hold Special Election to Fill Council Vacancy</h3>
+  <div class="news-header">Sunnyvale Will Hold Special Election to Fill Council Vacancy</div>
       <p class="meta">
         
           <a href="https://twitter.com/daguilarcanabal">Diego Aguilar Canabal</a>
@@ -71,14 +76,6 @@
 
   <div class="news_banner_container">
     <img src="murphystreetsunnyvale.jpg" alt="" class="news_banner">
-    <div class="news-navigation-node">
-    
-      <a href="../../news/mutual-respect-admiration-dominates-bart-director-race/">previous</a>
-    
-    
-      <a href="../../news/chinatown-group-vows-to-tackle-vacancies/">/next</a>
-    
-    </div>
   </div>
   <div class="news-article">
     <div class="pure-u-1 news-article-body">
@@ -95,6 +92,12 @@
     
     <p>Sunnyvale’s City Council <a href="http://www.mercurynews.com/bay-area-news/ci_29792766/sunnyvale-election-vacant-council-seat-will-cost-city">lamented</a> the additional cost incurred by Whittum’s timing: rather than simply adding another entry on the ballot, the city will spend $767,000 to elect a replacement, who will then have to run again in November to retain the position. Councilmember Pat Meyering cast the sole vote against the special election, further asking the city attorney if they could appoint an interim councilmember. Sunnyvale does have precedent for an interim appointment, when Mayor Otto Lee took leave of the council to serve a military tour in Iraq, but the city attorney insisted that this did not apply because Lee had not resigned.</p>
 
+    
+      <div class="news-article-ad-container">
+        <img src="../../static/fake_ad_1.png" class="news-article-ad">
+        <!--<img src="../../static/fake_ad_2.png" class="news-article-ad">
+        <img src="../../static/fake_ad_3.png" class="news-article-ad">-->
+      </div>
     
     
   
@@ -114,17 +117,17 @@
     <p>Klein, who currently serves as President of the Sunnyvale Historical Society, cites the completion of Sunnyvale’s Town Center as a top priority. Williams also notes his efforts to increase the availability of entry-level jobs in the area. While all three candidates voice support for bike and pedestrian infrastructure to reduce traffic, as well as increased shuttle services to the Caltrain station, Cordes takes the unique approach of calling for increased traffic impact fees on office construction. As an environmentalist and bicycle advocate, he notes that transportation is the leading source of Greenhouse Gas Emissions in the country. Cordes further calls for a reduction of dependency on imported water, and providing renewable energy to through the Silicon Valley Clean Energy Authority.</p>
 
     
-    
-  
-    
-    <p><a href="http://innovatesunnyvale.org/">Williams</a>, a self-employed software engineer, urges a more thorough approach to car-alternative infrastructure. “[T]o tie together our disjoint city,” he calls not only for a free rapid shuttle service to connect neighborhoods to transit and commercial centers, but also “pedestrian highways” that would include pedicab service.</p>
-
-    
       <div class="news-article-ad-container">
         <img src="../../static/fake_ad_1.png" class="news-article-ad">
         <!--<img src="../../static/fake_ad_2.png" class="news-article-ad">
         <img src="../../static/fake_ad_3.png" class="news-article-ad">-->
       </div>
+    
+    
+  
+    
+    <p><a href="http://innovatesunnyvale.org/">Williams</a>, a self-employed software engineer, urges a more thorough approach to car-alternative infrastructure. “[T]o tie together our disjoint city,” he calls not only for a free rapid shuttle service to connect neighborhoods to transit and commercial centers, but also “pedestrian highways” that would include pedicab service.</p>
+
     
     
   
@@ -140,14 +143,33 @@
     
         <div class="news-article-tag">
             <a href="../../news/tag/Peninsula">Peninsula</a>
-          </div>
+            </div>
         
     
+
+    <div class="news-navigation-node">
+        
+            <a href="../../news/mutual-respect-admiration-dominates-bart-director-race/">&laquo; previous</a>
+        
+        
+         / 
+        
+        
+            <a href="../../news/chinatown-group-vows-to-tackle-vacancies/">next &raquo;</a>
+        
+    </div>
 
   </div> <!-- END news-article -->
 
   </div>
-  <footer>
-    &copy; Copyright 2016 by SF BAMO.
+  <footer class="clearfix">
+		<div class="footer-copyright">
+				&copy; Copyright 2016 by SF BAMO.
+		</div>
+		<div class="footer-contact">
+				<a href="../../contact/">
+						Contact
+				</a>
+		</div>
   </footer>
 </body>
