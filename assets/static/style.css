@@ -29,6 +29,12 @@ div.page-header {
 	padding-top: 8px;
 }
 
+div.news-header {
+  text-align: center;
+	font-size: 32px;
+	margin-top: 16px;
+	padding-top: 8px;
+}
 
 footer {
 		margin-top: 16px;
@@ -48,6 +54,10 @@ nav a {
 
 body {
     font-family: 'Work Sans', sans-serif;
+}
+
+.news-article {
+		padding-top: 16px;
 }
 
 .news-article .text-block {
@@ -216,6 +226,10 @@ div.news-article-header a {
   color: #bbf;
 }
 
+div.news-article-body {
+  padding-bottom: 16px;
+}
+
 div.news-teaser {
 		width: 100%;
 		border-bottom: 1px solid #e6f1ef;
@@ -305,8 +319,12 @@ div.news-teaser-tag-holder {
   text-decoration: none;
 }
 
-.news-navigation-node > a { 
-  font-size: 1.4em;
+.news-navigation-node { 
+  font-size: 16px;
+}
+
+.news-navigation-node a { 
+  font-size: 19px;
 }
 
 div.splash-message {
