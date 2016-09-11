@@ -75,16 +75,27 @@ div.header-logo {
 div.header-text {
 		float: left;
 		height: 100%;
+		font-size: 24px;
 }
 
 div.header-social-logos {
 		float: right;
 		padding-right: 16px;
+		font-size: 24px;
+}
+
+div.header-social-contact {
+		float: left;
+		margin-top: 27px;
+}
+
+div.header-social-twitter {
+		float: left;
+		margin-top: 29px;
 }
 
 div.header-text-tag {
 		float: left;
-		font-size: 24px;
 		padding: 0 16px;
 		margin-top: 27px;
 }
@@ -94,6 +105,16 @@ footer {
     background: #333333;
     padding: 1em 0 1em 0;
     color: white;
+}
+
+div.footer-copyright {
+		float: left;
+		margin-left: 16px;
+}
+
+div.footer-contact {
+		float: right;
+		margin-right: 16px;
 }
 
 div.page {
@@ -336,7 +357,6 @@ img.nav-social-logo {
   margin: 0 auto;
   margin-left: 1em;
   margin-right: 1em;
-  margin-top: 32px;
   display: inline-block;
   float: right;
 }

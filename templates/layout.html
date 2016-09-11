@@ -41,17 +41,31 @@
         </div>
     </div>
     
-    <div class="header-social-logos">
-        <a href="https://twitter.com/sfyimby">
-          <img src={{ '/static/twitter.png'|asseturl }} alt="Twitter" class="nav-social-logo">
-        </a>
+    <div class="header-social-logos clearfix">
+				<div class="header-social-contact">
+					<a href="{{ "/contact" | url }}">
+						Contact
+					</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://twitter.com/sfyimby">
+								<img src={{ '/static/twitter.png'|asseturl }} alt="Twitter" class="nav-social-logo">
+						</a>
+				</div>
     </div>
   </header>
 
   <div class="page">
     {% block body %}{% endblock %}
   </div>
-  <footer>
-    &copy; Copyright 2016 by SF BAMO.
+  <footer class="clearfix">
+		<div class="footer-copyright">
+				&copy; Copyright 2016 by SF BAMO.
+		</div>
+		<div class="footer-contact">
+				<a href="{{ '/contact' | url }}">
+						Contact
+				</a>
+		</div>
   </footer>
 </body>
