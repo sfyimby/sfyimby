@@ -57,19 +57,44 @@ a:hover {
     color: #33bbdf;
 }
 
-header, footer {
+header {
+    width: 100%;
+    background: #333333;
+    height: 90px;
+}
+
+div.header-logo {
+		float: left;
+		margin-top: 4px;
+}
+
+div.header-text {
+		float: left;
+		height: 100%;
+}
+
+div.header-social-logos {
+		float: right;
+		padding-right: 16px;
+}
+
+div.header-text-tag {
+		float: left;
+		font-size: 24px;
+		padding: 0 16px;
+		margin-top: 27px;
+}
+
+footer {
     width: 100%;
     background: #333333;
     padding: 1em 0 1em 0;
+    color: white;
 }
 
 div.page {
     text-align: center;
     margin: 0 auto;
-}
-
-footer {
-    color: white;
 }
 
 header h1 {
@@ -307,7 +332,7 @@ img.nav-social-logo {
   margin: 0 auto;
   margin-left: 1em;
   margin-right: 1em;
-  margin-top: .5em;
+  margin-top: 32px;
   display: inline-block;
   float: right;
 }
@@ -329,9 +354,29 @@ h3.page-header {
   padding-left: 2em;
 }
 
-h3.page-footer {
-  text-align: right;
-  padding-right: 2em;
+div.page-footer {
+  font-size: 24px;
+	padding: 16px 0;
+	text-align: center;
+}
+
+div.page-footer-more {
+	background-color: #eb4c41;
+	width: 100%;
+	margin: 0 auto;
+	padding: 4px 0;
+}
+
+div.page-footer-more:hover {
+	background-color: #d34238;
+}
+
+div.page-footer-more a {
+	color: #FFF;
+}
+
+div.page-footer-more a:hover {
+	text-decoration: none;
 }
 
 h3 a {
