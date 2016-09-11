@@ -5,7 +5,7 @@
 {% block title %}Tag: {{ this.tag }}{% endblock %}
 
 {% block body %}
-  <div class="tag-header">{{ this.tag }}</div>
+  <div class="page-header">{{ this.tag }}</div>
 	{% if this.items.count() > 0 %}
 		{{ render_news_list(this.items) }}
 	{% else %}

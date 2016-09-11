@@ -20,6 +20,16 @@
 		display: table;
 }
 
+div.page-header {
+  background-color: #333333;
+	color: #FFF;
+  text-align: center;
+	font-size: 32px;
+	margin-top: 16px;
+	padding-top: 8px;
+}
+
+
 footer {
 		margin-top: 16px;
 }
@@ -378,18 +388,14 @@ h3 {
 		margin-bottom: 0;
 }
 
-div.tag-header {
-  background-color: #333333;
-	color: #FFF;
-  text-align: center;
-	font-size: 32px;
-	margin-top: 16px;
-}
-
 div.page-footer {
   font-size: 24px;
 	padding: 16px 0;
 	text-align: center;
+}
+
+div.page-footer a:hover {
+  text-decoration: none;
 }
 
 div.page-footer-more {
@@ -403,11 +409,11 @@ div.page-footer-more:hover {
 	background-color: #d34238;
 }
 
-div.page-footer-more a {
+a div.page-footer-more {
 	color: #FFF;
 }
 
-div.page-footer-more a:hover {
+a div.page-footer-more a:hover {
 	text-decoration: none;
 }
 
