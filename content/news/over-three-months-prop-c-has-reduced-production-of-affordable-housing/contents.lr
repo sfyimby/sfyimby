@@ -7,63 +7,31 @@ banner_img: construction_site_in_july_2010_in_milan.jpg
 body:
 
 #### text-block ####
-text:
-
-A ballot measure passed last June increased the affordable housing requirement for new construction to a whopping 25% of total units. Though skeptics, including Mayor Ed Lee, worried that the "arbitrary" number was too high, proponents led by Supervisors Jane Kim and Aaron Peskin insisted that it was necessary to address the city's affordability crisis. The Supervisors further promised that they would be open to amending the requirement if analyses showed the requirement was in fact too high. Our analysis joins that of the City Controller's office in showing that the anticipated net production of affordable housing has decreased since this legislation went into effect.
-
-[Proposition C](http://sfgov.org/elections/sites/default/files/Documents/candidates/IHR%20Legal%20Text.pdf) passed with almost twice as many “for” votes as “against” this past June, increasing the affordable housing requirement for new developments from 12% of total residential units to 25%, for projects of 25 units or more.
-
-This measure modified an existing aspect of the city’s planning code, which required that builders of residential developments of 10 units or more either pay an affordable housing fee, or provide a portion of their units as affordable to low- to moderate-income households (12% on-site, or 20% off-site). Such units are designated “BMR”, or below market-rate, and the “affordability” metric is determined by several city agencies, including the Planning Department and the Mayor's Office of Housing and Community Development (MOHCD). Working with developers, these agencies set BMR rents and selling prices at a fixed percentage of “AMI”, or [Area Media Income](https://www.huduser.gov/portal/datasets/il/il2016/2016summary.odn). 
-
-Essentially, the city determines what qualifies as “affordable” to households earning less than the median income of the area, and sets the BMR rents at that price. Through this process, the city gains affordable housing units at no cost to taxpayers.
-
-While championed by proponents as a victory for affordable housing advocates, a [recent report](http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/san-francisco-affordable-homes-requirement-prop-c.html) from the SF Controller’s Office suggests that the mandate may slow down overall housing construction. The high inclusionary percentages required, effectively a mandatory private subsidy, slows overall production by rendering some projects economically infeasible. While the city attempts to balance the need of affordable housing with overall housing production, the report suggests that past an 18% affordable housing requirement, development will start to slow.   
-
-The controller’s report focused on the reduction in land value required to make the 25% requirement pencil out -- below a certain threshold, landowners may not sell to prospective developers. But where sales still do, or have occurred, how has the inclusionary percentage impacted the types, size, and volume of projects proposed since Prop C passed? 
-
-To determine any impacts for the increased 25% affordable housing requirement on overall residential development, SF YIMBY analyzed the number and nature of projects proposed to the city prior to Prop C passing and after, to assess any effects to overall housing production, relative size of projects, and creation of affordable units. 
-
-**Results of Preliminary Project Assessment Study**
-
-To get a sense of what types of projects have been proposed by developers before and after Prop C passed, we looked at [Preliminary Project Assessments](http://forms.sfplanning.org/Preliminary_Project_Assessment_Application_Packet.pdf) (“PPAs”) submitted to the San Francisco Planning Department. A PPA letter is required to be submitted to the city to evaluate moderate to large projects - those creating 7 or more dwelling units or converting 25,000 square feet or more of space. PPAs are not the same as an actual development application; they merely represent a potential builder’s intent, or the very preliminary stages, of a project plan. 
-
-We looked at the PPAs submitted to the SF Planning Department from June 2016 to September 2016 (post-Prop C passing) and compared those to the PPAs submitted between June 2015 and September 2015 to assess proposed housing production over comparable time period. 
-
-The results thus far paint a less-than-promising picture of the future housing in San Francisco. 
-
-**Pre-Prop C, 12% Requirement**
-
-We began by looking at project proposals made between June and the first week of September from last year. Over that time period, a total of 23 projects were submitted to the SF Planning Commission. Of these, 18 included some portion of residential use.
-
-These 18 projects in total proposed nearly 3,000 units of new housing in San Francisco. The majority of these projects were relatively large in scale, with only 3 of the 23 projects containing less than 25 units. Applying the then-12% BMR requirement to the total number of units proposed results in a hypothetical maximum affordable housing production of 350 affordable units (assuming the developers did not choose the in-lieu fee option). 
-
-In summary: this three month period last year was a pretty good one for the creation of new housing, market-rate and affordable alike. 
-
-**Post-Prop C, 25% Requirement**
-
-In contrast, looking at the same time period in 2016 (June, post election, to the first week of September), 18 projects were proposed. While this reflects a 22% reduction from the prior year, the numbers are small enough that this does not necessarily indicate a trend toward less projects overall. 
-
-More importantly, how did the residential usage and size of these projects compare to last year’s? 
-
-Of those 18 proposals, 12 include residential units. But half of these projects were relatively small in scale - 6 of the 12 were less than 25 units, which is the threshold at which a project is required to produce 25% affordable units. In other words, *half of residential projects proposed since Prop C passed are smaller than 25 units*, which does not subject them to the 25% affordability requirement. 
-
-In total, the 18 projects proposed in this time period contribute 1,250 total units - a drop of more than half from the prior year. And the total number of affordable units these projects would contribute, as in, applying a 25% requirement to projects larger than 25 units, results in a total of 282 affordable units - *68 fewer affordable units* than what was produced in the same time period last year, or a reduction of 20%. 
+text: An analysis conducted by this paper shows that since [Proposition C](http://sfgov.org/elections/sites/default/files/Documents/candidates/IHR%20Legal%20Text.pdf) passed June 6 2016, applications to build new housing have dropped by 58% overall, and applications to build Below Market Rate (BMR), subsidized housing have dropped 20%.
 #### photocaption ####
-image: leighachart1.jpg
+image: propc1.jpg
 ----
 caption: 
 #### text-block ####
 text:
 
-While only a few months’ of data are represented in this analysis, analyzing the June to September time periods of 2016 and 2015 represents the closest comparability match available, accounting for any potential changes in seasonality when it comes to building housing. With this sampling note in mind, however, the overall decline of nearly 1,700 housing units is an alarming change, if indeed a consequence of Prop C’s requirements. What’s more, the overall decrease in total number of units proposed led to an actual *net reduction of the number of affordable units created*.
+We looked at the Preliminary Project Applications (PPAs) submitted to the SF Planning Department from June 2016 to September 2016 (post-Prop C passing) and compared those to the PPAs submitted during the same time last year, June 2015 and September 2015, to assess the effect of Prop C.
 
-If the findings above are a direct consequence of Prop C, it shows that there is indeed a ceiling to what the city can require of developers when it comes to affordable housing requirements, and 25% is likely to have surpassed it. 
+There were 18 residential projects representing 3,000 housing units proposed between June 2015 and the first week of September 2015. Applying the then-12% BMR requirement to the total number of units proposed results in 350 below market rate units proposed.
+#### photocaption ####
+image: propc2.jpg
+----
+caption: 
+#### text-block ####
+text:
 
-Raising the financial barrier to creating new housing, laudable as the intent may be, has the unintended effect of undermining the overall production of what it aims to promote.
+12 residential projects representing 1,250 housing units were proposed during the same time period in 2016 - a drop of more than half from the prior year. The total number of affordable units these projects would contribute, is 289 affordable units - 61 fewer affordable units than what was produced in the same time period last year[^1], or a reduction of 20%.
 
-If the city wants private developers to act at the primary source of affordable housing funding and creation, it needs to find more flexible ways to incentivize developers to build. A 25% price-indexed unit requirement harms these very goals.
+Proposition C was a ballot measure passed last June increasing the affordable housing requirement for new construction to 25% of total units. Some skeptics, including Mayor Ed Lee, argued that 25% was arbitrary. Opponents also feared that an excessively high BMR requirement would reduce the overall amount of housing proposed, and thereby reduce the amount of BMR units produced.
 
-Since available land is increasingly scarce, as the City Controller’s report reminds us, San Francisco must maximize the amount of housing per site while we still can. 
+Proponents, led by Supervisors Jane Kim and Aaron Peskin, insisted that the measure was necessary to address the city's affordability crisis. The Supervisors further promised that they would be open to amending the requirement if analyses showed the requirement was in fact too high. Our analysis joins that of the [City Controller's office](http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/san-francisco-affordable-homes-requirement-prop-c.html) in showing that the anticipated net production of affordable housing has decreased since this legislation went into effect.
+
+[^1]: Notably, while the affordable units anticipated from the July and August of 2016 proposals, post-Prop C, exceeds those same months in 2015, approximately 80% of the post-Prop C affordable units would come from just two large projects. That means if those two projects wind up not being approved, the vast majority of potential affordable units go away - down to about 50 total affordable units. So while, for a given project, Prop C might increase the number of affordable units, it still decreases the *overall number of large projects* that produce affordable housing at all, concentrating the risk in just a small number of projects
 ---
 pub_date: 2016-09-12
 ---
