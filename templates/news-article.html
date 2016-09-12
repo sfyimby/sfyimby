@@ -1,46 +1,84 @@
 {% extends "layout.html" %}
 {% set siblings = this.get_siblings() %}
+
+{% from "macros/ads.html" import render_ad %}
+
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <div class="news-header">{{ this.title }}</div>
-      <p class="meta">
-        {% if this.twitter_handle %}
-          <a href="https://twitter.com/{{ this.twitter_handle
-            }}">{{ this.author or this.twitter_handle }}</a>
-        {% else %}
-          {{ this.author }}
-        {% endif %}
-        <br/>
-        {{ this.pub_date|dateformat('full') }}
-      </p>
+	<div class="news-header">
+		<div class="news-header-title">{{ this.title }}</div>
+				<p class="meta">
+						{% if this.twitter_handle %}
+						<a href="https://twitter.com/{{ this.twitter_handle
+								}}">{{ this.author or this.twitter_handle }}</a>
+						{% else %}
+						{{ this.author }}
+						{% endif %}
+						<br/>
+						{{ this.pub_date|dateformat('full') }}
+				</p>
 
-  <div class="news_banner_container">
-    <img src="{{ this.banner_img }}" alt="" class="news_banner">
-  </div>
-  <div class="news-article">
-    <div class="pure-u-1 news-article-body">
-      {{ this.body }}
-    </div> <!-- END news-article-body -->
+		<div class="news_banner_container">
+				<img src="{{ this.banner_img }}" alt="" class="news_banner">
+		</div>
+	</div>
+	<div class="news-body">
+		<div class="news-article">
+				<div class="news-article-ads">
+						{% set articleLength = this.body.blocks[0].text | string | striptags | length %}
+						{% set hasImages = [] %}
 
-    {% if this.tags %}
-        {% for t in this.tags -%}
-            <div class="news-article-tag">
-            <a href="{{ ('/news/tag/' ~ t)|url }}">{{ t }}</a>
-            </div>
-        {% endfor %}
-    {% endif %}
+						{% for a in this.body.blocks %}
+							{% if a.image and hasImages.append(1) %}
+							{% endif %}
+						{% endfor %}
 
-    <div class="news-navigation-node">
-        {% if siblings.prev_page %}
-            <a href="{{ siblings.prev_page|url }}">&laquo; previous</a>
-        {% endif %}
-        {% if siblings.prev_page and siblings.next_page %}
-         / 
-        {% endif %}
-        {% if siblings.next_page %}
-            <a href="{{ siblings.next_page|url }}">next &raquo;</a>
-        {% endif %}
-    </div>
+						{% set articleLength = articleLength + (1000 if hasImages | length > 0 else 0) %}
 
-  </div> <!-- END news-article -->
+						{% if articleLength < 500 %}
+								{% set numAds = 0 %}
+						{% elif articleLength < 2500 %}
+							  {% set numAds = 1 %}
+						{% else %}
+								{% set numAds = 2 %}
+						{% endif %}
+
+						{% if numAds > 0 %}
+								<div class="news-article-ad-container-desktop news-article-ad-top">
+										{{ render_ad() }}
+								</div>
+						{% endif %}
+						{% if numAds > 1 %}
+								<div class="news-article-ad-container-desktop news-article-ad-bottom">
+										{{ render_ad() }}
+								</div>
+						{% endif %}
+				</div>
+
+				<div class="news-article-body">
+						{{ this.body }}
+				</div>
+		</div>
+		<div class="news-article-below">
+				{% if this.tags %}
+						{% for t in this.tags -%}
+								<div class="news-article-tag">
+								<a href="{{ ('/news/tag/' ~ t)|url }}">{{ t }}</a>
+								</div>
+						{% endfor %}
+				{% endif %}
+
+				<div class="news-navigation-node">
+						{% if siblings.prev_page %}
+								<a href="{{ siblings.prev_page|url }}">&laquo; previous</a>
+						{% endif %}
+						{% if siblings.prev_page and siblings.next_page %}
+						/ 
+						{% endif %}
+						{% if siblings.next_page %}
+								<a href="{{ siblings.next_page|url }}">next &raquo;</a>
+						{% endif %}
+				</div>
+		</div>
+	</div>
 {% endblock %}
