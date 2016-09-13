@@ -26,21 +26,23 @@
 		<div class="news-article">
 				<div class="news-article-ads">
 						{% set articleLength = this.body.blocks[0].text | string | striptags | length %}
-						{% set hasImages = [] %}
+						{% set numImages = [] %}
 
 						{% for a in this.body.blocks %}
-							{% if a.image and hasImages.append(1) %}
+							{% if a.image and numImages.append(1) %}
 							{% endif %}
 						{% endfor %}
 
-						{% set articleLength = articleLength + (1000 if hasImages | length > 0 else 0) %}
+						{% set articleLength = articleLength + (2000 * (numImages | length)) %}
 
-						{% if articleLength < 500 %}
+						{% if articleLength < 1500 %}
 								{% set numAds = 0 %}
 						{% elif articleLength < 2500 %}
 							  {% set numAds = 1 %}
-						{% else %}
+						{% elif articleLength < 4000 %}
 								{% set numAds = 2 %}
+						{% else %}
+								{% set numAds = 3 %}
 						{% endif %}
 
 						{% if numAds > 0 %}
@@ -50,6 +52,11 @@
 						{% endif %}
 						{% if numAds > 1 %}
 								<div class="news-article-ad-container-desktop news-article-ad-bottom">
+										{{ render_ad() }}
+								</div>
+						{% endif %}
+						{% if numAds > 2 %}
+								<div class="news-article-ad-container-desktop news-article-ad-middle">
 										{{ render_ad() }}
 								</div>
 						{% endif %}

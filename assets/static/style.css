@@ -4,7 +4,7 @@
 		}
 
 		div.news-article-body {
-				padding: 0 240px 16px 16px;
+				padding: 0 480px 16px 16px;
 		}
 }
 
@@ -31,6 +31,10 @@
 		div.news-teaser-title {
 				font-size: 18px !important;
 				line-height: 25px !important;
+		}
+
+		div.splash-message {
+				font-size: 32px !important;
 		}
 }
 
@@ -105,7 +109,6 @@ body {
     font-family: 'Alegreya', serif;
     font-size: 1.2em;
     line-height: 1.4em;
-    width: 95%;
     text-align: justify;
 }
 
@@ -240,6 +243,8 @@ div.photo-with-caption {
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
   break-inside: avoid;
+	text-align: left;
+	padding: 4px 0 12px 0;
 }
 
 div.news-splash {
@@ -261,7 +266,7 @@ div.news-article-header a {
 }
 
 div.news-article-ads {
-		width: 250px;
+		width: 480px;
 		float: right;
 }
 
@@ -377,29 +382,40 @@ div.splash-message {
   margin: 0;
   color: #333;
   text-align: center;
-  font-size: 24px;
+  font-size: 48px;
 	padding-top: 16px;
+	font-weight: bold;
 }
 
 .splash-message p {
   margin: 0;
 }
 
-img.news-article-ad {
-  width: 30%;
+div.news-article-ad-container-desktop img {
   display: inline-block;
   margin: 0 auto;
-  min-width: 200px;
-  max-width: 250px;
+  max-width: 100%;
+	width: 380px;
+  text-align: center;
+	padding: 8px 0 16px 0;
 }
 
 div.news-article-ad-container-mobile {
+	width: 100%;
+}
+
+div.news-article-ad-container-mobile img {
+	width: 75%;
+  display: inline-block;
+  margin: 0 auto;
+  max-width: 350px;
   text-align: center;
 	padding: 8px 0 16px 0;
 }
 
 div.news-article-ad-container-desktop {
   position: absolute;
+	right: 32px;
 }
 
 div.news-article-ad-top {
@@ -408,6 +424,10 @@ div.news-article-ad-top {
 
 div.news-article-ad-bottom {
   bottom: 16px;
+}
+
+div.news-article-ad-middle {
+  top: 40%;
 }
 
 div.splash-ad-container {
