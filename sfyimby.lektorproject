@@ -1,8 +1,10 @@
 [project]
 name = sfyimby.com
+url = http://sfbamo.com
 
 [servers.ghpages]
 target = ghpages+https://sfyimby/sfyimby.git?cname=sfbamo.com
 
 [packages]
 lektor-tags = 0.1
+lektor-atom = 0.2
