@@ -187,6 +187,8 @@ div.footer-contact {
 div.page {
     text-align: center;
     margin: 0 auto;
+    background: #FFFFFF;
+		padding: 0 32px;
 }
 
 header h1 {
@@ -197,10 +199,6 @@ img.banner_logo {
     height: 81px;
     display:inline-block;
     margin: 0 auto;
-}
-
-div.page {
-    background: #FFFFFF;
 }
 
 body {
