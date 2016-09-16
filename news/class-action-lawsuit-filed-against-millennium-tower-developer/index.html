@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Class Action Lawsuit Filed Against Millennium Tower Developer</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -130,56 +192,26 @@
     
 				<p>San Francisco resident John Eng filed a class action <a href="http://millenniumlitigation.com/documents/claim/">lawsuit</a> yesterday against Millennium Partners and the Transbay Joint Powers Authority. The lawsuit alleges that both the real estate developer and the public agency wrongfully deferred responsibility in allowing the notorious Millennium Tower to deteriorate into its current <a href="http://sf.curbed.com/2016/8/2/12358036/millennium-sf-sinking-tilting-building">(literally)</a> sinking situation.</p>
 
-				
-				
-
-				
     
   
     
 				<p>A geotechnical engineer hired by the developer delivered even worse news than what the Chronicle broke last week: the 58-story condo tower is sinking at a rate of one inch per year, with no potential of slowing. The tower is also tilting 15 inches to its northwest. Some owners have begun reporting cracking walls, water leaks, and uneven floors.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The lawsuit points out that the tower was built on a former landfill, but unlike neighboring towers, did not have its foundation secured to the underlying bedrock. To worsen the situation, the Transbay authority dug a 60-foot hole next to it to serve as the foundation for the planned Transbay Transit Center. A buttressing system built in 2010 did not help.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Eng, a condo owner in the tower, brings his class action suit on behalf of his neighbors on the grounds that negligence from both parties has irrevocably undermined the value of their investments. Although all the condominium owners are entitled to just compensation under the California Constitution, the claim argues that the “only potential sales transactions that are likely to occur will be all cash by aggressive speculators at deeply discounted prices.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>If and when the units in the building are resold, there has been no report on assessed values, and whether or not the tower will simply be demolished. According to the filing, some owners have ceased to pay HOA dues, while others have simply abandoned the property to the lenders.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

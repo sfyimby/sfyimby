@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Rents Begin Declining in Some Bay Area Cities</div>
 				<p class="meta">
@@ -115,6 +176,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -128,10 +190,6 @@ only get worse. Some outlets have <a href="http://sf.curbed.com/2016/8/2/1235660
 san-jose-oakland-zumper">begun
 reporting</a> that there may be signs of a silver lining.</p>
 
-				
-				
-
-				
     
   
     
@@ -140,10 +198,6 @@ average rents have decreased ever-so-slightly this year. Zumper
 <a href="https://www.zumper.com/blog/rental-price-data">added</a> to ApartmentList’s good
 news by showing some rental decreases in Oakland and San Jose as well.</p>
 
-				
-				
-
-				
     
   
     
@@ -154,20 +208,6 @@ yearly averages still rose by 11.6% and 13.8%. In San Francisco, median rent
 for one-bedroom apartments fell by 1.4%, but two-bedroom prices appeared to
 plateau with a mere 0.4% increase.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -176,10 +216,6 @@ median rents decreasing by 2.6%. Boston’s rental market has now overtaken both
 San Jose and Oakland as the nation’s most expensive, trailing only New York
 and San Francisco.</p>
 
-				
-				
-
-				
     
   
     
@@ -190,10 +226,6 @@ york">July</a> and <a href="https://www.apartmentlist.com/rentonomics/national-r
 data/">August</a>. Zumper’s study, which weighs their listings against data from ther
 U.S. Census Bureau’s American Community Survey, disputes this claim.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

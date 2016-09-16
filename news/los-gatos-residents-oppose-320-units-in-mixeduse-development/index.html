@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Los Gatos Residents Oppose 320 Units in Mixed-Use Development</div>
 				<p class="meta">
@@ -143,6 +204,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -153,10 +215,6 @@ its urban cores. Ten miles south of San Jose, the suburban residential
 community of Los Gatos is also struggling with high housing costs and the
 demand for new development.</p>
 
-				
-				
-
-				
     
   
     
@@ -166,10 +224,6 @@ a 44-acre site, with commercial space taking up 21 of those acres. Eden
 Housing and SummerHill Homes will be working on the housing development, while
 Grosvenor Americas is the overall lead developer.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -187,6 +241,7 @@ Grosvenor Americas is the overall lead developer.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -201,10 +256,6 @@ surrounded by a moat of congested roads and freeways,” said resident Ted
 Richards. Richards compared the plan to Disney’s Celebration Community in
 Orlando, which he had helped design.</p>
 
-				
-				
-
-				
     
   
     
@@ -218,10 +269,6 @@ selective use of higher density over our traditional sprawling, car-centric
 approach just might give is a better chance of preserving our quality of
 life?"</p>
 
-				
-				
-
-				
     
   
     
@@ -229,20 +276,6 @@ life?"</p>
 ca.com/category/north-40/">Los Gatos Community Alliance</a> showed that Santana Row allowed for 300% more
 residential and commercial development, despite being 1.5 acres smaller.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -258,10 +291,6 @@ Kaine cited the famous Supreme Court opinion on pornography, “I know it when I
 see it,” when dismissing the project’s architecture as incompatible with local
 character.</p>
 
-				
-				
-
-				
     
   
     
@@ -272,10 +301,6 @@ obstructed views of the natural surrounding hillsides, and did not meet local
 requirements to house senior citizens. Four of the six commissioners voted to
 deny.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -291,6 +316,7 @@ deny.</p>
 
 
 <div class="text-block">
+	
 	
 	
 
@@ -310,10 +336,6 @@ the proposed project. Legal experts told the Mercury News that there was
 reason to believe current tenants could be vulnerable to eviction under the
 <a href="https://en.wikipedia.org/wiki/Ellis_Act">Ellis Act</a>.</p>
 
-				
-				
-
-				
     
   
     
@@ -325,10 +347,6 @@ residential capacity, with an organized campaign seeking to block the
 construction 800 homes via a local ballot measure, on grounds unrelated to the
 costs for potential tenants.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -346,6 +364,7 @@ costs for potential tenants.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -357,10 +376,6 @@ Initiative</a> cites concerns
 such as straining the capacity of their nationally-ranked public schools,
 traffic congestion, and buildings taller than current 45-foot limits.</p>
 
-				
-				
-
-				
     
   
     
@@ -377,10 +392,6 @@ w.spur.org/sites/default/files/publications_pdfs/SPUR_Back_in_the_Black.pdf">rec
 primarily younger workers provide the tax base funding public services in the
 South Bay.</p>
 
-				
-				
-
-				
     
   
     
@@ -389,20 +400,6 @@ South Bay.</p>
 of a property owner’s residence can often be inversely proportional to their
 fiscal benefit to local government.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -412,20 +409,12 @@ similar stories, an Apple employee recently
 that they were considering returning to North Carolina due to the Bay Area’s
 high cost of living.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Los Gatos Town Council will be reviewing the project at hearings beginning on
 August 9th.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

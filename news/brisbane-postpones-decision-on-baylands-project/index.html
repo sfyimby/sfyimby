@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Brisbane Postpones Decision on Baylands Project</div>
 				<p class="meta">
@@ -143,6 +204,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -156,10 +218,6 @@ capacity triple from its current 2,000 if the 4,434-unit project is approved.
 The site is also walking distance from the Bayshore Caltrain station, the last
 station outside of the San Francisco County line.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -177,6 +235,7 @@ station outside of the San Francisco County line.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -189,10 +248,6 @@ some residents objecting to increased population density outright, the local
 planning commission’s concerns emphasized toxic waste from the former landfill
 on the site.</p>
 
-				
-				
-
-				
     
   
     
@@ -201,10 +256,6 @@ location for a future maintenance facility for the planned train project, and
 it could render the whole debate moot by seizing the land through eminent
 domain.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -222,6 +273,7 @@ domain.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -233,10 +285,6 @@ financially feasible. They estimate that site improvements, which includes
 remediation, open space and the reclaimed water facility, would cost upwards
 of $1 billion.</p>
 
-				
-				
-
-				
     
   
     
@@ -245,10 +293,6 @@ the historic Southern Pacific roundhouse renovated as iconography for a new
 public park. Yet many neighbors were not convinced that the project would
 bring a net benefit to their livelihoods.</p>
 
-				
-				
-
-				
     
   
     
@@ -260,20 +304,6 @@ before the High Speed Rail Authority took it by eminent domain. “You are being
 used as a tool,” she said of the speakers who had been invited by UPC
 supporters.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -288,20 +318,12 @@ and Urban Development; statewide assessments can be found
 <a href="http://www.hcd.ca.gov/housing-policy-development/housing-resource-
 center/reports/state/inc2k16.pdf">here</a>.)</p>
 
-				
-				
-
-				
     
   
     
 				<p>Previously, program director Matt Vander Sluis had described the commission as
 “living in oblivion” over their reluctance to approve the proposal.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -319,6 +341,7 @@ center/reports/state/inc2k16.pdf">here</a>.)</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -328,10 +351,6 @@ center/reports/state/inc2k16.pdf">here</a>.)</p>
 the development as an opportunity to provide housing for builders close to
 other projects.</p>
 
-				
-				
-
-				
     
   
     
@@ -339,10 +358,6 @@ other projects.</p>
 their local enclave: “Housing in this development would only benefit those who
 neither live in nor care about Brisbane,” one speaker lamented.</p>
 
-				
-				
-
-				
     
   
     
@@ -353,30 +368,12 @@ a bigger city,” one speaker noted. “I think all of these problems would be
 solved if San Francisco were to annex the residential portion of the Brisbane
 Baylands.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>Supporters came from as far as Oakland and Berkeley, as well as the local
 Housing Leadership Council of San Mateo County.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -385,10 +382,6 @@ resident, who identified himself as Raymond, emphasized his love for the local
 community, and initial suspicion at seeing so many outsiders come to advocate
 for new development. “As I reflect here…we also need to share,” he remarked.</p>
 
-				
-				
-
-				
     
   
     
@@ -396,20 +389,12 @@ for new development. “As I reflect here…we also need to share,” he remarke
 going to consider what’s been said and take everything to heart…we’re going to
 need more time,” commission chair TuongVan Do declared.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The Planning Commission will revisit the project at a special session on
 August 25th.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

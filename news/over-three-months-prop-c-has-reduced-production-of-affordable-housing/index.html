@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Affordable Housing Requirement Has Reduced Production of Affordable Housing</div>
 				<p class="meta">
@@ -139,6 +200,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -146,10 +208,6 @@
     
 				<p>An analysis conducted by the <em>Metropolitan Observer</em> shows that since <a href="http://sfgov.org/elections/sites/default/files/Documents/candidates/IHR%20Legal%20Text.pdf">Proposition C</a> passed June 6 2016, applications to build new housing have dropped by 58% overall, and applications to build Below Market Rate (BMR), subsidized housing have dropped 20%.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -164,6 +222,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -171,19 +230,11 @@
     
 				<p>We looked at the Preliminary Project Applications (PPAs) submitted to the SF Planning Department from June 2016 to September 2016 (post-Prop C passing) and compared those to the PPAs submitted during the same time last year, June 2015 and September 2015, to assess the effect of Prop C.</p>
 
-				
-				
-
-				
     
   
     
 				<p>There were 18 residential projects representing 3,000 housing units proposed between June 2015 and the first week of September 2015. Applying the then-12% BMR requirement to the total number of units proposed results in 350 below market rate units proposed.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -198,6 +249,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -205,19 +257,11 @@
     
 				<p>12 residential projects representing 1,250 housing units were proposed during the same time period in 2016 - a drop of more than half from the prior year. The total number of affordable units these projects would contribute, is 289 affordable units - 61 fewer affordable units than what was produced in the same time period last year<sup class="footnote-ref" id="fnref-1"><a href="#fn-1" rel="footnote">1</a></sup>, or a reduction of 20%.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Proposition C was a ballot measure passed last June increasing the affordable housing requirement for new construction to 25% of total units. Some skeptics, including Mayor Ed Lee, argued that 25% was arbitrary. Opponents also feared that an excessively high BMR requirement would reduce the overall amount of housing proposed, and thereby reduce the amount of BMR units produced.</p>
 
-				
-				
-
-				
     
   
     
@@ -225,20 +269,6 @@
 <div class="footnotes">
 <hr>
 <ol><li id="fn-1">
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -246,10 +276,6 @@
 </ol>
 </div>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

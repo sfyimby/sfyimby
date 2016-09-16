@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Director Tim Colen Steps Down from SFHAC</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -138,10 +200,6 @@ young blood. Prior to his work at SFHAC, Colen worked as a geologist for 25
 years, and served as President of the Greater West Portal Neighborhood
 Association.</p>
 
-				
-				
-
-				
     
   
     
@@ -154,10 +212,6 @@ Action Coalition has quadrupled in membership. We’re doing really well—we’
 financially stable, the impact of our message has grown, and this is a good
 time for someone new to come in with a new vision, energy, and ideas.”</p>
 
-				
-				
-
-				
     
   
     
@@ -166,20 +220,6 @@ not gonna start playing golf or something," he said. "I intend to take part in
 the transition and stay active in the political scene, getting support for
 good urbanist policy in San Francisco.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -193,10 +233,6 @@ equity goals, and you should approve them.’ We’ve been doing that for a long
 time, and I think successfully. We’re firing on all cylinders, and we need to
 continue."</p>
 
-				
-				
-
-				
     
   
     
@@ -207,10 +243,6 @@ young people, who are outside the design/build community. I don’t think we’l
 truly achieve our goals until we get a broader cross-section of people to
 carry this people—spreading the gospel, so to speak."</p>
 
-				
-				
-
-				
     
   
     
@@ -218,20 +250,6 @@ carry this people—spreading the gospel, so to speak."</p>
 <a href="http://schaffercombs.com/wp-
 content/uploads/2014/02/SFHAC_JobDescription.pdf">here</a>.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

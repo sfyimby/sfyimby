@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">68 Units Proposed in Foster City</div>
 				<p class="meta">
@@ -139,6 +200,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -152,10 +214,6 @@ and Triton Drive. 14 homes would be reserved at Below Market Rate rents for
 households earning 80-120% of Area Median Income, while the remaining 54 would
 be rented at market rate.</p>
 
-				
-				
-
-				
     
   
     
@@ -168,10 +226,6 @@ townhomes would include a shuttle service to the nearby CalTrain station, and
 is located a half-mile from offices of major employers including Visa, IBM,
 and Gilead.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -189,6 +243,7 @@ and Gilead.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -204,10 +259,6 @@ Zoned for 800,000 square feet of office space, the site would be an expansion
 of the pharma giant’s nearby campus, and would add thousands of jobs to the
 housing-scarce region.</p>
 
-				
-				
-
-				
     
   
     
@@ -220,10 +271,6 @@ wait for the next election cycle before restarting the entitlement process.
 The developer is optimistic that building new housing close to office space
 will reduce demand for cars and ease traffic congestion.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -241,6 +288,7 @@ will reduce demand for cars and ease traffic congestion.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -253,10 +301,6 @@ public schools. One resident wrote to City Council: “Perhaps I am selfish — 
 love our city and do not want it to become an overcrowded area like Redwood
 City…I do NOT want any more schools — build UP I say.”</p>
 
-				
-				
-
-				
     
   
     
@@ -264,10 +308,6 @@ City…I do NOT want any more schools — build UP I say.”</p>
 resident demanded of the council. “Frustrating, exhausting, both mentally and
 from the gas fumes.”</p>
 
-				
-				
-
-				
     
   
     
@@ -278,30 +318,12 @@ please stop making Foster City the capital of low income housing in [the] mid-
 Peninsula,” one resident pleaded. Another wrote, more bluntly: “As is well
 known, Foster City is already overcrowded so no more housing.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Sares Regis will be returning to Foster City Council for a preliminary review
 on August 1.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

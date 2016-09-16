@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Podcast: An Autopsy of Governor Brown&#39;s &#34;By-Right&#34; Bill</div>
 				<p class="meta">
@@ -117,6 +178,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -124,25 +186,18 @@
     
 				<p>We implore our readers to forgive the recent shortage of in-depth, eyebrow-raising content. As the sole editor and writer for this publication, output is contingent on my health; when I can scarcely get out of bed, it follows that my words will struggle to reach your eyes. Thankfully we have some respite for you today.</p>
 
-				
-				
-
-				
     
   
     
 				<p>As I lounge around in my rent-controlled apartment, banishing the fears of what may happen if anyone finds out I'm not on the lease, I had the austere pleasure of listening to this analysis of Governor Jerry Brown's "By-Right" Trailer Bill, how it could have streamlined the production of housing, and why it failed to gain support among stakeholders. The defunct legislation is covered starting at the 35-minute mark on John Myers' California Politics podcast, linked below.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
 
 
 <div class="text-block">
+	
 	
 	
 
@@ -152,10 +207,6 @@
     
 				<p><iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280086524&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

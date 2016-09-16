@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Activists Defend Pedestrian and Cyclist Spaces in Busy Downtown Intersection</div>
 				<p class="meta">
@@ -115,6 +176,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -122,38 +184,16 @@
     
 				<p>Last Friday evening, three cyclists of the bikepocalypse rode along an Acheron of asphalt toward the pedestrian hell at 6th &amp; Mission. There is no hyperbole here: 24 people have been killed by cars in San Francisco so far this year. Over the past 7 years, 126 pedestrians have been killed in traffic collisions, along with 20 cyclists. The anonymous activists <a href="http://ww2.kqed.org/news/2016/08/08/spurred-by-s-f-cyclist-deaths-guerrilla-safe-streets-activists-take-action/">told KQED</a> they were there to enforce the city’s Vision Zero plan, the goal to have no traffic fatalities by 2024.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Armed with a trailer of orange traffic cones, the activists strategically marked off the turns where impatient drivers may not see pedestrians. They also placed cones marking off the bike lane at Golden Gate Avenue, where <a href="http://sfist.com/2016/06/29/video_man_on_motorcycle_attacks_cyc.php">video</a> had recently surfaced of cyclists enforcing the lane themselves.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Transportation activists have <a href="http://ww2.kqed.org/news/2016/06/23/two-san-francisco-cyclists-killed-in-hit-and-run-crashes/">criticized</a> local officials for what they see as a faltering commitment to street safety after two cyclists were killed by hit-and-run drivers on a single day in June. The activists at 6th &amp; Mission last week are calling themselves the San Francisco Transformation Agency (<a href="https://twitter.com/SFMTrA">SFMTrA</a>, playing on the Metropolitan Transit Agency acronym).</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Mayor Lee Vetoes Resolution, Supports Governor&#39;s Bill</div>
 				<p class="meta">
@@ -115,6 +176,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -122,38 +184,16 @@
     
 				<p>San Francisco's Mayor Edwin Lee announced today that he would be vetoing the Board of Supervisors’ resolution to amend or oppose a trailer bill proposed by Governor Jerry Brown to streamline housing production. We reported earlier on the two competing resolutions recommending amendments to the Governor’s “by-right” trailer bill. Supervisor Scott Wiener’s resolution failed to pass, while Supervisor Aaron Peskin’s resolution did. Peskin’s resolution called for categorically opposing Brown’s reforms unless a discretionary review process with public input was maintained.</p>
 
-				
-				
-
-				
     
   
     
 				<p>It was precisely this condition on which Mayor Lee based his veto. In his letter to the Board, he noted that the permitting process for construction in coastal California cities takes 30% longer than in any other state, and expressed optimism that Governor Brown’s legislation could be one of many tools to ameliorate the region’s housing affordability crisis. Last month, the Mayor had also communicated his support to the Governor, with suggested amendments.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Read the full text of Mayor Lee’s veto <a href="https://drive.google.com/open?id=0BwIcMtCqttV2NVpmZ0Njam9CNVE">here</a>.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

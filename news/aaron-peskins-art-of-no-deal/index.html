@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Aaron Peskin&#39;s Art of No Deal</div>
 				<p class="meta">
@@ -139,6 +200,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -148,10 +210,6 @@
 hamstrung an effort to create new city offices, halted the creation of five
 hundred housing units, and failed to net the city $80 million in revenue.</p>
 
-				
-				
-
-				
     
   
     
@@ -161,10 +219,6 @@ works since July. John Updike, Director of the city’s Real Estate Department,
 had come up with a plan to simultaneously create more housing and to move
 multiple city departments into a new office building.</p>
 
-				
-				
-
-				
     
   
     
@@ -174,20 +228,6 @@ Mission St, and 30 Van Ness. According to the <a href="http://www.sfbos.org
 proposal, the proceeds from the sales were to be placed into a shared project
 account.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->
@@ -205,6 +245,7 @@ account.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -216,10 +257,6 @@ additional proceeds, however, would be used to finance the creation of
 additional affordable housing units at new residential developments atop the
 former office sites.</p>
 
-				
-				
-
-				
     
   
     
@@ -228,10 +265,6 @@ sale in Updike’s plan, 30 Van Ness, was denied by the Board of Supervisors on
 December 8th, 2015. Supervisor Aaron Peskin was a critical part of the Board’s
 decision.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -249,6 +282,7 @@ decision.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -260,10 +294,6 @@ because 30 Van Ness was public land, any lower percentage would run counter to
 <a href="http://sfgov2.org/ftp/uploadedfiles/elections/candidates/Nov20
 15/SurplusCityProperty_Text.pdf">Proposition K</a>.</p>
 
-				
-				
-
-				
     
   
     
@@ -273,10 +303,6 @@ housing. The Office of Housing is then charged to create residential
 properties on these sites, each of which must contain affordable housing
 totalling no less than 33% of the total units.</p>
 
-				
-				
-
-				
     
   
     
@@ -288,20 +314,6 @@ city, but it is not, in fact, surplus, as the offices at the site are
 currently in use by the Recreation and City Parks Department. The 33% target
 demanded by Kim and Yee was therefore not applicable in this case.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -309,20 +321,12 @@ demanded by Kim and Yee was therefore not applicable in this case.</p>
 meeting to meet the 33% affordability target, using city subsidies to add the
 additional 13% Kim and Yee had asked for.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Peskin focused almost exclusively on the fiscal aspects of the sale. "We,
 respectfully, are leaving a little too much money on the table," he said.</p>
 
-				
-				
-
-				
     
   
     
@@ -331,10 +335,6 @@ Related California’s final bid for the property, however, was only $80
 million. It was this $7 million disparity that was the focus of Peskin’s
 argument.</p>
 
-				
-				
-
-				
     
   
     
@@ -347,20 +347,6 @@ site would have required $60 million in seismic upgrades before any
 construction could begin: $60 million of work that was not factored into the
 city’s asking price.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -369,10 +355,6 @@ property, was unaware of the property's value when he first began speaking,
 stating that the city's minimum asking price was "$37 million." Updike quickly
 corrected the supervisor, stating the actual price of $87 million.</p>
 
-				
-				
-
-				
     
   
     
@@ -380,10 +362,6 @@ corrected the supervisor, stating the actual price of $87 million.</p>
 "I also feel like maximizing the affordable housing at the site is absolutely
 critical."</p>
 
-				
-				
-
-				
     
   
     
@@ -391,10 +369,6 @@ critical."</p>
 the 10% better… at $87 million, we’ve paid for all of our salaries for the
 rest of our terms in office.”</p>
 
-				
-				
-
-				
     
   
     
@@ -402,30 +376,12 @@ rest of our terms in office.”</p>
 city and of San Francisco as we can," he said. “I think we haven’t gotten that
 in this deal.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>It seems instead of improving the deal, Peskin’s actions resulted in its
 termination. Related California withdrew their bid.</p>
 
-				
-				
-
-				
     
   
     
@@ -433,10 +389,6 @@ termination. Related California withdrew their bid.</p>
 Real Estate Department say it will be returning to the market soon for $60
 million, $20 million less than the rejected offer.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

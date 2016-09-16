@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Study Finds Rampant CEQA Abuse in Southern California</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -137,10 +199,6 @@ impact, but its vagueness and dearth of objective standards has enabled
 opposition to environmentally-friendly projects as much as it could protect
 them.</p>
 
-				
-				
-
-				
     
   
     
@@ -156,10 +214,6 @@ targeted taxpayer-supported projects, effectively undermining the dominant
 narrative of environmentalists wielding the law only to fight big business
 interests.</p>
 
-				
-				
-
-				
     
   
     
@@ -171,20 +225,6 @@ structure. 48% of California’s population lives within SCAG jurisdiction (in
 the map above, the area consists of the counties colored in light blue, as
 well as Imperial County in purple.)</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -192,10 +232,6 @@ well as Imperial County in purple.)</p>
 2013-2015 in SCAG cities were aimed to stop approved residential projects. 14%
 targeted public infrastructure projects.</p>
 
-				
-				
-
-				
     
   
     
@@ -209,10 +245,6 @@ Transportation Committee’s Chair John Holtzclaw
 <a href="http://vault.sierraclub.org/sprawl/transportation/holtzclaw-
 awma.pdf">recommended</a> encouraging infill development to curb the effects of sprawl.</p>
 
-				
-				
-
-				
     
   
     
@@ -227,20 +259,6 @@ mobility</a>, and
 increases <a href="http://news.berkeley.edu/2014/01/06
 /suburban-sprawl-cancels-carbon-footprint-savings-of-dense-urban-cores/">greenhouse gas emissions</a>.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Seeking to Stop High-Rise, Berkeley Grandstanders Find Shaky Footing in Court</div>
 				<p class="meta">
@@ -135,6 +196,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -142,47 +204,21 @@
     
 				<p>Last year, the saga of Berkeley’s controversial <a href="http://www.berkeleyside.com/2016/01/14/lawsuit-filed-to-stop-building-of-harold-way-complex/">2211 Harold Way</a> project appeared to have ended with a cliffhanger. City Council voted to uphold approval of the 302-unit building, which plans to replace Shattuck Cinemas with a new theater and contribute $10.5 million into the city’s Housing Trust Fund. Development consultant and former Planning Commissioner Mark Rhoades noted that this money could be leveraged to construct 100 permanently Below Market Rental (BMR) units. Neighborhood opponents vowed a reprisal, and two subsequent lawsuits alleging improper Environmental Impact Reports delayed groundbreaking indefinitely.</p>
 
-				
-				
-
-				
     
   
     
 				<p>In addition to 177 underground parking spots, community benefits cited include 10,000 square feet of commercial space and a 10-screen movie theater replacing Shattuck Cinemas. The project will also provide $1 million into an arts fund, with $250,000 going to assist the Habitot children’s museum in its relocation.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The lawsuits filed independently by Kelly Hammargren and James Hendry under the California Environmental Quality Act (CEQA) were merged into a <a href="http://www.berkeleyside.com/2016/08/29/court-considers-challenge-to-berkeleys-2211-harold-way-project/">joint hearing</a> at the Alameda County Superior Court. Local news source Berkeleyside provided full coverage of the lengthy hearing.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>For four hours on Friday, Hammargren and Hendry presented their arguments over the project’s environmental impacts, frequently digressing into political remarks against developers. Judge Frank Roesch had to instruct the audience not to cheer and applaud Hammargren’s speeches. “We don’t think that political speeches are very helpful in solving the puzzle,” he said.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -200,6 +236,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -207,75 +244,31 @@
     
 				<p>Hammargren and Hendry displayed a conspicuous lack of legal experience in their self-representation. At one point, Judge Roesch denied Hammargren’s motion to introduce a map of the building’s western environs, which she claimed would show adverse health impacts due to the construction site’s proximity to Berkeley High School. The court only allowed evidence that had been included in the administrative record, which included 15,000 pages of documentation and video from 37 public hearings.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Attorneys from Manatt Phelps &amp; Phillips represented developers HSR Berkeley Investments and Rhoades Development Group. Zach Cowan, City Attorney of Berkeley, also presented arguments. Hendry cited his experience attending administrative legal hearings as a motivation to represent himself.</p>
 
-				
-				
-
-				
     
   
     
 				<p>When reached by phone for comment, developer and planner Mark Rhoades bitterly decried what he saw as a vindictive, anti-democratic process. “As a Berkeley resident, an urban planner, and a housing provider, this saddens me. This is exactly why Berkeley—and the state of California in general—has the housing crisis that we do. People have choices to make. They can continue to fight when they are in the voting minority and hold up the rest of the democratic process, or they can choose to respect the democratic process.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>When asked what he meant, he elaborated: “What’s being done here has no respect for the democratic process; it’s a demand for their own way. They’re holding a project hostage …The units are held up, the Housing Trust Fund money is held up, a state of the art movie theater is held up, money for Habitot is held up. It’s all held up by two residents because they’re aggrieved, first by Berkeley’s vote on the <a href="http://www.berkeleyside.com/2010/10/20/18024/">2010 Measure R</a>, and also how the city implemented that.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>Rhoades also noted that the initial impact fee requirement was only $6.2 million. The city asked for, and the applicant agreed, to provide an additional $4 million in additional community benefits.</p>
 
-				
-				
-
-				
     
   
     
 				<p>At the end of the hearing, Judge Roesch announced that he would deliver his ruling on the CEQA suit within 90 days.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

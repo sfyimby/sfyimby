@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Fearing Rent Increase, Child Care Center Buys Building</div>
 				<p class="meta">
@@ -115,6 +176,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -122,47 +184,21 @@
     
 				<p>Last year had some nail-biter moments for the Mission Child Care Consortium. Facing an end of its lease in 2018, the city’s largest non-profit childcare agency <a href="http://www.sfexaminer.com/low-income-mission-child-care-center-worries-about-losing-lease/">expected</a> a rent hike of nearly double what they were paying, from $28,000 to $50,000 per year, at its current site of 4750 Mission Street. Despite arguments to the contrary from the owner at the time, who insisted he had no intention of disenfranchising the non-profit, Mission Child Care successfully raised $5.6 million to purchase the building.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The Consortium is situated between the Balboa Park and Excelsior neighborhoods, and is walking distance from the Balboa Park BART station. The 14 bus, with a stop one block north of the building, runs from Daly City all the way to Embarcadero Station.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Ahsha Safaí, who is running to replace John Avalos as District 11 Supervisor, announced the transfer of 4750 Mission Street in a press release. “This victory is the result of 8 years of hard work and another 2 years of community organizing,” he writes, noting that the facility will continue to provide subsidized care for 224 children of working families.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Safaí, a resident of the Excelsior, supported an earlier attempt to purchase the property nine years ago, when he served as deputy director of the Mayor’s Office of Community Development. He also led a signature-gathering campaign in 2015 to raise support for a loan to finance the sale.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

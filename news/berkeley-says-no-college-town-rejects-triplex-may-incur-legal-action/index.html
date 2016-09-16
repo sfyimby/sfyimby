@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Berkeley Says No: College Town Rejects Triplex, May Incur Legal Action</div>
 				<p class="meta">
@@ -143,6 +204,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -154,10 +216,6 @@ owner at 1310 Haskell Street to demolish a single-family home and replace it
 with three two-story residential buildings. The 5-4 vote went against the
 recommendation of the City Manager to uphold the ZAB’s approval.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -175,6 +233,7 @@ recommendation of the City Manager to uphold the ZAB’s approval.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -189,10 +248,6 @@ Moore (1310 Haskell is in his district). Councilmembers Droste, Wengraf,
 Worthington, and Capitelli abstained. There were no votes to uphold the ZAB
 decision.</p>
 
-				
-				
-
-				
     
   
     
@@ -206,10 +261,6 @@ walkable neighborhoods where single-family homes coexist with <a href="http://mi
 middle”</a> structures, including duplexes and
 triplexes.</p>
 
-				
-				
-
-				
     
   
     
@@ -223,20 +274,6 @@ impervious to any sort of reality check; that Berkeley is OK with exclusionary
 zoning, even in neighborhoods that already feature a mix of unit types; that
 two-story buildings are ‘too dense.’”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -244,10 +281,6 @@ two-story buildings are ‘too dense.’”</p>
 on the lot was too many, but he would have approved a proposal for two
 dwellings.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -263,6 +296,7 @@ dwellings.</p>
 
 
 <div class="text-block">
+	
 	
 	
 
@@ -283,10 +317,6 @@ shows that there are already three multi-family dwellings in the direct
 vicinity of the property: 1309 Haskell Street, 1313-1317 Haskell Street, and
 1301 67th Street, which is a triplex.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -304,6 +334,7 @@ vicinity of the property: 1309 Haskell Street, 1313-1317 Haskell Street, and
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -312,10 +343,6 @@ vicinity of the property: 1309 Haskell Street, 1313-1317 Haskell Street, and
 				<p>Nevertheless, Councilmember Moore described the proposed project as a
 “monolith,” and lamented that the R-2A category has “too much ambiguity.”</p>
 
-				
-				
-
-				
     
   
     
@@ -333,10 +360,6 @@ families, and longer commutes. CaRLA is dedicated to making housing more
 affordable and accessible. We are researching this apparent violation and will
 file litigation, if appropriate.”</p>
 
-				
-				
-
-				
     
   
     
@@ -344,20 +367,6 @@ file litigation, if appropriate.”</p>
 strong opposition to such a small-scale development that is fully compliant
 with local zoning.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -373,10 +382,6 @@ humanize them, particularly on behalf of incumbent residents who were once new
 strangers themselves. One plays into the other: the fear of losing existing
 communities feeds into an unwillingness to see new residents join communities.</p>
 
-				
-				
-
-				
     
   
     
@@ -391,10 +396,6 @@ the process and ensured one subsidized unit. According to Chapple &amp; Zuk’s
 latest study, that permanently affordable unit would have been twice as
 effective at curbing displacement.</p>
 
-				
-				
-
-				
     
   
     
@@ -404,20 +405,6 @@ whose complaints included having to find parking around the corner during
 street sweeping times, an aversion to two-story heights, and losing morning
 sunlight for a vegetable garden.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

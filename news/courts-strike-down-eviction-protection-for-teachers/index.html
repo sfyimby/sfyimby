@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Courts Strike Down Eviction Protection for Teachers</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -130,56 +192,26 @@
     
 				<p>Last week, a Superior Court judge struck down legislation from Supervisor David Campos intended to protect school employees from no-fault evictions during the school year. As an extension of tenant protections already available to families with school-age children, the Campos <a href="https://sfgov.legistar.com/View.ashx?M=F&amp;ID=4384428&amp;GUID=995CE4CE-1094-4BFB-BC9C-1301F971D14A">bill</a> passed the Board of Supervisors unanimously, but was felled by a lawsuit from the San Francisco Apartment Association and the Small Property Owners of San Francisco.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The ruling comes amid a slew of bad news for anti-displacement measures in the city, after Supervisor London Breed met with federal officials <a href="http://missionlocal.org/2016/08/supervisor-to-meet-with-feds-over-citys-anti-displacement-plan/">to defend</a> her “neighborhood preference” ordinance. The Department of Housing and Urban Development recently suggested that Breed’s legislation, which would give locals in a particular district priority in lotteries for Below Market Rental units, could violate the 1968 Fair Housing Act.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Legal counsel for the litigating property owners’ groups called Campos’s eviction protection for teachers “short-sighted” and “counterproductive” in light of the city’s raw housing shortage. Judge Ronald Quidachay agreed with this argument, calling it “invalid,” “preempted by state law,” and “unenforceable.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Campos, in turn, opined that the court was enforcing statutes that were out of touch with local needs. “We take a long view,” he told the <a href="http://www.sfgate.com/politics/article/Judge-tosses-SF-law-preventing-teacher-evictions-9198849.php">Chronicle</a>. “You have a set of laws and systems that are not designed to deal with the housing crisis we are facing.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>A recent <a href="http://projects.sfchronicle.com/2016/teacher-pay/">analysis</a> by the same paper found that median rents in San Francisco could take up to 64% of a standard teacher’s salary, more than double what the federal government recommends.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

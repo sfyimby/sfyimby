@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Parties and Politics: An Endorsement Meeting and a Fundraiser</div>
 				<p class="meta">
@@ -147,6 +208,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -156,19 +218,11 @@
 organizations, we sent our intern to cover two drastically different events: a
 Democratic Club endorsement meeting, and a non-profit fundraiser. - Eds.</em></p>
 
-				
-				
-
-				
     
   
     
 				<p><strong>I.</strong></p>
 
-				
-				
-
-				
     
   
     
@@ -178,10 +232,6 @@ party. They host debates between candidates and lectures about San Francisco
 politics, and regularly schedule community service events with members of the
 neighborhood.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -199,6 +249,7 @@ neighborhood.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -208,20 +259,12 @@ neighborhood.</p>
 seat on the Board of Supervisors. However, current Supervisor Norman Yee was
 unable to attend, and his seat was left conspicuously empty.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The four candidates vying for his position used his absence as an opportunity
 to point out Yee’s lack of presence in the community.</p>
 
-				
-				
-
-				
     
   
     
@@ -230,10 +273,6 @@ tech company, and writes a weekly column for the San Francisco Examiner. His
 platform emphasizes the changes facing the city, and the importance of
 preparing for the future.</p>
 
-				
-				
-
-				
     
   
     
@@ -243,20 +282,6 @@ on accountability, but he is far more opposed to change than Engardio,
 repeatedly noting the importance of maintaining neighborhood character in his
 campaign literature.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -264,10 +289,6 @@ campaign literature.</p>
 Matranga is a long-time resident of District 7, and the former Director of
 Street Safety. His campaign focuses on governmental ethics and accountability.</p>
 
-				
-				
-
-				
     
   
     
@@ -277,10 +298,6 @@ A former diplomat working overseas for the federal government, Young’s
 platform emphasizes the international perspective he could bring to the
 district.</p>
 
-				
-				
-
-				
     
   
     
@@ -288,10 +305,6 @@ district.</p>
 to deal with the rash of home and auto burglaries. However, much as in the
 rest of the city, housing was a polarizing issue at the debate.</p>
 
-				
-				
-
-				
     
   
     
@@ -301,30 +314,12 @@ literature. However, he mentioned at the debate that it was important not to
 “go too far,” and emphasized the importance of maintaining neighborhood
 character.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>“San Francisco is a mosaic of many beautiful tiles,” he said, noting that
 District 7’s place in that mosaic was as a home to families.</p>
 
-				
-				
-
-				
     
   
     
@@ -334,20 +329,12 @@ the essential character of District 7. He grudgingly admitted the need for
 additional housing along transit corridors, but was quick to add that new
 buildings should be no higher that “two stories.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>It is incredibly important to “protect the quality of our neighborhoods,” he
 said.</p>
 
-				
-				
-
-				
     
   
     
@@ -358,20 +345,6 @@ Planning Department officials meet with neighborhood leaders, not just
 developers,” aligning himself with homeowners worried about new development in
 the district.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -379,29 +352,17 @@ the district.</p>
 is always inevitable,” he said On his campaign website, Young notes that while
 growth is needed, the city needs to “plan intelligently for this growth.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>Regardless of their differing positions on housing, all of the candidates
 agreed with Farrell’s statement that “business as usual has got to change.”</p>
 
-				
-				
-
-				
     
   
     
 				<p><strong>II.</strong></p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -419,6 +380,7 @@ agreed with Farrell’s statement that “business as usual has got to change.�
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -428,10 +390,6 @@ agreed with Farrell’s statement that “business as usual has got to change.�
 with politicians and activists on July 13th, all discussing in tones of
 bewilderment the city’s failure to build more housing.</p>
 
-				
-				
-
-				
     
   
     
@@ -441,10 +399,6 @@ over a hundred people showed up, “a major turning point for us,” she said.
 “People are really starting to recognize that this is political problem, and
 that we need to get organized to solve it.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -462,6 +416,7 @@ that we need to get organized to solve it.”</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -473,20 +428,12 @@ want to live in San Francisco. “My fiancee and I are teachers and we’re bein
 priced out,” he said. Adam and his fiancee Kat just started a small business
 to help meet the rising cost of rent.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Both were frustrated with a city government they see as determined to ignore
 the realities of economic markets.</p>
 
-				
-				
-
-				
     
   
     
@@ -495,19 +442,11 @@ of New York, she was surprised by San Francisco residents’ opposition to
 increasing density. “When a city changes, you need to change with it,” she
 said.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Adam and Kat were far from alone in their frustration.</p>
 
-				
-				
-
-				
     
   
     
@@ -517,20 +456,6 @@ Democrats, there’s just a wall built; nobody’s talking,” he said. Many
 developers hear about the community’s concerns for the first time at the
 appeals board. “Neighborhood groups can just kill a project,” he said.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -540,10 +465,6 @@ of the lowest density areas in San Francisco. The Sunset is primarily occupied
 by homeowners - one of the most anti-development demographics in the entire
 city.</p>
 
-				
-				
-
-				
     
   
     
@@ -555,40 +476,18 @@ train lines: the K, L, and the M. When asked how he felt homeowners would
 react to increasing height limits and density along the length of the street,
 Maelig was dismissive. “Their homes are not there,” he said.</p>
 
-				
-				
-
-				
     
   
     
 				<p>SF’s pro-housing crowd is not without political support, however. Supervisor
 Katy Tang and Supervisor Scott Wiener also attended and spoke at the event.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>“I feel like I’m living in a different universe,” Tang said of the event. “All
 of you here now have created this wonderful momentum,” she said.</p>
 
-				
-				
-
-				
     
   
     
@@ -599,10 +498,6 @@ up of several pieces of legislation that incentivize developers to build
 affordable housing by offering certain zoning, density, and height
 concessions.</p>
 
-				
-				
-
-				
     
   
     
@@ -610,10 +505,6 @@ concessions.</p>
 unit density limits for residential projects that meet a 20% affordable
 housing target, according to Wiener’s website.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -631,6 +522,7 @@ housing target, according to Wiener’s website.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -642,10 +534,6 @@ of Tang’s work on the Affordable Housing Density Bonus. “She got beaten up
 badly,” he said, “and she was still able to get part of it through. We have to
 get the rest of this through, and this board is not going to do it.”</p>
 
-				
-				
-
-				
     
   
     
@@ -655,10 +543,6 @@ just to oppose it,” he said, prompting boos and hisses from the crowd. “Job
 one in November is to take back the board of supervisors,” he said, drawing
 cheers.</p>
 
-				
-				
-
-				
     
   
     
@@ -666,30 +550,12 @@ cheers.</p>
 our city. For years, the housing debate has been about how vociferously you
 could say no.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>“That has changed,” he said. “You are all bringing balance and new
 perspectives to the housing debate.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

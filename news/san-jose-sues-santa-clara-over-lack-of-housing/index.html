@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">San Jose Sues Santa Clara over Lack of Housing</div>
 				<p class="meta">
@@ -106,7 +167,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -127,6 +188,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -139,10 +201,6 @@ filed-7-29-16.pdf">lawsuit</a> today against the smaller neighboring city of San
 alleging that the latter’s recently approved CityPlace development has a gross
 imbalance of jobs and housing.</p>
 
-				
-				
-
-				
     
   
     
@@ -154,10 +212,6 @@ letter</a> remonstrating Santa Clara
 for a development they alleged would worsen the region’s housing shortage amid
 constant job growth.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -175,6 +229,7 @@ constant job growth.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -188,10 +243,6 @@ at a ratio of 190 jobs to 100 employed residents. Earlier this year, regional
 think-tank SPUR released a study detailing San Jose’s problematic dependence
 on new residents to fund its ever-strained infrastructure.</p>
 
-				
-				
-
-				
     
   
     
@@ -202,10 +253,6 @@ less than neighborly: just this week, the city hired reputable land-use
 attorney Tina Thomas, who requested information from the San Jose Planning
 Department on 15 projects, implying potential CEQA litigation of their own.</p>
 
-				
-				
-
-				
     
   
     
@@ -214,20 +261,6 @@ Superior Court of California. (See <a href="http://sfyimby.com/news/2016/7/27
 /study-finds-rampant-ceqa-abuse-in-southern-california">here</a> for our background on
 CEQA litigation studies.)</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -237,10 +270,6 @@ a timely enough manner for the public to weigh in before the city approved it.
 The allegations then go deeper, as San Jose claims the project’s approval is
 inconsistent with Santa Clara’s own General Plan for the area.</p>
 
-				
-				
-
-				
     
   
     
@@ -254,10 +283,6 @@ Plan policies relating to vehicle miles traveled, respecting the character and
 quality of adjacent neighborhoods, reducing the use of personal vehicles,
 preserving trees and reducing greenhouse gas emissions.”</p>
 
-				
-				
-
-				
     
   
     
@@ -272,20 +297,6 @@ Expressway to eight lanes, among other major roadway projects. To this day,
 San Jose’s traffic impact fees for new development remain among the highest in
 the region.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -293,10 +304,6 @@ the region.</p>
 San Jose sued Santa Clara to make room for more people. It remains to be seen
 if or how this feud can be settled in court.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

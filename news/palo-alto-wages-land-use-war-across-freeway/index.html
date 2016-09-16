@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Palo Alto Wages Land Use War Across Freeway</div>
 				<p class="meta">
@@ -135,6 +196,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -142,56 +204,26 @@
     
 				<p>East Palo Alto finds itself in dire straits these days. Across the freeway from booming job markets in Palo Alto, Mountain View, and Menlo Park, its historically Black and Latino population faces increasing displacement pressure amid soaring rents.  This summer, the news got even worse: due to a <a href="https://www.newsdeeply.com/water/articles/2016/03/22/east-palo-altos-economic-future-tied-to-water/">water shortage</a>, the city must halt all new development, including plans to build housing on 70 vacant acres.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Demand for new housing will go unmet until public and private agencies, including the Chan Zuckerberg Initiative, can identify new sources of water. (Zuckerberg's philanthropic LLC <a href="http://www.nbcbayarea.com/news/local/Zuckerberg-Priscilla-Chan-to-Open-Private-Free-School-in-East-Palo-Alto-336287271.html">planned</a> to build a private school in East Palo Alto, but must now put construction plans on hold.) The city is already exploring the possibility of installing a well in what is now a Home Depot parking lot, which could yield drinkable groundwater in less than two years.</p>
 
-				
-				
-
-				
     
   
     
 				<p>East Palo Alto’s ethnic makeup is <a href="https://techcrunch.com/2015/01/10/east-of-palo-altos-eden/">the result</a> of overt racial prejudice among realtors and landlords in surrounding areas refusing to rent or sell to non-whites. After restrictive covenants <a href="http://verdemagazine.com/not-for-sale-a-history-of-segregation-in-palo-alto">segregated</a> its Asian population in previous decades, Palo Alto homeowners in the '50s would move out in droves as soon as any black resident moved in nearby. In 1968, strong interest in pan-African culture led to a ballot measure to rename the town Nairobi, which <a href="https://web.archive.org/web/20100813140154/http:/www.epa.net/info/epa_history.html">supporters claimed</a> would have passed if the voting age had been 18 at the time.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>The city’s historically black population moved into inexpensive tract housing that was mostly built in the 1950s, covering farmland that had been left vacant after Japanese families were sent to wartime internment camps. In the following years, annexation and highway expansion drove many businesses out, dealing a lethal blow to the local tax base from which the city has yet to recover. The federal government made the divide more visually conspicuous by constructing Highway 101 at the edge of the then-unincorporated town. When the Romic waste management plant opened, the area was subjected to decades of <a href="http://www.cityofpaloalto.org/civicax/filebank/documents/3695">cyanide contamination</a> and <a href="https://yosemite.epa.gov/opa/admpress.nsf/6427a6b7538955c585257359003f0230/2c861bd40017ca988525735600604ee3!OpenDocument&amp;Start=3.2&amp;Count=5&amp;Expand=3.4">undisclosed</a> chemical sprays.</p>
 
-				
-				
-
-				
     
   
     
 				<p>East Palo Alto was incorporated by a ballot measure in 1983, ending its tenure as an unincorporated “island” of San Mateo County. The abrupt process forced the city into a poorly negotiated <a href="http://abc7news.com/news/east-palo-alto-halts-new-developments-due-to-water-shortage/1436162/">deal</a> for water with the San Francisco Public Utilities Commission, which it has been attempting to remedy ever since.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -209,6 +241,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -216,75 +249,31 @@
     
 				<p>In the current century, East Palo Alto continues to struggle with the inequities of regional growth. 2008 saw the opening of the first local <a href="http://www.collectiveroots.org/upcoming-events/east-palo-alto-community-farmers-market-opening-day">Farmers’ Market</a> after over 20 years as a food desert. Recent development has been mostly industrial, but large corporations <a href="http://www.paloaltoonline.com/news/2015/10/23/facebooks-zuckerberg-chan-to-open-new-school-in-east-palo-alto">such as Facebook</a> have made symbolic gestures to encourage revitalization of the city.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Last month, a proposed expansion of Facebook offices <a href="https://www.theguardian.com/technology/2016/jul/20/facebook-headquarters-expansion-menlo-park-california-housing">drew the ire</a> of the East Palo Alto community, who accused Menlo Park of <a href="http://www.paloaltoonline.com/news/2016/07/07/east-palo-alto-activists-say-menlo-park-omitted-key-letter-from-facebook-expansion-study">ignoring</a> their pleas for further environmental and economic study. Rents between 2011 and 2015 rose by an average of 89%, which local nonprofits say correlates strongly with the growth of high-paying tech jobs.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Despite its daunting circumstances, East Palo Alto has made efforts to build more housing than its growth-averse neighbor, Palo Alto. That wealthy town, flush with high-end retail and tech offices, is notorious for opposing new construction, <a href="http://www.mv-voice.com/news/2016/08/05/regulations-residents-often-hamper-affordable-housing">even for low-income seniors</a>, and is broadly mocked for its income disparities that <a href="http://sanfrancisco.cbslocal.com/2016/03/22/250k-per-year-salary-could-qualify-for-subsidized-housing-under-new-palo-alto-plan/">could qualify</a> those making $250,000 a year for subsidized housing. The city is considering higher <a href="http://www.paloaltoonline.com/news/2016/07/09/to-get-more-affordable-housing-palo-alto-may-charge-developers-stiff-fees">impact fees</a> for office construction in an attempt to curb local demand. Earlier this year, Palo Alto also signaled dissatisfaction with potential growth to the east.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>In June, the Palo Alto City Council sent a <a href="http://www.cityofpaloalto.org/civicax/filebank/documents/52686">communication</a> to East Palo Alto detailing its criticisms of the city’s General Plan Update. The letter included various complaints about “light and glare,” suggesting that EPA commit to further studying the view it would block across the 101 freeway. Noting that height limits in the area would change from 35 to 75 feet, Palo Alto complains: “The impact of this visual change in density in the Westside Area has not been adequately addressed and could be significant.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>The letter also included implicit threats that Palo Alto would seek to deprive its poorer neighbor of water infrastructure if their demands went unheeded: “One action suggested is to build storage and infrastructure to transport water to East Palo Alto and to secure additional water supply from neighboring cities via permanent water exchanges. It should be noted that Palo Alto has no current plans for a water supply exchange program.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>Simply put, Palo Alto was aware that new development beyond its northeastern jurisdiction would pose a difficult strain on the local water supply. Knowing that East Palo Alto would likely seek to purchase water from a nearby locality, the wealthier city made it clear that there were “no current plans” to do so. Readers are left to interpret the letter as they may.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

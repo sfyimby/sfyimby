@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">City Controller Says 18 Is the New 25 for SF&#39;s Prop C</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -130,47 +192,21 @@
     
 				<p>The project at <a href="http://www.sfchronicle.com/politics/article/Development-with-25-percent-affordable-housing-9157776.php">1515 South Van Ness</a> (pictured above) struck a deal with the city to provide 25% Below Market Rate units. Some supporters called it unprecedented, while others insist it should be the new citywide standard. Under <a href="https://ballotpedia.org/San_Francisco,_California,_Affordable_Housing_Requirements_Charter_Amendment,_Proposition_C_(June_2016">Proposition C</a>), that may now be the case, but <a href="http://www.sfgate.com/politics/article/Affordable-rent-demand-could-slow-construction-in-9178589.php?utm_source=twitterfeed&amp;utm_medium=twitter">new evidence</a> suggests that may not be a good idea.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Supervisors Jane Kim and Aaron Peskin were adamant last year that their ballot measure set an economically sound baseline for affordable housing requirements in the nation’s most expensive city. Requiring 25% of units to be indexed Below Market Rate in any new project was not an arbitrary standard, they claimed, but one assiduously negotiated between the Supervisors and developers to maximize subsidies without slowing housing construction. According to city comptroller Ben Rosenfield, their math is off.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Mayor Ed Lee withdrew his opposition to the “arbitrary” requirement of Prop C on the condition that Kim and Peskin would adjust the requirements after a feasibility analysis. Rosenfield’s recently published draft feasibility analysis recommends a lower threshold, but one that should be applied equally across the city. While this urging is likely to incense local activists who insist on higher percentages in higher-demand areas such as the Mission, Rosenfield also recommends increasing required in-lieu fees to incentivize the construction of more units.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>“New apartment buildings can rent a maximum of 18 percent affordable units before new housing is likely to be impeded,” the draft report concludes. Neither Peskin nor Kim’s offices could be reached for immediate comment.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

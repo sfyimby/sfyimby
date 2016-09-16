@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Compromise on &#34;Granny Flats&#34; in San Francisco</div>
 				<p class="meta">
@@ -108,7 +169,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -129,14 +190,11 @@
 <div class="text-block">
 	
 	
+	
 
   
     
-				<p<blockquote>
-				
-				
-
-				
+				<p><blockquote>
     
   
     
@@ -144,25 +202,18 @@
 build more housing at every income level</p>
 </blockquote>
 
-				
-				
-
-				
     
   
     
 				<p>— Supervisor Mark Farrell</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
 
 
 <div class="text-block">
+	
 	
 	
 
@@ -177,10 +228,6 @@ Francisco legislators approved a compromise legalizing the construction of
 San Francisco politics, the legislation would also legalize existing units
 built without city approval.</p>
 
-				
-				
-
-				
     
   
     
@@ -188,10 +235,6 @@ built without city approval.</p>
 over the specific guidelines regulating the size of the units and their
 separation from the primary structure.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -209,6 +252,7 @@ separation from the primary structure.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -223,10 +267,6 @@ legislation. They initially objected to Peskin’s proposed caps on number of
 units, restricting buildings with 10 residential units or less to one ADU, and
 two for buildings of higher density.</p>
 
-				
-				
-
-				
     
   
     
@@ -236,10 +276,6 @@ allowed to be rent-controlled since 1978. Regardless, the disagreement on
 allowed density would have resulted in a ballot measures for this year’s
 November election competing with Peskin's bill.</p>
 
-				
-				
-
-				
     
   
     
@@ -252,20 +288,6 @@ majority had been constructed in higher-density neighborhoods rather than
 behind single-family homes, so Farrell and Wiener also pushed to keep the unit
 cap from their original proposal.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -273,10 +295,6 @@ cap from their original proposal.</p>
 speculation, the two Supervisors were able to craft legislation that achieved
 all stated policy goals.</p>
 
-				
-				
-
-				
     
   
     
@@ -285,10 +303,6 @@ than 5 units, but an unlimited number can be built for buildings with 5 or
 more. Accessory Dwelling Units would also be limited to a size of 350 square
 feet.</p>
 
-				
-				
-
-				
     
   
     
@@ -302,20 +316,6 @@ affordable housing continues to be one of my top policy priorities, and I’m
 delighted to have found legislative partners willing to take the time to
 thoughtfully craft this compromise legislation.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->

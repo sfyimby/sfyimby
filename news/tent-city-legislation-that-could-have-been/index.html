@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Tent City Legislation That Could Have Been</div>
 				<p class="meta">
@@ -139,6 +200,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -150,10 +212,6 @@ ballot measures regulating homeless encampments in this year’s November
 election. Though voters will get to decide on incremental reform, more
 sweeping, radical changes have not come to fruition.</p>
 
-				
-				
-
-				
     
   
     
@@ -162,10 +220,6 @@ sweeping, radical changes have not come to fruition.</p>
 mistaken-initiatives/">vie for opposite voter bases</a>. Both measures are similar, with differences primarily
 hinging on a 24-hour notice before clearing (Farrell) or 72 hours (Peskin).</p>
 
-				
-				
-
-				
     
   
     
@@ -174,20 +228,6 @@ shelter beds and supportive housing. With no provisions to increase public
 safety or shelter funding, these measures are not designed to bring about
 major change on their own.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -202,10 +242,6 @@ joint effort by Avalos and the Coalition on Homelessness to develop more
 humane legislation, but Mayor Ed Lee immediately slammed the proposal, citing
 “unhealthy and unsafe” conditions that made permanent encampments “dangerous.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -223,6 +259,7 @@ humane legislation, but Mayor Ed Lee immediately slammed the proposal, citing
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -238,20 +275,12 @@ for State Senate, would have been hesitant to support such a radical proposal
 while seeking votes across the city, but would also have not wanted to appear
 callous toward the homeless among her home district in SoMa.</p>
 
-				
-				
-
-				
     
   
     
 				<p>SF YIMBY has compiled the following table to compare the existing ballot
 measures with Avalos’ defunct proposal:</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -266,6 +295,7 @@ measures with Avalos’ defunct proposal:</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -275,10 +305,6 @@ measures with Avalos’ defunct proposal:</p>
 Spirit</a>) collaborated on the <a href="http://www.sfgate.com/homeless/">SF Homelessness
 Project</a>.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

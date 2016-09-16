@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Sunnyvale Will Hold Special Election to Fill Council Vacancy</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -130,84 +192,36 @@
     
 				<p>Sunnyvale will be holding a special election tomorrow to fill the vacant City Council seat of David Whittum, who resigned on April 4. Under the city charter, Whittum’s unexpected resignation forces the city to create a special election independent of statewide or municipal elections because his vacancy was declared more than 180 days before the November election. Whittum would have had to retire later than April 12 for the elections to be consolidated.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Sunnyvale’s City Council <a href="http://www.mercurynews.com/bay-area-news/ci_29792766/sunnyvale-election-vacant-council-seat-will-cost-city">lamented</a> the additional cost incurred by Whittum’s timing: rather than simply adding another entry on the ballot, the city will spend $767,000 to elect a replacement, who will then have to run again in November to retain the position. Councilmember Pat Meyering cast the sole vote against the special election, further asking the city attorney if they could appoint an interim councilmember. Sunnyvale does have precedent for an interim appointment, when Mayor Otto Lee took leave of the council to serve a military tour in Iraq, but the city attorney insisted that this did not apply because Lee had not resigned.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Three <a href="http://votersedge.org/ca/en/ballot/election/area/41/contests/contest/11399?election_authority_id=43">candidates</a> have stepped up to fill the vacancy: John Cordes, Larry Klein, and Stephen Williams. These candidates have significant overlap in their policy positions, particularly regarding Transit-Oriented Development.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p><a href="http://larryforcouncil.com/">Klein</a> and <a href="http://www.john4sunnyvale.org/why-i-am-running.html">Cordes</a>, both engineers, have called for easing zoning restrictions to encourage backyard Accessory Dwelling Units (ADUs), known colloquially as “granny flats.” Their platforms also make mention of reducing minimum square footage for apartment units to encourage more dense development, particularly along transit corridors.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Klein, who currently serves as President of the Sunnyvale Historical Society, cites the completion of Sunnyvale’s Town Center as a top priority. Williams also notes his efforts to increase the availability of entry-level jobs in the area. While all three candidates voice support for bike and pedestrian infrastructure to reduce traffic, as well as increased shuttle services to the Caltrain station, Cordes takes the unique approach of calling for increased traffic impact fees on office construction. As an environmentalist and bicycle advocate, he notes that transportation is the leading source of Greenhouse Gas Emissions in the country. Cordes further calls for a reduction of dependency on imported water, and providing renewable energy to through the Silicon Valley Clean Energy Authority.</p>
 
-				
-				
-
-				
     
   
     
 				<p><a href="http://innovatesunnyvale.org/">Williams</a>, a self-employed software engineer, urges a more thorough approach to car-alternative infrastructure. “[T]o tie together our disjoint city,” he calls not only for a free rapid shuttle service to connect neighborhoods to transit and commercial centers, but also “pedestrian highways” that would include pedicab service.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>All three candidates cite strong support for a local rent control ordinance, which Sunnyvale currently lacks. While all of them cite “affordable housing” as a priority, Klein wades into the weeds of specificity by explicitly calling for an increase in the Below Market Rate requirement for new multifamily for-sale units, from 12.5% to 15%.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

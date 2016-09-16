@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Legislature Strengthens California&#39;s &#39;Anti-NIMBY&#39; Law</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -130,47 +192,21 @@
     
 				<p>Readers may recall the Housing Accountability Act, a little-known state law that made headlines last year in a <a href="http://www.sfgate.com/news/article/City-activists-brazen-new-battle-cry-Sue-the-6485289.php">lawsuit</a> against Lafayette. The California Renters Legal Advocacy and Education Fund (CaRLA) decided to sue the East Bay suburb after it goaded a developer into downsizing a housing project from a 300-unit apartment complex into 44 single-family homes. In its current form, the law gives standing to applicants and potential tenants to sue a municipality for rejecting a zoning-compliant housing project for less-than-“objective” standards.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The California State Legislature passed an amendment on Tuesday that could expand the power of this law. Under new language introduced by Assemblymember Tom Daly, organizations representing tenants and housing projects could also sue to enforce the law. The State Senate passed the bill unanimously, and it will next go to the Assembly before reaching the Governor’s desk.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Housing groups around the state have praised the amendment as a boon to their advocacy efforts. In a letter supporting the bill, the <a href="https://caanet.org/tool-enforcing-pro-housing-law-advances-governor/">California Apartment Association</a> noted that “[o]ne of the most significant barriers to the construction of new affordable housing is unjustified local resistance from NIMBY (Not In My Backyard) groups.” They went on to describe the amendment as applying “appropriate pressure” to municipalities hesitant to more housing in the midst of a statewide shortage.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Ryan Patterson, legal counsel for CaRLA in the Lafayette suit, was cautiously optimistic. When reached by email, he offered the following comment: “Previously, nonprofit housing organizations lacked standing to file lawsuits on their own behalf. Although its scope is modest, this law gives advocacy organizations a new tool to support housing development proposals.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">London Housing Crisis Proves Nostradamus Writes For &#34;The Onion&#34;</div>
 				<p class="meta">
@@ -102,7 +163,7 @@
 						
 
 						
-							  
+								
 						
 
 						
@@ -123,6 +184,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -130,93 +192,41 @@
     
 				<p>News readers around the globe know the American satirical site The Onion as a steady source of prescient, incisive commentary on our modern society. Their hyperbolic headlines often reflect our deepest fears or ugliest biases, but seldom do we see life outright imitating their art. Amid a global surge in urban real estate prices, the particularly crisis-level housing shortage in London has prompted just that.</p>
 
-				
-				
-
-				
     
   
     
 				<p><a href="https://www.theguardian.com/uk-news/2016/aug/31/londons-elite-pushed-out-of-exclusive-postcodes-by-super-rich?CMP=Share_iOSApp_Other">The Guardian</a> reported on August 31st: “London’s elite pushed out of exclusive post-codes by super-rich.” Sound familiar? In 2008, <a href="http://www.theonion.com/article/report-nations-gentrified-neighborhoods-threatened-2419">The Onion</a> ran the satirical headline: “Nation's Gentrified Neighborhoods Threatened By Aristocratization.” It’s real. It’s happening. This is not a drill.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Researchers from the London School of Economics’ (LSE) International Inequalities Institute have found that a surge of hyper-wealthy buyers have prompted the formerly elite establishment of lawyers, doctors, and other white-collar professionals “to buy in areas they previously considered undesirable.” Similarly, The Onion's article described how “the enormous treasure-based wealth of the aristocracy makes it impossible for those living on modest trust funds to hold onto their co-ops and converted factory loft spaces.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>The similarities are uncanny. Dr. Luna Glucksberg—the totally real, non-parodic researcher at the LSE— warned of “ripple effects” from the displacement of high-income workers to areas further down the market in price, a gentrification wave that could harm affordability for all Londoners. “The study shows that the wealthy individuals and families that live in London’s most exclusive areas no longer feel able to compete at the top end of the capital’s property market,” she told The Guardian.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The aristocrats in the older, um, fictional article voiced a similar concern. The new landed gentry, writes The Onion, “deflected blame onto regification, a process by which they say they were priced out of their vast rural holdings by kings who wished to consolidate property and develop monumental palatial estates.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>The process known as “reverse filtering” is very real, and is outlined in John Mangin’s seminal study “<a href="https://journals.law.stanford.edu/sites/default/files/stanford-law-policy-review/print/2014/01/mangin_25_stan._l._poly_rev_91.pdf">The New Exclusionary Zoning</a>” (2014). “In areas with a capped supply and increasing demand,” Mangin writes, housing in effect ‘filters up’—housing formerly occupied by low-income people becomes housing for high-income people. If high-income people are unable to build new housing for themselves, they will buy existing housing and fix it up.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Just yesterday, California’s Legislative Analyst’s Office <a href="http://www.lao.ca.gov/LAOEconTax/Article/Detail/201">made note</a> of several analyses showing that real wage and population growth was receding from high-opportunity coastal areas to lower-income inland regions. “In part,” the LAO writes, “we suspect, due to California's lack of new residential housing supply and resulting high costs in coastal areas, a large portion of California's population growth occurred in areas of the state with incomes below the statewide median since 1990.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>Perhaps The Onion was not being prescient so much as merely observing longstanding trends. Again, it’s worth repeating: This. Is. Not. A. Drill.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

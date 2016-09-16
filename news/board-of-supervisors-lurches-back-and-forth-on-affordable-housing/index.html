@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Board Of Supervisors Lurches Back and Forth on Affordable Housing</div>
 				<p class="meta">
@@ -143,6 +204,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -153,19 +215,11 @@ contentious resolutions on affordable housing, demonstrating just how
 politically fractious the issue has become in the nation’s most expensive real
 estate market.</p>
 
-				
-				
-
-				
     
   
     
 				<p><strong>I.</strong></p>
 
-				
-				
-
-				
     
   
     
@@ -176,10 +230,6 @@ Market Rate housing. Projects qualifying for the bonus would receive a three-
 story height-limit increase, form-based zoning (which eliminates density
 restrictions), and a variety of other zoning modifications.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -197,6 +247,7 @@ restrictions), and a variety of other zoning modifications.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -208,10 +259,6 @@ Preventing its application in RH-1 and RH-2 zones essentially prohibits this
 ordinance from producing more affordable housing in the vast majority of the
 city’s neighborhoods.</p>
 
-				
-				
-
-				
     
   
     
@@ -221,10 +268,6 @@ Francisco’s southern edge. “I live in a part of the city where our commercia
 corridor is often filled with single-story buildings...that creates a huge
 amount of congestion in cars...and I want to change all that.”</p>
 
-				
-				
-
-				
     
   
     
@@ -237,20 +280,6 @@ The amendments prevent the bill from increasing the amount of affordable
 housing that can be produced without public subsidies—language to that effect
 was also stricken from the amended version.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -262,10 +291,6 @@ requirement adopted by the voters,” the Planning Commission would still be
 required to give a public hearing and apply discretionary review before
 granting a Conditional Use Permit.</p>
 
-				
-				
-
-				
     
   
     
@@ -274,10 +299,6 @@ reserved for people making 80% AMI or less, they could apply for three
 additional stories, and still be shot down by angry neighbors lobbying the
 Planning Commission.</p>
 
-				
-				
-
-				
     
   
     
@@ -286,20 +307,6 @@ introductory comments. In passing the resolution before summer recess,
 Supervisor Tang was hopeful that this would speed up the construction of 203
 units from 7 ongoing projects that would qualify for the bonus.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -307,19 +314,11 @@ units from 7 ongoing projects that would qualify for the bonus.</p>
 version of the State Density Bonus, developers can still apply for it, and
 potentially sue to enforce state law if city officials refuse them.</p>
 
-				
-				
-
-				
     
   
     
 				<p><strong>II.</strong></p>
 
-				
-				
-
-				
     
   
     
@@ -335,20 +334,6 @@ work with the Governor’s office to make useful amendments, while the latter
 sought to amend almost everything about the bill that would streamline the
 production of affordable housing, if not oppose it outright.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->
@@ -366,6 +351,7 @@ production of affordable housing, if not oppose it outright.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -381,10 +367,6 @@ Commission, essentially annulling the bill’s streamlining power. Peskin’s
 resolution also called for categorically opposing the bill if these amendments
 were not incorporated.</p>
 
-				
-				
-
-				
     
   
     
@@ -392,10 +374,6 @@ were not incorporated.</p>
 the same margin. The same supervisors voted in the six-person majority:
 Peskin, Campos, Mar, Avalos, Kim, and Yee.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -413,6 +391,7 @@ Peskin, Campos, Mar, Avalos, Kim, and Yee.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -425,10 +404,6 @@ sufficient regional and statewide housing creation,” while Peskin’s leaves t
 door open to opposing the bill “in recognition of San Francisco’s local
 planning tools and significant contributions to regional housing development.”</p>
 
-				
-				
-
-				
     
   
     
@@ -438,10 +413,6 @@ laudable, or they are <a href="http://www.spur.org/news/2016-02-18/why-market-ra
 construction-matters-low-income-households">grossly
 insufficient</a>.</p>
 
-				
-				
-
-				
     
   
     
@@ -451,20 +422,6 @@ demolished and replaced by aesthetically nondescript eyesores; Peskin, in
 addition to that, sought to protect all incumbent residents from any building
 they might not like for any reason whatsoever.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -474,10 +431,6 @@ arbitrarily reducing the number of housing units allowed.” Peskin’s office
 assured us that the language in the final version of his resolution would
 suffice in explaining his goals.</p>
 
-				
-				
-
-				
     
   
     
@@ -490,10 +443,6 @@ lobby legislators to increase investments in public transportation, which
 presumably would come independently of the $400 million in state housing funds
 Governor Brown recently included as part of his bill.</p>
 
-				
-				
-
-				
     
   
     
@@ -509,20 +458,6 @@ require 20% Below Market Rate units, or 10% in a project close to transit as a
 statewide minimum; any municipal requirements requiring higher amounts, such
 as San Francisco’s recently adopted 25% threshold, would not be superseded.)</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -533,10 +468,6 @@ review and local discretionary approval as is currently provided by local
 laws,” and ultimately to oppose the bill unless the Governor and State
 Legislature adopt all the requested amendments.</p>
 
-				
-				
-
-				
     
   
     
@@ -546,10 +477,6 @@ of the bill is stricken. Opponents have launched a petition urging Mayor Ed
 Lee to veto Peskin’s resolution, while the State Legislature remains in recess
 until August.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

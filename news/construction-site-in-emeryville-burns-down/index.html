@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Construction Site In Emeryville Burns Down</div>
 				<p class="meta">
@@ -139,6 +200,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -153,10 +215,6 @@ buckled from the heat. Ten neighboring townhouses were damaged, and the
 project’s 100 units are indefinitely delayed. While there were no injuries,
 approximately 50 residents were displaced.</p>
 
-				
-				
-
-				
     
   
     
@@ -169,10 +227,6 @@ whence they would come…” Eventually, he says, “[t]he winds shifted at arou
 found it necessary to go inside and seal up the cracks under the doors with
 towels.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -190,6 +244,7 @@ towels.”</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -201,10 +256,6 @@ chain stores. Lately its abundance of empty or underutilized lots, plus a
 deeply exaggerated jobs-housing imbalance, has brought on a surge of mid-rise
 apartment construction to complement retail.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -222,6 +273,7 @@ apartment construction to complement retail.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -235,10 +287,6 @@ reports</a>. A federal task force from the
 Bureau of Alcohol, Tobacco, and Firearms will be investigating the cause of
 the fire.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Economists Weigh In on Inequality and Inelasticity in San Francisco</div>
 				<p class="meta">
@@ -135,6 +196,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -144,10 +206,6 @@
 affordability crisis, citing patterns that are all-too-familiar for those
 seeking YIMBY policies in the region.</p>
 
-				
-				
-
-				
     
   
     
@@ -157,10 +215,6 @@ Wydick narrows down the central factors behind high demand in San Francisco
 real estate, and criticizes policy goals of local politicians in the
 “progressive” faction.</p>
 
-				
-				
-
-				
     
   
     
@@ -177,20 +231,6 @@ creates what economists call “complementarities”—when jobs that are mutual
 helpful and “complementary” to each other can collaborate locally, regional
 productivity increases.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -202,10 +242,6 @@ Unfortunately, the internet’s ability to broadcast high-skilled labor globally
 increases the wages it can command, relative to low-wage laborers with less
 access to these global networks.</p>
 
-				
-				
-
-				
     
   
     
@@ -216,10 +252,6 @@ constructed with all deliberate speed, criticizing San Francisco’s
 “progressive” faction for ideological posturing that slows down this much-
 needed construction.</p>
 
-				
-				
-
-				
     
   
     
@@ -232,30 +264,12 @@ pressure on rents, so-called progressives chose to cast their lot against the
 ‘rich developers’ and city planners who have advocated this approach for
 decades.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Why, then, is housing produced by the private market seen as a mere commodity
 for the wealthy?</p>
 
-				
-				
-
-				
     
   
     
@@ -266,10 +280,6 @@ daunting gap between housing production and rising demand. His data shows that
 for every month added to the entitlement process, housing elasticity drops by
 0.03 points.</p>
 
-				
-				
-
-				
     
   
     
@@ -278,10 +288,6 @@ the locality increases its housing supply by 1% Las Vegas tops the list with
 an elasticity of 1.17. San Francisco scores near the bottom: 0.04. Only New
 Orleans scored lower in McLaughlin’s study.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -294,6 +300,7 @@ Orleans scored lower in McLaughlin’s study.</p>
 
 
 <div class="text-block">
+	
 	
 	
 
@@ -314,10 +321,6 @@ politics-1465594550-htmlstory.html">growing
 ranks</a> of local government officials promoting
 the Governor’s bill.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

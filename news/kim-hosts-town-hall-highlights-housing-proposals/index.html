@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Kim Hosts Town Hall, Highlights Housing Proposals</div>
 				<p class="meta">
@@ -137,6 +198,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -144,19 +206,11 @@
     
 				<p>Supervisor Jane Kim buoyed a relatively positive atmosphere in a town hall meeting on housing policy, easily San Francisco’s most severe and contentious political issue this year. Joined on a panel by former Los Angeles Mayor Antonio Villaraigosa and BART Board candidate Lateefah Simon, Kim’s forum, hosted by Salon magazine co-founder David Talbot, highlighted the city’s crisis-level wave of displacement along with the Supervisor’s policy objectives.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Before the forum began, Villaraigosa told Tim Redmond of <a href="http://48hills.org/2016/08/31/kim-packs-housing-forum-former-la-mayor-hints-gov-run/">48 Hills</a> that he would “make an announcement in November” regarding his potential run for Governor. Villaraigosa is widely expected to run for the office against former San Francisco mayor and current Lieutenant Governor Gavin Newsom.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -180,6 +234,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -187,93 +242,41 @@
     
 				<p>Outside Mission High School, with an auditorium capacity of over 1,000, supporters of Supervisor Scott Wiener, Kim’s rival candidate for State Senate, picketed before the event began. Protesters held signs, many in Chinese, criticizing what they saw as empty promises from Supervisor Kim in spite of an inconsistent record on housing. Signs such as “Housing Not Tents” in particular referred to Kim’s opposition to a sales tax to fund homeless services, which she considered a regressive tax, as well as her <a href="http://www.sfexaminer.com/tempers-flare-homeless-tent-encampment-ballot-measure/">legislation</a> requiring seven-days’ notice and temporary shelter before clearing tent encampments.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Kim remained optimistic about her policy goals, in particular touting her efforts at increasing inclusionary requirements in new market-rate developments. Without requiring price-indexed units in new buildings, <a href="http://missionlocal.org/2016/08/supervisors-forum-considers-housing-and-transportation/">she argued</a>, market-rate condos in the city were only affordable to families making at least $270,000 per year.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The Supervisor boasts in her campaign promotions that she successfully negotiated higher percentages of affordable housing from developers, namely a 40% Below Market Rate set-aside in the controversial 5M project.  This qualification has recently come under criticism for basing the percentage off a smaller denominator than the total amount of units. Rather than a full 40%, Joe Eskenazi of <a href="http://modernluxury.com/san-francisco/story/how-supervisor-kims-new-affordability-law-lets-developers-the-hook">San Francisco Magazine</a> reported that the number would be closer to 35%.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Kim’s flagship 2015 ballot measure Proposition C has also seen recent criticism for requiring 25% of units be price-indexed for low- and middle-income households, a ratio Mayor Ed Lee called “arbitrary” at the time it was proposed. San Francisco’s City Controller released a <a href="http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/san-francisco-affordable-homes-requirement-prop-c.html">draft report</a> last month suggesting that a requirement above 18% had the potential to slow down overall housing production. Kim and Prop C co-author Supervisor Aaron Peskin had promised to recalculate the requirements pending the Controller’s final analysis.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Kim’s newest ballot measure proposal, Proposition X, has also been <a href="http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/07/sf-made-san-francisco-ballot-pdr-jane-kim.html">criticized</a> as “arbitrary” in its requirements. If passed by voters, the measure would require the developers to preserve 50-100% of “PDR” space (production, distribution, and repair) in industrial zones. SF Made, a union of 650 manufacturers in the city, publicly opposed the measure. They argue the measure would needlessly slow housing production by forcing new projects to be leased for lower-revenue uses, and have advocated for housing industrial tenants in larger spaces instead. Kim made a brief mention of Proposition X at the forum, stating that it was an important strategy to preserve blue-collar jobs in San Francsico.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Housing itself was just a starting point for panelist Lateefah Simon’s broader vision for socioeconomic equity. Simon, a native of the city’s Fillmore District, now lives in Oakland due to the cost of rent. A lower-income worker forced to move to Richmond, she noted, would pay upwards of $300 per month in BART fares to and from their job in the city. Transportation and housing, in her view, were inextricably linked in her progressive policy goals for social justice.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>Villaraigosa, several years out of the political limelight, stumbled on a few recent issues when describing his experiences trying to grow the affordable housing stock in Los Angeles. “There was a real problem of people saying, ‘we don't want those people in our neighborhood,’” he remarked. He proceeded to outline hypothetical policies that happened to coincide with the Governor Brown recent <a href="http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/unions-against-gov-browns-as-of-right-housing-plan.html">“by-right”</a> proposal—a policy he later admitted he had been unfamiliar with until that night. Kim had voted in favor of Supervisor Aaron Peskin’s resolution opposing the legislation, which Mayor Lee quickly vetoed.</p>
 
-				
-				
-
-				
     
   
     
 				<p>“It was a rally masquerading as a forum,” said Laura Clark, founder of housing advocacy group Grow SF. “The host just lobbed softballs at her the whole time. I can’t complain though; it was a really good rally.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

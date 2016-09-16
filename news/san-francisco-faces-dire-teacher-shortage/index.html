@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">San Francisco Faces Dire Teacher Shortage</div>
 				<p class="meta">
@@ -115,6 +176,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -122,47 +184,21 @@
     
 				<p>Housing for teachers has been a central issue since the onset of the Bay Area’s latest affordability crisis. Jill Tucker of the San Francisco Chronicle <a href="http://www.sfchronicle.com/education/article/SF-public-schools-start-year-a-few-teachers-short-9144344.php?t=980da7d443e5bced66&amp;cmpid=email-premium">reports</a> that San Francisco faces a shortage of 38 teachers at the opening of this school year.</p>
 
-				
-				
-
-				
     
   
     
 				<p>Although retirements and resignations have dropped overall since 2015, sudden departures in the last few weeks have forced the city’s school system to scramble to fill staff openings. Despite the dire situation, Superintendent Richard Carranza spoke of a “huge” success in concentrating staffing efforts in historically disadvantaged neighborhoods. As a result, Martin Luther King, Jr. Middle School in Portola will be fully staffed.</p>
 
-				
-				
-
-				
     
   
     
 				<p>The Learning Policy Institute <a href="https://learningpolicyinstitute.org/our-work/publications-resources/addressing-californias-emerging-teacher-shortage-an-analysis-of-sources-and-solutions/">reported</a> earlier this year that California is at a 12-year low point in teacher hiring.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>While San Francisco has begun offering major signing bonuses to new candidates, the City of Oakland, which <a href="https://oaklandnorth.net/2016/03/03/recruitment-fair-hopes-to-engage-new-teachers-addressing-oakland-teacher-shortage/">also faces</a> a teacher shortage, has been searching for Spanish and bilingual educators in Spain and Mexico.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->

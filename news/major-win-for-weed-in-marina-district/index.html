@@ -75,6 +75,67 @@
 
   <div class="page">
     
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			
+		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">Major Win for Weed in Marina District</div>
 				<p class="meta">
@@ -143,6 +204,7 @@
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -155,10 +217,6 @@ dispensary location at 2414 Lombard Street. The applicants retained their
 approval despite strong lobbying by organized neighbors, Supervisor Mark
 Farrell, and Mayor Ed Lee.</p>
 
-				
-				
-
-				
     
   
     
@@ -171,10 +229,6 @@ posed a public safety risk. “We have no issue with that,” a CHA representati
 stated, referring both to the benefits of medical marijuana, and The
 Apothecarium’s positive business reputation.</p>
 
-				
-				
-
-				
     
   
     
@@ -193,20 +247,6 @@ hospitals are the places where medicine should be dispensed and
 administered—not the middle of busy Lombard Street surrounded by cheap motels
 and homeless youth treatment centers.”</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
@@ -218,10 +258,6 @@ letters that did not follow a form template, one parent wrote: “The kids
 already learn and see a lot…so I don’t think we need additional exposure to
 the ups and downs of city life.”</p>
 
-				
-				
-
-				
     
   
     
@@ -232,10 +268,6 @@ Apothecarium described them as “a quiet, considerate neighbor” near his
 residence in the Castro District. This supporter was one of many who cited
 increased foot traffic, safety, and clean sidewalks.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -253,6 +285,7 @@ increased foot traffic, safety, and clean sidewalks.</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -264,10 +297,6 @@ good location for a dispensary. “If they could bring a project somewhere that
 would not engender neighborhood opposition,” he said, “I would fully support
 it.”</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
@@ -285,6 +314,7 @@ it.”</p>
 <div class="text-block">
 	
 	
+	
 
   
     
@@ -300,10 +330,6 @@ Association threatened to appeal to the Board of Supervisors, while also
 lobbying Congress to withhold federal funding for the project. If all else
 failed, a lawsuit was strongly implied.</p>
 
-				
-				
-
-				
     
   
     
@@ -316,10 +342,6 @@ Edward II also agreed to support neighborhood groups over public safety
 concerns, which Gladstone suspects contributed to the opposition. The 25 units
 for housing-insecure youth, ages ranging from 18-25, opened in late 2014.</p>
 
-				
-				
-
-				
     
   
     
@@ -330,20 +352,6 @@ of Larkin Street’s opposition objected to the portrayal of Edward II tenants
 as prone to criminality, given that it is not a residence for ex-convicts or
 recovering alcoholics.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
 </div> <!-- END text-block -->
@@ -356,6 +364,7 @@ recovering alcoholics.</p>
 
 
 <div class="text-block">
+	
 	
 	
 
@@ -376,10 +385,6 @@ marijuana may already be available within Edward II habitations: “When they’
 over 18, they’re allowed to grow several marijuana plants if they have a
 medical card.”</p>
 
-				
-				
-
-				
     
   
     
@@ -389,40 +394,18 @@ her and told her to vote against The Apothecarium. “We were quite pleased that
 we could overcome what permit applicants can rarely overcome,” Gladstone told
 us: “lobbying from the mayor of the city and organized neighbors.”</p>
 
-				
-				
-
-				
     
   
     
 				<p>Within a six-block radius of 2414 Lombard Street, there are four liquor
 stores, a wine merchant, and ten bars.</p>
 
-				
-				
-
-				
-						<div class="news-article-ad-container-mobile">
-								
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
-		</a>
-
-						</div>
-						
-						
-				
     
   
     
 				<p>At press time, neither Supervisor Farrell nor Larkin Street Youth Services had
 responded to requests for comment.</p>
 
-				
-				
-
-				
     
   
 </div> <!-- END text-block -->
