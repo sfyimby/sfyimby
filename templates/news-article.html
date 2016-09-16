@@ -5,6 +5,63 @@
 
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
+
+  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
+			{{ render_ad() }}
+  </div>
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElem = document.getElementById("ad-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e) {
+						var clonedAd = adElem.cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem);
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1]);
+				}
+    }, 0);
+  </script>
+
 	<div class="news-header">
 		<div class="news-header-title">{{ this.title }}</div>
 				<p class="meta">
@@ -38,7 +95,7 @@
 						{% if articleLength < 1500 %}
 								{% set numAds = 0 %}
 						{% elif articleLength < 3500 %}
-							  {% set numAds = 1 %}
+								{% set numAds = 1 %}
 						{% else %}
 								{% set numAds = 2 %}
 						{% endif %}
