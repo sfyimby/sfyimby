@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-15T00:00:00Z</updated>
+  <updated>2016-09-16T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/foster-city-considers-68-units-in-commercial-zone/">
+    <title type="text">Foster City Considers 68 Units in Commercial Zone</title>
+    <id>urn:uuid:0c0659f6-86d3-33db-bef3-bc0816d889ff</id>
+    <updated>2016-09-16T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/foster-city-considers-68-units-in-commercial-zone/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Foster City managed to go from a landfill to a flourishing planned suburb in less than a century. Last night, the city’s Planning Commission debated how exactly that trajectory might continue on a parcel known as “Phase C” on Triton Drive. Developers at the Sares Regis Group hope to receive a rezoning for the area, largely allotted for office space, in order to provide &lt;a href=&quot;http://sfbamo.com/news/68-units-proposed-in-foster-city/&quot;&gt;68 townhomes&lt;/a&gt; with a shuttle service to the nearby Caltrain station.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The most vocal members of the Commission voiced concern that rezoning for more housing could slow the city’s commercial growth. The parcel is currently only zoned for 17 residential units. Commissioner and former mayor Richard Wykoff led the charge, arguing that there was “a conflict between downsizing the commercial space and the economic plan.” He strongly favored a compromise suggested by the Planning Department to build a hotel there instead, though no such project has been proposed.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/foster-city-considers-68-units-in-commercial-zone/phasecfc.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Infographic detailing predicted benefits of the new development (courtesy: Sares Regis)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;While some local business owners did express concern over the loss of commercial space, the majority of local residents generally supported the additional townhomes. Commissioner Noemi Avram seemed more receptive to these views, noting that Foster City is the only locality on the Peninsula to require 20% Below Market Rate units on new construction. Foster City currently only has seven such units, so Phase C would effectively triple the amount of permanently affordable housing within city limits.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;San Francisco housing advocate Laura Clark, founder of &lt;a href=&quot;http://www.growsanfrancisco.org/&quot;&gt;Grow SF&lt;/a&gt;, commented on what she perceived as a markedly tone-deaf atmosphere at the meeting. “The Commission, most prominently voiced by Wykoff, showed no concern for the fact that they are only 68% of the way toward meeting the minimum of their regional housing obligation.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Last night's meeting was a study session, so no legislative action was taken.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/as-millennium-tower-sinks-blame-game-ensues/">
     <title type="text">As Millennium Tower Sinks, Blame Game Ensues</title>
     <id>urn:uuid:cecf4c42-ee4e-33ad-a603-ef1a42734035</id>
@@ -3217,76 +3281,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;In the Mission District, a vocal coalition of local retailers appears to have won &lt;a href=&quot;http://sfist.com/2016/08/09/sfmta_willing_to_revoke_mission_str.php&quot;&gt;concessions&lt;/a&gt; limiting the red bus lanes on Mission Street between 14th and 30th—where SFMTA reports an 85% drop in Muni collisions. Some of the more conspicuous changes will be rolled back, including forced right turns on Mission Street in the northbound direction.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/campos-calls-for-another-construction-moratorium-in-the-mission/">
-    <title type="text">Campos Calls for Another Construction Moratorium in The Mission</title>
-    <id>urn:uuid:c0cb3639-b3fd-3fbd-8e70-297d2cee15e3</id>
-    <updated>2016-08-08T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/campos-calls-for-another-construction-moratorium-in-the-mission/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last week, District 9 Supervisor David Campos sent a &lt;a href=&quot;https://www.scribd.com/document/320499064/Supervisor-Campos-Letter-to-Planning-Commission-August-3-2016#from_embed&quot;&gt;letter&lt;/a&gt; to the San Francisco Planning Commission demanding a halt to three market-rate residential developments in the 24th Street corridor. Bolstered by the neighborhood business association Calle 24, Campos insisted that a pause was needed to study potential effects of development on displacement of local retail. Campos’ previous, wider-reaching call to halt market-rate development in the Mission, known as &lt;a href=&quot;http://sf.curbed.com/2015/11/4/9904188/what-san-franciscos-election-results-mean-for-housing&quot;&gt;Proposition I&lt;/a&gt;, was defeated at the ballot box last year.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The particular projects of concern are developments at 2675 Folsom Street, 1515 South Van Ness Avenue, and 2600 Harrison Street. These would bring 293 units of mostly market-rate residential units to the area.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/campos-calls-for-another-construction-moratorium-in-the-mission/1515vn.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;1515 South Van Ness Avenue (source: Google Maps)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Activists find themselves in a double-bind with the Planning Commission: while Planning Director John Rahaim &lt;a href=&quot;http://missionlocal.org/2016/08/mission-district-supervisor-wants-halt-to-housing-projects-near-24th-street/&quot;&gt;warned&lt;/a&gt; that locals needed to negotiate with concrete, quantifiable demands to reduce market uncertainty, Calle 24 President Erick Arguello saw it differently. In recent years, Mission activists have &lt;a href=&quot;http://missionlocal.org/2016/06/negotiations-fail-for-controversial-mission-district-housing-project/&quot;&gt;routinely&lt;/a&gt; called for delays on new construction, in an effort to negotiate for subsidized affordable units on a project-by-project basis. Arguello countered that the months-long halt in construction was needed to study just what exactly could be feasible to expect from developers.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In his letter, Campos wrote, “there are no recognized studies evaluating the impacts on the Cultural District in particular, and therefore a [project] sponsor is unable to discuss impacts in the immediate area.” He also cites a study by the UC Berkeley Urban Displacement Project calling for further study on development at a local scale.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The May 2016 &lt;a href=&quot;https://www.scribd.com/document/320499064/Supervisor-Campos-Letter-to-Planning-Commission-August-3-2016#from_embed&quot;&gt;study&lt;/a&gt; by Karen Chapple and Miriam Zuk report mostly Bay Area-wide conclusions: “At the regional level, both market-rate and subsidized housing reduce displacement pressures, but subsidized housing has over double the impact of market-rate units.” The regional supply shortage is so drastic, however, they warn that these benefits will not immediately be reflected at the local level: “…neither market-rate nor subsidized housing production has the protective power they do at the regional scale, likely due to the extreme mismatch between demand and supply.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;For Campos and Calle 24, local retail remains a significant concern. Speaking before the Planning Commission, Campos cited the preservation of economic and cultural diversity in the Latino Cultural District as a primary goal. &lt;a href=&quot;http://missionlocal.org/2014/01/plans-for-latino-cultural-corridor-on-24th-street/&quot;&gt;Designated&lt;/a&gt; in 2014, the area is bounded by Potrero and Mission Streets on the east and west, and 22nd and Cesar Chavez longitudinally. Though the designation is largely symbolic, Campos is said to be working on legislation to delineate construction guidelines in the area, formally bolstering the district with land-use policy.
-San Francisco, Mission District&lt;/p&gt;
 
     
   
