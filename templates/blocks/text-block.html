@@ -1,12 +1,20 @@
 {% from "macros/ads.html" import render_ad %}
 <div class="text-block">
+	{% set textCounter = 0 %}
+	{% set lastAdParagraph = 0 %}
+
   {% for paragraph in this.text.__html__().split('<p') %}
     {% if paragraph %}
 				<p{{ paragraph }}
-				{% if range(1, 8)|random == 2 %}
+				{% set textCounter = textCounter + (paragraph | length) %}
+				{% set lastAdParagraph = lastAdParagraph + 1 %}
+
+				{% if textCounter > 800 and lastAdParagraph > 2 %}
 						<div class="news-article-ad-container-mobile">
 								{{ render_ad() }}
 						</div>
+						{% set textCounter = 0 %}
+						{% set lastAdParagraph = 0 %}
 				{% endif %}
     {% endif %}
   {% endfor %}
