@@ -2,11 +2,11 @@
 {% macro render_news_list(news_articles) %}
   <div class="pure-g">
 		{% for news_article in news_articles %}
-				<div class="pure-u-1 news-splash">
-						{% if loop.index <= 10 %}
-								{{ render_news_teaser(news_article) }}
-						{% endif %}
-				</div>
+				{% if loop.index <= 10 %}
+						<div class="pure-u-1 news-splash">
+										{{ render_news_teaser(news_article) }}
+						</div>
+				{% endif %}
 		{% endfor %}
 	</div>
 {% endmacro %}
