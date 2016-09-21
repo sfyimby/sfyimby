@@ -32,8 +32,8 @@
 		}
 
 		img.nav-social-logo {
-				margin-left: 0 !important;
-				margin-right: 0 !important;
+				margin-left: 4px !important;
+				margin-right: 4px !important;
 		}
 
 		div.news-teaser-title {
@@ -468,8 +468,7 @@ div.social_media_links a {
 img.nav-social-logo {
   height: 30px;
   margin: 0 auto;
-  margin-left: 1em;
-  margin-right: 1em;
+  margin-right: 16px;
   display: inline-block;
   float: right;
 }
