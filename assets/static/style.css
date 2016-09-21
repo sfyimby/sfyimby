@@ -36,6 +36,14 @@
 				margin-right: 4px !important;
 		}
 
+		div.header-social-subscribe {
+				display: none !important;
+		}
+
+		div.header-social-rss {
+				display: inline !important;
+		}
+
 		div.news-teaser-title {
 				font-size: 18px !important;
 				line-height: 25px !important;
@@ -155,14 +163,21 @@ div.header-social-logos {
 		font-size: 24px;
 }
 
-div.header-social-contact {
+div.header-social-subscribe {
 		float: left;
+		margin-right: 16px;
 		margin-top: 27px;
 }
 
 div.header-social-twitter {
 		float: left;
 		margin-top: 29px;
+}
+
+div.header-social-rss {
+		float: left;
+		margin-top: 29px;
+		display: none;
 }
 
 div.header-text-tag {
