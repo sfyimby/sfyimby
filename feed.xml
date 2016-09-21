@@ -9,6 +9,74 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/democratic-county-central-committee-considers-new-rule-to-restrict-grassroots-organizing/">
+    <title type="text">Democratic County Central Committee Considers New Rule to Restrict Grassroots Organizing</title>
+    <id>urn:uuid:41cc46bb-a801-3582-a8c5-23e437474e1e</id>
+    <updated>2016-09-20T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/democratic-county-central-committee-considers-new-rule-to-restrict-grassroots-organizing/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;The June 2016 election of the San Francisco Democratic County Central Committee was one of the most expensive in its history, with a record breaking $2.3 million reported spent. However, illustrating the adage that “money don’t vote,” the big spenders’ candidates &lt;a href=&quot;http://48hills.org/2016/06/07/lessons-june-7-election/&quot;&gt;mostly failed to win seats&lt;/a&gt; on the committee.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Reporting by the Reform slate friendly blog &lt;em&gt;48 Hills&lt;/em&gt; decried outsized spending on the Progress slate &lt;a href=&quot;http://48hills.org/2016/05/27/1-million-tech-real-estate-money-pours-june-sf-election/&quot;&gt;by a few donors&lt;/a&gt; - $25,000 from Ron Conway; $21,000 from Robert Rosania, developer of the &lt;a href=&quot;http://missionlocal.org/2015/03/the-monster-in-the-mission-makes-its-case/&quot;&gt;“Monster in the Mission”&lt;/a&gt;; $50,000 each from Google; Facebook; Evan Williams, the founder of Medium; and $30,000 from Kevin Systrom, founder of Instagram.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Having swept the election, two members of the Reform slate, Petra DeJesus and Pratima Gupta, now seek to prevent large donations by amending SF Democratic Party by-laws to prevent donations to candidates in excess of $500. The amendment exempts the candidates themselves from this limitation. The proposed amendment reads,&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;“Section 5:  LIMITS ON CONTRIBUTIONS TO CANDIDATES FOR THE SF DCCC.&lt;br&gt;
+No person &lt;em&gt;other than a candidate&lt;/em&gt; shall make, and no campaign treasurer for a candidate
+committee shall solicit or accept, any contribution which will cause the total amount contributed by such person to such candidate committee in an election to exceed $500.” (emphasis added)
+&lt;a href=&quot;https://d3n8a8pro7vhmx.cloudfront.net/sfdemocrats/pages/13/attachments/original/1474328101/SFDCCC_10-day_Notice_Agenda.pdf?1474328101&quot;&gt;See page 19 for full resolution&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;Todd David, Noe Valley Democratic Club Chair, supports the contribution limit, but is asking for a complementary resolution regarding prohibiting current elected officials from running for DCCC.  “It is ludicrous to say we should have contribution limits and then allow famous [or already rich] people to run - people who don't have to raise a dime to win,” he said.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;For niche elections like the Democratic County Central Committee, elections are won and lost because of name recognition, which favors established incumbents. 12 of the 24 newly elected DCCC members are current or former Supervisors.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This resolution would cripple an actual grassroots campaign for the DCCC,” claims Sonja Trauss, local organizer and co-owner of this paper. “A grassroots candidate, with no name recognition, has to canvass heavily in order to win. Time a candidate spends asking for money is time not spent asking for votes. One $5,000 donation saves the candidate from having to ask 10 people for $500, or, more likely, 100 people for $50 each. I wouldn’t argue with a resolution prohibiting actual large donations - $50,000 at a time. Limiting the contributions to small donations protects the people that are introducing the amendment: incumbents.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Another agenda item to watch on Wednesday is Chairperson Cindy Wu’s appointment of a new SF DCCC member due to a vacancy. Leading up the the June DCCC election, a rumor circulated that the DCCC was going to be stacked with high-profile elected officials who, after winning handily without spending any money, would vacate their seats and allow the new chair to replace them with a Democrat of the chair’s choice. The identity of the outgoing DCCC member is not yet known. If it does turn out to be a high profile elected, the rumor will be on its way to being substantiated.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The next DCCC meeting will be held on &lt;a href=&quot;http://www.sfdemocrats.org/meetings&quot;&gt;September 28th, 7pm at 455 Golden Gate Ave.&lt;/a&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-why-vote-at-16/">
     <title type="text">Dispatches from the Vote16 Campaign: Why Vote at 16?</title>
     <id>urn:uuid:7da21500-9efc-3240-a7b4-4dfc8c11bcc2</id>
@@ -3541,50 +3609,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;All three candidates cite strong support for a local rent control ordinance, which Sunnyvale currently lacks. While all of them cite “affordable housing” as a priority, Klein wades into the weeds of specificity by explicitly calling for an increase in the Below Market Rate requirement for new multifamily for-sale units, from 12.5% to 15%.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/chinatown-group-vows-to-tackle-vacancies/">
-    <title type="text">Chinatown Group Vows to Tackle Vacancies</title>
-    <id>urn:uuid:4201dc37-8fdf-3a0e-8f27-aa34c63492ab</id>
-    <updated>2016-08-11T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/chinatown-group-vows-to-tackle-vacancies/" />
-    <author>
-      <name>Jack Segal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Members of the Chinatown community gathered in Portsmouth Square last Wednesday to discuss the growing number of vacancies and the increasing economic hardship in the area. The square itself lies in the shadow of the Empress of China - a six story neighborhood landmark that has stood unoccupied for the last two years.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Sponsored by a newly founded community organization known as Treehouse Space, the event was centered on a recent visual survey that discovered a total of 46 vacant storefronts along the neighborhood’s main streets.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“These storefronts are the first signs of a kind of neglect,” Alfred Twu said. Twu (pictured, center) is an artist at Treehouse Space, who highlighted the cultural importance of the area, saying that it was place where he could really connect with his heritage.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Jenny Chan, the founder of Treehouse Space, was focused on solutions. “We just all need to come together and sit together to solve this issue,” she said, calling for the creation of “a ten year plan for the growth and revitalization of this neighborhood.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;According to a Chinatown resident who spoke at the event, the current plan for the area is almost 40 years old.&lt;/p&gt;
 
     
   
