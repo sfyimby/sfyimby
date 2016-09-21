@@ -527,3 +527,11 @@ h3 a {
 img.news_photo {
   max-width: 100%;
 }
+
+#mc_embed_signup .button {
+	background-color: #2a99b6 !important;
+}
+
+#mc_embed_signup .button:hover {
+	background-color: #33bbdf !important;
+}
