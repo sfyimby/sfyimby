@@ -2,13 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-21T00:00:00Z</updated>
+  <updated>2016-09-22T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/breed-succeeds-in-western-addition-housing-project/">
+    <title type="text">Breed Succeeds in Western Addition Housing Project</title>
+    <id>urn:uuid:4b8b2ec0-d986-36a5-8489-0846a81f152c</id>
+    <updated>2016-09-22T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/breed-succeeds-in-western-addition-housing-project/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;These past few were likely among the most nerve-wracking in Supervisor London Breed’s career. After facing &lt;a href=&quot;http://www.sfchronicle.com/politics/article/Feds-reject-housing-plan-meant-to-help-minorities-9146987.ph&quot;&gt;pushback&lt;/a&gt;p at the federal level against her Neighborhood Preference Ordinance, the Supervisor &lt;a href=&quot;http://sfbamo.com/news/breed-vows-to-fight-for-neighborhood-preference-ordinance/&quot;&gt;resisted amid rumors&lt;/a&gt; that her opponents had been conspiring with local representatives of the Department of Housing and Urban Development (HUD). This week, HUD &lt;a href=&quot;http://www.sfgate.com/news/article/Federal-agency-OKs-preferences-at-new-SF-senior-9238463.php?cmpid=twitter-mobile&quot;&gt;announced&lt;/a&gt; that they would allow neighborhood preference to determine the lottery for the Willie B. Kennedy apartments, although they still opposed the legislation overall.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Breed held a press conference this morning in front of the Willie B. Kennedy apartments in the Western Addition to announce the favorable ruling. The lottery for senior housing units in Willie B. Kennedy had been postponed pending HUD’s decision. Now nearby seniors will have drastically improved chances of winning a subsidized apartment, which Breed views as essential to stemming the loss of San Francisco’s black population. (The city’s African-American population has dwindled to around 5%, while also comprising  over 50% of jail inmates.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Passed unanimously by the Board of Supervisors last year, the law gives preference to residents within the supervisorial district (or within a half-mile radius otherwise) in the lottery for Below Market Rate units. Breed lobbied federal officials, including Representative Nancy Pelosi and Senator Diane Feinstein, and flew to Washington, DC with housing officials from Mayor Ed Lee’s office to meet with HUD representatives in defense of her legislation.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Breed also published an &lt;a href=&quot;http://www.sfexaminer.com/powdered-milk-moving-vans-fight-affordable-housing/&quot;&gt;op-ed&lt;/a&gt; today in the San Francisco &lt;em&gt;Examiner&lt;/em&gt; excoriating her opponents for criticizing her record on affordable housing. The supervisorial campaign by millionaire homeowner Dean Preston is supported by local tenant groups, which Breed notes were unwilling to help residents of public housing when her own family faced eviction. Supervisor Breed, who was raised in the projects that once stood across from Willie B. Kennedy, noted that her place of residence had just been sold after the landlord’s death.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Even a San Francisco Supervisor who lobbied federal officials in her efforts to curb displacement faces an uncertain future in her city.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/democratic-central-committee-considers-new-rule-to-handicap-grassroots-organizing/">
     <title type="text">Democratic Central Committee Considers New Rule to Handicap Grassroots Organizing</title>
     <id>urn:uuid:9578c32d-0a8c-3f2b-a46a-05329d9de0dc</id>
@@ -3459,135 +3503,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;While San Francisco has begun offering major signing bonuses to new candidates, the City of Oakland, which &lt;a href=&quot;https://oaklandnorth.net/2016/03/03/recruitment-fair-hopes-to-engage-new-teachers-addressing-oakland-teacher-shortage/&quot;&gt;also faces&lt;/a&gt; a teacher shortage, has been searching for Spanish and bilingual educators in Spain and Mexico.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/mutual-respect-admiration-dominates-bart-director-race/">
-    <title type="text">Mutual Respect, Admiration Dominates BART Director Race</title>
-    <id>urn:uuid:d5d1180c-dc4e-3cd6-8a85-006ec0867b53</id>
-    <updated>2016-08-15T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/mutual-respect-admiration-dominates-bart-director-race/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Bay Area residents love voting for elected office, and the BART Board of Directors elections are no exception. After District 9 Director Tom Radulovich announced two weeks ago that he would not be running for reelection, the BART Board race became a free-for-all among non-incumbents. Lisa Feldstein’s recently &lt;a href=&quot;https://twitter.com/LisaforBART/status/764288963846615040&quot;&gt;announced&lt;/a&gt; departure from the race leaves two candidates: former Supervisor Bevan Dufty, and local activist Michael Petrelis.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Observers have noted that this will be the second time Petrelis will appear on a ballot instead of running as a write-in candidate, which he did in last year’s mayoral election. Petrelis, who was previously on the ballot in opposition to Supervisor Scott Wiener of District 8 (and was served a &lt;a href=&quot;http://archives.sfexaminer.com/sanfrancisco/san-francisco-blogger-in-bathroom-flap-ordered-to-stay-away-from-wiener/Content?oid=2319109&quot;&gt;restraining order&lt;/a&gt; against Wiener), often posts findings from frequent Freedom Of Information Act requests on his blog, &lt;a href=&quot;http://mpetrelis.blogspot.com/&quot;&gt;The Petrelis Files&lt;/a&gt;. He faces strong opposition from Dufty, whose broad name recognition led to Feldstein dropping out of the race. Feldstein had previously been endorsed by Radulovich when he announced he would not be running.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/mutual-respect-admiration-dominates-bart-director-race/michael_petrelis.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Michael Petrelis&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;“Bevan is going to win,” Petrelis stated bluntly over the phone. “I’ve been friends with him for years. Both of us will run a positive, issues-oriented campaign.  I will not be raising money—I will be running a ‘DIY Democracy’ campaign. I will be campaigning only at the 16th Street BART station.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In his view, the 16th Street BART Plaza embodied the many shortcomings of the entire BART system. The plaza “speaks to terrible tenure of incumbent Radulovich,” he said. “These plazas have been sanitary hazards for years. You can find so much debris next to the escalator, it’s a fire hazard. The steps on both entrances are filthy—it doesn’t seem like there’s any maintenance of the entrances.  Two years ago, I &lt;a href=&quot;http://mpetrelis.blogspot.com/2014/06/dpw-cleans-up-bart-plaza-bird-poop-dph.html&quot;&gt;got&lt;/a&gt; BART and the Department of Public Works to steam-clean those plazas and to install anti-bird wiring to reduce pigeon poop.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Petrelis later referred us to his additional &lt;a href=&quot;http://mpetrelis.blogspot.com/2015/06/barts-major-changes-coming-to.html&quot;&gt;efforts&lt;/a&gt; in restocking elevator signage at the station. In deference to Dufty, he also spoke of his goals to increase public engagement with the Board of Directors. “I want the BART Board to hold evening meetings—currently they only meet at 9 AM—and listening sessions at the stations. My strength is going to be coordinating with Bevan to promote these issues.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;After his tenure on the Board of Supervisors, Dufty served as Mayor Ed Lee’s “homeless czar” before abruptly &lt;a href=&quot;http://www.sfgate.com/bayarea/article/Dufty-out-as-homeless-czar-deputy-to-take-6567096.php&quot;&gt;resigning&lt;/a&gt; in late 2015. As the point person for city policy on homelessness, he spearheaded beleaguered &lt;a href=&quot;http://sfpublicpress.org/news/2014-10/promise-of-supportive-housing-for-homeless-faces-reality-of-short-supply&quot;&gt;efforts&lt;/a&gt; to increase the number of shelter beds and supportive housing options.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/mutual-respect-admiration-dominates-bart-director-race/bevan.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Former Supervisor Bevan Dufty&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;When reached by phone, Dufty spoke with pride about establishing the first &lt;a href=&quot;http://missionlocal.org/2015/01/new-center-to-navigate-homeless-to-homes/&quot;&gt;navigation centers&lt;/a&gt; for the homeless in San Francisco. “People recognize that the navigation centers are successful because they meet people where they are. People on the streets have partners, pets, possessions… The way shelters have been established in SF, with minimal storage, forces people to choose between their loved ones and a shelter bed. They’re so grateful to go to a place where they don’t go through a metal detector, where they don’t feel like they’re in a prison, and can come and go as they please. These things are not rocket science, but they are revolutionary in addressing homelessness.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;He spoke approvingly of &lt;a href=&quot;http://www.sfgate.com/politics/article/Jeff-Kositsky-named-1st-director-of-SF-s-new-7462762.php&quot;&gt;Jeff Kositsky&lt;/a&gt;, the Director of the newly-formed Department of Homelessness and Supportive Services. He described Kositsky’s position as a consolidation of disparate agencies he felt had been plagued by a rigid “silo-ism” and non-collaboration. “I left because I had been concerned about some of the public utterances made about not wanting to see seeing homeless people when attending the Super Bowl. I feel like it helped push the issue, and the city created a new Department that consolidated all the services. I fought to create that position, and I think Jeff is doing a great job.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Dufty described the Board of Directors seat as an opportunity to continue his efforts to improve public transit in San Francisco. Noting the upcoming $3 billion bond for BART on the November ballot, he praised the &lt;a href=&quot;https://www.bart.gov/news/articles/2016/news20160609&quot;&gt;bond measure&lt;/a&gt; as necessary for updating BART’s train control system—the most antiquated in the region, after he helped replace the control system on MUNI.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;He also insisted that there was a dire need to improve public safety at BART stations.  In his view, his unanimous endorsement by the San Francisco Labor Council made him uniquely qualified to foster good relations between labor, management, and riders. “BART has a police department that sadly is known because of the tragic killing of &lt;a href=&quot;http://sfbayview.com/2015/02/centuries-of-rage-the-murder-of-oscar-grant-iii/&quot;&gt;Oscar Grant&lt;/a&gt;, so having a strong community policing approach that is welcoming to all of our patrons and really creates safety is of paramount importance to me. And there has to be accountability.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Dufty and District 7 candidate &lt;a href=&quot;http://www.lateefahforbart.com/&quot;&gt;Lateefah Simon&lt;/a&gt; have mutually endorsed each other. San Franciscans, he said, have “the opportunity to elect two very strong directors, in myself and Lateefah Simon.” He described him and Petrelis as &quot;colleagues&quot; who agreed on many things, but disagreed just as often in pursuit of better policy.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When serving as Supervisor during the last economic recession, Dufty also supported &lt;a href=&quot;http://sfpublicpress.org/news/2010-05/supervisors-support-fee-deferrment-to-encourage-building-in-the-city&quot;&gt;policies&lt;/a&gt; in 2012 to defer the collection of development fees until after completing construction.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Dufty presented an overarching goal of expanding access of services across the class divide. “Too many people that have the things we should be grateful for don’t really like to see the people who need services and resources actually getting them.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;He had no comment to offer on the cancellation of Feldstein’s campaign.&lt;/p&gt;
 
     
   
