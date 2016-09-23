@@ -2,13 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-22T00:00:00Z</updated>
+  <updated>2016-09-23T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/head-of-homeless-services-talks-brass-tacks-in-reddit-ama-forum/">
+    <title type="text">Head of Homeless Services Talks Brass Tacks in Reddit AMA Forum</title>
+    <id>urn:uuid:324e07c3-db7a-3793-9301-70a6282499e6</id>
+    <updated>2016-09-23T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/head-of-homeless-services-talks-brass-tacks-in-reddit-ama-forum/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;As director of the newly-minted Department of Homelessness and Supportive Housing, Jeff Kositsky arguably has the most challenging job in San Francisco. Though the Department for the most part remains in preliminary planning stages, Kositsky made a gesture of “radical transparency” yesterday by answering questions from anonymous users on Reddit, using the site’s popular &lt;a href=&quot;https://www.reddit.com/r/sanfrancisco/comments/541co2/hi_reddit_im_jeff_kositsky_and_im_the_director_of/?st=itg33n9v&amp;amp;sh=4ba60852&quot;&gt;“Ask Me Anything”&lt;/a&gt; forum style on the r/sanfrancisco page.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kositsky’s optimism and ambition weathered hardballs from even the most cynical of critics. He cited San Francisco among the top three cities he thinks are addressing homelessness the best, alongside Houston and Salt Lake City. “There are not more homeless people/capita in SF than in other similar cities,” he wrote as a preemptive answer to questions he anticipated. “It is more visible here because most services are in the central part of the city.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Several answers underscored both an excessive stigma on mental illnesses, and a paucity of services tailored to addressing those needs. Reddit user Gorakos noted in their question: “It seems that that subpopulation only ever receives emergency care but has nowhere to go but back to the streets following an exit from the hospital/police station/shelter.” Kositsky replied that Direct Access to Housing programs (DAH) showed great promise for curbing the cycle of poverty among the mentally ill, pairing permanent housing with on-site services. “They look and feel no different than the market rate housing around them and are way cheaper than folks coming in and out of the public health system, jail, etc,” he added.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kositsky also pointed to future plans of a navigation center for mental health issues, as well as leveraging new MediCal funds to increase mental health services. Kositsky’s predecessor Bevan Dufty had championed the opening of the first “navigation center” in the Mission District, which combines shelter beds with storage for possessions and services for both singles and families. Dufty abruptly quit his post earlier this year, later &lt;a href=&quot;http://sfbamo.com/news/mutual-respect-admiration-dominates-bart-director-race/&quot;&gt;citing&lt;/a&gt; disagreements on the clearing of homeless encampments near Super Bowl City.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Director repeated in many answers that one of his top priorities was consolidating 13 databases into one data system for tracking the city’s homeless population and the services they needed. Kositsky told the Reddit user Acccounttt that he expected a timeline of 12 months to quantify the effectiveness of current homeless services. At this time, the city holds contracts over 400 contracts with 76 differnet organizations to provide services for the homeless. Though he could not disclose the vendor for the department’s new data system, he promised a “real time dashboard on our website” upon its implementation.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Perhaps most strikingly, Kositsky urged respondents to move past the narrative of scapegoating the tech industry for the homelessness and poverty in the city. When one user asked him how tech companies could “improve their reputation,” he responded: “I do not believe any particular sector can be blamed for homelessness. The federal government stopped investing in affordable housing in any meaningful way in 1978. There are also some perverse incentives in the way our real estate market works.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Regarding the “perverse incentives,” Kositsky elaborated in another answer: “Homelessness is a failure of our real estate market to meet the needs of low-income individuals. Interesting that the biggest housing subsidy program is the mortgage interest tax deduction.” In other words, federal policy has been subsidizing middle class homeownership for decades, while leaving homeless services scrambling for grants and local sales tax initiatives.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Many major tech companies, he noted, and contributed much-needed funding, labor, and expertise to the new department. Aside from donating and volunteering, Kositsky added, “about 5 tech companies sent senior engineers to our offices to help us make the final decision on the SAS [Statistical Analysis System] product we are using for our new database. Poor vendor had the hardest interview ever.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kositsky’s ambition is not only to efficiently track the city’s progress, but to take that progress as far as possible by &lt;em&gt;solving homelessness.&lt;/em&gt; In response to a question about “measurable effects,” Kositsky plainly stated: “[e]nd veterans homelessness by 2019, reduce street homelessness by 50% in 2019, end family homelessness by 2020.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Reddit user raldi responded by setting a reminder for themselves to check back on December 31st, 2018: “How’d he do?” San Franciscans of all walks of life will be asking the same question in the coming years.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Photo by Hyunha Kim, Courtesy:&lt;/em&gt; &lt;a href=&quot;http://sfpublicpress.org/news/2016-06/how-media-coverage-on-homelessness-falls-short-and-what-reporters-can-do-about-it&quot;&gt;San Francisco Public Press&lt;/a&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/breed-succeeds-in-western-addition-housing-project/">
     <title type="text">Breed Succeeds in Western Addition Housing Project</title>
     <id>urn:uuid:4b8b2ec0-d986-36a5-8489-0846a81f152c</id>
@@ -3459,50 +3533,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Despite these demands, the planning commission unanimously approved both projects.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/san-francisco-2088-the-last-olympic-city-in-the-us/">
-    <title type="text">San Francisco 2088: The Last Olympic City in the US?</title>
-    <id>urn:uuid:99a6d968-c236-3100-a42e-9848d79c919f</id>
-    <updated>2016-08-16T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/san-francisco-2088-the-last-olympic-city-in-the-us/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;On warm summer days in the Bay Area, one can often hear an onlooker remark, while gazing at the shimmering clear sky, “this is what we pay exorbitant rents for—this perfect weather.” In 2088, another major industry may be making the same overtures toward San Francisco: the Olympics.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;UK medical journal The Lancet’s recently published &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S0140673616313356&quot;&gt;paper&lt;/a&gt;, “The last Summer Olympics? Climate change, health, and work outdoors” seeks to evaluate which major cities around the globe could withstand global warming enough to host the 2088 Olympics. Researchers Kirk Smith of UC Berkeley, Alistair Woodard, and other global health scientists paint a &lt;a href=&quot;http://www.fastcodesign.com/3062819/the-list-of-cities-that-could-host-the-2086-olympics-is-very-very-short&quot;&gt;grim picture&lt;/a&gt;. In the United States, San Francisco is the only city whose climate could support outdoor athletic competitions during the daytime.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The paper assumes that the International Olympic Committee would not want to host the events where there would be a 10% or higher chance that games must be cancelled to avoid heat stroke or death. (The research limits itself to the Northern Hemisphere due to its greater concentration of the world's population.) Only Calgary, Vancouver, and San Francisco would qualify in North America. Asia would only have two worth the risk: the capital cities of Bishkek, Kyrgyzstan, and Ulanbataar, Mongolia. By the 2100s, the only suitable cities left would be Belfast, Dublin, Edinburgh, and Glasgow.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The paper also points to the so-called &lt;a href=&quot;http://www.runnersworld.com/races/2007-chicago-marathon-melt-down&quot;&gt;“meltdown”&lt;/a&gt; of the aborted 2007 Chicago Marathon, in which 185 runners were raced to hospitals, and one contestant died. Kirk, Woodart et al insist this is evidence the patterns they predict are already well underway.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;More alarming is what researchers call the “pernicious impact” of climate change: overwhelming detriments for labor and the world’s poorest populations. Half of the world’s population works outside during the daytime, and Smith predicts that necessary changes in daytime behavior will be met with strong resistance from bosses trying to streamline productivity. “Increasingly,” the researchers write, “people will face a choice between doing what they have done for millions of years—work hard outdoors essentially any time they wish—and being safe.&quot;&lt;/p&gt;
 
     
   
