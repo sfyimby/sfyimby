@@ -2,13 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-23T00:00:00Z</updated>
+  <updated>2016-09-26T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/white-house-urges-zoning-reform-for-housing-affordability/">
+    <title type="text">White House Urges Zoning Reform for Housing Affordability</title>
+    <id>urn:uuid:c0adbd7a-63e9-3479-b5a5-c430822b49e5</id>
+    <updated>2016-09-26T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/white-house-urges-zoning-reform-for-housing-affordability/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;&quot;We can work together to break down rules that stand in the way of building new housing and
+that keep families from moving to growing, dynamic cities.” A quote from &lt;a href=&quot;http://www.spur.org/&quot;&gt;SPUR&lt;/a&gt;? A real estate lobbyist? Your libertarian cousin? Guess again: that was President Barack Obama.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The White House released a “Housing Development Toolkit” &lt;a href=&quot;https://www.whitehouse.gov/sites/whitehouse.gov/files/images/Housing_Development_Toolkit%20f.2.pdf&quot;&gt;paper&lt;/a&gt; today urging cities to reduce zoning regulations and increase their housing stock to ease increasing trends of economic segregation.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The diagnosis is stated plainly: “In just the last 10 years, the number of very low-income renters paying more than half their income for rent has increased by almost 2.5 million households, to 7.7 million nationwide, in part because barriers to housing development are limiting housing supply.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Correlated with a drastic increase in local zoning and permitting regulations in American municipalities, the paper notes a commensurate divergence in home prices and construction costs. While the cost of construction has remained relatively stable in the same time period, home prices skyrocketed. The paper suggests this growing gap is due to “land use restrictions that make developable land much more costly than it is inherently…and unnecessarily slow permitting processes.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/white-house-urges-zoning-reform-for-housing-affordability/potus1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;The paper’s “toolkit” includes a number of wide-ranging policy recommendations, including by-right development, which failed to gain support in the California legislature earlier this summer. Other efforts to improve housing production, including the  elimination of minimum parking requirements, have recently been enacted in &lt;a href=&quot;http://sfbamo.com/news/oakland-modernizes-parking-regulations/&quot;&gt;Oakland&lt;/a&gt; and &lt;a href=&quot;http://www.eastbayexpress.com/SevenDays/archives/2015/10/05/berkeley-councilmember-lori-droste-proposes-reforms-to-prioritize-affordable-housing-over-parking&quot;&gt;Berkeley&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The White House did acknowledge that there was a complex history to localized Not In My Back Yard attitudes, often motivated by concerns over human welfare. “Not all barriers to housing development have negative impacts,” the report notes, citing efforts that “can increase the supply of well-located affordable housing, address externalities such as environmental impacts associated with development, create better connections between housing options accessible to transit, and support the fiscal health of states and localities. But the accumulation of even well-intentioned land-use policies can restrict housing availability; create uncertainty for developers and limit private investment; exacerbate the imbalance between jobs and housing; and induce urban sprawl.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Last week, Governor Jerry Brown alluded to these very restrictions at a meeting of the Urban Land Institute in SF’s Moscone Center. The veteran politician extolled the virtues of judiciously picking one’s battles, and addressing the shortcomings of the California Environmental Quality Act was not one of them. “CEQA reform is the Lord’s work,” Brown said, “but the Lord’s work doesn’t always get done.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;A recent &lt;a href=&quot;http://sfbamo.com/news/study-finds-rampant-ceqa-abuse-in-southern-california/&quot;&gt;study&lt;/a&gt; found that 99% of CEQA litigation in Southern California targeted infill development of multifamily residences, rather than greenfield development in rural areas commonly associated with urban sprawl. As for maintaining a balance of market-rate and permanently affordable housing, a &lt;a href=&quot;http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/&quot;&gt;study by this paper&lt;/a&gt; confirmed San Francisco Controller Ben Rosenfield’s warnings that too high of a requirement could hinder the net production of housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Although growth is certainly happening in high-demand cities, the White House makes the case that this growth is not being distributed equitably, and can harm lower-income communities of color the most. “When new housing development is limited region-wide, and particularly precluded in neighborhoods with political capital to implement even stricter local barriers, any new development tends to be disproportionally concentrated in low-income communities of color, causing displacement and concerns of gentrification in those neighborhoods, raising market rents within neighborhoods experiencing rapid changes while failing to reduce housing cost growth region-wide.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Longer commutes from exurbs to job centers are only the beginning of an ongoing cascade of inequities that arise when growth is concentrated in areas such as The Mission or South Berkeley, for example, while affluent neighborhoods such as North Berkeley or Telegraph Hill remain virtually untouched.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-canvassing/">
     <title type="text">Dispatches from the Vote16 Campaign: Canvassing</title>
     <id>urn:uuid:668f2fbb-3c7d-3e87-93f7-0098b1ea2a2c</id>
@@ -3429,90 +3516,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Eventually a motion to delay the decision did pass, on the condition that Los Gatos would consult with the California Department of Housing &amp;amp; Community Development on the city’s &lt;a href=&quot;http://www.abag.ca.gov/planning/housingneeds/pdfs/comments/6-21-12%20RHNA%20Comments_Los%20Gatos.pdf&quot;&gt;Regional Housing Needs Allocation&lt;/a&gt;, and study the “economics” of the situation. The project is expected to return before the council in September.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/san-jose-approves-102-temporary-housing-units/">
-    <title type="text">San Jose Approves 102 Temporary Housing Units</title>
-    <id>urn:uuid:2ba24fec-6656-3bee-8e1c-7694ac1d3438</id>
-    <updated>2016-08-17T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/san-jose-approves-102-temporary-housing-units/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;San Jose’s City Council voted yesterday to approve a temporary modular housing project on Evans Lane, amid vocal criticism in support of a permanent alternative. The proposal passed by an 8-3 vote, with Pierluigi Oliverio, Manh Nguyen and Johnny Khamis opposed in the dissent.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The site on Evans lane lies in the Willow Glen neighborhood of South San Jose, just off the Almaden Expressway. Oliverio (pictured above), whose district covers the site, insisted that he would prefer to see high-density apartments built on the 6 acres of city-owned land. He stated that “housing 1,000 people in the long term versus 102 people in the short term is the better option,” adding that the temporary project would worsen problems in the area.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/san-jose-approves-102-temporary-housing-units/almaden_expressway.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Almaden Expressway, San Jose&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;There will be 102 temporary modular homes in the approved project, which could house at least two people each, as opposed to the 446 permanent units in the alternative proposal. Staff emphasized that only half of the 446 would be “affordable.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;City staff recommended the temporary modular units, provided by non-profit developers Abode Servoces, on the basis of greater financial feasibility and more immediate relief in the midst of the city’s shelter crisis. Abode’s project would cost $15 million in city funds and open in the summer of 2017 until 2032; the previous permanent proposal would be completed in 2022 and cost $109 million, with city funds leveraged with state and federal subsidies. Oliverio objected to this projection in moving to pass the permanent alternative, suggesting that many developers would be interested in building o”n the site, “by my discussions, faster than the timeline staff has provided.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In their presentation, city staff urged the council to not consider the alternatives to be at cross purposes. “If you approve this…we will continue to build permanent affordable housing,” said city housing director Jacky Morales-Ferrand. In staff’s assessment, the interim housing would merely “prep them” to move into move into “permanent, supportive” housing after more is built.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Permanent housing for the homeless population, according to staff, “will lag because of need for financing”—moreover, they urged council to view the 102 modular units as an investment in the quality of the neighborhood. Morales-Ferrand spoke of “bringing more amenities” to a neighborhood which she admitted “has been left behind.” The Adobe project will include a dog park, small library and community garden.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A Willow Glen resident speaking in favor of the permanent option described his neighborhood as a proud working-class Latino &amp;amp; Vietnamese community that focused on their families after working long weekday hours. Temporary residents, on the other hand, “would leave after nine months…and if people don’t care about the community, they don’t care about the neighborhood.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Approval came late in the night, with the meeting lasting a total of seven and a half hours.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Residents will share the site with four case managers and two property managers, and will have 24-hour security. Adobe Services plans on the land from the city for $1 a year, as well as passing on any net profit the project may yield.&lt;/p&gt;
 
     
   
