@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-26T00:00:00Z</updated>
+  <updated>2016-09-27T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/four-decades-later-lao-analyzes-impacts-of-prop-13/">
+    <title type="text">Four Decades Later, LAO Analyzes Impacts of Prop 13</title>
+    <id>urn:uuid:fb75a44d-f9eb-3f65-8f7a-6363d1a971a8</id>
+    <updated>2016-09-27T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/four-decades-later-lao-analyzes-impacts-of-prop-13/" />
+    <author>
+      <name>Leigha Beckman</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Last week, the Legislative Analyst’s Office (LAO) issued &lt;a href=&quot;http://lao.ca.gov/Publications/Report/3497&quot;&gt;a report&lt;/a&gt; on California’s Proposition 13, a 1979 ballot measure limiting property taxes. The independent agency studied its effects on homeownership, tax revenue, and local government land use decisions nearly four decades after its passage.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Prop 13’s stated purpose was to bring property tax relief for homeowners. According to the LAO study, Prop 13 did have this effect for &lt;em&gt;some&lt;/em&gt; homeowners, while increasing costs for other households. High-income homeowners earn the highest amount of tax relief, as high earners tend to own larger and more expensive homes, and essentially have more market value on which to accrue savings. However, the report does find that due to Prop 13, households in the same city or even same neighborhood face vastly different tax burdens, even on homes that have the same market value, and often even across similar age and income groups.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Prop 13 almost immediately depleted tax revenues, causing local governments to seek other funding sources to make up for the shortfall, namely sales, hotel, and utility taxes. It does not appear to have deterred the creation of new businesses, even though new businesses face a higher tax burden than their incumbent competitors. Moreover, reassessments (which reset the tax rate) are performed at the same rate for residential and commercial properties.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;With respect to local land use decisions, the LAO report finds that Prop 13 may have slowed the formation of new local governments, which now serve more residents than prior to the passage of Prop 13. The study also looks at the impact of Prop 13 on zoning decisions made by local governments, sampling 73 cities of similar size and populations with different tax revenue makeup (i.e. property tax versus sales tax) to evaluate any differences. It found that cities with higher property taxes did not tend to rezone for more housing, nor did cities with lower property taxes tend to rezone for less housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;When developers seek to build new properties, the costs associated with that new development must be offset in other ways by local governments who can no longer solely rely on property taxes. Impact fees are one way to do this, and pose minimal political challenges as they do not require voter approval. However, impact fees raise the cost of construction, which in turn increase home and rental prices.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;California is not alone in imposing these fees; nearly half of states have them. However, according to this study, California’s fees were almost three times as high as the average across all the states in the survey. The report makes only brief mention of renters, positing that “landlords facing slower increases in their property tax bills may be less inclined to increase rents.” Due to the uncertainty of this effect, however, the LAO was unable to quantify those benefits.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The final question posed by the study, and implicitly baked into the measure’s aim itself: Does Prop 13 increase homeownership?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The LAO finds the Prop 13 reduced homeownership costs for some households, namely retirees on fixed incomes in certain parts of the state. But in coastal California, it has not. Since Prop 13 required local governments to raise fees on home builders, costs for new young buyers have gone up, leading to a significant reduction in their homeownership rates. Prior to Prop 13, households ages 35 to 45 made up nearly two-thirds of all homebuyers. Now they make up less than half. Meanwhile, the share of Californians who are homeowners at all has remained largely unchanged, suggesting that households aged 45 and older have made up for the losses of younger aspiring homeowners.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;While calls for Prop 13 reform have increased as of late, Governor Jerry Brown &lt;a href=&quot;http://www.sfgate.com/news/amp/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;recently stated&lt;/a&gt; he is not interested in fighting that battle. Brown, who vehemently opposed the bill when it was proposed in 1978, rejects proposals for a “split roll,” which would allow commercial properties to be assessed more frequently than they are currently, arguing that its implications are more complicated than proponents acknowledge.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/white-house-urges-zoning-reform-for-housing-affordability/">
     <title type="text">White House Urges Zoning Reform for Housing Affordability</title>
     <id>urn:uuid:c0adbd7a-63e9-3479-b5a5-c430822b49e5</id>
@@ -75,7 +139,7 @@ that keep families from moving to growing, dynamic cities.” A quote from &lt;a
     
   
     
-				&lt;p&gt;Last week, Governor Jerry Brown alluded to these very restrictions at a [meeting(&lt;a href=&quot;http://www.sfgate.com/news/article/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;http://www.sfgate.com/news/article/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&lt;/a&gt;) of the Urban Land Institute in SF’s Moscone Center. The veteran politician extolled the virtues of judiciously picking one’s battles, and for him, addressing the shortcomings of the California Environmental Quality Act was not a top choice. “Reform of CEQA is the Lord’s work,” Brown said, “but unfortunately the Lord’s work doesn’t always get done.”&lt;/p&gt;
+				&lt;p&gt;Last week, Governor Jerry Brown alluded to these very restrictions at a &lt;a href=&quot;http://www.sfgate.com/news/article/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;meeting&lt;/a&gt; of the Urban Land Institute in SF’s Moscone Center. The veteran politician extolled the virtues of judiciously picking one’s battles, and for him, addressing the shortcomings of the California Environmental Quality Act was not a top choice. “Reform of CEQA is the Lord’s work,” Brown said, “but unfortunately the Lord’s work doesn’t always get done.”&lt;/p&gt;
 
     
   
@@ -3442,80 +3506,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Supervisor London Breed, a native of the Western Addition who was raised in public housing, described it as a “devastating blow” to San Francisco’s black population. “I’m not giving up that easy,” she added in a &lt;a href=&quot;https://twitter.com/LondonBreed/status/765936705559855104&quot;&gt;tweet&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/los-gatos-delays-decision-on-320-units/">
-    <title type="text">Los Gatos Delays Decision on 320 Units</title>
-    <id>urn:uuid:c035aaf7-8014-37d7-b16e-1600c3c6a1a5</id>
-    <updated>2016-08-17T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/los-gatos-delays-decision-on-320-units/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;We reported last month that Los Gatos would be facing a contentious decision on a mixed-use apartment development in the North 40 area, at the intersection of two highways. Last night, the Los Gatos Town Council voted to postpone thei decision on the 320-unit project until September.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Spearheaded by Eden Housing and SummerHill Homes, the dwelling units come as part of a broader development by Grosvernor Americas which would also include 66,381 square feet of retail space and open, walkable plazas decorated with local flora.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/los-gatos-delays-decision-on-320-units/n40.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Map of the proposed North 40 project&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Councilmember Marcia Jensen urged an unsuccessful motion to approve the project. She cited the region’s dire need for new housing, mentioning both Kate Downing’s recent &lt;a href=&quot;https://shift.newco.co/letter-of-resignation-from-the-palo-alto-planning-and-transportation-commission-f7b6facd94f5#.g3y6hlb57&quot;&gt;resignation&lt;/a&gt; from the Palo Alto Planning Commission, as well as local litigation group &lt;a href=&quot;http://www.carlaef.org/&quot;&gt;CaRLA&lt;/a&gt;’s threat to sue under the Housing Accountability Act.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Beauty is in the eye of the beholder,” she argued. “That’s a subjective standard.” She later reminded the audience, “we all live in houses that used to be an orchard.” She also delivered scathing rebuttals to those who scoffed at the threat of litigation. “Lots of you said, 'don't worry about litigation, we'll deal with that.' …Threatening to sue is not bullying,” she insisted. “Bullying is being called a murderer in a town council meeting. Bullying is getting cars broken into and trashed.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Jensen seemed to be fully aware that her unpopular opinion could face blowback. “I recognize that saying what I'm saying now, there are personal consequences to that.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Despite the controversy, a contesting motion by Mayor Barbara Spector to deny approval of the project also failed to pass. After further discussion, the mayor expressed her primary concern to be the cost of market-rate rentals, not the density, and suggested she could support the project if it included Below Market Rentals.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Eventually a motion to delay the decision did pass, on the condition that Los Gatos would consult with the California Department of Housing &amp;amp; Community Development on the city’s &lt;a href=&quot;http://www.abag.ca.gov/planning/housingneeds/pdfs/comments/6-21-12%20RHNA%20Comments_Los%20Gatos.pdf&quot;&gt;Regional Housing Needs Allocation&lt;/a&gt;, and study the “economics” of the situation. The project is expected to return before the council in September.&lt;/p&gt;
 
     
   
