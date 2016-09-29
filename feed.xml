@@ -2,13 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-28T00:00:00Z</updated>
+  <updated>2016-09-29T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/governor-signs-bill-for-teacher-housing/">
+    <title type="text">Governor Signs Bill for Teacher Housing</title>
+    <id>urn:uuid:e21007ae-3923-34ee-8aec-a5f3d8c9e66b</id>
+    <updated>2016-09-29T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/governor-signs-bill-for-teacher-housing/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Governor Jerry Brown signed more than 50 bills on Tuesday, including one allowing school districts to build affordable housing for school districts. &lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB1413&quot;&gt;SB1413&lt;/a&gt;, introduced by Senator Mark Leno (D-San Francisco), intends to stem the displacement of teachers and other school employees due to soaring housing costs. Previous efforts to harness the existing pipeline of housing production to help teachers, namely those &lt;a href=&quot;http://sfist.com/2016/02/02/campos_introduces_legislation_to_pr.php&quot;&gt;spearheaded&lt;/a&gt; by Supervisor David Campos, were &lt;a href=&quot;http://www.sfchronicle.com/opinion/editorials/article/Housing-protection-for-teachers-is-ill-advised-6802223.php&quot;&gt;admonished&lt;/a&gt; for incurring risks of violating federal law and disincentivizing landlords from renting to teachers.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The region’s educators mostly find themselves too highly paid to qualify for subsidized housing, but not wealthy enough to afford market-rate housing under current scarcity conditions. Leno’s bill would enable school districts to lease land for affordable housing construction, and allow housing projects for teachers to qualify for federal funding.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“When high quality teachers can’t afford to live where they work, the entire community suffers,” Senator Leno said via email. “Governor Brown’s approval of SB 1413 will help school districts directly address the housing affordability challenges facing teachers and reduce high turnover rates.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/a-jazzy-kickoff-for-propositions-j-and-k/">
     <title type="text">A 'Jazzy Kickoff' for Propositions J and K</title>
     <id>urn:uuid:03895079-f920-3320-8c36-c77853a8f68f</id>
@@ -3339,143 +3373,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Whatever one’s opinion on the bus lanes may be, it is beyond any doubt that Dufty and Petrelis now face stiff competition.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/yes-even-hollywood-liberals-love-sprawl/">
-    <title type="text">Yes, Even Hollywood Liberals Love Sprawl</title>
-    <id>urn:uuid:75cfa2c1-14bd-37a2-91ef-4436f86fee1c</id>
-    <updated>2016-08-19T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/yes-even-hollywood-liberals-love-sprawl/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Leigha Beckman is a Special Contributor to SF YIMBY.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Los Angeles – that bastion of car-centric metro sprawl, has lately made surprising progress toward smart, urban growth in recent years. It has dramatically increased residential density downtown with some 22,000 new units under construction; its car ridership is trending downward, and LA Metro plans to raise $120 billion with a sales tax measure on projects like Bus Rapid Transit (“BRT”) corridors and light rail extensions.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Things have been looking good for Los Angeles – until now.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;And before I go any further, I must say that admitting anything positive about LA as a San Franciscan is heresy, obviously; even worse if you are from the perennially blaspheming Orange County like me, and NorCal apostasy is your thing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;But for once, being from Orange County doesn’t make me the villain in this story. No, that award goes to the likes of shiny blue medalists Leonardo DiCaprio, Kirsten Dunst, and Joaquin Phoenix, amongst other Hollywood stars who are backing a conservative, regressive anti-growth measure called the “Neighborhood Integrity Initiative”. These celebrities, whose well-informed opinions about urban planning policy surely matter, decided to lend their “famous people I like support this” credence to the proposal’s merits.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The appealingly monikered “Neighborhood Integrity Initiative” is a proposed ballot measure that would severely inhibit development in LA by essentially banning any deviations from the existing General Plan (a restrictive and outdated framework responsible for heavy downzoning and the sprawling mess we see today), and worst of all place a two-year moratorium on any development project that requires an exemption from the area's height requirement (which would be most of them).&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;San Franciscans – sound familiar? Remember Prop I from last November?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;If you know anything about local politics—in virtually any locality—you should know that something called the “Neighborhood Integrity Initiative” is pretty much guaranteed to lack integrity, and far more likely to favor paranoid incumbency and fear-mongering over common sense or forward thinking.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Anyway, let’s take a closer look at the 23-page measure itself, rather than skimming emotionally charged aphorisms from biased sources, because the text of the bill is what actually matters, not a slogan on Leo’s T-shirt. (Not that Leo wears t-shirts.) As with most ballot measures of this nature, it begins with a slew of dramatized findings that allegedly characterize our present, but follows those findings with backward looking solutions as the irrefutable fix.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In fairness, the initiative does capitalize on a truth of Los Angeles’s planning system, which is that existing design perimeters (height limits and zoning restrictions, in particular) can be maneuvered through various workarounds in the planning code. What it fails to do is address those shortcomings in a method beneficial to the overall urban planning landscape.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;For example, this:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;“Piecemeal amendment of the City’s General Plan violates principles of comprehensiveness and long-term general planning embedded in the City’s Charter…”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;is a fair objection. Why have a General Plan if you’re going to bypass its requirements with each new project? But this:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;“The development of projects containing a significant component of multifamily housing has an adverse impact on health and safety when such projects are approved in areas that are not currently zoned for housing on such a scale or which do not currently permit housing on such a scale under the General Plan…”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;is misleading and reactionary. The implication that apartment buildings should only go up where we zoned for them to decades ago – never mind any changes in planning needs, population growth, or new academic literature that may better inform our decision-making – flies in the face of the desperate housing needs of a growing number of young adults, newcomers, renters, and otherwise non-comfortably housed LA residents.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;80 to 85% of Los Angeles is zoned for single-family homes. While that sounds great it you already a single-family homeowner – an increasingly exclusive privilege – it severely limits the ability to find housing for everyone else. This zoning system leaves just 15-20% of LA’s zoned areas available for everything else, including multifamily residences.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;So rather than acknowledge that perhaps zoning laws need to be updated, the measure invokes a protectionist “get off my lawn” attitude toward newcomers, or even existing residents who are being choked by the region’s exorbitant housing costs.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It is worth reiterating that car ridership is declining. The initiative would probably undo that, by calcifying parking space requirements for new developments.&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;“…under no circumstances may the required on-site parking be reduced by more than one-third (including by remote off-site parking) from the number of spaces otherwise required to be provided by any other applicable provisions of the Los Angeles Municipal Code.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;This is especially ironic given that one of the measure’s chief concerns is that new residents strain existing roads and other infrastructure, so rather than looking for ways to promote bicycling and other less impactful forms of transit, they instead double-down on maintaining (or limiting the reduction of) existing parking requirements.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;And finally, if you think you are being green by blocking new development in dense, urban areas, empirical evidence would like a word with you. We need population growth to take place in already-developed, preferably urban locations – otherwise we sprawl outward in energy-draining, polluting, increasingly unsustainable ways. Living in cities is far better for the environment than the low-density system of sprawl the NII folks seem to prefer: the average carbon footprint of households living in the center of large, population-dense urban cities is about 50 percent below average, while households in distant suburbs are up to twice the average.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;This is a dismaying display of reactionary, old-guard NIMBYism, and just as dismaying that ostensibly left-leaning, well-meaning Hollywood names are behind it.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Now is not the time for LA to lock in an outdated planning code. If the planning system is broken, let’s apply forward-looking fixes – not an unwanted sequel of the failed past.&lt;/p&gt;
 
     
   
