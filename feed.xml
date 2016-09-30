@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-29T00:00:00Z</updated>
+  <updated>2016-09-30T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/">
+    <title type="text">Caltrain Electrification to Proceed After Atherton Lawsuit Fails</title>
+    <id>urn:uuid:83f0bc17-5ccb-38ae-804d-1b46721b9de9</id>
+    <updated>2016-09-30T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/" />
+    <author>
+      <name>Leigha Beckman</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Nearly two years since Atherton sued the Peninsula Corridor Joint Powers Board over the Caltrain electrification project, a ruling has come in favor of the project, validating the environmental impact report that was at issue.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Peninsula Corridor Electrification Project (PCEP) is part of &lt;a href=&quot;http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html&quot;&gt;Caltrain’s Modernization Program&lt;/a&gt;. The plan is designed to improve Caltrain system performance, reduce noise, improve air quality, and is expected to accommodate increased system ridership through its improved service operations. An electrified Caltrain is scheduled to be operational by late 2020 or early 2021.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Atherton’s basis for the &lt;a href=&quot;http://www.almanacnews.com/media/reports/1423535501.pdf&quot;&gt;lawsuit&lt;/a&gt; was inadequate completion of the Environmental Impact Report, specifically claiming that it failed to address the cumulative impact of both the electrification project and the high speed rail project also slated to run through the corridor. In its complaint, Atherton disputed the “standalone” nature of the electrification project, citing proposed Caltrain compatibility with the high speed rail, as well as shared funding, as indicative of a blended system that would require additional environmental study.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Judge Barry P. Goode of Contra Costa County Superior Court ultimately rejected this claim. Siding with Caltrain, he stated the two projects were independent of one another, and that even if the High Speed Rail Project “never take[s] a step forward”, the electrification project could still be implemented successfully.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Stuart Flashman, a land use and environmental attorney who represented Atherton in the suit, has battled many infrastructure projects in the Bay Area. Earlier this year, &lt;a href=&quot;http://www.mercurynews.com/2016/04/06/cupertino-city-council-groups-initiative-could-raise-neighborhood-building-height-limits-to-45-feet/&quot;&gt;Flashman fought a ballot initiative&lt;/a&gt; in Cupertino that asked voters to approve a new housing and commerical development, effectively raising height limits from 30 feet to 45 feet. Flashman also sits on the Rockridge Community Planning Council (RCPC), and has frequently voiced traffic and parking concerns in response to several projects in the Rockridge neighborhood, including the &lt;a href=&quot;http://www.eastbayexpress.com/oakland/shall-we-shop-at-safeway-or-safeway/Content?oid=2967148&quot;&gt;renovated Safeway&lt;/a&gt; on College Avenue.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In 2011, Flashman also &lt;a href=&quot;http://www.westsideobserver.com/news/rogers.html&quot;&gt;represented litigants&lt;/a&gt; in an unsuccessful appeal to prevent housing construction in San Francisco's Parkmerced neighborhood (nearly 9,000 units in total, of which up to 3,200 units would be rent-controlled).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Adina Levin, the Project Director at &lt;a href=&quot;http://www.greencaltrain.com/about/&quot;&gt;Friends of Caltrain&lt;/a&gt;, was thrilled with the ruling.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Caltrain electrification is a popular, highly beneficial, essential, and long-awaited project. It will help more people use sustainable transportation and relieve congestion, and it is critical to Peninsula corridor cities ongoing transit-oriented development,” she told the &lt;em&gt;Metro Observer&lt;/em&gt;. Levin described the lawsuit as “a vain attempt to defend against high speed rail by crippling our region's transportation and land use goals is baffling...We are glad to see this lawsuit dismissed so definitively.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Besides easing traffic congestion, there are numerous environmental benefits cited for the project. According to &lt;a href=&quot;http://www.caltrain.com/about/MediaRelations/news/Caltrain_s_Board_Approves_Electrification_Design-Build_and_EMU_Contracts.html&quot;&gt;Caltrain’s website&lt;/a&gt;, an electrified system will improve regional air quality by up to 97% and reduce greenhouse gas emission by 176,000 metric tons of CO2, taking more than 619,000 daily vehicle miles off the region’s roadways by 2040.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/governor-signs-bill-for-teacher-housing/">
     <title type="text">Governor Signs Bill for Teacher Housing</title>
     <id>urn:uuid:e21007ae-3923-34ee-8aec-a5f3d8c9e66b</id>
@@ -3484,45 +3548,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Hopefully, a bill of this nature will rise from the ashes next year.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/designs-released-for-affordable-housing-in-telegraph-hill/">
-    <title type="text">Designs Released for Affordable Housing in Telegraph Hill</title>
-    <id>urn:uuid:3577ee25-145e-324a-bf3d-ee60284c3466</id>
-    <updated>2016-08-19T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/designs-released-for-affordable-housing-in-telegraph-hill/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Architects at Leddy Maytum Stacy recently &lt;a href=&quot;http://sfport.com/88-broadway-seawall-lot-322-1&quot;&gt;released&lt;/a&gt; their plans for a 6-story building with 186 units of affordable housing at 88 Broadway Street, at the base of Telegraph Hill. Known as Seawall Lot 322-1, the project has been described by the Port of San Francisco as “the greatest affordable housing development opportunity among the Port’s seawall lots in the northeastern waterfront.” Nevertheless, the project has faced stiff opposition from incumbent neighborhood groups, including the Telegraph Hill Dwellers, over the specific parameters of affordability.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In the current plan, 11,400 square feet of ground-floor retail would replace what is currently a parking lot. Above it, BRIDGE Housing and the John Stewart Company will be partnering to build 150 residential units for households making 40-120% of the Area Median Income, with an additional 32 units reserved for senior citizens earning 40-70% AMI. The project would also include a mixed-income childcare center run by the YMCA of San Francisco. Lutheran Social Services will also provide on-site support for 37 apartments reserved by subsidies for formerly homeless households.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A coalition of local groups such as the Barbary Coast Neighborhood Association and the Telegraph Hill Dwellers successfully forced developers and the city to include units for households earning 80-120% of Area Median Income. Barbary Coast president Robert Harrer told the &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/morning_call/2015/03/telegraph-hill-port-parking-lot-affordable-housing.html&quot;&gt;Business Times&lt;/a&gt;, “We don't want to be a neighborhood that ends up with just the rich and poor. We want a neighborhood that's for everyone.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The median home price in Telegraph Hill is listed as $1.1 million on &lt;a href=&quot;http://www.zillow.com/telegraph-hill-san-francisco-ca/home-values/&quot;&gt;Zillow&lt;/a&gt;.&lt;/p&gt;
 
     
   
