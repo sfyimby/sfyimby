@@ -2,13 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-09-30T00:00:00Z</updated>
+  <updated>2016-10-03T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/leno-expands-liquor-licenses-in-san-francisco/">
+    <title type="text">Leno Expands Liquor Licenses in San Francisco</title>
+    <id>urn:uuid:d52257df-7564-37cc-b72c-323568cc0e97</id>
+    <updated>2016-10-03T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/leno-expands-liquor-licenses-in-san-francisco/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;After the end of prohibition, the state of California restricted the number of liquor licenses it granted to one per 2,000 residents in a county. Many San Francisco licenses have been grandfathered in since that time, with over 1,000 licenses far exceeding the 418 allowed by law. Local businesses trade existing licenses in a steeply inflated secondary market. State Senator Mark Leno negotiated the issuance of five new liquor licenses to San Francisco County in &lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB1285&quot;&gt;SB-1285&lt;/a&gt;, a bill signed by Governor Jerry Brown last week.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The new licenses will be targeted toward outer commercial districts where restaurants may not be able to afford $300,000 for a license—instead, startup costs will require a much lower $13,800 application fee for a non-transferable license. Eligibility is directed at commercial corridors in the Excelsior, Visitacion Valley, Bayview, and the Sunset, rather than already-booming districts such as Hayes Valley or the Mission.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The new licenses are intended to increase business opportunities in neighborhoods that have seen relatively little growth amid the city’s vast employment gains. Ben Van Houten, Business Development Manager for nightlife at the Office of Economic and Workforce Development, &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/news/2016/09/30/sf-new-liquor-licenses-jerry-brown-abc-restaurants.html?ana=RSS%26s=article_search&quot;&gt;told&lt;/a&gt; the &lt;em&gt;Business Times&lt;/em&gt;: “there are corridors without a single restaurant with a full liquor license, and others with only a few, when you have tens of thousands of residents.” His office initially asked for 28 new licenses, and plans to continue lobbying the State Legislature for more.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Should the number of applicants exceed the five new licenses available, the licenses will be issued in a lottery system. San Francisco will issue its first new liquor licenses in 77 years in September 2017.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/">
     <title type="text">Caltrain Electrification to Proceed After Atherton Lawsuit Fails</title>
     <id>urn:uuid:83f0bc17-5ccb-38ae-804d-1b46721b9de9</id>
@@ -3589,40 +3628,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Local resident Kate V. Downing recently made &lt;a href=&quot;http://sanfrancisco.cbslocal.com/2016/08/12/kate-vershov-downing-palo-alto-planning-commission-pricey-housing/&quot;&gt;headlines&lt;/a&gt; after delivering her very public resignation from Palo Alto's Planning Commission. Mayor Patrick Burt responded to the media firestorm in an interview with Curbed published today and... we just can't even. We can't. Read it for yourself &lt;a href=&quot;http://sf.curbed.com/2016/8/23/12603188/palo-alto-mayor-housing-interview&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/new-project-with-ample-parking-planned-for-uptown-oakland/">
-    <title type="text">New Project With Ample Parking Planned for Uptown Oakland</title>
-    <id>urn:uuid:0a7ea00f-ae82-36ef-a07c-fc3750ec8a12</id>
-    <updated>2016-08-22T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/new-project-with-ample-parking-planned-for-uptown-oakland/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;A 7-story apartment &lt;a href=&quot;http://www.eastbayredeveloped.com/2016/08/oakland-1750-webster-7-story-mixed-user.html&quot;&gt;complex&lt;/a&gt; may soon break ground at the intersection of 19th &amp;amp; Harrison in Oakland, mere blocks from the 19th Street BART Station. Developers at Lennar have proposed 224 residential units above 3,700 square feet of ground-floor retail at 1750 Webster, which would include 219 parking spaces despite its proximity to transit.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The new building would share a block with a proposed 24-story mixed-use &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2015/05/oakland-housing-tower-gerding-edlen-perkins-will.html&quot;&gt;tower&lt;/a&gt; at 1700 Webster. At only 206 units, the “vertical neighborhood” designed by Perkins + Will, the architecture firm that renovated San Francisco’s Ferry Building, would be less dense than Lennar’s mid-rise project. As the Oakland market becomes more competitive and &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/01/oakland-development-few-land-deals-housing.html&quot;&gt;difficult to finance&lt;/a&gt;, the 1700 Webster tower managed to secure full financing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lennar is also currently developing a similar mid-rise project in Berkeley, known as Parker Place.&lt;/p&gt;
 
     
   
