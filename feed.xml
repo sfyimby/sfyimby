@@ -2,13 +2,219 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-03T00:00:00Z</updated>
+  <updated>2016-10-04T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/dissecting-the-false-dichotomy-chatting-california-with-nancy-skinner/">
+    <title type="text">Dissecting the False Dichotomy: Chatting California with Nancy Skinner</title>
+    <id>urn:uuid:3e4de59d-c426-36dc-b405-82cb4151fd62</id>
+    <updated>2016-10-04T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/dissecting-the-false-dichotomy-chatting-california-with-nancy-skinner/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;I’ve been a fan of Nancy Skinner ever since I saw her speak in a debate in support the idea of raising gas taxes. In a region crippled by underfunded transit services, it’s easy to overlook that highways are in fact our best-funded form of “public transit,” particularly when taxes on gasoline have remained &lt;a href=&quot;http://greatergreaterwashington.org/post/11871/inflation-not-bike-sharing-is-why-the-gas-tax-isnt-enough/&quot;&gt;below inflation&lt;/a&gt; for decades, but Skinner gets it. Her opponent for State Senate in District 9, Sandre Swanson, seemed to take a stance against them purely out of a blanket opposition to regressive taxation.
+California, as many Californians know, is a complete mess when it comes to money.
+Rather than approaching Skinner under the disingenuous guise of “objective” journalism, I decided to embrace my position as a fan-boy (I voted for Skinner in the primary election) and get to deeper questions about what California &lt;em&gt;is&lt;/em&gt;, and what we can become.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Even if she weren’t &lt;a href=&quot;http://skinner4senate.com/&quot;&gt;running&lt;/a&gt; for office, Skinner’s resume is storied enough for a hardcover book. During her time on the State Assembly, she penned successful bills to &lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200920100AB999&quot;&gt;reduce&lt;/a&gt; juvenile incarceration sentences, &lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=200920100AB560&quot;&gt;incentivize&lt;/a&gt; the use of solar energy, and &lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140AB48&quot;&gt;strengthen&lt;/a&gt; the ban on assault weapons. In the 1980s, Skinner sat on Berkeley’s City Council as the first student to have won elected office in the city.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;When the &lt;em&gt;Metro Observer&lt;/em&gt; interviewed Skinner by phone, we elected to focus on her broader experience and long-ranging perspectives on California politics, rather than particular aspects of her current campaign.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;This interview has been shortened and edited for clarity.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;SFBAMO: Hi Nancy, thanks for taking the time to speak with us. Since you’re aiming to return to the State Legislature, I’d like to open by discussing some of Governor Brown’s recent proposals. First there was his “by-right” permit streamlining that failed to garner bipartisan support, but then more recently, Brown &lt;a href=&quot;http://www.sfgate.com/news/article/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;mentioned in a talk&lt;/a&gt; that he wasn’t willing to put up the fight to reform Prop 13 and CEQA.&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Skinner:&lt;/em&gt; You’re kidding. What did he say?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Something along the lines of, “Reforming CEQA is the Lord’s work, but the Lord’s work doesn’t always get done.”&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Well that’s a real shame. In these last few years of his term, &lt;em&gt;we need him&lt;/em&gt;. Politically, he has nothing to lose, and it came about during his first governorship.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;So aside from that, there’s his by-right proposal from earlier this summer. &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/unions-against-gov-browns-as-of-right-housing-plan.html&quot;&gt;A lot has been written&lt;/a&gt; about how CEQA negotiation was a main obstacle to getting labor unions to support it. What can be done to get any sort of reform through this thick web of alliances we have in place?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Permit streamlining is one way, but it’s not the only way. We need to have serious talks about zoning and what its purpose was. Now that we’re talking about Black Lives Matter, how our criminal justice policies, sentencing, and incarceration rates have so damaged the black community—many [zoning policies] were designed for exactly that purpose. It goes back to the neighborhoods that used to have covenants that prevented Jews, Hispanics, Asians, African-Americans from being able to purchase property. At the same time you had redlining which the federal government backed, which prevented many of those groups from even getting a loan. We already know that much of our housing policies had racist intent.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Through the Fair Housing Act, we’ve begun to try to change that, but I think now we have to look at the whole notion of single-family zoning. If we dedicate large amounts of land to single-family zoning, when we have a housing shortage and crisis, we are explicitly assuring that the highest-cost housing is going to be there. If we look at the data around income and wealth, it will primarily benefit more high-income people, and the majority of high-income people in our country tend to be white.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;So we have to re-look at all of these policies through what their purpose was, and also, what do we want from a neighborhood? I think what we want from a neighborhood is: the ability to work and shop and get our childcare and education, and everything else we need, in close proximity. Some level of single-family zoning helps prevent that.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;You mentioned in your interview with the &lt;em&gt;East Bay Express&lt;/em&gt; that Berkeley reformed its council elections after you helped spread some affordable housing around the city. Could you tell us a little more about that?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Berkeley’s district elections came about because the city council back in ’85—when I sat on it—was incredibly fortunate to be awarded some HUD money for permanently affordable scattered-site housing. We were very happy about it because it would be housing that would not be concentrated in one site, and could spread equity throughout the city. We fully embraced it. Then we started holding public hearings.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Each of the sites had no more than around 8 units. We were mostly picking sites we already had access to, whether city parcels or school district parcels.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In the course of the public hearings, some clever folks saw the opportunity to grab back power, started meeting with neighbors, and proposed district elections. The neighbors who opposed the housing jumped right on it.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The way district lines were drawn, those of us who were seated members of the council, three of the districts forced two incumbents to run against each other. They literally drew the district line at my house—now, I didn’t own the house, I was a renter—at Grant and Virginia. Grant is a small street, and they could have drawn it at Martin Luther King Way, but no, they drew it at Grant. It just shows the depth of what some people will do to stop development of any sort.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Berkeley provides a pretty interesting case study of that dynamic. As I understand it, what we now know as the “progressive” coalition in town formed out of urgent pressure for rent control and tenant protections in the early ‘70s. While that remains true to this day, some outside observers have difficulty understanding how this grew to include anti-development stances, paradoxically, as a way to preserve rent controlled housing.&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Well, back in 1973, there was an initiative in Berkeley called the &lt;a href=&quot;https://books.google.com/books?id=djSlK1tuwjkC&amp;amp;pg=PA152&amp;amp;lpg=PA152&amp;amp;dq=berkeley+neighborhood+preservation+ordinance&amp;amp;source=bl&amp;amp;ots=17_EG48w9L&amp;amp;sig=O5_MzgzuVUoWERDJ15r_J-Gtsjk&amp;amp;hl=en&amp;amp;sa=X&amp;amp;ved=0ahUKEwiwvZO9lcLPAhUO-GMKHannAkUQ6AEIRDAG#v=onepage&amp;amp;q=berkeley%20neighborhood%20preservation%20ordinance&amp;amp;f=false&quot;&gt;Neighborhood Preservation Ordinance&lt;/a&gt; (NPO). Before that, Berkeley had few restrictions on tearing down property. With the campus expanding and housing pressures growing, as well as BART opening, all of a sudden you had people buying up houses in South Berkeley, knocking them down, and putting in what some people considered ugly units, stucco apartments. There needed to be some design review standards, demolition control, some process, but the NPO, in hindsight, went really far. It wasn’t that there were big developers looking to build in Berkeley, but a lot of smaller owners.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;At the time there was a wing of the Democratic Party on the council that was pro-Vietnam War, didn’t mind houses being torn down, opposed rent control—it created what in hindsight looks like a funny alliance. You had tenant activists, student activists, anti-war activists, neighborhood preservationists, Grey Panthers, all coalesced together. First they formed an organization called the April Coalition, which became Berkeley Citizens’ Action. Over time, BCA was not so opposed to development—they were opposed to big developers, suspicious of the profit motive, but they still acknowledged the need for new housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;As there started to be interest by developers to invest in urban areas, and interest by the city to allow it, now you have these coalitions where some progressives say “there’s too much construction in Berkeley, developers are going wild,” while other people like myself say “no, we need units, we have great transit…we need to build more housing! If we don’t, no one’s going to be able to live here.” That is something that many progressives feel very strongly about. I think it’s a false dichotomy for some to claim that more housing is anti-progressive.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In contrast, there was a legitimate objection to development on Berkeley’s waterfront, on what is now Eastshore State Park. Not only does it have a liquefaction zone, but everyone deserves access to the gorgeous waterfront. This is where these things get tricky. There were progressives all throughout the town totally opposed to development there, but somewhere along the way, that nuance of good development and bad development got lost.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Let’s take up the different but related topic of transportation. You developed quite a record on the assembly of pushing for renewable energy sources, particularly solar energy. How do you see yourself extending that towards transportation, which as we now know is the biggest source of Greenhouse Gas Emissions?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I used to create methodologies for counting carbon with &lt;a href=&quot;http://archive.iclei.org/index.php?id=10829&quot;&gt;Cities for Climate Protection&lt;/a&gt; [which Skinner founded in 1993, and we’ve known since we did California’s first state inventory, that the electric sector before we adopted renewable portfolio standards, was pretty low-carbon compared to other states. It’s still worth it to get carbon entirely out of the energy sector, but we knew since the early ‘90s that the majority of our carbon emissions come from transportation. It’s just a harder sector to get at, because in the energy sector, you’ve got a few actors; in transportation, you have millions of residents making transportation decisions every day.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I’ve always supported a carbon tax. Cap and trade is a little bit less efficient than a straight carbon tax, and I’m actually a fan of a carbon tax rebate. It helps address the inequities that cap and trade doesn’t. If we can design a revenue measure that gives us the ability to improve infrastructure, that could also be a price on fuel that could discourage the use of fossil fuels, then that’s a good thing. So far, the legislature has not been able to get the vote.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Do you think that mostly has to do with the critics saying a gas tax would be regressive?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;There’s ways to design a tax so it’s less regressive. For example, sales taxes as currently implemented are pretty regressive, whereas the income tax on the ballot in Prop 55 is progressive.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;This brings us to the broader issue of California’s fiscal problems. On the one hand, we have Proposition 13 limiting how much property tax gets collected, while on the other, Proposition 98 mandates a threshold for education funding. Is the problem, then, that generally Californians will commit to pay for progressive causes, but not agree to pay for it themselves?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Right. We have to choose between funding our schools and funding affordable housing? That’s not a legitimate choice.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Do you support Senator Loni Hancock’s proposal to reform Prop 13 with a split roll?&lt;/strong&gt; [Skinner is running to replace Hancock in SD09. &lt;em&gt;-Eds.&lt;/em&gt;]&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Absolutely. I’ve voted on it in the past. We had it before us in committee and it passed, but never got to the floor. I think we’re at the point where Californians are beginning to accept that there are some flaws in Prop 13.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In 2008, we had the provision from Prop 13 that California’s budget be approved by a two-thirds vote. As we got more and more Democrats, Republicans would negotiate by holding up the budget. During the recession, voters finally approved a majority vote budget.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Since you mentioned the Black Lives Matter movement, I wanted to wrap up with a question about that. The &lt;em&gt;East Bay Express&lt;/em&gt; was quick to bring up your numerous endorsements from police unions. How would you reassure someone suspicious of that?—since, you know, regardless of your other policy stances, one could certainly jump to conclusions…&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;My record in the Assembly, and prior to that, was often opposed by police chiefs. Believe it or not, the bill I carried to require that all rape kit evidence was tested and put into databases, was opposed by police chiefs. The bill that would have adjusted the way that investigations of police misconduct worked, making some parts of the process publicly transparent, &lt;em&gt;many&lt;/em&gt; large entities opposed that—but I voted yes. I think my history shows that I will be a strong partner with all our law enforcement agencies to improve public safety and put justice back in the criminal justice.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I will &lt;em&gt;not&lt;/em&gt; be a partner with law enforcement in ways that are discriminatory, or lessen public safety. The last thing I’d say is that the misconduct we are seeing in videos constantly in a number of our police departments, and [the Celeste Guap scandal] with the young woman from Richmond, is so awful. I strongly support DA Nancy O’Malley’s efforts to prosecute the officers involved. But it’s a handful. Even if you look at officers that draw a gun, again, it’s a handful. I want those officers weeded out, I want them prosecuted, but we can’t take those examples and say all law enforcement is that.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Well that’s about all I had prepared for now. Thanks again and good luck at the ballot!&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Thank you, take care.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/leno-expands-liquor-licenses-in-san-francisco/">
     <title type="text">Leno Expands Liquor Licenses in San Francisco</title>
     <id>urn:uuid:d52257df-7564-37cc-b72c-323568cc0e97</id>
@@ -3604,30 +3810,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;“New apartment buildings can rent a maximum of 18 percent affordable units before new housing is likely to be impeded,” the draft report concludes. Neither Peskin nor Kim’s offices could be reached for immediate comment.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/palo-alto-mayor-gives-interview-we-give-up/">
-    <title type="text">Palo Alto Mayor Gives Interview, We Give Up</title>
-    <id>urn:uuid:1e586c0d-677c-30f8-b5ca-f91714cd01ed</id>
-    <updated>2016-08-23T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/palo-alto-mayor-gives-interview-we-give-up/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Local resident Kate V. Downing recently made &lt;a href=&quot;http://sanfrancisco.cbslocal.com/2016/08/12/kate-vershov-downing-palo-alto-planning-commission-pricey-housing/&quot;&gt;headlines&lt;/a&gt; after delivering her very public resignation from Palo Alto's Planning Commission. Mayor Patrick Burt responded to the media firestorm in an interview with Curbed published today and... we just can't even. We can't. Read it for yourself &lt;a href=&quot;http://sf.curbed.com/2016/8/23/12603188/palo-alto-mayor-housing-interview&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
     
   
