@@ -2,13 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-04T00:00:00Z</updated>
+  <updated>2016-10-05T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/small-businesses-oppose-new-bureaucracy-under-prop-m/">
+    <title type="text">Small Businesses Oppose New Bureaucracy Under Prop M</title>
+    <id>urn:uuid:9719ca0d-5f35-3365-b654-9e61b317426a</id>
+    <updated>2016-10-05T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/small-businesses-oppose-new-bureaucracy-under-prop-m/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Opponents of several San Francisco ballot measures have coalesced to portray the referendum legislation as “&lt;strong&gt;D&lt;/strong&gt;umb, &lt;strong&gt;H&lt;/strong&gt;armful, and &lt;strong&gt;L&lt;/strong&gt;ots of &lt;strong&gt;M&lt;/strong&gt;oney.” Widely viewed as an effort by the Board of Supervisors’ “progressive” faction to dilute the power of Mayor Ed Lee, a group representing small businesses held a press conference in The Castro today to voice their disapproval of Proposition M in particular.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Proposition M proposes a charter amendment to create a new independent Commission of Housing and Development to have full oversight of newly created the Department of Economic and Workforce Development and Department of Housing and Community Development. Their functions are currently under the Mayor’s Office of Housing (MOH) and Office of Economic and Workforce Development (OEWD), which would cease to exist if Proposition M passes.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Local urban planning think-tank SPUR &lt;a href=&quot;https://spurvoterguide.org/sf-nov-16/prop-m-housing-and-development-commision/&quot;&gt;describes&lt;/a&gt; Propositions D, H, L, and M as “piecemeal moves to chip away at the definition of roles, in particular to weaken the office of the mayor,” a persistent pattern since San Francisco’s adoption of a new city charter in 1995. SPUR’s voter guide primarily focuses on the proposed commission’s unchecked power to make recommendations on development agreements to the Board of Supervisors, especially with surplus land transfers. But these objections were hardly mentioned at today’s press conference.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Reporters gathered at Local Take, a small shop for locally sourced arts &amp;amp; crafts, were greeted by rousing speeches from Steve Adams, Vice President of the Castro Merchants Association, and Henry Karnilowicz, president of the Council of District Merchants. Speakers focused on the harm to small businesses an additional layer of oversight would create. The commission’s stated mandate of regulating housing production was hardly even mentioned.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“As anyone who lives near a commercial corridor knows, small businesses form the backbone of a community,” Adams said. He went on to praise the local flavor of commercial districts as far apart as Visitacion Valley, Noe Valley, and Taraval in the Sunset District.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“OEWD helps young people achieve their dreams,” said Derek Tam, representing the Chinatown Merchants Association. “I came here as an immigrant from Hong Kong. This is my first time running a business. The OEWD helped me with every step of the process, from raising capital to permitting.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Tony Winnicker, a former aide to Mayor Lee, stood in front of the group of speakers, taking pictures of the business owners posing with “No on M” signs. Winnicker &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Mayor-s-adviser-will-work-to-defeat-4-ballot-9211454.php&quot;&gt;abruptly left&lt;/a&gt; the mayor’s office on an unpaid leave of absence to lead the joint campaign against D, H, L, and M.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This measure would create an additional layer of oversight over housing and small business growth, with no accountability to the voters,” Winnicker said. “The mayor gets three appointments, the Board of Supervisors appoints three, and the Controller appoints one. So we would have an independent commission, with no requirement that anyone have any experience with economic development. It’s ludicrious to claim that this would help create more housing in the midst of our crisis-level shortage.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;What, in his view, were the perceived justifications for Prop M?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The people behind this measure don’t want more affordable housing,” Winnicker insisted, “they want to slow down growth. They want the city to remain frozen. They don’t like that all these new people are coming in, their neighborhoods are changing, and they want to stop it all in its tracks. The intent is to get people to throw up their hands and say, ‘oh well, it’s too hard to build anything in San Francisco.’”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I pressed Winnicker on the issue of small businesses. If so many local business owners had come out to oppose Prop M and defend the Office of Economic Development, was the Prop M campaign attempting any sort of rebuttal? “No, they haven’t even tried to claim that it will help small businesses,” he said. “It’s almost like they just saw the word ‘development’ and thought, ‘that sounds good, let’s throw that in there’—because for many, &lt;em&gt;development&lt;/em&gt; has a negative connotation, and they’re eager to slow it down.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/dissecting-the-false-dichotomy-chatting-california-with-nancy-skinner/">
     <title type="text">Dissecting the False Dichotomy: Chatting California with Nancy Skinner</title>
     <id>urn:uuid:3e4de59d-c426-36dc-b405-82cb4151fd62</id>
@@ -3772,65 +3846,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;At press time, the Tiny Homes project with Capitelli remains on hold until after the election.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/berkeley-faces-federal-lawsuit-over-post-office-sale/">
-    <title type="text">Berkeley Faces Federal Lawsuit Over Post Office Sale</title>
-    <id>urn:uuid:efa8c710-d3fb-377e-b7d2-24cb451ea86e</id>
-    <updated>2016-08-23T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/berkeley-faces-federal-lawsuit-over-post-office-sale/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The debate over Berkeley’s historic downtown post office has reached new heights. The United States Postal Service filed a &lt;a href=&quot;http://www.trauss.com/pdfs/berkpostofficesuit.pdf&quot;&gt;lawsuit&lt;/a&gt; in federal court yesterday alleging that Berkeley’s zoning changes in the neighborhood prevented them from selling their property to generate much-needed revenue. (As of 3:00 PM today, the Berkeley City Attorney’s office says they have not been formally served.)&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In 2012, the Postal Service put its property at 2000 Allston Way up for sale, noting that it only used 4,000 square feet of the 57,000 square foot building. Amid possibilities of new development, Berkeley locals launched a vociferous &lt;a href=&quot;http://www.savethebpo.com/&quot;&gt;Save the Post Office&lt;/a&gt; campaign to block the sale of the property. This campaign gathered signatures for what eventually became the &lt;a href=&quot;https://ballotpedia.org/City_of_Berkeley_Zoning_Ordinance_Amendments,_Measure_R_(November_2014&quot;&gt;2014 Measure R&lt;/a&gt;), a ballot measure to &lt;a href=&quot;http://www.greenbelt.org/blog/examiner-com-measure-r-bad-policy-berkeley/&quot;&gt;lower height limits&lt;/a&gt; in Downtown Berkeley, drafted largely by Councilmember Jesse Arreguin and Zoning Board Member Sophie Hahn.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The heated tensions of downtown development ignited over what initially appeared to be an innocuous transaction. The Postal Service has been hamstrung by federal regulations requiring the agency to prepay its pension plans, while also being prevented from raising its prices to compensate. In response, the USPS has put dozens of historic real estate assets on the market. The recent “historic” overlay in the zoning of Berkeley’s Civic Center District effectively prevented its sale for most viable commercial or residential purposes.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Initially, that didn’t stop the Postal Service from trying: in 2014, local developer Hudson McDonald offered to buy the property and keep it publicly accessible, but then retreated due to “uncertainty” in the surrounding community.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The City of Berkeley then sued the federal agency to force them to drop any attempted sale. Although the suit was thrown out of court, Berkeley succeeded in its goal, only to engender threats of litigation.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The United States Postal Service was not bluffing. In their suit, the plaintiff alleges: “Enacted primarily to prevent the sale of the Berkeley Main Post Office, the Zoning Ordinance limits the Property to civic or nonprofit uses. By prohibiting any commercially viable uses, the…Zoning Ordinance therefore prevents the Postal Service from fulfilling its responsibilities under federal law, and is invalid under the Supremacy Clause of the United States Constitution...”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The suit goes on to detail the many ways in which, despite engagement with the local community, the Postal Service’s efforts at compromise were stonewalled by the City. Offers to preserve the historic façade of the building were rejected as insufficient by what the plaintiff depicts as byzantine bureaucratic standards.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At press time, no hearing date has been set for the lawsuit.&lt;/p&gt;
 
     
   
