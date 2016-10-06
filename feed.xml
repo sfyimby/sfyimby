@@ -2,13 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-05T00:00:00Z</updated>
+  <updated>2016-10-06T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/san-leandro-marina-development-faces-hurdles-despite-approval/">
+    <title type="text">San Leandro Marina Development Faces Hurdles Despite Approval</title>
+    <id>urn:uuid:156435ae-5908-3d15-a05e-d30d2ae9a551</id>
+    <updated>2016-10-06T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/san-leandro-marina-development-faces-hurdles-despite-approval/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;The East Bay suburb of San Leandro may see a revitalized marina as early as next year, as a multiphase mixed-use project by Cal-Coast Development nears the end of its preliminary planning stage. Monarch Bay’s 40 acres of apartments, retail, office space, and amenities has been approved by the San Leandro City Council, and will soon be reviewed by the San Francisco Bay Conservation and Development Commission (BCDC). As of 2011, the state agency requires new construction to plan for withstanding rising sea levels due to climate change.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Cal-Coast’s most immediate plans include 150,000 square feet of office space, a 468-space parking garage, two restaurants, and a kayak rental facility. A residential component would not be included until the second phase, with several four-story buildings providing 160 rental units and 61 condominiums. An average of 1.5 parking spaces per residential unit is planned, with at least 587 additional public parking spaces planned for the shoreline. San Leandro &lt;a href=&quot;https://sanleandro.legistar.com/LegislationDetail.aspx?ID=2285006&amp;amp;GUID=B3C57382-78E9-4041-98FB-AE0CB9011EE8&amp;amp;Options=&amp;amp;Search=&quot;&gt;amended&lt;/a&gt; its general plan for the area last year to accommodate the project’s mixed-use components in its zoning code.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Resistance to the project has coalesced behind a lawsuit filed by the Coalition for the San Leandro Shoreline against the city and the developer. Opponents cited fears of displacing local residents and losing views of the Bay when speaking to the &lt;a href=&quot;http://www.eastbaytimes.com/2016/09/29/san-leandro-shoreline-project-could-break-ground-next-year/&quot;&gt;East Bay Times&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/san-leandro-marina-development-faces-hurdles-despite-approval/sanleandro-shoreline.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;2013 master plan for the area, conceived jointly by the City of San Leandro and Cal-Coast Development (courtesy: Cal Coast Companies, LLC)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Ed Miller, a representative for Cal-Coast Development, said he had personally never been involved in a project with such a long process, totaling over 8 years and 78 public hearings, with a local citizens’ committee providing community input. City Council had approved a similar plan &lt;a href=&quot;http://www.mercurynews.com/2012/04/03/san-leandro-approves-plan-to-move-toward-marina-development/&quot;&gt;four years ago&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“It’s a frivolous lawsuit under CEQA, but it has no validity under CEQA,” Miller said regarding the lawsuit. “They’re using criteria like view corridors, which are not covered [under the California Environmental Quality Act].”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Miller alleged that the lawsuit was economically motivated, rather than out of any concern for environmental impacts. He based this claim on the fact that The Marina Inn has 18 years left on its lease, but is required to have at least 35 years to apply for refinancing in order to remodel or sell the property. “Our project would be providing a completely different hotel class,” Miller added, suggesting that potential hoteliers such as Hyatt would not create competition for The Marina Inn.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Regarding the proposed office space, Miller said Cal-Coast would not be leasing offices until they found a tenant, but the developer is currently “in talks with a potential big tenant.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Representatives for the Marina Inn could not be reached for comment.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/small-businesses-oppose-new-bureaucracy-under-prop-m/">
     <title type="text">Small Businesses Oppose New Bureaucracy Under Prop M</title>
     <id>urn:uuid:9719ca0d-5f35-3365-b654-9e61b317426a</id>
@@ -3582,270 +3661,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;Ryan Patterson, legal counsel for CaRLA in the Lafayette suit, was cautiously optimistic. When reached by email, he offered the following comment: “Previously, nonprofit housing organizations lacked standing to file lawsuits on their own behalf. Although its scope is modest, this law gives advocacy organizations a new tool to support housing development proposals.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/berkeleys-homeless-mayoral-candidate-hits-the-airwaves/">
-    <title type="text">Berkeley's Homeless Mayoral Candidate Hits the Airwaves</title>
-    <id>urn:uuid:ed7f2655-df40-3b79-9a2d-a4e534d1383b</id>
-    <updated>2016-08-24T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/berkeleys-homeless-mayoral-candidate-hits-the-airwaves/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Three cigarettes light up an otherwise dim, intentionally-dingy room. Over the next few hours, they will burn out and be replaced. It occurs to me that the popular idiom has become reality—I am literally in a smoke-filled room, observing local politics unfold. “I should warn you,” one of the hosts says, “my views are distinctly non-progressive. I’m going to be trying to poke holes in all your views.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;His guest laughs. “All I can say is, bring it. I'm ready.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Mike Lee lives on the streets of Berkeley. You can catch him at the downtown Starbucks, or at Au Coquelet, and sometimes at the YMCA.  He’s happy to talk about his mayoral campaign to anyone who will listen. Passers-by can spot his campaign posters, advertising “A New Vision For A New Future” all over downtown. Sporting a Whitmanian grey beard which somehow amplifies his steady baritone pipes, he looks—by early 20th Century Marxist standards, anyway—like much more of a statesman than his cleanshaven opponents: Councilmembers Laurie Capitelli, Jesse Arreguin, Kriss Worthington, in his view the “only serious candidates” besides &lt;a href=&quot;http://www.oldbumformayor.org/&quot;&gt;himself&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;By the gracious invitation of the disc jockeys, I came to an undisclosed location to observe his &lt;a href=&quot;https://www.mixcloud.com/christopher-lexx-stanley/mike-lee-dr-vee-wlexxx-1041fm-sf-live-in-studio-8-19-2016/&quot;&gt;interview&lt;/a&gt; on a local pirate radio station. DJ Christopher “Lexxx” Stanley, a personal friend I also run into all over Berkeley, declined to mention me save as a “member of the audience,” but by the end, my inquisitiveness got the best of me, and I was allowed to ask questions over the air.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/berkeleys-homeless-mayoral-candidate-hits-the-airwaves/leead.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;A defaced ad for Mike Lee in Downtown Berkeley&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Political debate began in earnest well before the interview. While DJ Lexxx played anything from disco hits to punk rock obscurities, his co-host “Dr. V” grilled Lee, though he called it “prepping.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Though he only moved back to Berkeley &lt;a href=&quot;http://www.berkeleyside.com/2016/06/29/would-a-homeless-mayor-in-berkeley-make-a-difference-for-the-homeless/&quot;&gt;last year&lt;/a&gt; (from Las Vegas), Lee has a storied history in Berkeley. In 1991, he was one of the four protesters sued by UC Berkeley for disrupting the University’s attempt to pave over People’s Park. Along with Bob Sparks, Carol Denney, and David Nadel, Lee was named as a “key leader” in the &lt;a href=&quot;http://www.caroldenney.com/slapp.pdf&quot;&gt;protests&lt;/a&gt; UC police had failed to shut down by violent reprisal. (People’s Park, now a historic landmark, is a legendary flashpoint for protests ever since the city demolished low-income housing on the site via eminent domain in 1967. The resulting protests, in a sense, created the park.)&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lee still boasts that he regularly disobeys a court injunction preventing him from setting foot in People’s Park, “because I don’t recognize [the university’s] authority.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It is fascinating to see him and Dr. V spar casually, like veteran boxers who don’t care if anyone wins. Lee is quick to call him a “libertarian,” and it is clear that the two share anti-authoritarian sentiments from opposite sides of the political spectrum. Dr. V attempts to guide Lee into a discussion of economic rent, and asks whether Lee considers local land-use policies as an example of it. “’Rent’ is wealth extraction by political means—restrictions on an otherwise free market,” he clarifies.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“I think those who would want a free market realized it wouldn’t work in our society,” Lee answers.  “So they set up a political process to make sure they benefited from it.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“I worked on prisoner stuff during that time—[Leonard] Peltier, Mumia [Abdul-Jamal],” he says when the conversation drifts back to People’s Park. His episode with the park seems to inform most of his policy positions, revolving around his insistence that local government bodies, including the Planning Commission, be “community based.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“It’s bullshit that the [Zoning Adjustments Board] has so much authority. I think zoning is bullshit anyway because it’s not community based.” What then, I ask, would his answer be? His answer is one I press him to clarify throughout the subsequent interview: any developer wishing to build in Berkeley, under a Lee administration, would need 80% approval (“not popular vote,” he clarifies: “approval rating, by polls”) from the council District before being built. Districts, furthermore, would be subdivided into “neighborhood councils” of a 10-by-10 block area.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;More surprising was his suggestion that community opinion could sway his own policy positions: “Despite my reservations about the minimum wage increase, it’s clearly what the community wanted, and I respect that.” Later in the interview, he would describe his interactions with local small businesses that would not be able to absorb the cost. Strangely, his position on the popular soda tax is not swayed by the electorate, and he dismissed the measure as “the stupidest idea.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;He was quick to dismiss &lt;a href=&quot;http://www.bengould.org/&quot;&gt;Ben Gould&lt;/a&gt;, a UC Berkeley graduate student also running, as “an apprentice to developers” for views he has dubbed “market urbanism.” I asked him about &lt;a href=&quot;http://www.laurieforberkeleymayor.com/&quot;&gt;Laurie Capitelli&lt;/a&gt;, a retired realtor and current Councilmember whom many consider the top contender for mayor. Here he adopted a more conciliatory tone.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“We’re going to agree to disagree on a lot of things, but we want to improve the quality of life for everyone. That’s attitude that I’ve carried for years,” he said. “[City Council], they wish I would go away. But they find me a reasonable and rational individual. [City] staff takes notice.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;I asked him how, despite his disagreements, he was able to &lt;a href=&quot;http://www.berkeleyside.com/2016/08/12/op-ed-its-not-rocket-science-to-solve-homelessness/&quot;&gt;collaborate&lt;/a&gt; with Capitelli on piloting a Tiny Homes project, with labor donated by the local carpenters’ union. “He knows my attitude to him—I openly call him Crookitelli. He laughs and says, ‘oh shit, it’s Mike Lee!’ We have mutual repsect for each other’s positions. When we first met, I said to him, ‘Understand that whatever I say on this campaign, it’s not personal. This is business, this is politics.’ That’s how we got Tiny Houses.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The interview did not cover much related to land-use. Lee’s campaign promises had more to do with the police: “My first day in office, I will announce, racial profiling in Berkeley ends today.’” He cited the December 7, 2014 Black Lives Matter protests in Berkeley as an instance of undue violence against peaceful protesters, which BPD openly boasted of in their meetings with the Police Review Commission. His top priority, he said, would be to strengthen the authority of an independent Police Review Commission.  “They killed Bob [Sparks], but they can’t get rid of me,” he said in another allusion to the 1991 suit. He went on to detail grisly episodes of profiling by Berkeley police, both against communities of color and the poor in general.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lee did not hold back on his scorn for every other mayoral candidate, including Capitelli’s lead opponent, Jesse Arreguin. “You walk around Downtown Berkeley and it looks like a third-world country. It’s dusty, it’s dirty…obviously, as a professional politician, he hasn’t done very well. We have New York-sized city rats running around. And when we look at the type of development that’s going on downtown, he’s not protecting the interests of his constituency in District 4.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;(Curiously, Arreguin voted against the controversial &lt;a href=&quot;http://www.berkeleyside.com/2015/12/09/berkeley-approves-construction-of-harold-way-high-rise/&quot;&gt;2211 Harold Way project&lt;/a&gt;, citing among many objections that the $10 million the project would be contributing to the city’s Housing Trust Fund was not enough. However, the council voted unanimously to approve a $13 million tax rebate for a new &lt;a href=&quot;http://www.berkeleyside.com/2016/05/27/new-334-room-downtown-berkeley-hotel-gets-the-go-ahead/&quot;&gt;hotel&lt;/a&gt; above the downtown Bank of America, which Lee was also quick to criticize.)&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Of his “buddy” Capitelli, he simply said that it was “inappropriate” for a realtor to be making any land-use decisions on the city council. “If he wins, we all better buy tents, because we won’t be able to afford 4, 5, 6 thousand dollar rents.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lee also dismissed contender Kriss Worthington’s statement that “Berkeley does not need to move to the right on any issue” as “a lot of flim-flam.” Why? “We need to move to the right to fiscal responsibility…because of the fact that we are $1 billion underfunded on just two areas: labor, and infrastructure. We need a half a billion dollars just to fix the infrastructure…Based on that statement, I don’t want [Worthington] sitting in the mayor’s chair.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;One of Lee’s more unique policy positions is providing Council representation for UC Berkeley students. Comparing their lack of representation to the Boston Tea Party, he insisted that such a vital part of Berkeley’s sales tax revenue needed its own legislative representation. Currently, students can only vote if they are residents within the city of Berkeley, though many remain registered at their parents’ place of residence.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;As an advocate for his fellow homeless residents, Lee held Arreguin’s recently championed Homeless Task Force in vast contempt. Berkeley’s current homeless policy, in his view, consisted of “criminalization, or a baloney sandwich and a pat on the head.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“The worst thing I find about City Council is that they have right now on their desk two proposals that would reduce homelessness by 20% at no cost to the city. They ignore it because they can’t get any political capital out of it.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;He found the report of the Homeless Task Force to be particularly offensive because it overlooked basic issues of sustenance and breaking the cycle of poverty. “In the report, they included Maslow’s triangle. At the bottom, food and shelter; at the top, yoga and meditation.” (The &lt;a href=&quot;http://cityofberkeley.info/uploadedFiles/Council_4/2015-06-23%20WS%20Item%2001%20Homeless%20Task.pdf&quot;&gt;report&lt;/a&gt; posted on Arreguin’s website has no mention of &lt;a href=&quot;https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs&quot;&gt;Maslow’s Hierarchy of Needs&lt;/a&gt;, but does include recommendations to increase public restrooms in the downtown area, funded in part by imposing a vacancy tax.)&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lee also praised the &lt;a href=&quot;http://www.yeah-berkeley.org/&quot;&gt;YEAH&lt;/a&gt; youth shelter in Berkeley. In his view, it was the only homeless service in town that had complete accountability, and “Jackie [Grant, Executive Director] can get you the numbers in thirty seconds.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lee has butted heads with a different Jackie, who I initially had conflated: Jacquelyn McCormick, former mayoral candidate and now Arreguin's campaign manager. McCormick excoriated Lee in the past over a sit-in Lee organized to protest Council’s inaction on police and homeless issues. “I hope you realize that anything that lasts more than one day or overnight will be used against Jesse,” McCormick wrote in an email, which Lee then posted in its entirety on the Capitelli campaign’s Facebook page. “This will play right into Capitelli’s hand.” Lee replied with his characteristic candor: “That’s a load of crap and you know it. Me publicizing this email will do more damage. If Jesse loses it’s because someone else won, not because a homeless man protested.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Mike Lee is no stranger to controversy on Facebook. An anonymous source sent us screenshots of Lee implying a call to assassinate current Berkeley mayor Tom Bates, which Lee dismissed as an intentionally inflammatory joke.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/berkeleys-homeless-mayoral-candidate-hits-the-airwaves/leefb.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Mike Lee (Facebook alias Sam Spade) posts incendiary comments about Mayor Tom Bates&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The candidate is firm that he is the only candidate who walks the districts and talks to the community. He pointed in particular to the hypocrisy of claiming lowered vacancies in Downtown Berkeley, while many storefronts remain vacant on Solano Avenue.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Community is a very nice word,” Dr. V added. “But if somebody acts in the name of the community, it’s a very flexible word that all sorts of specific interests can take control of—you get back to the Platonic question of who will guard the guardians?”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Dr. V went on to describe Berkeley as a “class-based” and “Tory” community that wants “strict zoning…and a jacked up minimum wage to feel good about themselves.” This was where I jumped in.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lee’s housing platform is ambitious and uncompromising. In addition to his 80% approval standard, he would impose a requirement of either 50% of new dwelling units be “affordable” (price-indexed to local incomes), or that 50% of profits be donated to the city. “If people say that will make it so nobody wants to build in Berkeley, fine by me,” he added. I think we have enough luxury housing anyway.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;If Lee proposed total local autonomy, I asked, how could he guarantee that North Berkeley wouldn’t become an even more exclusionary community than it already is?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;For context, I live within walking distance of the North Berkeley BART station, which is surrounded by an entire block of surface parking. I have yet to see any new multifamily housing development being built north of University Avenue. Why should North Berkeley neighborhoods have the same autonomy that South Berkeley craves to ward off new market-rate construction? In the strongly-held opinion I expressed, the restricted density of North Berkeley’s zoning unduly shifts the burden of surging regional demand onto much poorer parts of Berkeley, which largely remained poor enclaves thanks to historic redlining and blatant racism. This is a unique point of agreement I have found with &lt;a href=&quot;http://www.berkeleyside.com/2015/08/05/friends-of-adeline-our-future-shall-be-determined-by-us/&quot;&gt;Friends Of Adeline&lt;/a&gt;, a neighborhood group with close ties to Lee.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The candidate remained firm that his solution would maximize fairness. “We are organized to defend our community…” He insisted that this would in no way let North Berkeley “off the hook” in demand for new construction. Dr. V, in turn, took the hardline libertarian stance that abolishing zoning could undermine regulatory capture by wealthy neighborhoods.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“If somebody wanted to develop,” Lee said, “the only place where they can do that, especially if you’re talking about 21 stories… is North Berkeley.” I was blown away by his answer, and said so, but Lee wasn’t done yet. He went on to describe Solano Avenue business owners who told him they were only in business thanks to foot traffic from the CVS. “Mr. Capitelli, I’m coming after you,” he said without any hint of humor. “Why is it that we aren’t taxing these vacant storefronts? Why aren’t these high-rise buildings coming up [on Solano]? Instead of building so much on Shattuck and down on Adeline, why don’t we build it in your neighborhood?”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/berkeleys-homeless-mayoral-candidate-hits-the-airwaves/oakstheater.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;The vacant Oaks Theater on Solano Avenue (source: Google Maps)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;I left the undisclosed location with a bit of a cough after inhaling so much tobacco smoke. Nevertheless, part of me was glad to have escaped the puritan milieu of Berkeley to somewhere people could smoke indoors. In parting, Lee offered a firm handshake and his eagerness to stay in touch throughout the campaign.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At press time, the Tiny Homes project with Capitelli remains on hold until after the election.&lt;/p&gt;
 
     
   
