@@ -2,13 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-06T00:00:00Z</updated>
+  <updated>2016-10-07T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/tenants-union-prints-election-mailers-with-sweet-sweet-soda-money/">
+    <title type="text">Tenants Union Prints Election Mailers with Sweet, Sweet Soda Money</title>
+    <id>urn:uuid:2caf297c-2167-3152-a259-c619ae73c09b</id>
+    <updated>2016-10-07T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/tenants-union-prints-election-mailers-with-sweet-sweet-soda-money/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;The American Beverage Association is not happy about Proposition V, San Francisco’s proposed tax on sugary sodas. Campaigns on both sides of the bay are portraying soda taxes as a “grocery tax,” because the proposed legislation would levy a sales tax increase on distributors rather than consumer-facing transactions. Technically, a retailer could disburse the increased cost across all merchandise in the store.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Campaign finance disclosures show that the No On V committee, sponsored by the American Beverage Association California PAC, has spent $10 million to garner public opposition against the measure. No On V has also paid for several organizations’ slate cards to be mailed to voters citywide, including $40,000 donated to the San Francisco Tenants Union, and $5,000 to the Harvey Milk LGBT Democratic Club.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Oddly, although the Tenants Union mailer endorses Tenants Together director Dean Preston for District 5 Supervisor and urges voters to reject the soda tax, Preston himself expressed support for the tax in a District 5 &lt;a href=&quot;http://sanfrancisco.granicus.com/TranscriptViewer.php?view_id=74&amp;amp;clip_id=26261&quot;&gt;debate&lt;/a&gt; hosted by the League of Women Voters.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Preston joined the Tenants Union, along with homeowners’ groups such as the Haight-Ashbury Neighborhood Council and Telegraph Hill Dwellers, in &lt;a href=&quot;http://hoodline.com/2016/01/activists-fear-rezoning-plan-will-reduce-rent-controlled-housing-despite-assurances&quot;&gt;opposing&lt;/a&gt; last year’s Affordable Housing Bonus Program. Opponents claimed that the density bonuses the bill would provide for more affordable housing units could allow for the demolition of rent-controlled apartments, even after the Board of Supervisors amended the proposal to avoid such situations. Preston described neighbors as being “alarmed” that a rezoning on Divisadero allowed a project to scale up from 16 to 60 dwelling units.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Last year, Preston also spearheaded a &lt;a href=&quot;https://www.facebook.com/events/999050313480342/&quot;&gt;campaign&lt;/a&gt; to halt the construction of several condominium projects on Divisadero Street, arguing that market-rate housing “will be completely unaffordable to our neighborhood.” Given these claims, it may be worth noting what is in fact affordable for Preston himself.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Preston purchased his current home across from Alamo Square in 1999 for $88,000. Though its current estimated value is $2.2 million, its assessed value for tax purposes is $1.1 million due to statewide caps on property taxes enacted under 1979’s &lt;a href=&quot;http://www.lao.ca.gov/Publications/Report/3497&quot;&gt;Proposition 13&lt;/a&gt;. It is &lt;a href=&quot;https://twitter.com/TenantsUnionSF/status/735249477565452288&quot;&gt;unclear&lt;/a&gt; whether or not the Tenants Union considers California’s tax structure to be a relevant factor in statewide economic inequality.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The open secret of Big Soda money funding countless campaigns throughout the city, including campaigns that support the soda tax measure, will be an ongoing story.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/lafayette-officials-organize-against-saranap-village-development/">
     <title type="text">Lafayette Officials Organize Against Saranap Village Development</title>
     <id>urn:uuid:a2d12478-9a26-3f03-b3f0-caa3b4644b8e</id>
@@ -3628,95 +3682,6 @@ State Assembly, Jerry Brown, Accessory Dwelling Units&lt;/p&gt;
   
     
 				&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/280086524&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/seeking-to-stop-high-rise-berkeley-grandstanders-find-shaky-footing-in-court/">
-    <title type="text">Seeking to Stop High-Rise, Berkeley Grandstanders Find Shaky Footing in Court</title>
-    <id>urn:uuid:02178a54-f849-3271-b575-0e882bdbd1af</id>
-    <updated>2016-08-29T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/seeking-to-stop-high-rise-berkeley-grandstanders-find-shaky-footing-in-court/" />
-    <author>
-      <name>Diego Aguillar Canabal</name>
-    </author>
-    <content type="html">
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last year, the saga of Berkeley’s controversial &lt;a href=&quot;http://www.berkeleyside.com/2016/01/14/lawsuit-filed-to-stop-building-of-harold-way-complex/&quot;&gt;2211 Harold Way&lt;/a&gt; project appeared to have ended with a cliffhanger. City Council voted to uphold approval of the 302-unit building, which plans to replace Shattuck Cinemas with a new theater and contribute $10.5 million into the city’s Housing Trust Fund. Development consultant and former Planning Commissioner Mark Rhoades noted that this money could be leveraged to construct 100 permanently Below Market Rental (BMR) units. Neighborhood opponents vowed a reprisal, and two subsequent lawsuits alleging improper Environmental Impact Reports delayed groundbreaking indefinitely.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In addition to 177 underground parking spots, community benefits cited include 10,000 square feet of commercial space and a 10-screen movie theater replacing Shattuck Cinemas. The project will also provide $1 million into an arts fund, with $250,000 going to assist the Habitot children’s museum in its relocation.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The lawsuits filed independently by Kelly Hammargren and James Hendry under the California Environmental Quality Act (CEQA) were merged into a &lt;a href=&quot;http://www.berkeleyside.com/2016/08/29/court-considers-challenge-to-berkeleys-2211-harold-way-project/&quot;&gt;joint hearing&lt;/a&gt; at the Alameda County Superior Court. Local news source Berkeleyside provided full coverage of the lengthy hearing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;For four hours on Friday, Hammargren and Hendry presented their arguments over the project’s environmental impacts, frequently digressing into political remarks against developers. Judge Frank Roesch had to instruct the audience not to cheer and applaud Hammargren’s speeches. “We don’t think that political speeches are very helpful in solving the puzzle,” he said.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/seeking-to-stop-high-rise-berkeley-grandstanders-find-shaky-footing-in-court/haroldwaynimbys.png&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Supporters of Hammargren and Hendry's lawsuit, notorious for opposing any new development in Berkeley, dubbed &quot;the fabulous fighting forty&quot; by local housing advocates (source: Berkeleyside)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Hammargren and Hendry displayed a conspicuous lack of legal experience in their self-representation. At one point, Judge Roesch denied Hammargren’s motion to introduce a map of the building’s western environs, which she claimed would show adverse health impacts due to the construction site’s proximity to Berkeley High School. The court only allowed evidence that had been included in the administrative record, which included 15,000 pages of documentation and video from 37 public hearings.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Attorneys from Manatt Phelps &amp;amp; Phillips represented developers HSR Berkeley Investments and Rhoades Development Group. Zach Cowan, City Attorney of Berkeley, also presented arguments. Hendry cited his experience attending administrative legal hearings as a motivation to represent himself.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When reached by phone for comment, developer and planner Mark Rhoades bitterly decried what he saw as a vindictive, anti-democratic process. “As a Berkeley resident, an urban planner, and a housing provider, this saddens me. This is exactly why Berkeley—and the state of California in general—has the housing crisis that we do. People have choices to make. They can continue to fight when they are in the voting minority and hold up the rest of the democratic process, or they can choose to respect the democratic process.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When asked what he meant, he elaborated: “What’s being done here has no respect for the democratic process; it’s a demand for their own way. They’re holding a project hostage …The units are held up, the Housing Trust Fund money is held up, a state of the art movie theater is held up, money for Habitot is held up. It’s all held up by two residents because they’re aggrieved, first by Berkeley’s vote on the &lt;a href=&quot;http://www.berkeleyside.com/2010/10/20/18024/&quot;&gt;2010 Measure R&lt;/a&gt;, and also how the city implemented that.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Rhoades also noted that the initial impact fee requirement was only $6.2 million. The city asked for, and the applicant agreed, to provide an additional $4 million in additional community benefits.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At the end of the hearing, Judge Roesch announced that he would deliver his ruling on the CEQA suit within 90 days.&lt;/p&gt;
 
     
   
