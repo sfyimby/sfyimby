@@ -86,13 +86,39 @@
   <div class="page">
     
 
-  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
-			
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
+  
+	
+	
+		<div id="ad-template-0" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-1" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-2" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="mailto:sonja.trauss@gmail.com?subject=I&#39;m interested in ad space!">
 			<img src="../../static/square_ad.png" class="news-article-ad">
 		</a>
 
-  </div>
+		</div>
+	
 
   <script>
     setTimeout(function() {
@@ -112,19 +138,22 @@
 						return;
 				}
 
-				var adElem = document.getElementById("ad-template");
+				var adElems = document.getElementsByClassName("news-article-ad-container-mobile-template");
 
 				var charsWithoutAd = 0;
 				var paragraphsWithoutAd = 0;
 				var didPlaceAd = false;
 
-				var placeAd = function (e) {
-						var clonedAd = adElem.cloneNode(true);
+				var placeAd = function (e, adIndex) {
+						var clonedAd = adElems[adIndex % adElems.length].cloneNode(true);
 						clonedAd.id = "";
 						clonedAd.style = "";
+						clonedAd.className = "news-article-ad-container-mobile";
 
 						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
 				};
+
+				var adIndex = Math.floor(Math.random() * 10);
 
 				for (var i=0; i < flattened.length; i++) {
 						var elem = flattened[i];
@@ -136,12 +165,13 @@
 								charsWithoutAd = 0;
 								paragraphsWithoutAd = 0;
 								didPlaceAd = true;
-								placeAd(elem);
+								placeAd(elem, adIndex);
+								adIndex++;
 						}
 				}
 
 				if (!didPlaceAd) {
-						placeAd(flattened[flattened.length - 1]);
+						placeAd(flattened[flattened.length - 1], adIndex);
 				}
     }, 0);
   </script>
@@ -195,8 +225,10 @@
 						
 								<div class="news-article-ad-container-desktop news-article-ad-top">
 										
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
 		</a>
 
 								</div>
@@ -204,8 +236,10 @@
 						
 								<div class="news-article-ad-container-desktop news-article-ad-bottom">
 										
-		<a href="mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!">
-			<img src="../../static/square_ad.png" class="news-article-ad">
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
 		</a>
 
 								</div>
@@ -214,8 +248,7 @@
 				</div>
 
 				<div class="news-article-body">
-						
-<div class="text-block">
+						<div class="text-block">
 	
 	
 	
@@ -254,7 +287,6 @@ neighborhood.</p>
 </div>
 
 </div>
-
 
 <div class="text-block">
 	
@@ -386,7 +418,6 @@ agreed with Farrell’s statement that “business as usual has got to change.�
 
 </div>
 
-
 <div class="text-block">
 	
 	
@@ -421,7 +452,6 @@ that we need to get organized to solve it.”</p>
 </div>
 
 </div>
-
 
 <div class="text-block">
 	
@@ -527,7 +557,6 @@ housing target, according to Wiener’s website.</p>
 </div>
 
 </div>
-
 
 <div class="text-block">
 	
