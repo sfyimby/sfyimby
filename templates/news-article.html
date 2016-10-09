@@ -6,9 +6,13 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
 
-  <div id="ad-template" class="news-article-ad-container-mobile" style="display: none">
-			{{ render_ad() }}
-  </div>
+  {% set rand = range(0, 10) | random %}
+	
+	{% for i in range(0, 3) %}
+		<div id="ad-template-{{ i }}" class="news-article-ad-container-mobile-template" style="display: none">
+				{{ render_ad(rand + i) }}
+		</div>
+	{% endfor %}
 
   <script>
     setTimeout(function() {
@@ -28,19 +32,22 @@
 						return;
 				}
 
-				var adElem = document.getElementById("ad-template");
+				var adElems = document.getElementsByClassName("news-article-ad-container-mobile-template");
 
 				var charsWithoutAd = 0;
 				var paragraphsWithoutAd = 0;
 				var didPlaceAd = false;
 
-				var placeAd = function (e) {
-						var clonedAd = adElem.cloneNode(true);
+				var placeAd = function (e, adIndex) {
+						var clonedAd = adElems[adIndex % adElems.length].cloneNode(true);
 						clonedAd.id = "";
 						clonedAd.style = "";
+						clonedAd.className = "news-article-ad-container-mobile";
 
 						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
 				};
+
+				var adIndex = Math.floor(Math.random() * 10);
 
 				for (var i=0; i < flattened.length; i++) {
 						var elem = flattened[i];
@@ -52,12 +59,13 @@
 								charsWithoutAd = 0;
 								paragraphsWithoutAd = 0;
 								didPlaceAd = true;
-								placeAd(elem);
+								placeAd(elem, adIndex);
+								adIndex++;
 						}
 				}
 
 				if (!didPlaceAd) {
-						placeAd(flattened[flattened.length - 1]);
+						placeAd(flattened[flattened.length - 1], adIndex);
 				}
     }, 0);
   </script>
@@ -102,17 +110,17 @@
 
 						{% if numAds > 0 %}
 								<div class="news-article-ad-container-desktop news-article-ad-top">
-										{{ render_ad() }}
+										{{ render_ad(rand) }}
 								</div>
 						{% endif %}
 						{% if numAds > 1 %}
 								<div class="news-article-ad-container-desktop news-article-ad-bottom">
-										{{ render_ad() }}
+										{{ render_ad(rand + 1) }}
 								</div>
 						{% endif %}
 						{% if numAds > 2 %}
 								<div class="news-article-ad-container-desktop news-article-ad-middle">
-										{{ render_ad() }}
+										{{ render_ad(rand + 2) }}
 								</div>
 						{% endif %}
 				</div>

@@ -33,6 +33,12 @@
 		}
 }
 
+@media screen and (max-width: 385px) {
+		.header-social-twitter {
+				display: none !important;
+		}
+}
+
 @media screen and (max-width: 535px) {
 		img.nav-social-logo {
 				margin-left: 2px !important;
