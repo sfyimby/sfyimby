@@ -1,0 +1,411 @@
+<!doctype html>
+<meta charset="utf-8">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84001440-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" href="http://www.sfbarf.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../static/style.css">
+<link href='https://fonts.googleapis.com/css?family=Work+Sans|Alegreya|Shrikhand' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<link rel="shortcut icon" href="../../static/favicon.png?h=01b3db54">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+<!--<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Top 10 Bay Area NIMBY Moments of 2016 — Bay Area Metropolitan Observer</title>
+
+<body>
+
+  <header class="clearfix">
+    <div class="header-logo">
+        <a href="../../">
+            <img src="../../static/logo.svg" class="banner_logo" alt="SF BAMO logo"/>
+        </a>
+    </div>
+    <div class="header-text">
+        <div class="header-text-tag-holder clearfix">
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/East Bay">East Bay</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/San Francisco">San Francisco</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/Peninsula">Peninsula</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/South Bay">South Bay</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/Elsewhere">Elsewhere</a>
+            </div>
+          
+        </div>
+    </div>
+    
+    <div class="header-social-logos clearfix">
+				<div class="header-social-subscribe">
+				  <a href="../../subscribe/index.html">
+						Subscribe
+					</a>
+				</div>
+				<div class="header-social-rss">
+				  <a href="../../subscribe/index.html">
+				     <img src="../../static/feed icon.svg?h=a5d82689" alt="Subscribe" class="nav-social-logo">
+					</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://www.facebook.com/bayareametobvs/">
+								<img src="../../static/fb icon.svg?h=c12870d6" alt="Facebook" class="nav-social-logo">
+						</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://twitter.com/MetroObserver">
+								<img src="../../static/twitter.png?h=0a2a6bc4" alt="Twitter" class="nav-social-logo">
+						</a>
+				</div>
+    </div>
+  </header>
+
+  <div class="page">
+    
+
+  
+	
+	
+		<div id="ad-template-0" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-1" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-2" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="mailto:sonja.trauss@gmail.com?subject=I&#39;m interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElems = document.getElementsByClassName("news-article-ad-container-mobile-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e, adIndex) {
+						var clonedAd = adElems[adIndex % adElems.length].cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style = "";
+						clonedAd.className = "news-article-ad-container-mobile";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				var adIndex = Math.floor(Math.random() * 10);
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem, adIndex);
+								adIndex++;
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1], adIndex);
+				}
+    }, 0);
+  </script>
+
+	<div class="news-header">
+		<div class="news-header-title">Top 10 Bay Area NIMBY Moments of 2016</div>
+				<p class="meta">
+						
+						<a href="https://twitter.com/berkeleigha">Leigha Beckman</a>
+						
+						<br/>
+						Monday, October 10, 2016
+				</p>
+
+		<div class="news_banner_container">
+				<img src="sf_bay_area_usgs.jpg" alt="" class="news_banner">
+		</div>
+	</div>
+	<div class="news-body">
+		<div class="news-article">
+				<div class="news-article-ads">
+						
+						
+
+						
+							
+						
+							
+						
+							
+						
+
+						
+
+						
+								
+						
+
+						
+								<div class="news-article-ad-container-desktop news-article-ad-top">
+										
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
+		</a>
+
+								</div>
+						
+						
+								<div class="news-article-ad-container-desktop news-article-ad-bottom">
+										
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+								</div>
+						
+						
+				</div>
+
+				<div class="news-article-body">
+						<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p>After covering SFHAC’s “Housing Heroes” award ceremony in <a href="http://sfbamo.com/news/sfhac-honors-heroes-with-haughty-hors-doeuvres/">deliciously detail</a>, <em>BAMO</em> felt that it was only appropriate to give recognition to both sides of the housing conversation. Today, we are proud to present the region’s Top 10 Displays of NIMBYism this year.</p>
+
+    
+  
+    
+				<p><strong> 1) Susan Jaffe Speaks Fondly of the McDonald’s She’s Never Set Foot In</strong></p>
+
+    
+  
+    
+				<p>Watching treasured San Francisco shops and restaurants shutter is never easy, especially if you have a long history in this city. But then there’s, you know, McDonald’s. The fast food location on 3rd and Townsend <a href="http://hoodline.com/2016/10/3rd-townsend-mcdonald-s-goes-dark-in-preparation-for-demolition">in the process of being replaced</a> with much needed high density, transit-proximal housing, which is pretty tough to chalk up as a loss -- unless you are Susan Jaffe. In a shameless Facebook post, Susan laments the change as the destruction of one of her childhood memories. In fact, the golden arches of SoMa were so special to Susan that <em>she literally never even went there</em>. “I'm a vegetarian,” Susan explains exasperatedly in a Facebook comment. “I don't eat there.” Susan goes on to stick the rhetorical landing, telling her opponent that he doesn’t understand what is sentimental to her. We join Susan’s interlocutor in pleading ignorance.</p>
+
+    
+  
+</div> <!-- END text-block -->
+
+
+<div class="photo-with-caption">
+  <img src="../../news/top-10-bay-area-nimby-moments-of-2016/susan.jpg" alt="" class="news_photo"/>
+
+</div>
+
+<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p><strong>2) Mission Resident Lucy Admits We Need Affordable Housing But Protests 100% Affordable Housing Complex for Seniors</strong></p>
+
+    
+  
+    
+				<p>Last year, Supervisor David Campos asked San Francisco to pass Prop I, which would temporarily ban all new housing in the Mission District unless the units are 100% affordable. An extreme proposal, and it didn’t pass. But apparently even when housing is 100% affordable, and explicitly set aside for an economically vulnerable segment of the population, residents of the Mission and Bernal Heights still find reason to oppose it. A proposal at 1296 Shotwell for 94 units of permanently affordable senior housing failed to meet the standards of its future neighbor, Lucy, <a href="http://missionlocal.org/2016/10/neighbors-double-down-against-mission-district-affordable-housing/">who insisted the project be reduced in size</a>, despite the fact that this concession would eliminate affordable units. Lucy acknowledged that “every unit counts”, but with the usual NIMBY caveat that one more affordable housing project “would not solve the problems of the city.” In a rare moment of self-awareness, Lucy declined to provide her last name to <em>Mission Local</em>.</p>
+
+    
+  
+    
+				<p><strong>3) Brisbane Woman Stands up for People Who Fear Becoming a Minority in Their Own Home</strong></p>
+
+    
+  
+    
+				<p>Fox News somehow missed this story, but we didn’t. The city of Brisbane is considering whether or not to approve a development proposal for offices and housing on its little swath of bay-adjacent land, which would be totally fine with Brisbane except for the part where they have to let people live there. <a href="https://www.google.com/url?q=http%3A%2F%2Fwww.ci.brisbane.ca.us%2Fspecial-council-meeting-to-discuss-brisbane-baylands-09-29-2016&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEvlPHK_BXpMwSlr3IvDImKJC3UPw">At a city council meeting in September</a>, local Brisbanians contemplated the implications of housing, which are basically apocalyptic in nature. “It really doesn’t matter why Brisbane is not going to build housing on the baylands,” this woman tells us, because apparently they don’t believe in reasons in Brisbane.  “Some don’t want to be a minority in their own home - who would?” she says around the 1h17m mark. Who would, indeed, white Brisbane lady.</p>
+
+    
+  
+    
+				<p><strong>4) Millionaire Homeowner in Berkeley Complains about Housing for People That Aren’t Her</strong></p>
+
+    
+  
+    
+				<p>Being a retired Berkeley homeowner is hard. You have to helplessly watch your property value go up all the time, fight the glare of glittering views of the bay, and constantly toil through the philosophical conundrum of whether or not Philz Coffee is a chain. How does one manage? Well, one way to ease the stress is going to city planning hearings and eulogizing your first-world problems to anyone who is paid to listen. This woman, who owns a house worth over a million dollars but pays property taxes based on an assessed value of about 20% of that amount, spoke at a Berkeley City Council meeting this past July against three new homes, which she said would <a href="https://twitter.com/hanlonbt/status/784140878541496320">“set a dangerous precedent” in the neighborhood.”</a> Sharing is scaring, right?</p>
+
+    
+  
+    
+				<p><strong>5) Peter Cohen, Director of an Affordable Housing Organization, Opposes Affordable Housing Initiative</strong></p>
+
+    
+  
+    
+				<p>In one of the most head-scratching policy oppositions in San Francisco this year, a measure put forward to increase the amount of affordable housing through a density bonus program ended up getting challenged by members of the affordable housing community itself. Yes, don’t worry, we were also shocked. The proposal would allow developers to add three stories to a building irrespective of zoned height limits, but under the condition that all the extra units are affordable. More density, more affordability, and at no cost to taxpayers. Sounds like an awesome deal (it is), but Peter Cohen, a Noe Valley condominium owner and Director of the affordable housing nonprofit Council of Community Housing Organization (CCHO), <a href="http://www.sfchronicle.com/bayarea/article/SF-housing-density-plan-meets-opposition-6810769.php">came out as one of the loudest opponents of the bill</a>. Cohen said it was too much of a giveaway to private developers, which seems to completely miss the fact that it is actually a giveaway to middle-income families. We admit this one doesn’t technically qualify as NIMBYism in the literal sense, but Mr. Cohen doesn’t technically qualify as an affordable housing advocate, either.</p>
+
+    
+  
+    
+				<p><strong>6) Man Who Can Walk to Fremont BART Explains How Important Cars Are</strong></p>
+
+    
+  
+    
+				<p>Hugh Vassar, who would like you to know that he has purchased not one but two single-family homes in Fremont, doesn’t think building housing near BART will reduce people’s use of cars. How does Hugh know that? Because he lives right next to BART, <a href="https://fremontca.viebit.com/#K7J3x1kL3QTQ">and he drives all the time</a>! Even as a frequent BART commuter, Hugh “never got rid of any cars” (is he a collector?), which means the future residents of the proposed BART-adjacent housing development he opposes won’t either. We would explain to Hugh that increasing density and walkability doesn’t happen overnight, and the development is a really good start, but he is already speeding away from us.</p>
+
+    
+  
+    
+				<p><strong>7) Environmental Attorney Stu Flashman Fights Green, Eco-friendly CalTrain Project</strong></p>
+
+    
+  
+    
+				<p>Stu Flashman, who is not a character in a Marvel comic but a real-life land use and environmental attorney, represented Atherton in its fight against CalTrain’s electrification plan, a plan the Sierra Club called <a href="http://www.sierraclub.org/sites/www.sierraclub.org/files/sce/loma-prieta-chapter/cool-cities-action/12.13.12%20-%20Article%20-%20Caltrain%20electrification%20project%20lauded%20by%20Sierra%20Club.pdf">one of the best transportation projects of the year</a> back in 2012. The plan in question is to replace CalTrain’s diesel engine trains with electrified trains, in order to increase operating efficiency, accommodate more riders, and significantly reduce air pollution. Stu argued that the environmental review didn’t take into account the cumulative effects of an electrified CalTrain and the high speed rail, since apparently twice as much mass transit probably means twice as much pollution. Except electrifying CalTrain <a href="http://www.caltrain.com/Assets/Caltrain+Modernization+Program/Documents/PCEP+Fact+Sheet+May+2015.pdf">has enormous environmental benefits</a>: taking cars off the road with 619,000 less vehicle miles traveled and reducing annual greenhouse gas emissions by 176,000 metric tons of CO2. Stu Flashman and Atherton <a href="http://www.almanacnews.com/news/2016/09/28/atherton-loses-lawsuit-over-caltrain-electrification-project">ultimately lost the lawsuit</a>, but they didn’t lose a place on this list.</p>
+
+    
+  
+    
+				<p><strong>8) Berkeley Resident Kelly Hammargren Confuses NIMBYism with Valid Legal Argument</strong></p>
+
+    
+  
+    
+				<p>Kelly Hammargren has spent more than two years fighting a proposed housing project at 2211 Harold Way, including a legal battle which might have made more headway by now if Hammargren actually had a lawyer. The project she’s opposing, a 300-plus unit building next to a BART station, has been in the works since December 2012. Although more than 30 community meetings having been held since the project’s application, Hammargren eventually decided to step it up to the big leagues by going to court. Unfortunately for her, a judge is supposed to consider legal arguments, and it seems Hammargren didn’t really have any. At <a href="http://www.berkeleyside.com/2016/08/29/court-considers-challenge-to-berkeleys-2211-harold-way-project/">a hearing in August</a>, the judge had to ask Hammargren to stick to legal arguments and not make political speeches, ultimately denying her motion. Without any mention of her lawsuit, Hammargren has exhorted Berkeley students to support her flagrant NIMBYism because, you know, <a href="http://www.dailycal.org/2016/09/16/harold-way-project-mired-problems/">historic views</a> or something.</p>
+
+    
+  
+    
+				<p><strong>9) Spike Kahn Doesn’t Want Any New Properties in the Mission Unless She Owns Them</strong></p>
+
+    
+  
+    
+				<p>The Mission housing proposal dubbed the “Beast on Bryant” by opponents is more of a building than a Disney villain, but when you’re a NIMBY, nouns are relative and the dictionary is a capitalist manifesto. In any semantic case, Spike Kahn has been leading the charge against the housing proposal on 2000-2070 Bryant, a 300-plus unit building with a portion of affordable units. It’s such an inoffensive project that <a href="http://sf.curbed.com/2016/9/15/12931964/beast-on-bryant-loses-appeals-lawsuit">even David Campos supports it</a>. But here’s where things get prickly for Spike. While Spike Kahn has spoken passionately against this housing project “destroying the neighborhood” because of all its moneyed implications, or something, she conveniently leaves out the fact that she owns a ton of properties and is totally killing it in on AirBnB. Yeah, the beast-slayer owns more than ten properties in San Francisco and regularly AirBnBs her home. Take a look at her user profile, and go ahead and ask her for a discount on your nightly price too, since affordability is so important to Spike. .</p>
+
+    
+  
+    
+				<p><strong>10) Jean Quan's Activist Daughter Sticks it to Developers by Demanding More Parking</strong></p>
+
+    
+  
+    
+				<p>Fighting for the little guy is important, especially when the little guy is a car. Just ask Lailan Huen, daughter of former Oakland mayor Jean Quan, <a href="http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/05/oakland-housing-wood-partners-gentrification-quan.html">who is leading the call for parking-related concessions from Wood Partners on one of its development proposals</a>. The project at issue is a 262-unit residential proposal that will, ironically, replace an existing parking lot located walking distance from several BART stations. In addition to calling for increased affordability percentages, which will likely require millions of dollars in subsidies, Huen and her followers want 25 parking spaces or a $50,000 payment to fund parking. Hint: the housing might be more affordable if it didn’t require so much parking.</p>
+
+    
+  
+    
+				<p>Congratulations to our Top 10 NIMBYs! You earned it—at everyone else’s expense.</p>
+
+    
+  
+</div> <!-- END text-block -->
+				</div>
+		</div>
+		<div class="news-article-below">
+				
+						<div class="news-article-tag">
+								<a href="../../news/tag/San Francisco">San Francisco</a>
+								</div>
+						<div class="news-article-tag">
+								<a href="../../news/tag/East Bay">East Bay</a>
+								</div>
+						<div class="news-article-tag">
+								<a href="../../news/tag/Peninsula">Peninsula</a>
+								</div>
+						
+				
+
+				<div class="news-navigation-node">
+						
+						
+						
+								<a href="../../news/dispatches-from-the-vote16-campaign-youth-power/">next &raquo;</a>
+						
+				</div>
+		</div>
+	</div>
+
+  </div>
+  <footer class="clearfix">
+		<div class="footer-copyright">
+				&copy; Copyright 2016 by SF BAMO.
+		</div>
+		<div class="footer-contact">
+				<a href="../../contact/">
+						Contact
+				</a>
+		</div>
+  </footer>
+</body>
