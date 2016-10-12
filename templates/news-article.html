@@ -41,7 +41,7 @@
 				var placeAd = function (e, adIndex) {
 						var clonedAd = adElems[adIndex % adElems.length].cloneNode(true);
 						clonedAd.id = "";
-						clonedAd.style = "";
+						clonedAd.style.display = "";
 						clonedAd.className = "news-article-ad-container-mobile";
 
 						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
