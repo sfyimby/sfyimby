@@ -2,13 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-13T00:00:00Z</updated>
+  <updated>2016-10-14T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/editorial-prop-ds-illusion-of-local-democracy/">
+    <title type="text">Editorial: Prop D's Illusion of Local Democracy</title>
+    <id>urn:uuid:55dd8213-bd63-37fe-b5b1-ec560b819c4d</id>
+    <updated>2016-10-14T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/editorial-prop-ds-illusion-of-local-democracy/" />
+    <author>
+      <name>Leigha Beckman</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;A recent op-ed &lt;a href=&quot;http://www.sfexaminer.com/&quot;&gt;&lt;em&gt;San Francisco Examiner&lt;/em&gt;&lt;/a&gt; tells us that “Prop D is all about democracy,” which is pretty punchy as far as headlines go, in a kool-aid kind of way. Warning us against a present imbalance of power and overreach by City Hall insiders in certain district supervisorial seat replacements, the piece insists that Prop D will correct this imbalance and restore constitutional principles by giving power “back” to voters.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;But Prop D isn’t about improving local democracy at all, and voters already have a say in the situation it applies to. What Prop D is trying to “fix” is the relatively uncommon circumstance of responding to a vacant Supervisor Seat, by supposedly shifting power away from the mayor and to voters in that district.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The way it works now, if a supervisor leaves his or her seat - as is likely to happen this November after Scott Wiener or Jane Kim wins the State Senate race - the Mayor is responsible for appointing a new supervisor, who can then run in the next general election. Prop D would change this to allow the Mayor to appoint only an interim Supervisor, and create a special election to vote in the new supervisor. The interim appointee by the mayor would not be allowed to run in this special election, although they could run in the next general election.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;At first glance, that change seems to make sense. Why should the mayor get to select a district supervisor, rather than district residents themselves? Doesn’t that just open the door for political favoritism or some shady mayor motives?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Not really. If voters don’t like the mayor’s appointment, they can vote them out come election-time. And they have. Two of the last three mayoral appointees - Julie Christensen of District 3 and Christina Olague of District 5 - lost in the subsequent general elections. The supposed benefit of incumbency doesn’t seem to be an issue here.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;If interim appointee doesn’t have to face voters, it would be &lt;em&gt;more&lt;/em&gt; likely that they will put the mayor’s interests first. For the time they hold office, the appointee will answer to the mayor with no accountability to voters. Will this necessarily lead to some negative outcome for the district at issue? No, but if the goal of this measure is to increase accountability for a district leader, this seems like the wrong way to achieve it.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Moreover, special elections generally get very low turnout, which means the results skew...well, they skew in some non-representative direction, essentially.  Compared to a general election, like the one you would vote in for a vacant supervisor seat now, special elections are actually less democratic. Again, if the goal here is more democracy, this change won’t get us there.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The current system works, and doesn’t pose any actual threat to democracy. We already elect supervisors in vacancy situations.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Prop D would just add a costly, unnecessary election with low voter participation and create more problems than it would solve - which is hard to avoid when the measure creates its own problem.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/local-profiles-oji-edutainment/">
     <title type="text">Local Profiles: Oji Edutainment</title>
     <id>urn:uuid:9dfa2351-ec03-3e7e-94b6-0f2b23b996be</id>
@@ -4036,103 +4099,6 @@ identified as Generation Y and Baby Boomers.” 50 of the 320 units would be pri
   
     
 				&lt;p&gt;Lorenzana-Campo also echoed Councilmember Jensen’s sentiments that the denial represented undue perfectionism in the face of a severe shortage. “This is the project that has been before them for a few years ago. The fact is that they entertained the proposal and were working with the developers, with the project design in question—they needed to take action to improve housing conditions in Los Gatos. In denying the project, they are just making the housing crisis worse, not only for their residents and workers, and for other residents in their region. Now some other community is going to have to provide the extra housing to make up for the unmet need. This is a regional issue, and Los Gatos needs to shoulder their fair share, as do all the other cities in Santa Clara County.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/san-jose-tenants-face-uphill-battle-against-rent-hike/">
-    <title type="text">San Jose Tenants Face Uphill Battle Against Rent Hike</title>
-    <id>urn:uuid:63702444-1553-3fe4-888d-532c0b128989</id>
-    <updated>2016-09-02T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/san-jose-tenants-face-uphill-battle-against-rent-hike/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Two San Jose tenants face an increasingly Sisyphean struggle to hold off a crushing rent increase that could force them to move. Through an arcane loophole in the city’s rent control law, landlords were allowed to raise rents beyond the legal cap in order to pass through interest rates of new mortgage loans onto tenants.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Although San Jose &lt;a href=&quot;http://sfbamo.com/news/san-jose-eliminates-mortgage-interest-loophole-in-rent-control/&quot;&gt;amended&lt;/a&gt; the law to close this loophole in June, in the three-month period before it took effect, the city saw fifteen Debt Pass-Through Petitions filed, as many as had been filed in the last five years. City Councilmember Raul Peralez confirmed this statistic in a recent &lt;a href=&quot;https://www.facebook.com/JesseGaryKTVU2/videos/1572902493016105/&quot;&gt;interview with KTVU&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Despite receiving an unfavorable ruling from a hearing officer, residents Keith Jones and Julie Allen of 85 East Taylor Street plan to appeal their case. Under the current court decision, rent on the studio apartment the couple shares will increase from slightly over $1000 per month to $1595. The couple has lived at their current residence for six years.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While San Francisco’s displacement epidemic has garnered national media attention, San Jose’s equally disastrous housing crisis has received little beyond lip service outside of the South Bay. The city recently found itself legally unable to halt the single &lt;a href=&quot;http://www.sanjoseinside.com/2016/06/29/mass-eviction-san-joses-largest-to-displace-670-people/&quot;&gt;largest eviction&lt;/a&gt; in the Bay Area, with a developer slated to tear down 216 units of low-income units for three times as many market-rate apartments.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Though the legal process will be costly, Jones and Allen do not consider the hike in rent to be any less of a burden. “To be honest, we could potentially pay this,” Allen said over the phone. “But we would be rent-burdened. It would be another $600 a month that could go to our savings, especially if we decided we wanted to purchase something.” She also noted that Jones, at 57, is approaching conventional retirement age. “We have to think about our future and our retirement. We like to travel, we like to enjoy life. And in emergencies, if someone has to go to the hospital or something, it would really cut into it. It’s a huge increase in the cost of living now, coupled with the fact that salaries aren’t rising to keep up.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/san-jose-tenants-face-uphill-battle-against-rent-hike/kj2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Keith Jones and Julie Allen in front of their apartment at 85 East Taylor Street&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Allen also stressed that it would be “virtually impossible” to find something within a similar price range in the area. “We would be looking into moving out of the area, even out of the state.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Jones was frustrated that everyone from city officials to pro-bono legal aid from the Law Foundation encouraged him to negotiate with the landlord, a paradigm he says places undue pressure on vulnerable tenants. “More than likely, I will probably do [the appeal] on my own,” Jones added. “We can’t afford to pay the fees for a new attorney. If I bring the landlord into court, we may have to pay for the landlord’s attorney fees.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Historically, it’s very rare that tenants win in these kinds of cases,” Allen added. “We actually were able to explain our situation at the last hearing…but the whole thing that we initially heard about was landlord hardship. They never talked about tenant hardship.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Despite the cost burden, Jones pointed to significant technical oversights he was confident could help him win in an appeal. His main frustrations stems from the fact that the court’s hearing officer initially sided with Jones, only to abruptly change her mind. In the court’s opinion, the debt pass-through was not based on the mortgage itself, but an amortization of the clerical fees from applying for the mortgage.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“In the decision,” Jones explained, “she sided with the new landlord, though the ordinance clearly states that you need 60+ months in mortgage payments. The landlord only made 59. The decision  isn’t supported by what her argument is. 59 versus 60 payments is very clear.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Jones also disputed that the landlord had adequately documented the terms of their recent loan. “That the fees were amortized over 15 years—there is no documentation, no support as to whether the loan that the new landlord took out is amortized over 15 years. The only thing that is supporting that is a letter from the bank stating that the loan is amortized for 15 years. On all other documents, it says it’s amortized for 5 years plus a balloon payment.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Because Jones and Allen both work full-time, Councilmember Raul Peralez was only able to schedule a meeting with them at the end of this month, after numerous attempts to meet with them in early afternoon hours.&lt;/p&gt;
 
     
   
