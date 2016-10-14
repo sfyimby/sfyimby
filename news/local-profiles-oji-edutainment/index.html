@@ -1,0 +1,485 @@
+<!doctype html>
+<meta charset="utf-8">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84001440-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" href="http://www.sfbarf.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../static/style.css">
+<link href='https://fonts.googleapis.com/css?family=Work+Sans|Alegreya|Shrikhand' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<link rel="shortcut icon" href="../../static/favicon.png?h=01b3db54">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+<!--<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Local Profiles: Oji Edutainment — Bay Area Metropolitan Observer</title>
+
+<body>
+
+  <header class="clearfix">
+    <div class="header-logo">
+        <a href="../../">
+            <img src="../../static/logo.svg" class="banner_logo" alt="SF BAMO logo"/>
+        </a>
+    </div>
+    <div class="header-text">
+        <div class="header-text-tag-holder clearfix">
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/East Bay">East Bay</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/San Francisco">San Francisco</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/Peninsula">Peninsula</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/South Bay">South Bay</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/Elsewhere">Elsewhere</a>
+            </div>
+          
+        </div>
+    </div>
+    
+    <div class="header-social-logos clearfix">
+				<div class="header-social-subscribe">
+				  <a href="../../subscribe/index.html">
+						Subscribe
+					</a>
+				</div>
+				<div class="header-social-rss">
+				  <a href="../../subscribe/index.html">
+				     <img src="../../static/feed icon.svg?h=a5d82689" alt="Subscribe" class="nav-social-logo">
+					</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://www.facebook.com/bayareametobvs/">
+								<img src="../../static/fb icon.svg?h=c12870d6" alt="Facebook" class="nav-social-logo">
+						</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://twitter.com/MetroObserver">
+								<img src="../../static/twitter.png?h=0a2a6bc4" alt="Twitter" class="nav-social-logo">
+						</a>
+				</div>
+    </div>
+  </header>
+
+  <div class="page">
+    
+
+  
+	
+	
+		<div id="ad-template-0" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-1" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="mailto:sonja.trauss@gmail.com?subject=I&#39;m interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-2" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElems = document.getElementsByClassName("news-article-ad-container-mobile-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e, adIndex) {
+						var clonedAd = adElems[adIndex % adElems.length].cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style.display = "";
+						clonedAd.className = "news-article-ad-container-mobile";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				var adIndex = Math.floor(Math.random() * 10);
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem, adIndex);
+								adIndex++;
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1], adIndex);
+				}
+    }, 0);
+  </script>
+
+	<div class="news-header">
+		<div class="news-header-title">Local Profiles: Oji Edutainment</div>
+				<p class="meta">
+						
+						<a href="https://twitter.com/daguilarcanabal">Diego Aguilar Canabal</a>
+						
+						<br/>
+						Thursday, October 13, 2016
+				</p>
+
+		<div class="news_banner_container">
+				<img src="oji1.jpg" alt="" class="news_banner">
+		</div>
+	</div>
+	<div class="news-body">
+		<div class="news-article">
+				<div class="news-article-ads">
+						
+						
+
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+
+						
+
+						
+								
+						
+
+						
+								<div class="news-article-ad-container-desktop news-article-ad-top">
+										
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+								</div>
+						
+						
+								<div class="news-article-ad-container-desktop news-article-ad-bottom">
+										
+	
+	
+		<a href="mailto:sonja.trauss@gmail.com?subject=I&#39;m interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+								</div>
+						
+						
+				</div>
+
+				<div class="news-article-body">
+						<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p>Oji Edutainment is serenity personified. With his red-tinted locks tied back, he greets me with a smile of eternal grace and warmth as I drag my bicycle into an unobtrusive corner of his kitchen. I’ve biked over three miles from the Pittsburg BART station to his apartment, absorbing impossibly beautiful hillside views along an impossibly narrow bike lane. On more residential streets, cawing roosters and charming church yard sales remind me of family trips to Maryland’s Amish country, home of America’s finest pretzels.</p>
+
+    
+  
+    
+				<p>Oji moved here for peace of mind, to raise his family in a calm environment close to nature. I don’t blame him.</p>
+
+    
+  
+</div> <!-- END text-block -->
+
+
+<div class="photo-with-caption">
+  <img src="../../news/local-profiles-oji-edutainment/oji2.jpg" alt="" class="news_photo"/>
+
+  <div class="photo-caption"><p>Oji Edutainment</p>
+</div>
+
+</div>
+
+<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p>Under the moniker of Oji &amp; The Ascension Team, Oji (rhymes with “eye”) has produced sprawling, lyrical epics that draw from a vast tapestry of influences. He uses platforms like Soundcloud and the online exchange platform Fiverr, where people can seek bids for any sort of service with the standard bid of $5, to find like-minded collaborators from around the world, including Malian rappers singing in Wolof. His production style is deeply psychedelic yet through-provoking, packing enough surprises to keep listeners on their toes.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZPpoRftF7I" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mj1wILFC2O4" frameborder="0" allowfullscreen></iframe>
+    
+  
+    
+				<p>From folk to techno, jazz to African rhythms, Oji’s newest project “Ziko Shezi &amp; The Umbilini” even features vocal percussion from a South Indian classical singer in Sri Lanka.</p>
+
+    
+  
+    
+				<p>Though I’m a total stranger to them, his five children greet me like a cousin, and while Oji finds a movie for them to watch, three of them abandon their electric train set to climb over me and play catch. I’m almost embarrassed of my own childhood: misbehaved as I was, I still haven’t read any of my parents’ books. Meanwhile, Maat (9), Ba (8), Ase (7), Bodhi (5), and Ptah (3) are paragons of patience, joyously dancing to their father’s music but quick to calm down and listen when he asks them to give us some space. Later he tells me with pride that Bodhi was born in the bathtub just a few feet away from us, before the midwife could arrive.</p>
+
+    
+  
+</div> <!-- END text-block -->
+
+
+<div class="photo-with-caption">
+  <img src="../../news/local-profiles-oji-edutainment/oji3.jpg" alt="" class="news_photo"/>
+
+  <div class="photo-caption"><p>The author caves into demands to take a selfie with Ase, Bodhi, and Ptah</p>
+</div>
+
+</div>
+
+<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p>Oji wears many hats, but he doesn’t see it that way. He’s a rapper, a father, a painter, producer, filmmaker—what’s the difference? “I just like to keep things interesting, try something new with every project,” he says as he shows me his home studio. His paintings—many purely abstract, others vaguely forming the shapes of human faces—surround his workstation, on which a small laptop and keyboard emit sound from a single studio monitor.</p>
+
+    
+  
+    
+				<p>Indeed, though always branching out in new “interesting” terrain, his work all coexists in a singular oeuvre: paintings and animations are often a part of his music videos, and visual work often inspires his music. It’s rare to find someone who radiates pure expression, a creative life-force oozing out into the world through every medium imaginable. Sometimes Oji calls it “divinity” and I’m inclined to agree. An autodidact to the core, he learned everything from music production to martial arts, painting, and 3D animation on his own.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DuxzgP7BF7M" frameborder="0" allowfullscreen></iframe>
+
+“My interests are very diverse, and not many people share them,” Oji says with a notable absence of the disappointment one might expect from such a statement. “Learning the spiritual aspects of your voice, like harmonizing with something outside of yourself, empowers you to connect your body with the world around you.” He hummed a meditative "ahhh" sound to demonstrate. “Your own voice, in my experience, is your spirit in free form.”
+
+His freestyle rapping often includes random syllables, a “made-up language” with no meaning beyond its own Being-in-Time.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ruAIZ7cH8iA" frameborder="0" allowfullscreen></iframe>
+    
+  
+    
+				<p>“It’s very much like abstract painting,” he says of his invented speech. “It has no meaning except the meaning you give it, so it can mean different things at different times…It’s always new.” It’s actually quite shocking to go from mere listener to audience in his presence—initially soft-spoken and calm, his rapping voice is bold, measured, electric. Each sound receives great care and enunciation; Oji’s eyes light up like someone whose brilliant new invention will change the world. It’s trancelike, almost as if he’s possessed, the energy is so sudden and unexpected.</p>
+
+    
+  
+    
+				<p>He compares the tradition of freestyle rap to the vocal percussion known as <em>konnakol</em>, a South Indian classical technique prominently featured on his upcoming Umbilini album <em>Glossolalia</em> (the scientific term for speaking in tongues).</p>
+
+    
+  
+    
+				<p>Oji was born and raised in the Hunters Point neighborhood of San Francisco. Many of his music videos are filmed there, but he’s fairly reticent about his time in the city save for a mention that he “had more anger” back then. His uncles formed part of a “pop-lock-n-strut” dance crew in the Fillmore neighborhood, but artistic pursuits were otherwise rare in his family.</p>
+
+    
+  
+    
+				<p>Though formerly an artist-in-residence at the Shipyard art studios in Hunters Point, he feels little connection to the artistic community in the area save for some family members still living in Bayview. “I still feels like a tourist out there,” he says of his visits home. We both agree Pittsburg unquestionably has better rent and better weather.</p>
+
+    
+  
+    
+				<p>“I got bored speaking about the same things,” Oji says of his early days practicing freestyle rap. “It was kind of to free myself from the environment, and now I do it for beauty—to find inspiration, divinity. The more you do it, the more energy builds up and starts shining.”</p>
+
+    
+  
+    
+				<p>Though less locally-focused now, his musical community isn’t just international and online. Oji has shined his light on local artists such as Oakland chanteuse <a href="http://www.eastbayexpress.com/oakland/maya-songbird-writes-music-for-the-wild-and-weird/Content?oid=4647422">Maya Songbird</a>, producing several songs on her <a href="https://ratskinrecords.bandcamp.com/album/maya-songbird-queen-of-darkness-ep"><em>Queen of Darkness</em> EP</a>. Like Oji, Maya’s aesthetic often shows shamanistic tendencies, setting anthems of sexual empowerment against a backdrop of Ankh pendants and black cats. More recently, he performed at the New Parish in Oakland with the prolific R&amp;B icon George Anne Muldrow. Oji praises her powerful collaboration with New York producer Bilal as a groundbreaking achievement in vocal performance.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GYAW_njEoBI" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0o-q1_xUSk" frameborder="0" allowfullscreen></iframe>
+    
+  
+    
+				<p>Oji is also a close collaborator with Sacramento rapper First Degree The D.E., who also interviewed Oji about his alien abduction <a href="http://blog.firstdegreethede.com/2014/09/15/bay-area-rapper-abducted-by-aliens">experience</a> at Russian River several years ago. We pause the interview to watch First Degree's newest music video and I relinquish all journalistic objectivity: it’s simply incredible. We spend the next hour or so diving through a YouTube wormhole as he shows me his favorite artists, including the rapper Art Melody from Burkina Faso.</p>
+
+    
+  
+    
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/veywomI73N8" frameborder="0" allowfullscreen></iframe></p>
+
+    
+  
+    
+				<p>The challenge for him is to carve out a niche in the ranks of Bay Area hip-hop by learning from the masters who rep the region worldwide. “I grew up listening to artists like Andre Nickatina, Mac Dre, and there’s a lot to learn from those guys in building a fan-base and establishing a brand, particularly with <a href="https://www.youtube.com/watch?v=w4FSR0IR-DY">JT The Bigga Figga</a>. I would love to be a part of the music industry, because I feel like I have a lot to bring to the table. Ultimately it’s about working with people who believe in what I do.”</p>
+
+    
+  
+    
+				<p>Eventually I speculate aloud, as we talk about his successful and less-successful efforts to break into the music business, if he consciously intended to speak more about spiritual matters than pressing social issues in his music. Would he, in other words, end up making a song about recent police murders in Bayview, or Black Lives Matter in general, as many current artists have done?</p>
+
+    
+  
+    
+				<p>The answer is simple: his art is his life. “I know exactly what you mean. I’ve done a lot of healing since I’ve been here, and there’s still more healing to do. Detoxifying--<em>emotionally</em>, you know. But I understand each side of the spectrum. One of my favorite artists is <a href="https://en.wikipedia.org/wiki/Marilyn_Manson">Marilyn Manson</a>; at the other end of the spectrum, there’s <a href="http://www.afropunk.com/group/eatmadveg/forum/topics/starchetarians-by-super-nova">Super Nova Slom</a>, who writes about holistic health.”</p>
+
+    
+  
+    
+				<p>After a long, reflective pause: “Stability is what I aim for, whether it’s through the breath, or learning how life is sacred. I try not to take anyone or anything for granted.”</p>
+
+    
+  
+    
+				<p>This uniquely Californian trope, that of unfettered self-expression as a radical act of protest—not just navel-gazing, but out of deep reverence for the whole web of life—feels like something I’ve been searching for ever since I moved here.  Now after meeting Maya and Oji, I’ve finally found what was here all along.</p>
+
+    
+  
+    
+				<p>Very few artists strike such a tender balance between absolute confidence in what they do, and the humility to accept and learn from every new experience. Even fewer approach it with the same sense of conviction.</p>
+
+    
+  
+    
+				<p>After our interview, the children insisted on showing me their pet geckos, as they fed them live crickets Oji had brought from the pet store that morning. Out of the corner of my eye, I could see him beaming with pride as Ase and Bodhi teamed up on the piano to show me the songs they’d been learning. Behind them stood an easel, no higher than my waist, holding a canvas splattered with paint.</p>
+
+    
+  
+</div> <!-- END text-block -->
+
+
+<div class="photo-with-caption">
+  <img src="../../news/local-profiles-oji-edutainment/oji4.jpg" alt="" class="news_photo"/>
+
+  <div class="photo-caption"><p>Western Contra Costa County is stunningly beautiful.</p>
+</div>
+
+</div>
+
+<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p>We parted ways before sunset, so Oji could take Ptah out for a short nature hike. As I biked up the hill back to the BART station, I recalled his comment about feeling like a tourist in his hometown. I don't feel that way here. Something about Pittsburg seems timeless: not the suburban cul-de-sacs lining the road, but something intangible. Something in the wind, in the golden dusk falling over the rolling hills.</p>
+
+    
+  
+    
+				<p>People will go far to find peace—though personally, I’m glad Oji didn’t move any farther. Here one can breathe deeply, and listen.</p>
+
+    
+  
+</div> <!-- END text-block -->
+				</div>
+		</div>
+		<div class="news-article-below">
+				
+						<div class="news-article-tag">
+								<a href="../../news/tag/East Bay">East Bay</a>
+								</div>
+						<div class="news-article-tag">
+								<a href="../../news/tag/Pittsburg">Pittsburg</a>
+								</div>
+						<div class="news-article-tag">
+								<a href="../../news/tag/Oakland">Oakland</a>
+								</div>
+						
+				
+
+				<div class="news-navigation-node">
+						
+						
+						
+								<a href="../../news/arce-discusses-transit-and-housing-at-30th-and-mission/">next &raquo;</a>
+						
+				</div>
+		</div>
+	</div>
+
+  </div>
+  <footer class="clearfix">
+		<div class="footer-copyright">
+				&copy; Copyright 2016 by SF BAMO.
+		</div>
+		<div class="footer-contact">
+				<a href="../../contact/">
+						Contact
+				</a>
+		</div>
+  </footer>
+</body>
