@@ -1,0 +1,368 @@
+<!doctype html>
+<meta charset="utf-8">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84001440-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" href="http://www.sfbarf.org/css/bootstrap.min.css">
+<link rel="stylesheet" href="../../static/style.css">
+<link href='https://fonts.googleapis.com/css?family=Work+Sans|Alegreya|Shrikhand' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+<link rel="shortcut icon" href="../../static/favicon.png?h=01b3db54">
+<!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
+<![endif]-->
+<!--[if gt IE 8]><!-->
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
+<!--<![endif]-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Op-Ed: Sleepwalking in the Tenderloin — Bay Area Metropolitan Observer</title>
+
+<body>
+
+  <header class="clearfix">
+    <div class="header-logo">
+        <a href="../../">
+            <img src="../../static/logo.svg" class="banner_logo" alt="SF BAMO logo"/>
+        </a>
+    </div>
+    <div class="header-text">
+        <div class="header-text-tag-holder clearfix">
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/East Bay">East Bay</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/San Francisco">San Francisco</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/Peninsula">Peninsula</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/South Bay">South Bay</a>
+            </div>
+          
+            <div class="header-text-tag nav-link">
+              <a href="/news/tag/Elsewhere">Elsewhere</a>
+            </div>
+          
+        </div>
+    </div>
+    
+    <div class="header-social-logos clearfix">
+				<div class="header-social-subscribe">
+				  <a href="../../subscribe/index.html">
+						Subscribe
+					</a>
+				</div>
+				<div class="header-social-rss">
+				  <a href="../../subscribe/index.html">
+				     <img src="../../static/feed icon.svg?h=a5d82689" alt="Subscribe" class="nav-social-logo">
+					</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://www.facebook.com/bayareametobvs/">
+								<img src="../../static/fb icon.svg?h=c12870d6" alt="Facebook" class="nav-social-logo">
+						</a>
+				</div>
+				<div class="header-social-twitter">
+						<a href="https://twitter.com/MetroObserver">
+								<img src="../../static/twitter.png?h=0a2a6bc4" alt="Twitter" class="nav-social-logo">
+						</a>
+				</div>
+    </div>
+  </header>
+
+  <div class="page">
+    
+
+  
+	
+	
+		<div id="ad-template-0" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-1" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+		<div id="ad-template-2" class="news-article-ad-container-mobile-template" style="display: none">
+				
+	
+	
+		<a href="mailto:sonja.trauss@gmail.com?subject=I&#39;m interested in ad space!">
+			<img src="../../static/square_ad.png" class="news-article-ad">
+		</a>
+
+		</div>
+	
+
+  <script>
+    setTimeout(function() {
+				var textBlocks = Array.prototype.map.call(document.getElementsByClassName("text-block"), function (x) { return x.children; });
+				var flattened = [];
+				for (var i=0; i < textBlocks.length; i++) {
+						for (var j=0; j < textBlocks[i].length; j++) {
+
+								// no ads in footnotes
+								if (textBlocks[i][j].className.indexOf("footnotes") == -1) {
+										flattened.push(textBlocks[i][j]);
+								}
+						}
+				}
+
+				if (flattened.length == 0) {
+						return;
+				}
+
+				var adElems = document.getElementsByClassName("news-article-ad-container-mobile-template");
+
+				var charsWithoutAd = 0;
+				var paragraphsWithoutAd = 0;
+				var didPlaceAd = false;
+
+				var placeAd = function (e, adIndex) {
+						var clonedAd = adElems[adIndex % adElems.length].cloneNode(true);
+						clonedAd.id = "";
+						clonedAd.style.display = "";
+						clonedAd.className = "news-article-ad-container-mobile";
+
+						elem.parentElement.insertBefore(clonedAd, elem.nextSibling);
+				};
+
+				var adIndex = Math.floor(Math.random() * 10);
+
+				for (var i=0; i < flattened.length; i++) {
+						var elem = flattened[i];
+
+						charsWithoutAd += elem.innerText.length;
+						paragraphsWithoutAd++;
+
+						if (charsWithoutAd > 800 && paragraphsWithoutAd > 2) {
+								charsWithoutAd = 0;
+								paragraphsWithoutAd = 0;
+								didPlaceAd = true;
+								placeAd(elem, adIndex);
+								adIndex++;
+						}
+				}
+
+				if (!didPlaceAd) {
+						placeAd(flattened[flattened.length - 1], adIndex);
+				}
+    }, 0);
+  </script>
+
+	<div class="news-header">
+		<div class="news-header-title">Op-Ed: Sleepwalking in the Tenderloin</div>
+				<p class="meta">
+						
+						Elvin Padilla
+						
+						<br/>
+						Monday, October 17, 2016
+				</p>
+
+		<div class="news_banner_container">
+				<img src="tenderloin.jpg" alt="" class="news_banner">
+		</div>
+	</div>
+	<div class="news-body">
+		<div class="news-article">
+				<div class="news-article-ads">
+						
+						
+
+						
+							
+						
+
+						
+
+						
+								
+						
+
+						
+								<div class="news-article-ad-container-desktop news-article-ad-top">
+										
+	
+	
+		<a href="http://www.sfyimby.org/amaseries">
+			<img src="../../static/AMASQUARE1.png" class="news-article-ad">
+		</a>
+
+								</div>
+						
+						
+								<div class="news-article-ad-container-desktop news-article-ad-bottom">
+										
+	
+	
+		<a href="http://www.sfyimby.org/endorsements-nov-2016/">
+			<img src="../../static/SHAME.png" class="news-article-ad">
+		</a>
+
+								</div>
+						
+						
+				</div>
+
+				<div class="news-article-body">
+						<div class="text-block">
+	
+	
+	
+
+  
+    
+  
+    
+				<p><em>This article originally appeared on <a href="https://tenderlion.org/about/">Tenderloin.org</a> and is reprinted here with permission from the author. It has been edited for clarity.</em></p>
+
+    
+  
+    
+				<p><strong>The IFD Fizzle</strong></p>
+
+    
+  
+    
+				<p>It’s tough trying to sell something with the moniker <em>Infrastructure Finance District</em>, or IFD.  IFDs are a way to capture the increase in local taxes so they can be reinvested in an area over a prescribed period of time. Tax increment financing was considered as one of the ways to pay the tab for the Central Market Economic Strategy <a href="https://tenderlion.files.wordpress.com/2016/10/central-marketeconomic-strategy-november-2011.pdf">(CMES)</a>.</p>
+
+    
+  
+    
+				<p>The strategy was straightforward: We all can see the surge of investment in mid-Market coming and the commensurate surge in taxes collected by the city.  This is a way the city – having successfully attracted tech companies to the area – can reinvest and leverage those extra gains in the local community.  Everybody wins.</p>
+
+    
+  
+    
+				<p>As director of the Tenderloin Economic Development Project, I lobbied for the passage of an IFD.  I made the rounds to my neighboring community organizations, many of which signed on, and gave a tax-increment 101 presentation to an audience of residents and other stakeholders at the Tenderloin Futures Collaborative, which at the time was facilitated by much-loved Tenderloin legend Reverend Glenda Hope.  But the IFD campaign fizzled.</p>
+
+    
+  
+    
+				<p>I could not get the support of the Tenderloin Neighborhood Development Corporation (TNDC), the Tenderloin’s largest landlord.  IFDs did not provide funding for new construction of affordable housing, a deal killer for TNDC.</p>
+
+    
+  
+    
+				<p>This struck me as unfortunate for several reasons:
+•    The Tenderloin’s housing stock is already affordable and protected, much of it owned and managed by TNDC.
+•    TNDC residents would have been beneficiaries of neighborhood improvements.
+•    IFD legislation did allow for funds to be used to build replacement housing, which was an opportunity to rebuild some fucked-up SRO hotels like, say, the notorious Warfield Hotel on the corner of Turk &amp; Taylor, or the entire eastside of 100 Taylor Street for that matter (built for the housing needs of the late 1900s), into high-density, high-quality, mixed-income housing two blocks from the Powell Street BART/MUNI station.  The Warfield Hotel’s historic plaque doesn’t do shit for poor people or the city’s twenty-first century urgent need for more housing.
+•    In 2012 we voted for Proposition C to create a $1.5 billion dollar trust fund for affordable housing, so a much-needed war chest was already moving forward for housing. In comparison, nothing – zero – was available to invest in community facilities: homeless shelters; arts &amp; education centers; recreation centers; parks; a new neighborhood YMCA; an SF community college campus; satellite libraries; streetscape improvements to improve public safety at several notoriously dangerous intersections; all these investments in community could have been paid for and/or catalyzed by an IFD.</p>
+
+    
+  
+    
+				<p>It should be noted that California based affordable housing developer Mercy Housing, directed by Doug Shoemaker, said yes.   Also saying yes were:</p>
+
+    
+  
+    
+				<p><a href="https://allstars.org/">All Stars Project</a>, San Francisco Bay Area; <a href="https://www.linesballet.org/">Alonzo King LINES Ballet</a>; <a href="http://counterpulse.org/">CounterPulse</a>; <a href="https://www.demarillac.org/">De Marillac Academy</a>; <a href="http://www.theintersection.org/">Intersection for the Arts</a>; <a href="http://www.kunst-stoff.org/ksarts">Kunst-Stoff</a> arts &amp; dance company; <a href="http://www.lhtsf.org/">Lorraine Hansberry Theater</a>; <a href="http://www.luggagestoregallery.org/">Luggage Store Gallery &amp; 509 Cultural Center</a>; <a href="http://www.tlcbd.org/">North of Market Tenderloin Community Benefit District</a>; <a href="http://www.ncclf.org/">Northern California Community Loan Fund</a>; <a href="http://www.sfcamerawork.org/">SF Camerawork</a>; <a href="https://www.ymcasf.org/locations/shih-yu-lang-central-ymca">Shih Yu-Lang Central YMCA</a>; <a href="https://www.stanthonysf.org/">St. Anthony’s</a>; <a href="http://www.kidsclub.org/find-a-club/tenderloin-clubhouse/">Tenderloin Boys &amp; Girls Club</a>; <a href="http://www.tedpsf.org/">Tenderloin Economic Development Project</a>; <a href="http://www.uchastings.edu/">UC Hastings School of Law</a>; <a href="http://www.vydc.org/">Vietnamese Youth Development Center</a>; <a href="http://youthspeaks.org/">Youth Speaks</a>.</p>
+
+    
+  
+    
+				<p>A pretty impressive line-up – arts, affordable housing, education, public health, business, nonprofit lending, youth development, social services – all represented here.</p>
+
+    
+  
+    
+				<p>Unfortunately, I couldn’t get ahold of Hospitality House to add them to the list.  Given that mid-Market/Tenderloin is the epicenter of San Francisco’s homeless population it would only be appropriate to dedicate a portion of captured tax funds to invest in whatever facilities could help meet their needs.  Each year, responses seem limited to service providers’ annual operating budget add-back requests that keep us as indentured servants and do nothing to change the status quo.</p>
+
+    
+  
+    
+				<p>Perhaps at some point this status quo just became our norm and we no longer even see or question it: a kind of collective sleepwalking.  Except, of course, for poor families in the Tenderloin, they definitely still notice it because they have to live with it. They don’t get evenings and weekends off.</p>
+
+    
+  
+    
+				<p>There’s little “active” left in the “activist,” it seems to me.  We are lulled to sleep by bi-weekly paychecks and the droning sound of the BART train at the end of each weekday as we head back to our comfortable homes in East Bay neighborhoods where the concentration of poverty in the Tenderloin is far, far away.</p>
+
+    
+  
+    
+				<p>Supervisor Kim wouldn’t support an IFD; perhaps she was getting pushback from other sources.  I remember her saying we had to be careful about improving the neighborhood, which pretty much sums up her entire tenure as district supervisor.  I don’t get how building neighborhood art centers or parklets or a community college are a threat against the backdrop of an enormous inventory of protected housing, much of which, by the way, is dangerously substandard and in need of rebuilding.   A perplexing Progressive paradox – over five years living and working in the Tenderloin and I still don’t see the progress in Progressive.</p>
+
+    
+  
+    
+				<p><strong>Lessons Learned</strong></p>
+
+    
+  
+    
+				<p>While Mayor Ed Lee initially championed an IFD only to deliver a disappearing act instead, I often think the IFD campaign failure is largely on me.  I made the naïve assumption that delivering a well-crafted letter – co-authored by the Tenderloin Economic Development Project and the Northern California Community Loan Fund – signed by numerous and influential stakeholder organizations would grab the attention of city hall and elicit a response.  It doesn’t work that way; what was needed was an organized political campaign – a machine – that worked the chambers in city hall.  I was a newbie and didn’t know how to work the politics.  One dude getting his neighbor nonprofits – however impressive they may be – to sign a <a href="https://tenderlion.org/2015/03/06/cbos-letter-to-supervisor-kim-and-mayor-ed-lee/">petition</a> doesn’t cut it.</p>
+
+    
+  
+    
+				<p>Witness what <a href="http://arts4bayarea.nationbuilder.com/allocation_of_hotel_tax_fund">Arts for A Better Bay Area</a> is doing to build support for <a href="http://bettersf.com/">Proposition S</a>, a super important moment for restoring arts funding and improving services for homeless families.  That’s how you bring important initiatives from concept to reality.</p>
+
+    
+  
+</div> <!-- END text-block -->
+				</div>
+		</div>
+		<div class="news-article-below">
+				
+						<div class="news-article-tag">
+								<a href="../../news/tag/San Francisco">San Francisco</a>
+								</div>
+						
+				
+
+				<div class="news-navigation-node">
+						
+								<a href="../../news/lao-says-coastal-housing-shortage-hurts-california-workers/">&laquo; previous</a>
+						
+						
+						/ 
+						
+						
+								<a href="../../news/editorial-prop-ds-illusion-of-local-democracy/">next &raquo;</a>
+						
+				</div>
+		</div>
+	</div>
+
+  </div>
+  <footer class="clearfix">
+		<div class="footer-copyright">
+				&copy; Copyright 2016 by SF BAMO.
+		</div>
+		<div class="footer-contact">
+				<a href="../../contact/">
+						Contact
+				</a>
+		</div>
+  </footer>
+</body>
