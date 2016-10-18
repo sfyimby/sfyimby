@@ -2,13 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-17T00:00:00Z</updated>
+  <updated>2016-10-18T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/modular-high-rise-proposed-in-downtown-oakland/">
+    <title type="text">Modular High-Rise Proposed in Downtown Oakland</title>
+    <id>urn:uuid:afb1ed88-ce4a-3bcb-8900-27125c5683f7</id>
+    <updated>2016-10-18T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/modular-high-rise-proposed-in-downtown-oakland/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Oakland-based development firm &lt;a href=&quot;http://www.nautilusgrp.com/&quot;&gt;Nautilus Group&lt;/a&gt; will soon undergo the challenge of building the country’s second tallest modular apartment complex, a 350-foot building with 176 dwelling units at the 14th &amp;amp; Webster intersection in downtown Oakland. The mixed-use project, featuring office space and ground-floor retail typical of downtown developments, will receive a 20% density bonus for including on-site affordable housing, with rents price-indexed for middle- and/or low-income households.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Although &lt;a href=&quot;http://www.radurban.com/1433-webster&quot;&gt;renderings&lt;/a&gt; have already been released, the developer likely faces a long road ahead. A 32-story modular high-rise project at Atlantic Yards in Brooklyn has faced a litany of problems since its inception, including but not limited to competing lawsuits between the developer and contractor. The steel frame of the building began buckling under the weight of the factory-made units, and water leaks damaged many units, an unforeseen problem that all parties blamed on the incompetence of everyone else. Stalled for years, the B2 tower at Atlantic Yards is &lt;a href=&quot;http://citylimits.org/2015/08/31/documents-reveal-woes-at-pioneering-atlantic-yards-building/&quot;&gt;still under construction&lt;/a&gt;, now for half its initially proposed height.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/modular-high-rise-proposed-in-downtown-oakland/1433webnow.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;1433 Webster, current street view (source: Google Maps / &lt;a href=&quot;https://twitter.com/oakbuilt&quot;&gt;OakBuilt&lt;/a&gt;)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Elsewhere in the world, there is more optimism regarding modular construction. For example, a 54-story tower was built in Chengshe, China &lt;a href=&quot;http://www.bbc.co.uk/news/resources/idt-3cca82c0-af80-4c3a-8a79-84fda5015115&quot;&gt;in just 19 days&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/E-GfyucwJ-I&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;RAD Urban, a partner in Nautilus’s vertically-integrated business model, released a promotional video earlier this year boasting of “up to 50%” speedier construction with their pre-fabricated modular designs. Nautilus recently completed “Garden Village,” a much smaller &lt;a href=&quot;http://www.berkeleyside.com/2013/10/17/innovative-housing-with-rooftop-farms-set-for-southside/&quot;&gt;project&lt;/a&gt; at the Dwight &amp;amp; Fulton intersection in Berkeley, featuring a rooftop garden and a total absence of private parking spots.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The project will be heard before Oakland’s Design Review Committee, a subcommittee of the Planning Commission, on October 26th.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;A staff report from the City of Oakland is expected later in the week. This article will be updated accordingly.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/lao-says-coastal-housing-shortage-hurts-california-workers/">
     <title type="text">LAO Says Coastal Housing Shortage Hurts California Workers</title>
     <id>urn:uuid:1732a37d-afab-347d-8878-5e52bf22d7ba</id>
@@ -4134,49 +4206,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;Demonstration projects are planned to be completed by 2017 at the latest. Depending on public reception, the plan could take anywhere from three to ten years, according to local news site Berkeleyside.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/courts-strike-down-eviction-protection-for-teachers/">
-    <title type="text">Courts Strike Down Eviction Protection for Teachers</title>
-    <id>urn:uuid:35379255-1e94-3218-bed4-26a4caa33695</id>
-    <updated>2016-09-06T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/courts-strike-down-eviction-protection-for-teachers/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last week, a Superior Court judge struck down legislation from Supervisor David Campos intended to protect school employees from no-fault evictions during the school year. As an extension of tenant protections already available to families with school-age children, the Campos &lt;a href=&quot;https://sfgov.legistar.com/View.ashx?M=F&amp;amp;ID=4384428&amp;amp;GUID=995CE4CE-1094-4BFB-BC9C-1301F971D14A&quot;&gt;bill&lt;/a&gt; passed the Board of Supervisors unanimously, but was felled by a lawsuit from the San Francisco Apartment Association and the Small Property Owners of San Francisco.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The ruling comes amid a slew of bad news for anti-displacement measures in the city, after Supervisor London Breed met with federal officials &lt;a href=&quot;http://missionlocal.org/2016/08/supervisor-to-meet-with-feds-over-citys-anti-displacement-plan/&quot;&gt;to defend&lt;/a&gt; her “neighborhood preference” ordinance. The Department of Housing and Urban Development recently suggested that Breed’s legislation, which would give locals in a particular district priority in lotteries for Below Market Rental units, could violate the 1968 Fair Housing Act.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Legal counsel for the litigating property owners’ groups called Campos’s eviction protection for teachers “short-sighted” and “counterproductive” in light of the city’s raw housing shortage. Judge Ronald Quidachay agreed with this argument, calling it “invalid,” “preempted by state law,” and “unenforceable.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Campos, in turn, opined that the court was enforcing statutes that were out of touch with local needs. “We take a long view,” he told the &lt;a href=&quot;http://www.sfgate.com/politics/article/Judge-tosses-SF-law-preventing-teacher-evictions-9198849.php&quot;&gt;Chronicle&lt;/a&gt;. “You have a set of laws and systems that are not designed to deal with the housing crisis we are facing.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A recent &lt;a href=&quot;http://projects.sfchronicle.com/2016/teacher-pay/&quot;&gt;analysis&lt;/a&gt; by the same paper found that median rents in San Francisco could take up to 64% of a standard teacher’s salary, more than double what the federal government recommends.&lt;/p&gt;
 
     
   
