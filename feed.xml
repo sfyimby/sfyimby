@@ -2,13 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-18T00:00:00Z</updated>
+  <updated>2016-10-19T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/">
+    <title type="text">Housing Non-Profit Under Investigation for Dark Money Politics</title>
+    <id>urn:uuid:c25038dd-fc22-3214-bb46-c04e661598e0</id>
+    <updated>2016-10-19T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Last month, we &lt;a href=&quot;http://sfbamo.com/news/is-a-nonprofit-developer-laundering-money-to-local-campaigns/&quot;&gt;reported&lt;/a&gt; on a city ethics complaint against John Elberling, director of the affordable housing developer TODCO Group, LLC. Elberling is accused of funneling money from his subsidized rental assets through a 501(c)3 nonprofit, the Yerba Buena Neighborhood Consortium (YNBC), to fund political campaigns. In an &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Pre-election-opening-for-Warm-Springs-BART-looks-9981990.php&quot;&gt;interview&lt;/a&gt; with the &lt;em&gt;Chronicle&lt;/em&gt;, Elberling largely admitted to doing so, and argued that nothing illegal or unethical had occurred.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Not everyone agrees with Elberling. Supervisor Mark Farrell released a press statement today, calling for a federal investigation into YNBC, labeled a “&lt;a href=&quot;https://en.wikipedia.org/wiki/Dark_money&quot;&gt;dark money&lt;/a&gt; shell entity” for contributing $375,000 to local ballot measure campaigns in 2016. YNBC’s election mailer was a driving force behind the campaign to pass Proposition C in June, an increase in Below Market Rental requirements for private development co-sponsored by Supervisors Jane Kim and Aaron Peskin.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Profiting from taxpayer subsidy and funneling those profits into local political campaigns is reprehensible,” Farrell said in his statement.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In a press conference at &lt;em&gt;BAMO&lt;/em&gt; offices today, Tim Colen, Executive Director of the San Francisco Housing Action Coalition, reiterated the sentiment. “Who knows if it’s legal or not, but it stinks,” Colen said. “It is so frustrating to learn that housing units built by taxpayers, through clever financial engineering, is being used as a cash cow for political slush funds…to support political measures that are directly harmful to tenants,” he added.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/todco1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Courtesy: &lt;a href=&quot;https://medium.com/@AbleDart&quot;&gt;Able Dart&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Colen, joined by Supervisor Scott Wiener, insisted that the campaign funds should have been reinvested into existing tenants, and could also be used to build more affordable housing. YBNC’s funding mostly came from a profit earned when Elberling refinanced several TODCO properties,&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Elberling conceded as much in his interview with the Chronicle, remaining adamantly without remorse. After refinancing netted several million dollars, TODCO found itself with “a big surplus that we didn’t need for regular expenses, so we funded our ... Yerba Buena Neighborhood Consortium to do community advocacy”—specifically, by allotting at least $300,000 per year for campaign contributions.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In this election cycle, YBNC has contributed $149,000 to the Proposition X campaign, a measure setting high requirements to preserve industrial space, spearheaded by Supervisor Jane Kim. $83,000 has gone to support Propositions D, H, L, and M, four ballot measures Supervisor Aaron Peskin has championed to create special elections for Supervisor vacancies (D), create a Public Advocate office (H), and reorganize existing executive offices in committees with supervisorial appointments (L and M).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“These four measures are a fraud and a scam,” said Tony Winnicker, and aide to Mayor Ed Lee who has taken a leave of absence to campaign against D, H, L, and M. “Now we know they are primarily funded by money that originated with taxpayers, intended to benefit affordable housing and low-income tenants,” he continued. “These measures have nothing to do with sunshine and reform.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The state’s Fair Political Practices Commission (FPPC) has opened an investigation in response to the complaint. Elberling insisted that everything he did was legal, and not a defrauding of taxpayers. In his estimation, the properties were originally financed by federal and state funding decades ago, which have since been paid off (indeed, yielding a net profit after refinancing).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In the coming days, the &lt;em&gt;Metropolitan Observer&lt;/em&gt; will be investigating tenant complaints filed with the San Francisco Department of Building Inspection regarding TODCO properties. We will continue to report as the story develops.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;You can watch the entire press conference below:&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNoDHLM%2Fvideos%2F373964636279611%2F&amp;show_text=0&amp;width=400&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/modular-high-rise-proposed-in-downtown-oakland/">
     <title type="text">Modular High-Rise Proposed in Downtown Oakland</title>
     <id>urn:uuid:afb1ed88-ce4a-3bcb-8900-27125c5683f7</id>
@@ -4136,64 +4233,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;Proposition C was co-authored by Supervisors Aaron Peskin and Jane Kim, who both assured critics they would reevaluate the affordability requirements per the Controller’s recommendation. Rosenfield has argued that any requirement above 18% Below Market would stifle overall housing production. Roland Li at the &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/09/prop-c-affordable-housing-study-for-sf.html?ana=twt&quot;&gt;San Francisco Business Times&lt;/a&gt; attended the meeting and provides the full scoop.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/london-housing-crisis-proves-nostradamus-writes-for-the-onion/">
-    <title type="text">London Housing Crisis Proves Nostradamus Writes For &quot;The Onion&quot;</title>
-    <id>urn:uuid:44e93955-636d-37ce-97a6-527f0f87c876</id>
-    <updated>2016-09-07T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/london-housing-crisis-proves-nostradamus-writes-for-the-onion/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;News readers around the globe know the American satirical site The Onion as a steady source of prescient, incisive commentary on our modern society. Their hyperbolic headlines often reflect our deepest fears or ugliest biases, but seldom do we see life outright imitating their art. Amid a global surge in urban real estate prices, the particularly crisis-level housing shortage in London has prompted just that.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/uk-news/2016/aug/31/londons-elite-pushed-out-of-exclusive-postcodes-by-super-rich?CMP=Share_iOSApp_Other&quot;&gt;The Guardian&lt;/a&gt; reported on August 31st: “London’s elite pushed out of exclusive post-codes by super-rich.” Sound familiar? In 2008, &lt;a href=&quot;http://www.theonion.com/article/report-nations-gentrified-neighborhoods-threatened-2419&quot;&gt;The Onion&lt;/a&gt; ran the satirical headline: “Nation's Gentrified Neighborhoods Threatened By Aristocratization.” It’s real. It’s happening. This is not a drill.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Researchers from the London School of Economics’ (LSE) International Inequalities Institute have found that a surge of hyper-wealthy buyers have prompted the formerly elite establishment of lawyers, doctors, and other white-collar professionals “to buy in areas they previously considered undesirable.” Similarly, The Onion's article described how “the enormous treasure-based wealth of the aristocracy makes it impossible for those living on modest trust funds to hold onto their co-ops and converted factory loft spaces.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The similarities are uncanny. Dr. Luna Glucksberg—the totally real, non-parodic researcher at the LSE— warned of “ripple effects” from the displacement of high-income workers to areas further down the market in price, a gentrification wave that could harm affordability for all Londoners. “The study shows that the wealthy individuals and families that live in London’s most exclusive areas no longer feel able to compete at the top end of the capital’s property market,” she told The Guardian.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The aristocrats in the older, um, fictional article voiced a similar concern. The new landed gentry, writes The Onion, “deflected blame onto regification, a process by which they say they were priced out of their vast rural holdings by kings who wished to consolidate property and develop monumental palatial estates.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The process known as “reverse filtering” is very real, and is outlined in John Mangin’s seminal study “&lt;a href=&quot;https://journals.law.stanford.edu/sites/default/files/stanford-law-policy-review/print/2014/01/mangin_25_stan._l._poly_rev_91.pdf&quot;&gt;The New Exclusionary Zoning&lt;/a&gt;” (2014). “In areas with a capped supply and increasing demand,” Mangin writes, housing in effect ‘filters up’—housing formerly occupied by low-income people becomes housing for high-income people. If high-income people are unable to build new housing for themselves, they will buy existing housing and fix it up.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Just yesterday, California’s Legislative Analyst’s Office &lt;a href=&quot;http://www.lao.ca.gov/LAOEconTax/Article/Detail/201&quot;&gt;made note&lt;/a&gt; of several analyses showing that real wage and population growth was receding from high-opportunity coastal areas to lower-income inland regions. “In part,” the LAO writes, “we suspect, due to California's lack of new residential housing supply and resulting high costs in coastal areas, a large portion of California's population growth occurred in areas of the state with incomes below the statewide median since 1990.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Perhaps The Onion was not being prescient so much as merely observing longstanding trends. Again, it’s worth repeating: This. Is. Not. A. Drill.&lt;/p&gt;
 
     
   
