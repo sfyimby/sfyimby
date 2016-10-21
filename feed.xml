@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-20T00:00:00Z</updated>
+  <updated>2016-10-21T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/sunset-district-small-businesses-rally-against-prop-m/">
+    <title type="text">Sunset District Small Businesses Rally Against Prop M</title>
+    <id>urn:uuid:ff6e053d-2c4e-3608-8711-023d2385f637</id>
+    <updated>2016-10-21T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/sunset-district-small-businesses-rally-against-prop-m/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Business owners gathered with local politicians on a foggy corner in the Sunset District, brandishing signs opposing Proposition M, a charter amendment that could disperse the mayor’s economic policymaking powers if approved by voters.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Earlier this week, Supervisor Aaron Peskin &lt;a href=&quot;http://sfbamo.com/news/stakeholders-search-for-common-ground-in-land-use-debate/&quot;&gt;boasted&lt;/a&gt; to J.K. Dineen of the &lt;em&gt;Chronicle&lt;/em&gt; that the new commission Prop M would create, a full restructuring of the current Mayor’s Offices of Housing (MOH) and Economic and Workforce Development (OEWD), would have the power to streamline housing production. Supervisor Scott Wiener later countered that Prop M’s main sponsors, namely Peskin and Supervisor Jane Kim, had opposed his legislation to streamline approvals for 100% Below Market Rate housing projects.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Wiener, joined by Supervisor Katy Tang on the windy sidewalk in front of Uncle Benny’s Donuts, scarcely mentioned housing at today’s press conference. Tang had gathered supporters there to begin a “merchant’s walk” along commercial corridors in her District, to distribute literature and window signs in opposition to Prop M. Speaking to reporters, Tang decried the measure’s efforts to “recombine” two entirely separate offices under one commission with disparate appointments.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This does not make sense. We need to do whatever it is we can to support our small businesses in the most effective and efficient ways possible, so please vote No on M.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“We elect the mayor to manage the executive departments,” Supervisor Wiener added. “If the mayor does a poor job, or the agencies do a poor job, the mayor can get defeated in the election, and that’s why we elect a mayor. These measures—D, H, L, and M—are all designed to strip power away from the mayor, to make offices of the mayor weaker, and decentralize power to the point where no one is accountable to the voters for anything.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNoDHLM%2Fvideos%2F375235142819227%2F&amp;show_text=0&amp;width=400&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/judge-dismisses-berkeley-high-rise-lawsuit/">
     <title type="text">Judge Dismisses Berkeley High-Rise Lawsuit</title>
     <id>urn:uuid:50488533-f6a2-3c44-b94b-42e0772fc797</id>
@@ -4366,78 +4414,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;The “D” in RH-1(D) stands for “detached dwellings,” since it bans townhome-style houses with no side yard separation. The Board of Supervisors’ Land Use and Transportation Commission will be considering the residents’ petition on Monday, September 19.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/san-francisco-finds-unlikely-partnership-in-ford-for-city-bike-sharing-sep-9-san-francisco-finds-unlikely-partnership-in-ford-for-city-bike-sharing/">
-    <title type="text">San Francisco Finds Unlikely Partnership in Ford for City Bike Sharing</title>
-    <id>urn:uuid:76cee8a3-73c7-3250-b49e-e064e517a9b4</id>
-    <updated>2016-09-09T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/san-francisco-finds-unlikely-partnership-in-ford-for-city-bike-sharing-sep-9-san-francisco-finds-unlikely-partnership-in-ford-for-city-bike-sharing/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;In a &lt;a href=&quot;https://media.ford.com/content/fordmedia/fna/us/en/news/2016/09/09/ford-partnering-with-global-cities-on-new-transportation--chario.html&quot;&gt;press release today&lt;/a&gt;, Ford announced that it would be partnering with a number of global cities on new transportation initiatives, starting with our own San Francisco.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The automaker giant - an unlikely advocate for transit - will be sponsoring the Bay Area’s bike share program, expanding the fleet from its current volume of 700 up to 7,000 by the end of 2018. San Francisco’s share of this increase will be 4,500, up from its current, fledgling 328. And in another transit-friendly move, Ford has acquired Chariot, a San Francisco private commuter shuttle service (and lone survivor among Leap and other similarly positioned services), with plans to expand those point-to-point services as well.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Ford is working with Motivate, a leading global bike share company, and city officials to add new stations and ramp up the volume of city bikes over the next two years. The program’s footprint won’t be limited to San Francisco either - the plans will include East Bay, including Oakland, Berkeley, and Emerville, and San Jose. Ford will be rebranding the Bay Area Bike Share program as “Ford GoBike” -  which users will be able to access through its &lt;a href=&quot;https://www.fordpass.com/en_us/home.html&quot;&gt;FordPass&lt;/a&gt; platform, which it touts as a one-stop mobility shop for a variety of transportation needs.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While the image of riding around in a public bike splashed with corporate logos may not appeal to the average San Franciscan, the bike-share sponsorship is undoubtedly good news for the city as a whole, and the Bay Area at large. Ford’s support will infuse the program with capital that may not otherwise be available through city coffers, and increase the availability of city-share bikes, hopefully easing the number of single-rider car trips and congestion on buses. The expansion into East and South Bay shows similar promise.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/san-francisco-finds-unlikely-partnership-in-ford-for-city-bike-sharing-sep-9-san-francisco-finds-unlikely-partnership-in-ford-for-city-bike-sharing/batesbike.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Berkeley Mayor Tom Bates speaks in favor of the program in front of San Francisco City Hall (courtesy: &lt;a href=&quot;https://bikeeastbay.org/campaigns/bike-share-all&quot;&gt;Bike East Bay&lt;/a&gt;)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;To that point, city officials around  the Bay have broadly expressed enthusiasm for this partnership. Berkeley Mayor Tom Bates spoke at an announcement outside City Hall earlier today, and was &lt;a href=&quot;https://twitter.com/SFBayBikeShare/status/774297091162058752&quot;&gt;quoted&lt;/a&gt; by Bay Area Bike Share as “extremely excited about the prospect of getting these incredible bicycles to East Bay...This is the future!” Emeryville Mayor Dianne Martinez showed similar support on her &lt;a href=&quot;https://twitter.com/BikeEastBay/status/774303788177907712&quot;&gt;Twitter account&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Further, the extension of Chariot, while lower on the green transit totem pole than bicycling, also represents positive change for San Franciscans, in widening the assortment of transportation options for commuters. For parts of the city that are underserved by MUNI, BART, and other city-run transit systems, its advocates argue, this type of dynamic shuttle service can ease commuter pain at a cost competitive with Uber and Lyft - though still higher-priced than public transit options. And from an environmental perspective, if commuters can carpool in larger “pools” than shared Lyft or Uber rides, this would reduce the emissions related to those trips.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The first new bike stations are expected to arrive in spring of next year, with further expansion coming online through 2018.&lt;/p&gt;
 
     
   
