@@ -9,6 +9,127 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/bay-area-think-tank-ranks-policies-that-help-or-hurt-housing-affordability/">
+    <title type="text">Bay Area Think Tank Ranks Policies That Help or Hurt Housing Affordability</title>
+    <id>urn:uuid:74f0739d-5a8f-3e6e-8079-b61165fc19dd</id>
+    <updated>2016-10-21T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/bay-area-think-tank-ranks-policies-that-help-or-hurt-housing-affordability/" />
+    <author>
+      <name>Leigha Beckman</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;The Bay Area Council Economic Institute (BACEI), a local think tank focused on economic and policy issues, released a &lt;a href=&quot;http://www.bayareaeconomy.org/files/pdf/BACEI_Housing_10_2016.pdf&quot;&gt;report&lt;/a&gt; detailing the top 20 policies that impact affordability in the city of San Francisco. The analysis considers affordability based on meeting the conventional 30% of income metric, ranking policies based on their net impact to affordability.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Policies That Help Affordability&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The report finds that policies influencing supply are the most helpful, either by directly increase the housing supply or accelerating the increase of housing production.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The single most important contributor to affordability, according to the analysis, is expediting the completion of major developments. Large projects such as those slated for Treasure Island, Hunter’s Point, Park Merced, and Mission Rock, together represent over 25,000 units in the pipeline, of which over 6,000 will be below-market rate. The policy overlay relates largely to ballot initiatives. The Mission Rock development, for example, &lt;a href=&quot;https://ballotpedia.org/City_of_San_Francisco_Mission_Rock_Development_Initiative,_Proposition_D_(November_2015&quot;&gt;required voter input in 2015&lt;/a&gt;) to increase the area’s height limits, since an earlier proposition prevented the city from allowing development on Port property from exceeding 40 feet unless voters approved the increase.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/bay-area-think-tank-ranks-policies-that-help-or-hurt-housing-affordability/missionrock.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Rendering of Mission Rock&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Other supply-based policies the think tank reports will help include streamlining local approval of housing, easing building restrictions, legalizing accessory dwelling units, or ADUs, and facilitating of micro-units.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Many of these have received attention at the state level, with varying degrees of success. Governor Jerry Brown proposed legislation earlier this year to streamline infill projects that contain a portion of affordable units, creating a “by right” process for those development proposals. According to the BACEI report, though it was never voted on, the policy would create 16,594 new market-rate units and decrease prices by 5.94%, which would make housing affordable in the technical sense, at 30% of income or less, to more than 11,000 households.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Then there are those policies that tackle affordability more directly, such as affordable housing density bonus programs and funding for below-market rate housing. &lt;a href=&quot;https://ballotpedia.org/San_Francisco_Creation_of_a_Housing_Trust_Fund,_Proposition_C_(November_2012&quot;&gt;Proposition C&lt;/a&gt;), which passed in 2012, created a Housing Trust fund to invest in affordable housing. The city estimates that this fund will help develop 9,000 permanently affordable units, assuming developers leverage the money with government subsidies such as the Low-Income Housing Tax Credits.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Policies That Hurt Affordability&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Meanwhile, policies that reduce affordability are somewhat more varied in nature, running the gamut from building and zoning restrictions, to homesharing bans, to increased impact fees, and at the top of the list, the elimination of rent control.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The elimination of rent control is particularly noteworthy, given the abundance of economic literature on the negative consequences of rent control, which BACEI acknowledges. However, while ending rent control would result in a small supply shock, this would be massively outweighed by the loss of affordable units. The conversion of a rent-controlled unit to market-rate doesn’t inherently mean the household in question will no longer have an affordable home, since household income must also be accounted for. As a proxy for this information, BACEI applies 10%, based on the percentage of renters paying between 25% and 29% of their rent in 1998, to the number of total rent controlled units to tabulate the number of affordable units that would be lost - 17,200.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/bay-area-think-tank-ranks-policies-that-help-or-hurt-housing-affordability/1515-svn_progress-renderings-2-page-002.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Rendering of 1515 South Van Ness, a project with 25% Below Market Rate units bitterly opposed by some Mission District residents&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Other harmful policies discussed are construction moratoria in the Mission district, including both a hypothetical indefinite ban on market-rate housing and the 18 month halt proposed by last year’s &lt;a href=&quot;http://www.sfgate.com/bayarea/article/Moratorium-on-new-Mission-District-housing-is-6609187.php&quot;&gt;Proposition I&lt;/a&gt;, which was soundly defeated by voters in November. However, if land use controls were changed to indefinitely prohibit market rate housing from being built in the Mission, it would result in over 11,000 households being unable to afford housing in San Francisco.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Inclusionary zoning requirements codified by this year’s &lt;a href=&quot;http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/&quot;&gt;Proposition C&lt;/a&gt; also rank high on the list of measures that reduce housing affordability. The report notes that requiring developers to include 25% of units as BMR would increase the number of affordable units in &lt;em&gt;those&lt;/em&gt; projects, but it would cause the overall housing supply to fall by 25% and end up raising prices by 3.5%. As a result, around 7,500 households would shift into an unaffordable housing situation.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The report demonstrates the critical role played by policy in housing affordability, and may offer policymakers guidance on how to shape housing affordability legislation going forward, or at least provide the considerations necessary to do so.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/sunset-district-small-businesses-rally-against-prop-m/">
     <title type="text">Sunset District Small Businesses Rally Against Prop M</title>
     <id>urn:uuid:ff6e053d-2c4e-3608-8711-023d2385f637</id>
@@ -97,7 +218,7 @@
     
   
     
-				&lt;p&gt;Hammargren’s brief further argued that the city had surreptitiously avoided any environmental review regarding the schools because Harold Way had been improperly classified as “infill.”  This claim rested on the plaintiff’s assertion that infill development requires on-site affordable housing, whereas Harold Way will instead contribute $10.5 to Berkeley’s Housing Trust Fund. Judge Roesch writes:&lt;/p&gt;
+				&lt;p&gt;Hammargren’s brief further argued that the city had surreptitiously avoided any environmental review regarding the schools because Harold Way had been improperly classified as “infill.”  This claim rested on the plaintiff’s assertion that infill development requires on-site affordable housing, whereas Harold Way will instead contribute $10.5 million to Berkeley’s Housing Trust Fund. Judge Roesch writes:&lt;/p&gt;
 &lt;blockquote&gt;
     
   
@@ -4367,54 +4488,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
     
 				&lt;p&gt;Mayor Patrick Burt, however, rebuffed many criticisms pertaining to car use,  encouraging council and the public to consider vast improvements in autonomous vehicle technology, Caltrain rail electrification, and pedestrian-friendly infrastructure. Councilmember Cory Wolbach joined in urging the council to support the project, adding that he believed there was already too much parking proposed.&lt;/p&gt;
 &lt;div class=&quot;storify&quot;&gt;&lt;iframe src=&quot;//storify.com/MetroObserver/palo-alto-city-council-9-12-16/embed?border=false&quot; width=&quot;100%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;//storify.com/MetroObserver/palo-alto-city-council-9-12-16.js?border=false&quot;&gt;&lt;/script&gt;&lt;noscript&gt;[&lt;a href=&quot;//storify.com/MetroObserver/palo-alto-city-council-9-12-16&quot; target=&quot;_blank&quot;&gt;View the story &quot;Palo Alto City Council, 9/12/16&quot; on Storify&lt;/a&gt;]&lt;/noscript&gt;&lt;/div&gt;
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/midtown-terrace-seeks-downzoning-to-preserve-country-living-density/">
-    <title type="text">Midtown Terrace Seeks Downzoning to Preserve &quot;Country Living&quot; Density</title>
-    <id>urn:uuid:0ffb983d-fc64-3f4b-8a5d-c3cc6d82318e</id>
-    <updated>2016-09-09T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/midtown-terrace-seeks-downzoning-to-preserve-country-living-density/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The neighborhood’s motto &lt;a href=&quot;http://midtownterrace.org/zoning.php&quot;&gt;reads&lt;/a&gt;: “Country living in the heart of San Francisco.” Though the median home price is &lt;a href=&quot;http://www.zillow.com/midtown-terrace-san-francisco-ca/home-values/&quot;&gt;$1.1 million&lt;/a&gt; in the suburban enclave just south of Twin Peaks, local historian Rex Bell &lt;a href=&quot;http://www.foundsf.org/index.php?title=Brief_History_of_Midtown_Terrace&quot;&gt;describes&lt;/a&gt; it as “still a solidly middle-class neighborhood.” Whatever the subjective perceptions may be, organized neighbors are determined to ensure that city law enforces “country living” by amending the local zoning code.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Midtown Terrace homeowners have petitioned the San Francisco Board of Supervisors to amend the area’s zoning &lt;a href=&quot;http://sf-planning.org/sites/default/files/FileCenter/Documents/5358-Residential%20Standards%20Summary%20Table.pdf&quot;&gt;from RH-1 to RH-1 (D)&lt;/a&gt;. Though the differences initially seem subtle and benign, this zoning amendment could effectively render much of the existing built environment illegal.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;RH-1(D) zoning prohibits any more than a single dwelling unit per lot, regardless of size. Under current zoning, a 4,500 square foot lot in Midtown Terrace could have at most two units (in other words, a duplex); several lots greater than 7,000 square feet in size allow a triplex.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The vast majority of District 7, the supervisorial district that encompasses Midtown Terrace, is &lt;a href=&quot;https://localwiki.org/sf/RH-1%28D%29_Zones&quot;&gt;already zoned&lt;/a&gt; RH1(D). If the petition is approved, the new zoning would prohibit anything denser than a single-family home, anywhere in Midtown Terrace. This is particularly significant because there would no longer be density exemptions for Accessory Dwelling Units (ADUs), colloquially known as “backyard cottages”—other single-family neighborhoods in the Twin Peaks and Telegraph Hill Districts retain this exemption. &lt;a href=&quot;https://www.redfin.com/CA/San-Francisco/91-Aquavista-Way-94131/home/1637155&quot;&gt;Currently unpermitted ADUs&lt;/a&gt; in Midtown Terrace would effectively be illegal.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Aside from density restrictions, RH-1(D) zoning also adds restrictions to single-family residences that can be built in the neighborhood. Rather than building to the edge of the property line, as the current zoning allows, new construction would be required to include side yards. It would also apply a minimum lot size of 4,000 square feet, although this would not retroactively apply to the majority of houses in Midtown Terrace, where the zoning currently allows a minimum lot size of 2,500 square feet.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The “D” in RH-1(D) stands for “detached dwellings,” since it bans townhome-style houses with no side yard separation. The Board of Supervisors’ Land Use and Transportation Commission will be considering the residents’ petition on Monday, September 19.&lt;/p&gt;
-
     
   
 &lt;/div&gt; &lt;!-- END text-block --&gt;</content>
