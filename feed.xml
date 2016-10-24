@@ -9,6 +9,87 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/palo-alto-forward-blasts-subterfuge-by-impersonator-pac/">
+    <title type="text">Palo Alto Forward Blasts Subterfuge by 'Impersonator' PAC</title>
+    <id>urn:uuid:2a5fd0ba-2865-3308-8c5d-eef407c5cb75</id>
+    <updated>2016-10-24T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/palo-alto-forward-blasts-subterfuge-by-impersonator-pac/" />
+    <author>
+      <name>Diego Aguilar Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Members of the unincorporated housing advocacy group Palo Alto Forward were shocked to find filings for a Political Action Committee (PAC) under their name last week, which could set back their ongoing efforts to register as a 501(c)(3) non-profit. The PAC was registered by Timothy Gray, treasurer for the City Council campaign of Lydia Kou.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Gray claimed in an &lt;a href=&quot;http://www.paloaltoonline.com/news/2016/10/24/palo-alto-forward-claims-impersonation-after-its-name-is-registered-as-a-pac&quot;&gt;interview&lt;/a&gt; with &lt;em&gt;Palo Alto Weekly&lt;/em&gt; that he had no knowledge of the preexisting Palo Alto Forward, and that he registered the name to prevent citizens from being “duped.” Gray claims, paradoxically, that he was not aware of Palo Alto Forward’s activities, and that he registered the PAC name after the city had registered paloaltoforward.org to conduct community outreach for its Comprehensive Plan back in 2014.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Sandra Slater, co-founder of Palo Alto Forward, called Gray’s claims “patently ridiculous,” given that Gray had co-signed a letter opposing the group last year. Gray registered the PAC within days of formally registering as the treasurer of Lydia Kou’s city council campaign.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Until recently, Gray served as treasurer of Palo Altans for Sensible Zoning (PASZ), a PAC that formed opposition to a 2013 ballot measure that would have rezoned for greater residential density on Maybell Avenue, and has endorsed Kou in this election cycle. Lydia Kou’s &lt;a href=&quot;http://www.lydiakou.com/about_me&quot;&gt;website&lt;/a&gt; boasts of the candidate’s direct involvement in defeating the referendum, known as Measure D:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;Faced with an uncompromising Council, I became one of the leaders of the group that put the issue on the ballot. I knew from listening to residents that there was widespread opposition to the project, but to confirm that, I had my neighborhood association conduct a survey of its membership and subsequently authorize funding a petition drive to have a referendum on the project.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;Kou told the &lt;em&gt;Weekly&lt;/em&gt; that she was unaware of Gray’s PAC registration until recently. She asserts that he told her he was “trying to ensure the city of Palo Alto is not inadvertently being misled by an organization taking a domaine [sic] that the city has used.” Gray also claimed that Palo Alto Forward had been “under investigation for violation of reporting rules”—something Slater vehemently denies. Such allegations, Slater pointed out, further undermine his claim that he had not heard of the group.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Slater added that Gray had never contacted Palo Alto Forward to raise any concerns that the name was deceptive. Palo Alto Forward had communicated with the city before launching their own website, ensuring that Palo Alto had taken down paloaltoforward.org as legally required in 2014, after the Comprehensive Plan referendum measure was placed on the ballot.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;We have never taken money from anyone, and we certainly have not spent money on electioneering or politics - just community education following the rules for 501c3 non-profits,” Palo Alto Forward said in a press release. Further:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;We have NEVER been “under investigation for violation of reporting rules.”
+We are trying to register as 501(c)(3) and this hurts our ability to do so because they're not supposed to be involved in political efforts and PAF isn't. We don't take in any money from outside sources and we don't spend any on political campaigns.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;“I buy all the refreshments for our meetings,” Slater added in a phone interview. “I pick up fruit, soda, cheese, and crackers, because we know people will be hungry when they leave work and we want them to be able to focus on the issues we’re discussing. We’re entirely about community education. I host many events at my house, and some at the public library, which is all free.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Lydia Kou’s council campaign, along with that of Arthur Keller, recently made &lt;a href=&quot;http://www.paloaltoonline.com/news/2016/10/14/large-checks-boost-campaigns-of-kou-keller#comment_form&quot;&gt;headlines&lt;/a&gt; for receiving over $30,000 each in contributions from a small number of residents.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kou, a local realtor, pays property taxes on a $1 million assessed value of her home, though the average sale price in the neighborhood is $2.5 million (lower than Palo Alto’s median home price of $4 million). Public tax records show she did not claim a homeowner’s exemption on filings over the past two years. The &lt;em&gt;Metro Observer&lt;/em&gt; has launched an ongoing investigation to ensure that Kou’s primary residence is in fact in Palo Alto, as local election laws require.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/south-bay-stoner-titans-sleep-triumph-at-the-warfield/">
     <title type="text">South Bay Stoner Titans SLEEP Triumph at The Warfield</title>
     <id>urn:uuid:65ddd43f-5588-3174-bc8c-a3936edfdb0d</id>
@@ -4471,95 +4552,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;The city of El Cerrito recently rezoned the area for higher-density development near transit under the &lt;a href=&quot;http://www.el-cerrito.org/index.aspx?nid=396&quot;&gt;San Pablo Avenue Specific Plan&lt;/a&gt;, adopted in December 2014. The Planning Department designed a &lt;a href=&quot;https://en.wikipedia.org/wiki/Form-based_code&quot;&gt;Form-Based Code&lt;/a&gt;, as well as pedestrian-friendly transit goals, “[i]n order to increase accessibility and livability while increasing land use intensity.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/">
-    <title type="text">Affordable Housing Requirement Has Reduced Production of Affordable Housing</title>
-    <id>urn:uuid:72175746-36e3-3066-802f-fb38bae8df26</id>
-    <updated>2016-09-13T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;An analysis conducted by the &lt;em&gt;Metropolitan Observer&lt;/em&gt; shows that since &lt;a href=&quot;http://sfgov.org/elections/sites/default/files/Documents/candidates/IHR%20Legal%20Text.pdf&quot;&gt;Proposition C&lt;/a&gt; passed June 6 2016, applications to build new housing have dropped by 58% overall, and applications to build Below Market Rate (BMR), subsidized housing have dropped 20%.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/propc1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;We looked at the Preliminary Project Applications (PPAs) submitted to the SF Planning Department from June 2016 to September 2016 (post-Prop C passing) and compared those to the PPAs submitted during the same time last year, June 2015 and September 2015, to assess the effect of Prop C.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;There were 18 residential projects representing 3,000 housing units proposed between June 2015 and the first week of September 2015. Applying the then-12% BMR requirement to the total number of units proposed results in 350 below market rate units proposed.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/propc2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;12 residential projects representing 1,250 housing units were proposed during the same time period in 2016 - a drop of more than half from the prior year. The total number of affordable units these projects would contribute, is 289 affordable units - 61 fewer affordable units than what was produced in the same time period last year&lt;sup class=&quot;footnote-ref&quot; id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, or a reduction of 20%.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Proposition C was a ballot measure passed last June increasing the affordable housing requirement for new construction to 25% of total units. Some skeptics, including Mayor Ed Lee, argued that 25% was arbitrary. Opponents also feared that an excessively high BMR requirement would reduce the overall amount of housing proposed, and thereby reduce the amount of BMR units produced.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Proponents, led by Supervisors Jane Kim and Aaron Peskin, insisted that the measure was necessary to address the city's affordability crisis. The Supervisors further promised that they would be open to amending the requirement if analyses showed the requirement was in fact too high. Our analysis joins that of the &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/san-francisco-affordable-homes-requirement-prop-c.html&quot;&gt;City Controller's office&lt;/a&gt; in showing that the anticipated net production of affordable housing has decreased since this legislation went into effect.&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;&lt;li id=&quot;fn-1&quot;&gt;
-    
-  
-    
-				&lt;p&gt;Notably, while the affordable units anticipated from the July and August of 2016 proposals, post-Prop C, exceeds those same months in 2015, approximately 80% of the post-Prop C affordable units would come from just two large projects. That means if those two projects wind up not being approved, the vast majority of potential affordable units go away - down to about 50 total affordable units. So while, for a given project, Prop C might increase the number of affordable units, it still decreases the &lt;em&gt;overall number of large projects&lt;/em&gt; that produce affordable housing at all, concentrating the risk in just a small number of projects&lt;a href=&quot;#fnref-1&quot; rev=&quot;footnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 
     
   
