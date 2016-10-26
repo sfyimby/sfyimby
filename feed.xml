@@ -2,13 +2,207 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-24T00:00:00Z</updated>
+  <updated>2016-10-25T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/at-civic-center-plaza-persecuted-groups-speak-out/">
+    <title type="text">At Civic Center Plaza, Persecuted Groups Speak Out</title>
+    <id>urn:uuid:0451dff2-5296-3eeb-9e2b-a48523707f1e</id>
+    <updated>2016-10-25T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/at-civic-center-plaza-persecuted-groups-speak-out/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;As I walked to my office from the Civic Center BART station, I took a detour to find the source of marching band music I heard off in the distance. Sure enough, a drumline was marching in front of a massive regimented marching band, flooding most of the pavement in front of City Hall with a sea of yellow uniforms and blaring horn music.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;At the first intersection, I spotted young woman in semi-traditional Chinese garb waving robotically atop a parade float. Before I could ask someone what holiday it was, someone handed me a flier—in thick bold letters, it read: &lt;em&gt;Help Stop Forced Live Organ Harvesting from Falun Gong and Other Prisoners of Conscience in China.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/at-civic-center-plaza-persecuted-groups-speak-out/falungong.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Falun Gong protesters in Civic Center Plaza&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Practitioners of Falun Gong (a.k.a. Falun Dafa), a Chinese meditation discipline, have faced violent reprisals from the Chinese communist party since the late 1990s. The parade, one of several this month, sought to draw attention to recent allegations that Falun Gong imprisonment had been used as a source of living organ donors freely exploited by the Chinese government.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;This demonstration served as a bookend of sorts, after a weekend of parades and a Falun Gong &lt;a href=&quot;http://www.theepochtimes.com/n3/2176742-falun-gong-experience-sharing-conference-held-in-san-francisco/&quot;&gt;conference&lt;/a&gt; held yesterday at the Bill Graham Civic Auditorium.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/at-civic-center-plaza-persecuted-groups-speak-out/protest-3.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;&quot;Over 200,000 People Have Filed Lawsuits Against Former Chinese Dictator Jiang Zemin&quot;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Across the street, on the steps in front of the California Superior Court, an entirely different demonstration had formed.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The US PROStitutes Collective (US PROS), partnering with the Erotic Service Providers Union, the Transgender Law Center, and a member of Amnesty International, staged a protest against the arrest of Backpage.com CEO Carl Ferrer. Ferrer, founder of the paid classified service that allows sex workers to advertise their services, was &lt;a href=&quot;http://www.npr.org/sections/thetwo-way/2016/10/07/497006100/ceo-of-backpage-com-arrested-charged-with-pimping&quot;&gt;arrested&lt;/a&gt; in Houston on pimping charges after three years of undercover investigations by the California Department of Justice.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Much of the crowd’s ire was directed at California’s Attorney General Kamala Harris, who many expect to win the race for U.S. Senator. “You’re ahead in the polls,” one protestor said through a megaphone, “you don’t need to persecute us with this publicity stunt for political gain.” Many signs and chants pointed to a lack of services and safety for sex workers, which criminalization would only further exacerbate.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/at-civic-center-plaza-persecuted-groups-speak-out/protest5.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;&quot;I Ca Not Believe I Have To Protest This Shit&quot;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;“I can’t believe I have to protest this shit!” a protester chanted.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“It’s digital segregation,” another demonstrator said. “When will we be allowed to join the modern age?”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;One demonstrator who declined to identify themselves insisted that online advertising was essential for sex workers to feel safe in conducting business.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“It will kill free speech to pursue this as a criminal case,” the demonstrator continued, asserting that the alleged victims in the Backpage.com trafficking case could have more easily sought a settlement for damages in civil court.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The demonstrator reinforced the crowd’s general sentiment that the prosecution efforts were all for show, and were unlikely to succeed. “He’s got really solid case law supporting him,” she said of Ferrer. “Beyond that, what they really want is to displace us from our work, making it harder to advertise. Back in the days of Craigslist is free—so the whole idea that they’re making money off of it, that’s because we can no longer advertise for free. You take away that, and our safety is on a slippery slope.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The original arrest warrant &lt;a href=&quot;https://oag.ca.gov/system/files/attachments/press_releases/signed%20dec%20for%20arrest%20warrant%20pdf_Redacted.pdf?&quot;&gt;confirms&lt;/a&gt; that Backpage classifieds emerged directly after the closure of Cragislist’s “Adult” section. Ferrer has been &lt;a href=&quot;https://oag.ca.gov/system/files/attachments/press_releases/File%20endorsed%20Criminal%20Complaint%20tjy_Redacted.pdf?&quot;&gt;charged&lt;/a&gt; with a total of ten separate counts of pimping.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Members of the Erotic Service Providers Union also discussed an ongoing lawsuit against the Attorney General’s office seeking to overturn California’s anti-prostitution law by the &lt;a href=&quot;http://esplerp.org&quot;&gt;Erotic Service Providers Legal Education Research Project (ESPLERP)&lt;/a&gt;. In a motion to dismiss the suit, Harris &lt;a href=&quot;http://www.washingtonblade.com/2016/01/22/marriage-ruling-cited-in-brief-to-overturn-prostitution-law/&quot;&gt;wrote&lt;/a&gt; that “[t]here is no fundamental right to engage in prostitution or to solicit prostitution,” a statement that has inflamed the sex worker rights community. Harris has previously &lt;a href=&quot;http://www.laweekly.com/news/a-new-movement-to-legalize-prostitution-faces-a-fight-with-kamala-harris-5570911&quot;&gt;stated&lt;/a&gt; that sex work “compromises the quality of life in a community.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Several members of ESPLERP noted a particular irony in the Attorney General’s perceived crusade against sex workers. These demonstrators alleged that Harris had dubbed herself an “honorary prostitute” in an attempt to “pander” to sex worker advocates at the Harvey Milk LGBT Democratic Club in 2007, when she was running for reelection as the San Francisco District Attorney.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“If Kamala Harris really cared about protecting women, she would investigate Bay Area police departments, which have a long history of systematically exploiting and extorting sex workers,&quot; ESPLERP's Claire Alwyne said in a &lt;a href=&quot;http://esplerp.org/sex-workers-outraged-at-backpage-charges/&quot;&gt;statement&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/at-civic-center-plaza-persecuted-groups-speak-out/protest1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Demonstration in front of California Superior Court, 400 McAllister St, San Francisco&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Despite identifying myself as a member of the press, I was eventually drafted into joining the protestors. I was given a sign reading “Stop Taxpayer Funded Witch Hunts,” and there are likely many pictures and videos of me standing in the back row, looking supportive of the cause (I hope) but unsure if I belonged up there.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I stood next to &lt;a href=&quot;http://sfist.com/2010/03/04/bisexual_sex_worker_starchild_runni.php&quot;&gt;Starchild&lt;/a&gt;, a local sex worker advocate and Libertarian Party member, as he chanted impromptu slogans into a megaphone. Starchild urged participants to view the arrest as a threat to internet privacy and net neutrality, not just workers' rights.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“First they come for the sex workers. Then it could be the LGBT community. Who’s next?”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The crowd repeated after him: “who’s next?”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/palo-alto-forward-blasts-subterfuge-by-impersonator-pac/">
     <title type="text">Palo Alto Forward Blasts Subterfuge by 'Impersonator' PAC</title>
     <id>urn:uuid:2a5fd0ba-2865-3308-8c5d-eef407c5cb75</id>
@@ -4470,54 +4664,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;Safaí, a resident of the Excelsior, supported an earlier attempt to purchase the property nine years ago, when he served as deputy director of the Mayor’s Office of Community Development. He also led a signature-gathering campaign in 2015 to raise support for a loan to finance the sale.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/is-a-nonprofit-developer-laundering-money-to-local-campaigns/">
-    <title type="text">Is a Non-Profit Developer Laundering Money to Local Campaigns?</title>
-    <id>urn:uuid:a1f8434c-9038-36c9-9ef5-ef741afb919a</id>
-    <updated>2016-09-14T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/is-a-nonprofit-developer-laundering-money-to-local-campaigns/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;This article is the result of our being unable to &lt;a href=&quot;https://www.youtube.com/watch?v=vETxuL7Ij3Q&quot;&gt;“follow the money.”&lt;/a&gt; Yerba Buena Neighborhood Consortium, LLC has been a major donor in recent San Francisco elections, most notably the &lt;a href=&quot;http://www.sfexaminer.com/prop-c-approval-enables-legislators-set-affordable-housing-requirements/&quot;&gt;Yes On C&lt;/a&gt; committee. John Elberling, Director of affordable housing developer TODCO Group, LLC, founded both LLCs on the same day in 2013. TODCO &lt;a href=&quot;http://www.todco.org/our-housing/&quot;&gt;owns&lt;/a&gt; several senior housing projects, SROs, and Leland Apartments (pictured above), a multifamily apartment complex for disabled residents with Section 8 vouchers.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While TODCO receives income from government grants and property management, YBNC has no discernible source of income. Instead, it appears in a variety of campaign disclosure forms, effectively concealing the true source of donations.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A recent &lt;a href=&quot;http://www.trauss.com/library/EthicsComplaintAgainstElberlingYBNC.pdf&quot;&gt;Ethics Complaint&lt;/a&gt; filed by Oakland resident and &lt;em&gt;Metro Observer&lt;/em&gt; co-owner Sonja Trauss alleges “egregious violations” of campaign finance laws. Trauss hopes the complaint will result in an audit which will reveal the source of YBNC’s revenue.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Shell corporations are not a new trend in political campaigns. &lt;a href=&quot;https://www.theguardian.com/us-news/2016/sep/14/corporate-cash-john-doe-files-scott-walker-wisconsin&quot;&gt;Last year&lt;/a&gt;, Wisconsin Governor Scott Walker was investigated for taking potentially criminal donations from a third-party lobbying group funneling money from large corporate donors. Sources close to the &lt;em&gt;Metro Observer&lt;/em&gt; claim that Elberling adopted the same strategy for funding ballot measure campaigns, potentially from money he earned from refinancing TODCO’s low-income housing projects.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Campaign literature for ballot measures is a common way for local political groups to &lt;a href=&quot;http://www.fec.gov/finance/disclosure/electioneering.shtml&quot;&gt;“electioneer”&lt;/a&gt; for candidates as endorsers, increasing their name recognition while not counting toward the particular candidate’s legal spending limits. In forms filed by the “Affordable Housing for All, Yes on Proposition C” Committee, Yerba Buena Neighborhood Consortium donated a total of $125,000 between January and June of this year. After an initial contribution of $35,000, the Committee added “sponsored by Yerba Buena Consortium” to its name on their filings. Several endorsement mailers sent out on behalf of the Prop C campaign, included in the complaint, provided Supervisor Jane Kim with free publicity.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Although the Yerba Buena Consortium is incorporated as a Limited Liability Corporation, it lists its business practices on incorporation documents as “Nonprofit Community Advocates for San Francisco’s South of Market Neighborhood.” This is possibly an anachronism leftover from YNBC’s earlier incarnation as a tax-exempt 501(c)3 of the same name, which lost its tax-exempt status in 2011 after the IRS found they were negligent in their filings. By law, a registered 501(c)3 is not allowed to spend any money on political campaigns. The relationship between the LLC and 501(c)3 entities remains unclear.&lt;/p&gt;
 
     
   
