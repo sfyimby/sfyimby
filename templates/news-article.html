@@ -3,11 +3,17 @@
 
 {% from "macros/ads.html" import render_ad %}
 
+{% block moretags %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@sfbamo" />
+<meta name="twitter:title" content="{{ this.title }}" />
+<meta name="twitter:description" content="Read on SF BAMO..." />
+<meta name="twitter:image" content="{{ this.banner_img | url(external=True) }}" />
+{% endblock %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
 
   {% set rand = range(0, 10) | random %}
-	
 	{% for i in range(0, 3) %}
 		<div id="ad-template-{{ i }}" class="news-article-ad-container-mobile-template" style="display: none">
 				{{ render_ad(rand + i) }}
