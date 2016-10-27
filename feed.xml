@@ -9,6 +9,76 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/op-ed-convergence-and-consolidation-in-san-francisco-real-estate/">
+    <title type="text">Op-Ed: Convergence and Consolidation in San Francisco Real Estate</title>
+    <id>urn:uuid:625cbb61-3c2b-3c92-9c42-cba17a64785a</id>
+    <updated>2016-10-26T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/op-ed-convergence-and-consolidation-in-san-francisco-real-estate/" />
+    <author>
+      <name>Mike Ege</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Two new articles discuss interacting milestones in the global economy and local housing market, and how the fundamental problem of supply still remains.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;First, the bad news: on Thursday, the SF &lt;em&gt;Business Times&lt;/em&gt; published a &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/2016/10/guest-opinion-sf-housing-future-nimby-rental.html?utm_content=buffere66a1&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&quot;&gt;guest editorial&lt;/a&gt; by affordable housing developer John Stewart, discussing how the recent bump in unit production fails to put a meaningful dent in San Francisco's affordability problem:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;...As the Business Times reported last week, that’s resulted in a historic burst of housing, with an estimated 5,000 units to be completed this year. Unfortunately, this slope reversed direction just as quickly: Concord’s estimate of permit issuances for this year is approximately 3,000, meaning San Francisco will return to its low level of housing production.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In round numbers, the city of San Francisco has approximately 365,000 dwelling units of which two-thirds, or about 250,000 units are rental. Producing 3,000 unis a year (and San Francisco normally does even less) represents a modest 1.2 percent annual increase in rental inventory. When attrition and Ellis Act conversions are taken into account, we are barely better than replacement.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;He then points to the slim pickings left in the pipeline: these include large-scale, long-timeline projects such as Treasure Island, Park Merced, Pier 70 and Schlage Lock, well away from the City center, and which continue to face considerable political and financial difficulties, all for “a little over 24,000 units.” It also includes another not quite 17,000 units in the neighborhoods, which while lower profile, also have lower percentages of affordable housing, and are more exposed to the City’s death-of-a-thousand-cuts discretionary permitting.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Stewart’s prognosis, particularly for renters, isn’t good: any drop in rents will come from lower demand, if at all.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Meanwhile, in San Francisco Magazine,  Kim-Mai Cutler has only &lt;a href=&quot;http://modernluxury.com/san-francisco/story/the-great-cooling&quot;&gt;slightly better news&lt;/a&gt; for prospective home buyers, mainly as a consequence of uncertainty over the throttling of economic growth:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;This isn’t a dramatic slowdown. After all, employment levels are near all-time highs, as are rents and median housing prices. And inventory is still distressingly low: There are currently only about 400 single-family homes and 540 condos for sale in San Francisco, and both categories of housing spend an average of 49 days on the Bay Area market, according to Zillow—the lowest in the nation. But there’s an air of uncertainty over job production in the tech sector, which has for the past several years fueled much of the outlandish growth in housing prices in the Bay Area. “We’re thinking there will be a correction in the next couple of years, but we think it starts with the high end turning, and then it spreads [to slowing] job creation,” says UC Berkeley economist Kenneth Rosen, who has been studying Bay Area real estate markets for 37 years. “The key to the Bay Area depends on capital markets. The question is, will unicorns succeed and go public or have to cut back?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;Cutler then outlines how ownership demand hasn’t declined so much as diffused - rippling out to the East Bay, driven in some measure by the increasing use of company shuttles by employers. The suburbs are no longer cheap. Barring economic catastrophe, lack of supply, along with little growth in salaries, means the affordability issues afflicting the Bay Area will still be with us.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The prime takeaway from these two articles is that the struggle to reform policy and community thinking about housing supply is far from over. Talk of San Francisco’s “historic burst” of housing production in 2013 ultimately remains a distraction from the fundamental supply and structural policy issues which define the region’s affordability crisis. Nobody is off the hook on this one.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/open-letter-recommendations-for-improving-the-residential-expansion-threshold/">
     <title type="text">Open Letter: Recommendations for Improving the Residential Expansion Threshold</title>
     <id>urn:uuid:83328248-a427-34a6-b18d-670071ae1ba4</id>
@@ -4742,59 +4812,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;Last night's meeting was a study session, so no legislative action was taken.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/as-millennium-tower-sinks-blame-game-ensues/">
-    <title type="text">As Millennium Tower Sinks, Blame Game Ensues</title>
-    <id>urn:uuid:cecf4c42-ee4e-33ad-a603-ef1a42734035</id>
-    <updated>2016-09-15T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/as-millennium-tower-sinks-blame-game-ensues/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Once intended to be Downtown San Francisco’s most appealing luxury condominium high-rise, the Millennium Tower has instead become a convenient symbol of the tragicomic hubris underlying the city’s real estate market. But whose hubris?—This has become the subject of heated debate, embroiling an ever-growing cast of characters in all sectors. According to those involved, who exactly bears the blame for the tower’s unstable property values and physical structure, sinking three inches at its base and sixteen inches on the top floor, is everyone else.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Supervisor Aaron Peskin has &lt;a href=&quot;http://www.sfexaminer.com/supervisor-peskin-blames-faulty-millennium-tower-political-interference-plans-lead-investigation/&quot;&gt;called for an investigation&lt;/a&gt; into the tower’s faulty foundation, suggesting that “political interference” may have rushed the building’s approval in 2009. Condo owners in the building launched a &lt;a href=&quot;http://sfbamo.com/news/class-action-lawsuit-filed-against-millennium-tower-developer/&quot;&gt;class-action lawsuit&lt;/a&gt; alleging negligence on the part of developer Millennium Properties as well as the Transbay Joint Powers Association, which built its new terminal into the foundation of the tower. Both plaintiffs in the suit have blamed each other in decidedly undiplomatic press statements this week.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The Transbay agency released a preemptive &lt;a href=&quot;https://www.youtube.com/watch?v=CtVteemLin4&quot;&gt;“I didn’t do it”&lt;/a&gt; statement &lt;a href=&quot;http://sf.curbed.com/2016/9/14/12919764/millennium-tower-sinking-transbay-powers&quot;&gt;insisting&lt;/a&gt; that after Millennium Properties agreed to donate some of the tower’s space in exchange for “monitoring” its movement, they did exactly that. The TJPA argues that their repeated warnings before their terminal project broke ground went unheeded by the condo developer.  The agency not only shifted the blame for failing to warn owners back to the property managers, it also noted that they “anticipated” being blamed by Millennium Properties.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The agency additionally argued that they had offered an agreement to take on some of Millennium’s liability in exchange for joint record-keeping, which the developer declined. MP vociferously denied that this ever happened.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;MP was quick to fire back, insisting that the building had not sunk beyond “revised predicted ranges” until Transbay began building its adjacent foundation. (Though the developer insists their predicted ranges were safe, they did not specify what they were.)&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Most alarming among their denials of responsibility, as &lt;a href=&quot;http://sf.curbed.com/2016/9/15/12930402/millennium-towner-sinking-foundation-buildings&quot;&gt;Curbed SF&lt;/a&gt; points out, is the Millennium Partners spokesperson’s comments about other buildings that, like their tower, did not drill their foundations into bedrock. The St. Regis Hotel, SFMOMA, the Embarcadero Center, and many prominent hotels also &lt;a href=&quot;https://vimeo.com/98836506&quot;&gt;rest on the layer of sand&lt;/a&gt; known as the Colma Foundation.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Wherever the blame may ultimately fall, all parties involved can expect significant fallout from legal and legislative actions.&lt;/p&gt;
 
     
   
