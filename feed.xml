@@ -2,13 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-27T00:00:00Z</updated>
+  <updated>2016-10-28T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-when-will-we-use-this/">
+    <title type="text">Dispatches from the Vote16 Campaign: When Will We Use This?</title>
+    <id>urn:uuid:fca155ce-daa9-3466-80ef-4b3e8aa60568</id>
+    <updated>2016-10-28T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-when-will-we-use-this/" />
+    <author>
+      <name>Cami Doo</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Students often lament, “When will we ever use this in real life?”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;It’s a valid question. Engineers don’t need to know how to perform calculus; it comes in software packages. No average worker has to recite all the presidents in order and know how many terms they served, but AP US History students do.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Yes, all the materials learned in high school have basis in how the world functions today and the advanced technology we enjoy. It’s important to know these things for the sake of knowing them, but very little skills are applicable in life after high school or college.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;There used to be classes for practical skills like cooking, sewing, and home repair. How about connecting current events and history with our everyday lives?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Specifically, schools rarely have classes that teach students how to register to vote or review the local and state propositions; yet these decisions influence their future. Whether it’s about tuition, housing, or other issues, all are relevant to students’ lives.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;https://ballotpedia.org/San_Francisco_City_and_County,_California_ballot_measures&quot;&gt;Proposition F&lt;/a&gt; seeks to do just that: make history class pertinent to life outside of school. During the endorsement meeting with the Board of Education, youth persuaded every single commissioner. Then the Board promised to reform the curriculum to prepare 16 and 17 year olds to vote.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Part of Prop. F’s &lt;a href=&quot;http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php&quot;&gt;pushback&lt;/a&gt; has stemmed from doubts that 16 year olds are informed enough, but who or what iss to blame? Perhaps it is a systemic problem, that schools aren’t designed to connect curricula with current events.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;With Prop. F, however, teachers will educate juniors and seniors about the responsibility of voting.  Also, at school, students can have educated discussions with their teachers and peers.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Furthermore, by participating in local elections, students would gain experience in order to take on the bigger responsibility of national elections.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Prop. F could transform the classroom into a more relevant and lively place of education and discourse.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Cover photo: Sonja Trauss,&lt;/em&gt; Metro Observer &lt;em&gt;webmaster, voting Yes on F.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/asian-community-alliance-rallies-against-dark-money-in-kim-and-fewer-campaigns/">
     <title type="text">Asian Community Alliance Rallies Against “Dark Money” in Kim and Fewer Campaigns</title>
     <id>urn:uuid:618b9f34-d449-3b97-bf10-0405d395b709</id>
@@ -4576,302 +4649,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8KkvLOUZcnk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/local-profiles-oaklands-ratskin-records/">
-    <title type="text">Local Profiles: Oakland's Ratskin Records</title>
-    <id>urn:uuid:3de522cb-f5d2-3d5e-ae22-e1031c8c5bdd</id>
-    <updated>2016-09-19T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/local-profiles-oaklands-ratskin-records/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;When I returned from vacation in Mexico this January, I rolled my luggage straight to the &lt;a href=&quot;http://ratskin.org/&quot;&gt;Ratskin Records&lt;/a&gt; anniversary party in West Oakland. The legendary Bastard Noise played a devastatingly loud set, true to their name, that could be heard with perfect clarity around the block. I finished a bottle of heavily discounted tequila I’d brought straight from the Distrito Federal with several friends, including Mike Daddona, the local impresario who had organized the mini-festival. Since then, he’s released at least ten new albums, hosted a visual art exhibition, and organized several dozen concerts.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;All in his spare time. “I do it to stay sane,” he says sometimes. “I’m not sure I’d know how to stop.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/local-profiles-oaklands-ratskin-records/ratskin1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Michael Daddona, head of Ratskin Records, assembles cassette albums in his home office (edited per subject's request)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The Ratskin brand carries some clout in Oakland. The avant-garde, the macabre, the lurid or confrontational musicians especially know, just by word of mouth, “not just &lt;em&gt;anybody&lt;/em&gt; gets on Ratskin.” The catalog has been expanding all while repping almost exclusively the best of the East Bay: the lusty dance-pop icon &lt;a href=&quot;http://www.eastbayexpress.com/oakland/maya-songbird-writes-music-for-the-wild-and-weird/Content?oid=4647422&quot;&gt;Maya Songbird&lt;/a&gt;, feminist-noise reggaetón duo &lt;a href=&quot;https://ww2.kqed.org/arts/2016/05/04/wrecking-the-patriarchy-with-oakland-reggaeton-duo-las-sucias/&quot;&gt;Las Sucias&lt;/a&gt;, and mystical hip-hop crooner Tyler Holmes are just some examples of local acts the label has touted lately, all who do much more than just make weird noises by turning knobs.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RDlTgY5n5_c&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=3974232074/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless&gt;&lt;a href=&quot;http://ratskinrecords.bandcamp.com/album/maya-songbird-queen-of-darkness-ep&quot;&gt;MAYA  SONGBIRD &amp;quot;QUEEN OF DARKNESS&amp;quot; EP by Maya Songbird&lt;/a&gt;&lt;/iframe&gt;
-    
-  
-    
-				&lt;p&gt;Voltage Drop, the monthly “industrial danceclub” concert series, effectively functions as press releases for new Ratskin releases, with a smattering of unaffiliated but much-revered artists as well. In the coming weeks, Daddona announced with a rare sense of cheer, he’d be hosting “five fucking incredible friends, out-of-this-world talented, like nothing else out there.” Tyler Holmes debuts his new cassette album &lt;a href=&quot;http://www.ratskin.org/releases/rsr067.html&quot;&gt;&lt;em&gt;Invisible Island&lt;/em&gt;&lt;/a&gt; at the Legionnaire Saloon on September 30th. On October 15th, the not-even-remotely-secret Oakland Secret Gallery will host a quadruple release party with Maya Songbird, &lt;a href=&quot;https://ratskinrecords.bandcamp.com/album/slanted-square-three-sides-released-oct-15&quot;&gt;Slanted Square&lt;/a&gt;, &lt;a href=&quot;http://www.eastbayexpress.com/oakland/best-tape-loop-manipulator/BestOf?oid=1921316&quot;&gt;Loachfillet&lt;/a&gt;, and Mike’s own industrial noise project Malocculsion.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Mike lives in the McClymonds neighborhood of West Oakland, a triangular area bounded by San Pablo, Peralta, and West Grand Avenues. He shares a two-story loft with three roommates, each bedroom separated from shared space with curtains. Still, the oasis of a living room emerges in the middle of several shelves of records and tapes, which stored both his personal collection and his business. The room itself speaks to his endless productivity: next to his desk, there are approximately eight cassette-dubbing machines stacked on top of each other, forming a chain through which he is constantly recording copies of his releases.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&quot;I'll put in tapes while I'm cooking dinner, cleaning the house, sitting around, or doing chores. I can pretty much work on the label whenever I'm home,&quot; he remarked. His living room, in other words, is a small pressing plant.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;He took out a record and started spinning some shrieking black metal from &lt;a href=&quot;https://www.youtube.com/watch?v=gzJecjdXXfI&quot;&gt;Gorgoroth&lt;/a&gt;, which made his visibly stressed and jittery roommate sigh and exclaim, “this is such calming music. I feel so relaxed now. Thanks, guys.” A deeply unusual atmosphere of sound came to life in the living room, the trickle of rapidfire trap-beats from the window curdling through the bass-heavy metal riffs.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/local-profiles-oaklands-ratskin-records/mcclymonds.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Sunset in West Oakland's McClymonds neighborhood&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;For its quiet suburban appearance, McClymonds feels much more dense and vibrant than comparably whiter, wealthier districts such as Rockridge. Mike’s neighbors, almost all black, were out on the sidewalks, blasting music out of their cars, or otherwise soaking up the sunset. For all the groceries and amenities readily available in more upscale suburbs, West Oakland’s food desert has the culture and mixed-use density those suburbs lack. Large warehouses adjoin single-family (yet often multi-household) homes, apartments, and parks. Underground music and art spaces flourish in the area’s once-cheap industrial spaces, many landlords being eager to cash in by turning a blind eye to the legal grey area of non-residential zoning.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Artists move to industrial spaces where they can be loud late at night,” former McClymonds resident Max Allstadt told me once. “You can divvy up the square footage with more roommates to split the rent, and neighbors don’t freak out if you cut sheet metal with a saw at 3 A.M.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The neighborhood is both one of opportunity, drawing flocks of migrants for decades, and also limited opportunity, serving as an obvious reference point when discussing the region’s crippling social inequality. Daddona himself moved here for opportunity, from rural Connecticut. “I lived in a tiny town with nothing going on, so one day I just packed up and left. There were other reasons too, that I don’t want to discuss.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;West Oakland became a primarily black neighborhood after postwar industry boomed, attracting floods of African American migrants seeking work in the Port of Oakland and nearby manufacturing hubs. While segregationist &lt;a href=&quot;http://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/&quot;&gt;redlining&lt;/a&gt; prevented Oakland’s black population from moving north, a period of &lt;a href=&quot;http://www.foundsf.org/index.php?title=The_Rise_and_Fall_of_Seventh_Street_in_Oakland&quot;&gt;“urban renewal”&lt;/a&gt; decimated the community’s economic stability. First, the construction of the 980 freeway isolated West Oakland from the rest of the city, and then entire city blocks were razed for the construction of BART and the massive Post Office. Very little is left of the once-flourishing 7th Street Business District, though traces of the subsequent resistance by the Black Panthers remain in plain sight, primarily in the &lt;a href=&quot;http://qilombo.org/&quot;&gt;Qilombo&lt;/a&gt; community center.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It’s apparent, even in the most insular of the micro-subcultures that inevitably blossom here, that the demographic transition known as “gentrification” occurred before, or concurrently with, the inflation of real estate prices better known as &lt;a href=&quot;https://journals.law.stanford.edu/sites/default/files/stanford-law-policy-review/print/2014/01/mangin_25_stan._l._poly_rev_91.pdf&quot;&gt;“reverse filtering.”&lt;/a&gt; That is, even the most recent transplant, in a warehouse party full of white college-aged carpetbaggers, knows how to allude to some nostalgic Shangri-La past that is rapidly receding.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;I thought I had prepared with my most trustworthy stock question for an artist, intended to give a platform for a long, descriptive history of their work. “Did you think when you started this label, you would have expected to be where you are now?” Boom. Perfect. Surely this would prompt him to tell the whole story.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;His candor disarmed my clumsy cleverness. “Mm, yeah, I didn’t really think anything, really. We just did it.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Okay, so that didn’t work,” I admitted after an awkward pause. “Just tell me how you started, and, you know, we can go from there.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The “we” refers to his former band Sabreteeth, which technically started the imprint on their own with only minimal input from Daddona at first. They sound somewhat like a more punk-sounding forefather to current band Coral Remains (nee Styrofoam Sanchez), all featuring macabre visuals, psychedelic costumes, and pummeling industrial drumbeats. Coral Remains, a trio of Mike, his roommate JSon, and former roommate Ryan King (a.k.a. Bonus Beast), are notorious for littering the floors of venues across the country with audience-involved Styrofoam-smashing antics.&lt;/p&gt;
-&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=4123571802/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless&gt;&lt;a href=&quot;http://ratskinrecords.bandcamp.com/album/styrofoam-sanchez-empire-underwater&quot;&gt;STYROFOAM SANCHEZ &amp;quot;Empire Underwater&amp;quot; by Ratskin Records&lt;/a&gt;&lt;/iframe&gt;
-    
-  
-    
-				&lt;p&gt;With the &lt;a href=&quot;http://www.ratskin.org/thirteenseconds.html&quot;&gt;Triskaidekaphobia&lt;/a&gt; compilation CD in 2008, the imprint expanded into releasing other artists' material: specifically, 215 artists, each presenting a 13-second song. By the time Styrofoam Sanchez released their monolithic LP/DVD/comic book album &lt;em&gt;Empire Underwater&lt;/em&gt; in 2014, Ratskin was a very different beast. Mike had long since taken over operations after the first handful of Sabreteeth recordings, and his visual art on most album covers was more prevalent than any music he recorded himself.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It was never intentional, Mike insists. It’s as though he didn’t think about what he was doing until he was well into the process of running a record label. “It was just a fun, kind of absurd project. After that, it was mostly other people’s music. It just sort of happened. All of a sudden, I realized, ‘wow, so many of my friends are so talented and so hardworking.’ It just made sense to help them out as much as I could.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;What strikes me so often about artists who move to the Bay Area, just as much as those who were born here, is their instinctive yet consciously irrational drive to do so. They just do what they do because they have to, full stop.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;To Mike, it’s even “therapeutic.” It occurs to me if so many people are willing to take a financial loss to find purpose through the help of therapy, it seems odd that it is far less taboo to criticize the logical utility of art than that of psychological counseling. Perhaps we recognize it would be rude to interrogate those who seek “treatment” to get “better,” whereas artists and audiences both know that their madness is the treatment.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/local-profiles-oaklands-ratskin-records/ratskin5.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Recent Ratskin releases from Black Dog, Coral Remains, and Black Spirituals, respectively. (courtesy: M. Daddona)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;But just to humor myself, I press a bit more on the question of the label’s financial stability. For example, how do his choices of material affect his overhead costs? “There are some things I like about tapes—mostly that they’ll probably last a lot longer than the CD-R….In a lot of ways, I feel like it doesn’t really matter. If we could afford to put everything out on vinyl, we would, but we’re not at that point. Hopefully one day.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Every question from then on became a springboard for some optimistic goal. Mike alludes to upcoming efforts to expand into book projects, one-time art installations, and whatever else he might find worth sharing. The label co-presents the aforementioned monthly DJ night, “Voltage Drop,” at the Legionnaire Saloon in Uptown Oakland. Each party typically features one or two future or upcoming Ratskin-affiliated artists, with a collection of free physical mixtapes available for early bird arrivals.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The label itself has ballooned into a planned twenty-album backlog. “There are ten upcoming releases I have confirmed and can announce, and there’s ten I can’t mention just yet.” For a well-established label with multiple paid employees, this isn’t a stretch; for a one-man operation that intentionally takes a loss (with the eventual goal of breaking even, I’m assured), it is an insane amount.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Given this surge in productivity, I questioned an earlier remark he made that the label was guided by an effort to give voice to those who might not always feel comfortable or confident. Had he ever had to actively convince someone to publicize their music?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Well, look—you can’t book everyone, and you can’t release everyone. The label is there as a resource for artists, document works I think should be documented, and push people to do projects they might not feel fit in anywhere.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“People like to keep all these secrets in music, and guard their craft, because if you figure out their trick, then they worry that their whole shtick will break down.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“You mean, everyone will realize it’s not that hard, and they can do it too?”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Yeah, exactly. And that’s good. I mean, I love punk and I love conceptual art, but I also hate punk and I hate conceptual art. I’m just trying to take what’s good out of different artistic movements and…well, archiving is what I’m doing, not even documenting.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At first it doesn’t occur to me what the difference could possibly be. Again, the intentional-yet-intuitive idea comes to mind. Does documenting mean you plan to do it, while archiving is more of a rote act?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In Ratskin’s case, the “archiving” in itself stands out as a deliberate art. At times, he says, it has merely been a matter of a prolific live performer not having access to recording equipment. He calls subsequent relationships a “collaboration,” and it’s in many ways an entry into a deeply connected musical family. Artists on the Ratskin catalogue often cross-promote, tour together, share the stage on local bills&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;On the same desk where he cuts covers for new tapes, he has two final remaining copies of a 10-cassette box set, sealed with a piezoelectric contact microphone, with twenty artists each splitting a side of a five-minute tape. He’s almost done making copies for the final box.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/local-profiles-oaklands-ratskin-records/ratskin4.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;10-cassette box set sealed with a contact mic&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The constant work-in-progress, on a lizard-brain good-vibes level, simply feels like a much better deal for both the consumer and the producer, even though he makes a net loss at press time. An economist reading this might shake their head in disbelief—or maybe it’s just aspiring artists’ concerned parents.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;To put it into economic terms, these artists tend not to care if they make a return on capital investments. The transaction itself is the profit. Monetary profit is a far lower priority than the exponentially growing payoff of helping other artists along their way.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;There are some artists for whom he is confident he has done his part to help, and have moved beyond any semblance of “needing him.” Oakland’s blistering, explosive free-jazz duo Black Spirituals was recently praised by the &lt;a href=&quot;http://www.nytimes.com/2015/09/24/arts/music/review-black-spirituals-a-duo-that-defies-categories.html&quot;&gt;&lt;em&gt;New York Times&lt;/em&gt;&lt;/a&gt; and &lt;em&gt;Rolling Stone&lt;/em&gt;, the latter giving a nod to their Ratskin tape &lt;em&gt;Black Interiors&lt;/em&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Everyone should have their own label,” he adds. “All of the bands I was inspired by did just hack-job shows, driving for hours to play to twenty people… If every Ratskin artist could tour and get paid for every show they played, that would be a great thing. I’m just lucky to have so many talented friends, and that’s the only reason I do the label. All the real work is done by the artist, and I’m just here to contextualize this.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Though he is modest about this contextualizing, it’s far from insignificant.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In person, Mike is never shy about Ratskin’s &lt;a href=&quot;http://www.imposemagazine.com/music/ratskin&quot;&gt;principled efforts&lt;/a&gt; to support marginalized communities. He was reticent at first, in light of my newfound status as “the press” asking questions, to go into detail again. It didn’t take long for him to open up on the subject, though, given that Ratskin explicitly foregrounds black and brown voices in the music scene, many being native to the Bay Area.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It was inevitable, really, two straight white dudes sitting on a couch listening to metal, while the sounds of his black neighborhood and their very different music choices poured in constantly. “Sure, I’m a gentrifier,” he says when I bring up the subject. “I mean, look around you. Of course I’m part of this neighborhood changing. But also, these are my friends. We talk to each other, we hang out, share things, like regular human beings. All it takes to not be a bad gentrifier is, you know, just don’t be a fucking idiot.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Indeed, before the interview began in earnest, we passed around a blunt with some neighbors and shot the shit. We were a bit sluggish and dazed when the interview started. After half an hour or so, it didn’t feel right to close ourselves off like that, so we turned off the music and recording equipment, opened the front door, and rolled another one.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It should be easy to not be a “fucking idiot,” but that doesn’t mean it’s not hard work sometimes. The proof is in the bags under Mike’s eyes. On days when he does contracting work, he gets up before 5 A.M. to cross the Bay Bridge before rush-hour traffic. The irregular hours make it easier to be involved in nightlife on the weekends, and tour across the country for a few weeks at a time. When he’s home, he’s dubbing tapes, booking concerts, or recording music.  The spools keep spinning the tape, spinning over and over to stave off the madness.&lt;/p&gt;
 
     
   
