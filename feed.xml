@@ -2,13 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-10-28T00:00:00Z</updated>
+  <updated>2016-10-31T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/editorial-why-is-ccho-afraid-of-the-city-controllers-prop-c-study/">
+    <title type="text">Editorial: Why is CCHO Afraid of the City Controller’s Prop C Study?</title>
+    <id>urn:uuid:8a60e13c-2922-3b83-91df-719bb34bd483</id>
+    <updated>2016-10-31T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/editorial-why-is-ccho-afraid-of-the-city-controllers-prop-c-study/" />
+    <author>
+      <name>Leigha Beckman</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;When Proposition C passed in June of this year, increasing the required amount of affordable housing in new developments to 25%, the Supervisors behind the measure agreed to let the city conduct a study on how the policy would actually impact development. Many opponents of the measure, including the mayor, had concerns that such a requirement could slow down overall housing production if developers faced difficulty financing new projects.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Controller’s Office published preliminary findings suggesting that 25% is indeed too high. According to the Controller, 18% is the economically feasible maximum for most developments. The Office is continuing to develop its findings, with its most recent draft available &lt;a href=&quot;http://sfcontroller.org/sites/default/files/Preliminary%20Report%20September%202016.pdf&quot;&gt;here&lt;/a&gt;.
+In the meantime, the Community Council of Housing Organizations (CCHO) apparently has deep concerns about what the Controller might find in regard to the 25% requirement, and penned an &lt;a href=&quot;https://drive.google.com/file/d/0BwIcMtCqttV2T3B3R0hTWXBTQ3NsSmZ6NDJ3M05uMl8wbFdN/view&quot;&gt;open letter&lt;/a&gt; urging the office to consider some additional factors. The letter to the Controller outlines six main points for the working group to consider, which in sum champion the current 25% requirement and take issue with any findings which might disturb that number.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Most of these points have their own problems, however.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Most glaringly, Directors Peter Cohen and Fernando Martí seem to consider housing low-income residents to be merely a tangential policy goal. “First,” they write, “is the goal of capturing the windfall profits from increasing land value.” Really? That’s their first goal?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Even if maximizing the construction of affordable housing units isn’t the primary goal, the authors go on to explain why economic feasibility should be a non-issue for the Controller.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;CCHO points us to two recent “real world projects” to be built a 25% inclusionary requirement. A large project at 1515 South Van Ness, as well as another development in the Excelsior, are both in the works and are slated to contain 25% affordable units. The South Van Ness development, it is worth noting, has still received &lt;a href=&quot;http://missionlocal.org/2016/08/mission-district-housing-project-reaches-25-percent-affordable/&quot;&gt;numerous complaints&lt;/a&gt; from resident groups such as Calle 24, who want to see the number bumped even higher.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The second development at 915-917 Cayuga &lt;em&gt;is&lt;/em&gt; a noteworthy and even exceptional project when it comes to affordability. The developer, SST Investments, &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Developer-wants-to-create-rent-controlled-housing-10152241.php&quot;&gt;has agreed to build 51 rent-controlled units and 52 BMR units&lt;/a&gt;, which is almost unheard of for a private developer.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;CCHO omits the fact that SST bought the land in 2009 for $1.8 million, an incredibly low price for 25,000 square feet. $1.8 million may only get you a single &lt;em&gt;house&lt;/em&gt; in San Francisco today. So, what does this example mean for developments more generally? Hardly anything. This scenario is &lt;strong&gt;extremely unlikely to be repeated today.&lt;/strong&gt; The referenced article, in fact, refers to the deal as “an unusual combination of the right developer buying the right piece of property at the right time.” Meanwhile, the developer called the deal a “philanthropic legacy project.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Touting &lt;strong&gt;two&lt;/strong&gt; real world projects is an arguably light body of “evidence.” Prop C passed in June of this year - it’s been four months since that happened, and if two projects that is all we can show, it doesn’t bode well for this mandated level of BMR.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;CCHO further claims that the Controller report ignores state density bonuses its study. The state density bonus lets developers build more floors if they include a certain portion of affordable units, which CCHO argues would make any project with 25% affordable housing eligible for the bonus.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;First of all, let’s not forget that &lt;em&gt;CCHO itself opposed an affordable housing density bonus in San Francisco&lt;/em&gt; &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/SF-housing-density-plan-meets-opposition-6810769.php&quot;&gt;earlier this year&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;This is a red herring. Just because a project is eligible for a density bonus doesn’t mean that project can economically support it, as CCHO eagerly concludes. Moreover, CCHO appears to be looking at the wrong starting point here. It argues that once a project is compliant with a 25% inclusionary rate, it becomes eligible for the 35% state density bonus. How does that &lt;em&gt;prove&lt;/em&gt; the 25% itself is supportable? It doesn’t.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;CCHO also wants the Controller to consider increasing the inclusionary requirement for taller buildings, meaning those over 300 feet, which it characterizes as “a luxury category unaffordable to all but the wealthiest of buyers or renters.” With exactly zero numerical basis or any economic analysis attached this statement, CCHO insists that taller “luxury” buildings be subject to higher inclusionary requirements.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The entire point of the Controller’s analysis is to identify the upper limit of economic feasibility on new developments using rigorous, quantitative analyses. More importantly, the regression model developed for the Controller’s analysis &lt;em&gt;already takes building height into consideration.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;From the Controller’s report:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;“Second, the size of the potential development, &lt;em&gt;which is primarily driven by height restrictions&lt;/em&gt; and density limits, also matters.&lt;/strong&gt; The potential size of the housing that can be developed on the parcel is positively correlated with the addition of multifamily market-rate housing.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Based on this relationship derived from our regression analysis, we developed a simulation model to estimate the likely change in development that would result from setting an inclusionary policy at various levels.” (Emphasis added)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;In any arena of policy, selecting a number and working backward to support is recipe for cherry-picking and selective thinking. That is what CCHO appears to be doing in this letter. The Controller isn’t even finished completing its analysis, and already an outside organization is attempting to exert influence over the conclusions, based on a preconceived idea of what their touted policy will deliver.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Creating more affordable housing through targeted policy is a good thing. Ignoring evidence that the policy in question &lt;em&gt;might not deliver the intended goal&lt;/em&gt; is dangerous thinking.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-when-will-we-use-this/">
     <title type="text">Dispatches from the Vote16 Campaign: When Will We Use This?</title>
     <id>urn:uuid:fca155ce-daa9-3466-80ef-4b3e8aa60568</id>
@@ -4601,54 +4716,6 @@ This might possible in a technical sense; the maximum annual interest rate permi
   
     
 				&lt;p&gt;The loser of not passing the BART bond measure isn’t BART - it’s all of us. The BART Bond would benefit everyone, from those commuting on BART to those driving through lighter traffic, grateful that others are taking public transportation.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/chinatown-activist-rose-pak-dies-at-68/">
-    <title type="text">Chinatown Activist Rose Pak Dies at 68</title>
-    <id>urn:uuid:8a39c267-db86-355d-8e99-10db452878dd</id>
-    <updated>2016-09-19T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/chinatown-activist-rose-pak-dies-at-68/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;San Francisco is in mourning after Chinatown’s iconic political activist Rose Pak passed away in her home on Sunday morning. Ms. Pak, who grew up in Macau and Hong Kong as a Chinese refugee, relocated to San Francisco in 1967, and was involved in the city’s inner political circles ever since. At the mayor’s request, the city’s flags have been lowered to half-staff in her honor today.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;As the only Cantonese-speaking reporter for the San Francisco &lt;em&gt;Chronicle&lt;/em&gt;, Pak covered Chinatown with assiduous discipline. Her career as an activist came to dominate the neighborhood after she championed efforts to save Chinese Hospital, a medical facility serving lower-income residents who mostly spoke Cantonese.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Pak was also instrumental in bringing San Francisco’s current Mayor Ed Lee to power. After she lobbied for his appointment to the administration of Mayor Art Agnos, Lee remained an important figure in local politics, and Pak successfully pushed for his appointment as interim mayor to replace Gavin Newsom. She subsequently led the “Run Ed Run” campaign to convince Lee to run for a successful reelection bid.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The relationship between the two &lt;a href=&quot;http://www.sfgate.com/bayarea/article/A-gravely-ill-Rose-Pak-on-life-death-and-her-6456189.php&quot;&gt;soured&lt;/a&gt; when Lee appointed Julie Christensen over Pak’s chosen favorite, Cindy Wu, to replace David Chiu as Supervisor of District 3. In retaliation, Pak encouraged former Supervisor Aaron Peskin to run for the position, successfully ousting the appointee and rebalancing the Board of Supervisors in favor of the “progressive” faction.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Though often labeled a “power broker,” Pak was fond of &lt;a href=&quot;http://www.sfgate.com/news/article/Rose-Pak-SF-political-powerhouse-dies-9230594.php&quot;&gt;saying&lt;/a&gt;, “if I were white, they’d call me a civic leader.” Pak will be missed dearly for her ribald conversational style and convivial demeanor. You can watch a sample of her fiery speaking style below:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8KkvLOUZcnk&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 
     
   
