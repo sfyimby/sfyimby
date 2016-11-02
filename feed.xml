@@ -9,6 +9,38 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/comics-the-atherton-police-blotter/">
+    <title type="text">Comics: The Atherton Police Blotter</title>
+    <id>urn:uuid:88b4ba4e-ddc9-352b-9764-cf76106c248f</id>
+    <updated>2016-11-01T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/comics-the-atherton-police-blotter/" />
+    <author>
+      <name>Krusty Wheatfield</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;This is an illustrated adaptation of &quot;The best of the Atherton police blotter,&quot; an irregular feature on the&lt;/em&gt; &lt;a href=&quot;http://www.mercurynews.com/2011/08/27/the-best-of-atherton-police-blotter/&quot;&gt;San Jose Mercury News&lt;/a&gt;. &lt;em&gt;-Eds.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/comics-the-atherton-police-blotter/atherton2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.krustywheatfield.com/&quot;&gt;Krusty Wheatfield&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/video-san-franciscos-pony-tailed-godfather-of-white-paternalism/">
     <title type="text">Video: San Francisco's &quot;Pony-Tailed Godfather of White Paternalism&quot;</title>
     <id>urn:uuid:f06c9c06-3ebd-38bd-b7b4-24352a81ebfa</id>
@@ -4608,44 +4640,6 @@ No person &lt;em&gt;other than a candidate&lt;/em&gt; shall make, and no campaig
   
     
 				&lt;p&gt;The next DCCC meeting will be held on &lt;a href=&quot;http://www.sfdemocrats.org/meetings&quot;&gt;September 28th, 7pm at 455 Golden Gate Ave.&lt;/a&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/oakland-modernizes-parking-regulations/">
-    <title type="text">Oakland Modernizes Parking Regulations</title>
-    <id>urn:uuid:abc3d0e2-b692-3617-b048-44c726013a8b</id>
-    <updated>2016-09-21T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/oakland-modernizes-parking-regulations/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last night, the Oakland City Council voted unanimously to upgrade its parking requirements for the first time in over 50 years. Oakland last revised its parking requirements for new development in the downtown area back in 1965. Councilmember Abel Guillen celebrated on &lt;a href=&quot;https://twitter.com/Abel_Guillen/status/778454029898612736&quot;&gt;Twitter&lt;/a&gt;, writing, “Hello 21st Century.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;City staff &lt;a href=&quot;https://oakland.legistar.com/LegislationDetail.aspx?ID=2825408&amp;amp;GUID=CA5A731F-E886-4E19-ADBC-EF00056A817C&amp;amp;Options=&amp;amp;Search=&quot;&gt;recommended&lt;/a&gt; the update in accordance with the 1996 Transit First Policy, as well as Oakland’s current Climate Action Plan.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The changes will affect Downtown Oakland most drastically, replacing the previous 1.25:1 minimum parking-to-housing ratio with a 1.25:1 maximum for parking—no minimum. There is an exception for senior housing, which would receive by-right approval to provide one parking space for every four dwelling units. Commercial space is now limited by a maximum of one parking space for every 300 square feet of ground-floor retail.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;There are many more nuances to this legislation, including allowances for car-sharing services such as Zipcar. We recommend this summary on local blog &lt;a href=&quot;https://oaktownacorn.com/2016/09/20/reducing-parking-for-increased-affordability/&quot;&gt;The Oaktown Acorn&lt;/a&gt; for the full scoop.&lt;/p&gt;
 
     
   
