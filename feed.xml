@@ -2,13 +2,255 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-01T00:00:00Z</updated>
+  <updated>2016-11-02T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/">
+    <title type="text">Tenants in TODCO Property Allege Abuse, Neglect, and Intimidation</title>
+    <id>urn:uuid:eccb9595-f176-3d94-9b90-26ea8dc34532</id>
+    <updated>2016-11-02T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Donna Muir has terminal liver cancer. She spends her days shuffling between medical treatments, seeing family, and tidying up her room. Ms. Muir lives in a tiny apartment at the Knox Hotel, a Single-Room Occupancy (SRO) building in San Francisco’s South of Market district. Recently, she successfully fought off an eviction suit, one which her attorneys describe as “frivolous” given its suspicious timing. Muir had been complaining about a lack of hot water in her room for four months—once the suit was dropped, she suddenly had hot water again.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The tenant of 17 years received a notice to vacate by August 1st, just after the Department of Building Inspection (DBI) made an unannounced visit to the property on July 26th.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Ms. Muir likes to collect aloe vera plants. Every so often, she trudges out of the Knox Hotel with a knife and a backpack to carry pieces of aloe home. One day, her knife fell out of her backpack, and building management alleged that she intended to stab someone. They had been waiting, she says, and now they had their chance. “They wanted to make an example of me, because I spoke out,” Muir told me.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/faucet.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;When she had no hot water, Ms. Muir says she brought hot water up in milk bottles from this sink in the basement, until the faucet was removed. (Courtesy: Donna Muir)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;TODCO, the non-profit developer responsible for the Knox Hotel, is &lt;a href=&quot;http://sfbamo.com/news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/&quot;&gt;under investigation&lt;/a&gt; for funneling money from refinancing several properties into political campaigns through a shell company, the Yerba Buena Neighborhood Consortium. In an &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Pre-election-opening-for-Warm-Springs-BART-looks-9981990.php&quot;&gt;interview&lt;/a&gt; with the San Francisco &lt;em&gt;Chronicle&lt;/em&gt;, TODCO director John Elberling admitted to doing so and insisted the process was fully transparent and legal.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Critics have urged investigators to consider what else TODCO could have done with its profit—for example, building new affordable housing or repairing existing properties. Our research at the Knox Hotel shows that this is beyond mere speculation: TODCO and the John Stewart Company, the building’s property manager, have been intentionally skimping on repairs, and intimidating residents who voice their complaints.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Donna Muir is going public with what she describes as a lengthy pattern of abuse and exploitation of residents by the property managers. She alleges that Janet Thompson, the property manager since 2006, collects a bonus for implementing cost-savings by skimping on repairs, even as the Knox Hotel raises its rent every year. Now, she claims, Thompson is refusing to accept her rent payments. She alleges that the Knox Hotel also requested a duplicate payment of $150, which her medical provider offers to assist with rent, after they had already cashed their first check.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“They don’t give a shit about us,” says her neighbor, Henry Savage. “She’s got health problems, and I’m the only one who can help her.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Mr. Savage cannot take a shower without scraping up a handful of lead paint from the floor. Recently, he slipped in the shower and injured his back; Thompson, he alleges, told the judge of a decades-old criminal record in Minnesota, before his small claims case was dismissed.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/shower.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Lead paint peeling off the floor in Mr. Savage's shower. (Courtesy: Henry Savage)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;“When I moved in, the place was filthy. Dust and grime everywhere,” he told me. “When I asked, they said my home-care had to do that. That’s not their job! When you move in to an apartment, it’s supposed to be clean and tidy. They gave the last guy his deposit back, so why didn’t they clean anything?”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In addition to receiving treatment for a brain tumor, Mr. Savage shows me a blister on his arm, where he was given an injection to test for tuberculosis. “There’s thirty people in this building with TB, and they walk around not covering their faces when they cough. That could be an epidemic,” he says. We have not been able to verify this claim.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Ms. Muir claims that the Knox Hotel received grant money to repair showers, but sought out the cheapest plumbers they could possibly find to save funds. “They literally hired people off the street,” she says. “This shower was filthy underneath—mold everywhere. See this grouting?” She directs my attention to a white stripe beneath the edge of the shower. “I did that all myself.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/broomfan2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Ms. Muir also insists that building management has refused to fix her broken bathroom fan. (Courtesy: Donna Muir)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Her toilet, she claims, was left to run for four months. She showed me a video she took on her phone as proof. “This was during a water shortage. They didn’t send anyone. Unbelievable.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Donna Muir’s apartment has broken windows that do not close all the way; her heater is a paltry comfort. Her kitchen faucet was replaced with used, moldy parts until she complained enough to get a new one. “I watched them take that one out of the box,” she assures me. “Otherwise, who knows what they would’ve tried.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/window.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Ms. Muir's window, which does not close properly&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Muir also purchased her own mini-fridge, just in case, after building management refused to replace her leaking refrigerator. She claims it took three years of complaints—which public records from the Department of Building Inspection corroborate—to get faulty electrical sockets fixed. A painful rivet in her bedframe jabbed into her spine and gave her bed sores. “After a whole year,” she tells me, “I finally got them to replace the bed.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/dbi.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;An excerpt from one of many Department of Building Inspection documents following up on Ms. Muir's complaints.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;More recently, her shower drain began overflowing with raw sewage late at night. Building management refused to pay for an after-hours plumber to repair the pipes until she threatened to call the police.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“They hire the biggest crooks,” Ms. Muir says of the John Stewart Company. “I contacted John Stewart, and Elberling at TODCO, they didn’t care. They just referred me back to Janet [Thompson].” Her complaints to Supervisor Jane Kim and Representative Nancy Pelosi also went largely unanswered, she says.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Paradoxically, Muir explains that the Knox Hotel is reluctant to pursue eviction proceedings for the most egregious violations. “These neighbors were dumping feces out of their window every single day,” she says as she pulls out a picture on her phone. “They did nothing until all the businesses on the street complained.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/shit.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;A trail of fecal matter descending from a nearby window. (Courtesy: Donna Muir)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Worse, she says there is ongoing exploitation of senior citizens bordering on the criminal. Muir says she’s reported the building’s maintenance person, known to residents only as Noki, for illegal entry. “He has master keys, and goes in when we’re not there. I’ve caught him leaving,” she insists. “The desk clerk, thankfully, he tries to call people to warn them.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“There’s elderly abuse here too, don’t think they don’t know about it,” she went on. “One woman was being beaten, and they did nothing. I said they had to call social services, do something, but they didn’t. Finally they dragged her out of here, dead from blunt force trauma, and sold all her furniture out the back door.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Muir adds that she’s certain building management has taken narcotics medication from deceased residents to sell on the black market as well.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Basically,” she said to me as I left her room, “when you live here, you have no voice.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;At press time, TODCO had not responded to requests for comment. The John Stewart Company could not discuss specific legal proceedings regarding their residents.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/comics-the-atherton-police-blotter/">
     <title type="text">Comics: The Atherton Police Blotter</title>
     <id>urn:uuid:88b4ba4e-ddc9-352b-9764-cf76106c248f</id>
@@ -4575,67 +4817,6 @@ that keep families from moving to growing, dynamic cities.” A quote from &lt;a
   
     
 				&lt;p&gt;For the thousands of people struggling to find a home in San Francisco, the EPA’s delay spells a stark choice between commuting from distant suburbs, or risking a miniature Chernobyl in their own back yard.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/democratic-central-committee-considers-new-rule-to-handicap-grassroots-organizing/">
-    <title type="text">Democratic Central Committee Considers New Rule to Handicap Grassroots Organizing</title>
-    <id>urn:uuid:9578c32d-0a8c-3f2b-a46a-05329d9de0dc</id>
-    <updated>2016-09-21T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/democratic-central-committee-considers-new-rule-to-handicap-grassroots-organizing/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The June 2016 election of the San Francisco Democratic County Central Committee was one of the most expensive in its history, with a record breaking $2.3 million reported spent. However, illustrating the adage that “money don’t vote,” the big spenders’ candidates &lt;a href=&quot;http://48hills.org/2016/06/07/lessons-june-7-election/&quot;&gt;mostly failed to win seats&lt;/a&gt; on the committee.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Reporting by the Reform slate friendly blog &lt;em&gt;48 Hills&lt;/em&gt; decried outsized spending on the Progress slate &lt;a href=&quot;http://48hills.org/2016/05/27/1-million-tech-real-estate-money-pours-june-sf-election/&quot;&gt;by a few donors&lt;/a&gt; - $25K from Ron Conway; $21K from Robert Rosania, developer of the &lt;a href=&quot;http://missionlocal.org/2015/03/the-monster-in-the-mission-makes-its-case/&quot;&gt;“Monster in the Mission”&lt;/a&gt;; $50K each from Google; Facebook; Evan Williams, the founder of Medium; and $30K from Kevin Systrom, founder of Instagram.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Having swept the election, two members of the Reform slate, Petra DeJesus and Pratima Gupta, now seek to prevent large donations by amending SF Democratic Party by-laws to prevent donations to candidates in excess of $500. The amendment exempts the candidates themselves from this limitation. The proposed amendment reads,&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;“Section 5:  LIMITS ON CONTRIBUTIONS TO CANDIDATES FOR THE SF DCCC.&lt;br&gt;
-No person &lt;em&gt;other than a candidate&lt;/em&gt; shall make, and no campaign treasurer for a candidate committee shall solicit or accept, any contribution which will cause the total amount contributed by such person to such candidate committee in an election to exceed $500.” (emphasis added)
-&lt;a href=&quot;https://d3n8a8pro7vhmx.cloudfront.net/sfdemocrats/pages/13/attachments/original/1474328101/SFDCCC_10-day_Notice_Agenda.pdf?1474328101&quot;&gt;See page 19 for full resolution&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;A DCCC member who declined to be named said, “It is ludicrous to say we should have contribution limits and then allow famous (or already rich) people to run - people who don't have to raise a dime to win.” For niche elections like the Democratic County Central Committee, elections are won and lost because of name recognition, which favors established incumbents. 12 of the 24 newly elected DCCC members are current or former Supervisors.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“This resolution would cripple an actual grassroots campaign for the DCCC,” claims Sonja Trauss, local organizer and co-owner of this paper. “A grassroots candidate, with no name recognition, has to canvass heavily in order to win. Time a candidate spends asking for money is time not spent asking for votes. One $5,000 donation saves the candidate from having to ask 10 people for $500, or, more likely, 100 people for $50 each. I wouldn’t argue with a resolution prohibiting actual large donations - $50,000 at a time. Limiting the contributions to small donations protects the people that are introducing the amendment - incumbents.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Another agenda item to watch on Wednesday is Chairperson Cindy Wu’s appointment of a new SF DCCC member due to a vacancy. Leading up the the June DCCC election, a rumour circulated that the DCCC was going to be stacked with high-profile elected officials who, after winning handily without spending any money, would vacate their seats and allow the new chair to replace them with a Democrat of the chair’s choice. The identity of the outgoing DCCC member is not yet known. If it does turn out to be a high profile elected, the rumor will be on its way to being substantiated.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The next DCCC meeting will be held on &lt;a href=&quot;http://www.sfdemocrats.org/meetings&quot;&gt;September 28th, 7pm at 455 Golden Gate Ave.&lt;/a&gt;&lt;/p&gt;
 
     
   
