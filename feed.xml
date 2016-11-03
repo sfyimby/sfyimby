@@ -2,13 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-02T00:00:00Z</updated>
+  <updated>2016-11-03T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/mayor-lee-joins-three-supervisors-in-urging-common-sense-over-petty-politics/">
+    <title type="text">Mayor Lee Joins Three Supervisors in Urging “Common Sense” over “Petty Politics”</title>
+    <id>urn:uuid:923e9186-a47b-3209-953d-acb1cd88fa2f</id>
+    <updated>2016-11-03T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/mayor-lee-joins-three-supervisors-in-urging-common-sense-over-petty-politics/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;San Francisco’s Noriega Street bustled with lunchgoers basking in the sun, lining up for Dim Sum. On the corner of 31st Avenue, Supervisor Katy Tang shopped for pastries at Donut Time before her colleagues arrived. She was soon joined by Mayor Ed Lee, along with fellow Supervisors Scott Wiener and Mark Farrell, to advocate for their preferred ballot measures.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Local activists and merchants flanked the quartet of elected officials with signs for various campaigns: &lt;a href=&quot;http://www.dumbharmfullotsofmoney.com/&quot;&gt;No on DHLM&lt;/a&gt;, &lt;a href=&quot;http://www.housingnottents.com&quot;&gt;Yes on Q&lt;/a&gt;, and &lt;a href=&quot;https://t.co/j5qhWnirWU&quot;&gt;Yes on J &amp;amp; K&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In her introduction of Mayor Lee, Supervisor Tang discussed her opposition to this year’s Proposition M. “These are four measures I believe will cost taxpayers more money, but actually be less effective in terms of how we better serve San Francisco residents,” she said. “In particular, M will hurt our small businesses and affordable housing.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Lee began his speech by underscoring his support not only for Hillary Clinton, but also Kamala Harris in the U.S. Senator race, and Scott Wiener for State Senate.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Keep it simple, keep it rational, keep it common sense,” the Mayor said of his ballot endorsements. He urged those in attendance to support Propositions J and K, which will allocate and fund new sales tax revenue for transit and homelessness services. Lee followed by adding his support for Proposition Q, a “Housing Not Tents” measure proposed by Supervisor Farrell.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“It’s important…for all of us lucky enough to have a place to live, to help get [the homeless] off our streets,” Lee said. “I’m all about building more housing, preserving affordable housing—but I also have to help the most challenged, our homeless. Prop Q, along with J &amp;amp; K, will do that.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Farrell added that recent statistics on health and safety hazards in the city’s various tent encampments exemplified the urgency of his measure, which would require 24-hour notice and guaranteed shelter before clearing tent encampments. (Editor’s note: the SF YIMBY Party has &lt;a href=&quot;http://www.sfyimby.org/endorsementexplainer/&quot;&gt;endorsed No on Q&lt;/a&gt;).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Supervisor Wiener added his support for J &amp;amp; K, noting that local legislation was necessary before greater state and federal reform could occur. “The Bay Area is going to grow by 2 million people in the next 20 years…if we don’t get this funding, the gridlock we see on our roads and freeways will look like child’s play.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Mayor Lee ultimately kept his scorn for Propositions D, H, L, and M quite brief. “None of these measures were put on the ballot to improve anything,” Lee insisted. “They are petty politics that will waste time and waste money. I hope people study them and vote No.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;After the press conference, Lee dismissed press questions about the recent rumors that Hillary Clinton was considering him for a cabinet position as mere “speculation.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Watch the press conference in its entirety below:&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNoDHLM%2Fvideos%2F382961665379908%2F&amp;show_text=0&amp;width=400&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/">
     <title type="text">Tenants in TODCO Property Allege Abuse, Neglect, and Intimidation</title>
     <id>urn:uuid:eccb9595-f176-3d94-9b90-26ea8dc34532</id>
@@ -4779,44 +4857,6 @@ that keep families from moving to growing, dynamic cities.” A quote from &lt;a
   
     
 				&lt;p&gt;Even a San Francisco Supervisor who lobbied federal officials in her efforts to curb displacement faces an uncertain future in her city.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/toxic-soil-scandal-halts-hunters-point-development/">
-    <title type="text">Toxic Soil Scandal Halts Hunters Point Development</title>
-    <id>urn:uuid:5ccdf373-dea0-3da9-8e95-a88defdeeff6</id>
-    <updated>2016-09-22T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/toxic-soil-scandal-halts-hunters-point-development/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Developers at Lennar Urban received a crushing blow to their plans to develop 12,000 new homes and office space at the Hunters Point Shipyard, from none other than the Environmental Protection Agency. The EPA ordered the Mayor’s Office of Housing and the U.S. Navy to halt the transfer of land in the former shipyard after soil tests conducted by Tetra Tech were found to have been falsified.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The former naval yard housed a military research facility for nuclear weapons, leaving behind deadly radioactive soil when it closed in 1994. After two decades of cleanup and even some new apartments filling up with tenants, the Navy has admitted that its contractor, Tetra Tech, took soil samples from a clean site and passed them off as samples from the once-contaminated shipyard. The accusations were &lt;a href=&quot;http://www.nrc.gov/docs/ML1604/ML16042A074.pdf&quot;&gt;corroborated&lt;/a&gt; by the U.S. Nuclear Regulatory Commission. Indeed, as &lt;a href=&quot;http://sf.curbed.com/2016/9/22/13013980/hunters-point-radiation-epa&quot;&gt;Curbed SF points out&lt;/a&gt;, Tetra Tech quite literally covered up the dirt.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The federal agency’s understandable caution still provoked concern among city officials struggling to mitigate effects of the regional housing shortage. Mayor Ed Lee and Supervisor Malia Cohen, whose district encompasses Hunters Point, sent a &lt;a href=&quot;https://www.scribd.com/document/324834306/9-19-16-Mayor-Lee-Sup-Cohen-Hunters-Point-Shipyard-Letter?content=10079&amp;amp;ad_group=Online+Tracking+Link&amp;amp;campaign=Skimbit%2C+Ltd.&amp;amp;keyword=ft500noi&amp;amp;source=impactradius&amp;amp;medium=affiliate&amp;amp;irgwc=1&quot;&gt;letter&lt;/a&gt; to the EPA requesting a (“confidential if necessary”) briefing so they could understand just how long an investigation of Tetra Tech’s soil analysis could take. The 12,000 total units now stalled in the pipeline make up more than 10% of San Francisco’s &lt;a href=&quot;http://archives.sfexaminer.com/sanfrancisco/leveling-sf-housing-field-could-take-100000-new-units/Content?oid=2703869&quot;&gt;estimated housing need&lt;/a&gt;. Currently, plans call for 1,400 new homes to be completed by 2018.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;For the thousands of people struggling to find a home in San Francisco, the EPA’s delay spells a stark choice between commuting from distant suburbs, or risking a miniature Chernobyl in their own back yard.&lt;/p&gt;
 
     
   
