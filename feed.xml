@@ -2,13 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-03T00:00:00Z</updated>
+  <updated>2016-11-04T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/soda-lobby-stumps-generously-with-mailers-consulting-in-district-1-race/">
+    <title type="text">Soda Lobby Stumps Generously with Mailers, Consulting in District 1 Race</title>
+    <id>urn:uuid:19d87e0b-da2c-3bea-8977-b1883e271c03</id>
+    <updated>2016-11-04T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/soda-lobby-stumps-generously-with-mailers-consulting-in-district-1-race/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;At last count, the American Beverage Association had poured &lt;a href=&quot;http://www.sfchronicle.com/politics/article/Powerful-interest-groups-funding-Wiener-Kim-state-10130727.php&quot;&gt;at least $21 million&lt;/a&gt; into San Francisco’s election to defeat Proposition V, &lt;a href=&quot;http://www.sfexaminer.com/prop-v-tax-sugary-beverages-san-francisco/&quot;&gt;a tax on sugary drinks&lt;/a&gt;. This count often overlooks a curious anomaly—not all campaign media spending is required to be reported locally via periodic filings at the San Francisco Ethics Commission. Slate mail organizations, which are prohibited from advertising in any way other than physical USPS mailings, are only required to report to the state of California.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;This can result in what some observers describe as “distortions” of the campaign finance narrative. For example, it is public record that the San Francisco Tenants Union mailed slate cards with $70,000 donated by the American Beverage Association’s No on V PAC. Meanwhile, the Affordable Housing Alliance—a slate mail organization funded entirely by the same PAC—need not report at the local level. Its latest expenditure reports will not be public until early 2017. The most recent filings date to October 22nd, before the latest wave of mail campaigns.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/soda-lobby-stumps-generously-with-mailers-consulting-in-district-1-race/marjanattack.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;A campaign mailer distributed by the Affordable Housing Alliance&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;At the latest report, No on V has donated $280,000 to the Affordable Housing Alliance. The latter also shares its sole consultant, Jim Stearns, with the campaign of District 1 Supervisorial candidate Sandra Lee Fewer. As of October 22nd, Stearns is also on record receiving $20,000 in consulting fees from the No On V PAC.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;(Curiously, Stearns has also collected consulting fees from District 5 Supervisorial candidate Dean Preston, who supports the soda tax.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Because the Affordable Housing Alliance is not registered as an independent expenditure committee, it is not illegal for the Fewer campaign to directly coordinate with the Affordable Housing Alliance, whose No On V-funded mailers promote her campaign and frequently attack her opponent, Marjan Philhour.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;According to Todd David of the &lt;a href=&quot;https://sfparentpac.com/&quot;&gt;San Francisco Parent PAC&lt;/a&gt;, coordination doesn’t get much more direct than that. Although he’s familiar with slate mail organizations coordinating with independent expenditure committees (IEs), the collusion via a consultant is unprecedented. Although it is legal, he said, “I’ve never, and people I’ve spoken to have never seen anything like this before.” Referring to Stearns’ multiple roles, David added, “you can’t not coordinate with yourself.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/mayor-lee-joins-three-supervisors-in-urging-common-sense-over-petty-politics/">
     <title type="text">Mayor Lee Joins Three Supervisors in Urging “Common Sense” over “Petty Politics”</title>
     <id>urn:uuid:923e9186-a47b-3209-953d-acb1cd88fa2f</id>
@@ -4834,79 +4901,6 @@ that keep families from moving to growing, dynamic cities.” A quote from &lt;a
   
     
 				&lt;p&gt;The other Republican I convinced asked, “Why didn't this happen earlier?” and said to his two-year-old son, “You're going to be able to vote in fourteen years!”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/head-of-homeless-services-talks-brass-tacks-in-reddit-ama-forum/">
-    <title type="text">Head of Homeless Services Talks Brass Tacks in Reddit AMA Forum</title>
-    <id>urn:uuid:324e07c3-db7a-3793-9301-70a6282499e6</id>
-    <updated>2016-09-23T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/head-of-homeless-services-talks-brass-tacks-in-reddit-ama-forum/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;As director of the newly-minted Department of Homelessness and Supportive Housing, Jeff Kositsky arguably has the most challenging job in San Francisco. Though the Department for the most part remains in preliminary planning stages, Kositsky made a gesture of “radical transparency” yesterday by answering questions from anonymous users on Reddit, using the site’s popular &lt;a href=&quot;https://www.reddit.com/r/sanfrancisco/comments/541co2/hi_reddit_im_jeff_kositsky_and_im_the_director_of/?st=itg33n9v&amp;amp;sh=4ba60852&quot;&gt;“Ask Me Anything”&lt;/a&gt; forum style on the r/sanfrancisco page.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Kositsky’s optimism and ambition weathered hardballs from even the most cynical of critics. He cited San Francisco among the top three cities he thinks are addressing homelessness the best, alongside Houston and Salt Lake City. “There are not more homeless people/capita in SF than in other similar cities,” he wrote as a preemptive answer to questions he anticipated. “It is more visible here because most services are in the central part of the city.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Several answers underscored both an excessive stigma on mental illnesses, and a paucity of services tailored to addressing those needs. Reddit user Gorakos noted in their question: “It seems that that subpopulation only ever receives emergency care but has nowhere to go but back to the streets following an exit from the hospital/police station/shelter.” Kositsky replied that Direct Access to Housing programs (DAH) showed great promise for curbing the cycle of poverty among the mentally ill, pairing permanent housing with on-site services. “They look and feel no different than the market rate housing around them and are way cheaper than folks coming in and out of the public health system, jail, etc,” he added.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Kositsky also pointed to future plans of a navigation center for mental health issues, as well as leveraging new MediCal funds to increase mental health services. Kositsky’s predecessor Bevan Dufty had championed the opening of the first “navigation center” in the Mission District, which combines shelter beds with storage for possessions and services for both singles and families. Dufty abruptly quit his post earlier this year, later &lt;a href=&quot;http://sfbamo.com/news/mutual-respect-admiration-dominates-bart-director-race/&quot;&gt;citing&lt;/a&gt; disagreements on the clearing of homeless encampments near Super Bowl City.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The Director repeated in many answers that one of his top priorities was consolidating 13 databases into one data system for tracking the city’s homeless population and the services they needed. Kositsky told the Reddit user Acccounttt that he expected a timeline of 12 months to quantify the effectiveness of current homeless services. At this time, the city holds over 400 contracts with 76 different organizations to provide services for the homeless. Though he could not disclose the vendor for the department’s new data system, he promised a “real time dashboard on our website” upon its implementation.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Perhaps most strikingly, Kositsky urged respondents to move past the narrative of scapegoating the tech industry for the homelessness and poverty in the city. When one user asked him how tech companies could “improve their reputation,” he responded: “I do not believe any particular sector can be blamed for homelessness. The federal government stopped investing in affordable housing in any meaningful way in 1978. There are also some perverse incentives in the way our real estate market works.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Regarding the “perverse incentives,” Kositsky elaborated in another answer: “Homelessness is a failure of our real estate market to meet the needs of low-income individuals. Interesting that the biggest housing subsidy program is the mortgage interest tax deduction.” In other words, federal policy has been subsidizing middle class homeownership for decades, while leaving homeless services scrambling for grants and local sales tax initiatives.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Many major tech companies, he noted, and contributed much-needed funding, labor, and expertise to the new department. Aside from donating and volunteering, Kositsky added, “about 5 tech companies sent senior engineers to our offices to help us make the final decision on the SAS [Statistical Analysis System] product we are using for our new database. Poor vendor had the hardest interview ever.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Kositsky’s ambition is not only to efficiently track the city’s progress, but to take that progress as far as possible by &lt;em&gt;solving homelessness.&lt;/em&gt; In response to a question about “measurable effects,” Kositsky plainly stated: “[e]nd veterans homelessness by 2019, reduce street homelessness by 50% in 2019, end family homelessness by 2020.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The Reddit user raldi responded by setting a reminder for themselves to check back on December 31st, 2018: “How’d he do?” San Franciscans of all walks of life will be asking the same question in the coming years.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Photo by Hyunha Kim, Courtesy:&lt;/em&gt; &lt;a href=&quot;http://sfpublicpress.org/news/2016-06/how-media-coverage-on-homelessness-falls-short-and-what-reporters-can-do-about-it&quot;&gt;San Francisco Public Press&lt;/a&gt;&lt;/p&gt;
 
     
   
