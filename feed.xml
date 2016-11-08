@@ -2,13 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-07T00:00:00Z</updated>
+  <updated>2016-11-08T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/cartoon-not-for-sale/">
+    <title type="text">Cartoon: &quot;Not For Sale&quot;</title>
+    <id>urn:uuid:fa41cc91-7c25-3fc5-9a14-86cdb6bf8fe8</id>
+    <updated>2016-11-08T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/cartoon-not-for-sale/" />
+    <author>
+      <name>Krusty Wheatfield</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Copyright &lt;a href=&quot;http://www.krustywheatfield.com/&quot;&gt;Krusty Wheatfield&lt;/a&gt; 2016 ©&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
+  <entry xml:base="http://sfbamo.com/news/editorial-questioning-priorities-in-the-affordable-housing-community/">
+    <title type="text">Editorial: Questioning Priorities in the Affordable Housing Community</title>
+    <id>urn:uuid:a5e52183-da1f-314f-bdf5-9e448f876507</id>
+    <updated>2016-11-08T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/editorial-questioning-priorities-in-the-affordable-housing-community/" />
+    <author>
+      <name>Leigha Beckman</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;We recently &lt;a href=&quot;http://sfbamo.com/news/editorial-why-is-ccho-afraid-of-the-city-controllers-prop-c-study/&quot;&gt;responded to an open letter&lt;/a&gt; from the Council of Community Housing Organizations (CCHO), an affordable housing organization, to the City Controller on its &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/09/prop-c-affordable-housing-study-for-sf.html&quot;&gt;study of Proposition C&lt;/a&gt; and its 25% inclusionary requirement.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;One of  CCHO’s most surprising positions was that the very first goal of the city’s housing policy should be to “capture the windfall profits resulting from increased land values.” This means the actual creation of affordable housing comes somewhere after first in CCHO’s ranking of goals.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Perhaps this indicates that we can add “personal political agendas” to the list of priorities that rank above affordable housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;As part of its case for the 25% middle- and low-income housing requirement, CCHO cited two real-world projects that demonstrate the feasibility of the policy, one of which is an affordable housing proposal by a private developer at 915-917 Cayuga, SST Investments. The project is an unusually generous one: 103 units with 51 of them set to be rent-controlled, and 52 rented at below market-rate rents at varying low and moderate income levels. The developer has been working with the Mayor’s Office to ensure tenant protections under the city’s rent control laws, which currently extend only to properties built before 1979.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;At the same time, CCHO has &lt;a href=&quot;http://www.sfccho.org/some-sf-ballot-measures-trump-would-love/&quot;&gt;stated support&lt;/a&gt; for Proposition M, a ballot measure to create a new commission to oversee housing and economic development, in addition to replacing two existing commissions. One of the major concerns about Prop M from opponents is that it would obstruct or delay the building of housing, including affordable housing when it is rolled into market-rate as part of the city’s inclusionary program.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Now it turns out 915-917 Cayuga, CCHO’s 25% inclusionary champion, might be on &lt;a href=&quot;https://ballotpedia.org/San_Francisco,_California,_Housing_and_Development_Commission_Establishment_Amendment,_Proposition_M_(November_2016&quot;&gt;Prop M&lt;/a&gt;)’s chopping block (if it passes), by way of the district’s own supervisor.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Joe Fitz Rodriguez of the &lt;em&gt;SF Examiner&lt;/em&gt; &lt;a href=&quot;http://www.sfexaminer.com/related-entities/?eid=3083244971&amp;amp;ename=Aaron%20Peskin&amp;amp;lang=en&quot;&gt;writes&lt;/a&gt;, “The newest barrier for the plan for 915-917 Cayuga Ave., the site of the affordable housing, may be Supervisor Aaron Peskin’s Proposition M, which is now on the ballot.” According to Fitz, insiders familiar with the deal believe the project will face scrutiny from Prop M due to possible ethics violations committed by Ahsha Safai, the District 11 Supervisor candidate who played a role in the deal.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The complaint against Safaí, filed by Supervisor John Avalos, is that Safai failed to register as a lobbyist when pitching the affordable housing idea to his friend, project developer Siavash Tahbahzof. According to the complaint, Safai’s consulting firm, Kitchen Cabinet Public Affairs, has between $10,000 and $100,000 in business activity with SST Investments, a fact he should have disclosed to the city before negotiating the deal.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Avalos &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Developer-wants-to-create-rent-controlled-housing-10152241.php&quot;&gt;was skeptical&lt;/a&gt; of the deal from the beginning, calling the near-election timing “dubious.” He accused Safai of using insider deal to get “maximum benefit” during election season. Avalos is supporting Safai’s opponent, Kimberly Alvarenga, and defeated Safai in his first run for D11 Supervisor in 2008.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;To reiterate, CCHO supports the creation of Proposition M, a commission to oversee proposed housing developments, which in theory should line up with its push for more affordable housing. Now, one of only two affordable housing projects CCHO is holding up as an example of 25% inclusionary feasibility &lt;em&gt;is expected to be held up, if not blocked entirely&lt;/em&gt;, by Prop M&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;There are two takeaways from this: 1) At least one of the two projects CCHO cites as a “real-world” project that can pencil out 25% affordable units is probably not going to end up going through in the real world, and 2) The reason it won’t go through is because a politician has an axe to grind, and would rather see his opponent’s project go down than get affordable housing built in his own district.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Affordable housing should not be a political tool, and holding projects hostage in petty political battles doesn’t help people who need affordable housing.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/at-regional-record-fair-tapes-steal-the-show/">
     <title type="text">At Regional Record Fair, Tapes Steal the Show</title>
     <id>urn:uuid:87cd757e-b18e-330a-9fc0-8f004537295a</id>
@@ -4821,134 +4922,6 @@ Rather than approaching Skinner under the disingenuous guise of “objective” 
   
     
 				&lt;p&gt;While calls for Prop 13 reform have increased as of late, Governor Jerry Brown &lt;a href=&quot;http://www.sfgate.com/news/amp/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;recently stated&lt;/a&gt; he is not interested in fighting that battle. Brown, who vehemently opposed the bill when it was proposed in 1978, rejects proposals for a “split roll,” which would allow commercial properties to be assessed more frequently than they are currently, arguing that its implications are more complicated than proponents acknowledge.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/san-mateo-to-consider-74-homes-near-hillsdale-caltrain/">
-    <title type="text">San Mateo to Consider 74 Homes Near Hillsdale Caltrain</title>
-    <id>urn:uuid:11e31337-197f-391d-8e22-6ddef73e6b28</id>
-    <updated>2016-09-27T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/san-mateo-to-consider-74-homes-near-hillsdale-caltrain/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;At 7:30 PM tonight, the San Mateo Planning Commission will be reviewing permit applications for Hillsdale Terrace, a mixed-use development of 74 condos and 14,000 square feet of ground-floor retail within walking distance of the Hillsdale Caltrain station.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Owner LFG Properties are seeking to replace the underutilized site, formerly home of Taxi’s Hamburgers, with a five-story building that would implement the state density bonus law to include more affordable housing. LFG could legally receive by-right approval if they applied for a 35% density bonus, with 6 out of 67 dwelling units reserved for low-income households. But the property owner is seeking to build higher, proposing 74 units with 8 reserved for renters making &lt;em&gt;very&lt;/em&gt; low incomes—effectively a 51% density bonus.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The city's &lt;a href=&quot;https://cosm.legistar.com/LegislationDetail.aspx?ID=2842806&amp;amp;GUID=AC22E852-5976-49B7-AF09-6E4463B53198&quot;&gt;staff report&lt;/a&gt; recommending approval describes the proposed condo project as a “gateway” leading from El Camino Real to the quieter residential neighborhoods along 28th Avenue. The report also notes that developers will be contributing funds for landscaping the El Camino Real median between 27th and 28th Avenues, as well as improving crosswalks.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While some neighbors have &lt;a href=&quot;http://www.smdailyjournal.com/articles/lnews/2016-09-27/planning-commission-gets-hillsdale-terrace-projecthigh-density-housing-sought-for-taxis-site/1776425168922.html&quot;&gt;complained&lt;/a&gt; of traffic congestion and excessive height, the transportation advocacy group Friends Of Caltrain are strongly &lt;a href=&quot;http://www.greencaltrain.com/2016/09/san-mateo-planning-reviews-mixed-use-housing-across-from-hillsdale-caltrain/&quot;&gt;in support&lt;/a&gt; of the project. Adina Levin, Project Director of Friends Of Caltrain, shared the following statement via email: “This building is in a superb, transit-rich location, supporting the city's longstanding plans for the rail corridor and El Camino Real. We encourage and hope the city will move ahead with the well-established, effective strategies that provide much-needed housing and affordable housing, and take advantage of the great location.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Under the current proposal, the new building would provide 171 parking spaces, eight more than required by the city.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/white-house-urges-zoning-reform-for-housing-affordability/">
-    <title type="text">White House Urges Zoning Reform for Housing Affordability</title>
-    <id>urn:uuid:c0adbd7a-63e9-3479-b5a5-c430822b49e5</id>
-    <updated>2016-09-26T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/white-house-urges-zoning-reform-for-housing-affordability/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;&quot;We can work together to break down rules that stand in the way of building new housing and
-that keep families from moving to growing, dynamic cities.” A quote from &lt;a href=&quot;http://www.spur.org/&quot;&gt;SPUR&lt;/a&gt;? A real estate lobbyist? Your libertarian cousin? Guess again: that was President Barack Obama.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The White House released a “Housing Development Toolkit” &lt;a href=&quot;https://www.whitehouse.gov/sites/whitehouse.gov/files/images/Housing_Development_Toolkit%20f.2.pdf&quot;&gt;paper&lt;/a&gt; today urging cities to reduce zoning regulations and increase their housing stock to ease increasing trends of economic segregation.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The diagnosis is stated plainly: “In just the last 10 years, the number of very low-income renters paying more than half their income for rent has increased by almost 2.5 million households, to 7.7 million nationwide, in part because barriers to housing development are limiting housing supply.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Correlated with a drastic increase in local zoning and permitting regulations in American municipalities from 1970 to 1990, the paper notes a commensurate divergence in home prices and construction costs. While the cost of construction has remained relatively stable in the same time period, home prices skyrocketed. The paper suggests this growing gap is due to “land use restrictions that make developable land much more costly than it is inherently…and unnecessarily slow permitting processes.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/white-house-urges-zoning-reform-for-housing-affordability/potus1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The paper’s “toolkit” includes a number of wide-ranging policy recommendations, including by-right development, which failed to gain support in the California legislature earlier this summer. Other efforts to improve housing production, including the  elimination of minimum parking requirements, have recently been enacted in &lt;a href=&quot;http://sfbamo.com/news/oakland-modernizes-parking-regulations/&quot;&gt;Oakland&lt;/a&gt; and &lt;a href=&quot;http://www.eastbayexpress.com/SevenDays/archives/2015/10/05/berkeley-councilmember-lori-droste-proposes-reforms-to-prioritize-affordable-housing-over-parking&quot;&gt;Berkeley&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The White House did acknowledge that there was a complex history to localized Not In My Back Yard attitudes, often motivated by concerns over human welfare. “Not all barriers to housing development have negative impacts,” the report notes, citing efforts that “can increase the supply of well-located affordable housing, address externalities such as environmental impacts associated with development, create better connections between housing options accessible to transit, and support the fiscal health of states and localities. But the accumulation of even well-intentioned land-use policies can restrict housing availability; create uncertainty for developers and limit private investment; exacerbate the imbalance between jobs and housing; and induce urban sprawl.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Last week, Governor Jerry Brown alluded to these very restrictions at a &lt;a href=&quot;http://www.sfgate.com/news/article/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;meeting&lt;/a&gt; of the Urban Land Institute in SF’s Moscone Center. The veteran politician extolled the virtues of judiciously picking one’s battles, and for him, addressing the shortcomings of the California Environmental Quality Act was not a top choice. “Reform of CEQA is the Lord’s work,” Brown said, “but unfortunately the Lord’s work doesn’t always get done.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A recent &lt;a href=&quot;http://sfbamo.com/news/study-finds-rampant-ceqa-abuse-in-southern-california/&quot;&gt;study&lt;/a&gt; found that 99% of CEQA litigation in Southern California targeted infill development of multifamily residences, rather than greenfield development in rural areas commonly associated with urban sprawl. As for maintaining a balance of market-rate and permanently affordable housing, a &lt;a href=&quot;http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/&quot;&gt;study by this paper&lt;/a&gt; confirmed San Francisco Controller Ben Rosenfield’s warnings that too high of a requirement could hinder the net production of housing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Although growth is certainly happening in high-demand cities, the White House makes the case that this growth is not being distributed equitably, and can harm lower-income communities of color the most. “When new housing development is limited region-wide, and particularly precluded in neighborhoods with political capital to implement even stricter local barriers, any new development tends to be disproportionally concentrated in low-income communities of color, causing displacement and concerns of gentrification in those neighborhoods, raising market rents within neighborhoods experiencing rapid changes while failing to reduce housing cost growth region-wide.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Longer commutes from exurbs to job centers are only the beginning of an ongoing cascade of inequities that arise when growth is concentrated in areas such as The Mission or South Berkeley, for example, while affluent neighborhoods such as North Berkeley or Telegraph Hill remain virtually untouched.&lt;/p&gt;
 
     
   
