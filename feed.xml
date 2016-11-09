@@ -2,13 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-08T00:00:00Z</updated>
+  <updated>2016-11-09T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/letter-from-the-editor-who-is-we/">
+    <title type="text">Letter from the Editor: Who Is &quot;We&quot;?</title>
+    <id>urn:uuid:966a6470-b922-3961-8cd9-5e99b48bc8b7</id>
+    <updated>2016-11-09T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/letter-from-the-editor-who-is-we/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;This is a failed experiment.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;White people are the quintessential carpetbaggers. Insofar as “white” has coalesced as an abstraction to include once-disparate cultural groups united by colorist prejudices, today it seems merely a distinction of who emigrated to the Americas with some degree of autonomy (Bering Strait notwithstanding, of course). Abstractions may not be tangible, but they can kill.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;We—and my hand trembles as I type “we,” since my status among you has always been ambiguous—we fled Europe for a better life here, bringing smallpox, swine, and iron-fisted ideals. Sometimes we fled war, only to settle on land other Europeans had conquered long ago. My great-grandfather fled Spain during the Civil War and came to Puerto Rico, opting to grow crops on barren soil in Puerto Rico, centuries after the last Taino stood there.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;When he was almost exactly my age, my father fled his hometown of Mexico City after surviving the 1968 &lt;a href=&quot;https://en.wikipedia.org/wiki/Tlatelolco_massacre&quot;&gt;Tlatelolco Massacre&lt;/a&gt;. As we spoke on the phone this morning, both on the verge of tears, he told me he feels quite old, and frankly, he doesn’t know if he’ll live to see the silver lining. “I understand if you want to run away,” he said. “I know the feeling.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Today I live in fear that my relatives will be murdered by a white supremacist militia, or that they will starve, or—anything. Which “we” does this put me in now?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Latinx community, as long as it has existed, is defined by feeling like refugees in any country with a spare bed for us. Hijos de la chingada: children of the rape. Bastards, anomalies. Last night, many of those with the privilege of a discrete identity reinforced the popular notion that we do not matter. Entire generations have lived and died wondering if they will ever matter.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Abstractions can kill, but only tangible action can save lives. In San Francisco, the campaign for the &lt;a href=&quot;http://www.sfgate.com/bayarea/article/Moratorium-on-new-Mission-District-housing-is-6609187.php&quot;&gt;Mission Moratorium&lt;/a&gt; wasn’t about distorting market forces. For many residents, it was simply a desperate attempt to stop Colonialism in its tracks. Desperate, yes, but not stupid. We (again, we?—not I) know how this goes. We know this chimeric, ancient evil will take on any form it needs to, particularly a benevolent one. Especially greatness, past or future.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Those of us with the privilege to dwell in abstractions—and clearly, I am one of them sometimes—scoffed at this paranoia. It seemed absurd, unrealistic, that shiny new condos would bring about some insidious cultural genocide.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;How many of us opposing Proposition I offered our free time to help undocumented migrants living in fear of deportation? Did we do our part to stand up to daily horrors with daily acts of solidarity? I fear not.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Many also laughed when this all started. We told you this wasn’t funny: here I count myself among this “we.” We never found this funny. We knew, despite all the snickering at the primaries, the certainty that scandal after scandal would rescue this Republic, we knew we’d seen this before. We’ve seen it before because today’s nightmare is the nightmare the United States has inflicted on so many countries around the world, including in Latin America.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;So where do I belong? For a few years, I thought it was the Bay Area. I’ve dedicated my relatively young career to advocating for a more inclusive, open region, documenting the many harms wrought by localized immigration controls (hello, Palo Alto). Along the way, I occasionally confronted older residents who wondered why I had to come here at all. Why did I have to add to the growth this region struggles with so strenuously?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I’ll tell you. With federal and private grants, I was able to attend Stanford University at virtually no cost to my family. My parents, both professors on the east coast, could not afford to send me anywhere out of state (and hardly anywhere in our home state) without this financial aid.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;My education, and yes, much of the gratuitous privilege that bolsters my life, is premised on a country that values economic mobility. Do we really value this? Shall we accept that for many others, the grass &lt;em&gt;is&lt;/em&gt; indeed greener on our side?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I have no idea what to do. To be perfectly honest, I plan on visiting family in Vancouver in the coming weeks, and maybe I’ll ask them if they know anyone with a job opening. The terrible choice such privilege presents us is whether or not to take advantage of it for survival, or squander it to remain in solidarity with those less fortunate.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Last night, I could hear neighbors around me screaming. I couldn’t sleep. Neither could you.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;We must listen to our neighbors. We must listen closely, and be there for them—lest something louder comes to drown out their anguished cries.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Cover image: &quot;The Disembarkation of Christopher Colombus on the Island of Guanahani in 1492&quot; by Jose Garnelo y Alda&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/cartoon-not-for-sale/">
     <title type="text">Cartoon: &quot;Not For Sale&quot;</title>
     <id>urn:uuid:fa41cc91-7c25-3fc5-9a14-86cdb6bf8fe8</id>
@@ -4859,69 +4962,6 @@ Rather than approaching Skinner under the disingenuous guise of “objective” 
   
     
 				&lt;p&gt;After the cheer, the crowd coalesced on city hall’s granite steps for a group photo (into which this author was drafted) before quickly dispersing into the sunny afternoon. Some walked to their offices; others boarded buses; many others less fortunate, in all likelihood, had nowhere to go.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/four-decades-later-lao-analyzes-impacts-of-prop-13/">
-    <title type="text">Four Decades Later, LAO Analyzes Impacts of Prop 13</title>
-    <id>urn:uuid:fb75a44d-f9eb-3f65-8f7a-6363d1a971a8</id>
-    <updated>2016-09-27T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/four-decades-later-lao-analyzes-impacts-of-prop-13/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last week, the Legislative Analyst’s Office (LAO) issued &lt;a href=&quot;http://lao.ca.gov/Publications/Report/3497&quot;&gt;a report&lt;/a&gt; on California’s Proposition 13, a 1979 ballot measure limiting property taxes. The independent agency studied its effects on homeownership, tax revenue, and local government land use decisions nearly four decades after its passage.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Prop 13’s stated purpose was to bring property tax relief for homeowners. According to the LAO study, Prop 13 did have this effect for &lt;em&gt;some&lt;/em&gt; homeowners, while increasing costs for other households. High-income homeowners earn the highest amount of tax relief, as high earners tend to own larger and more expensive homes, and essentially have more market value on which to accrue savings. However, the report does find that due to Prop 13, households in the same city or even same neighborhood face vastly different tax burdens, even on homes that have the same market value, and often even across similar age and income groups.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Prop 13 almost immediately depleted tax revenues, causing local governments to seek other funding sources to make up for the shortfall, namely sales, hotel, and utility taxes. It does not appear to have deterred the creation of new businesses, even though new businesses face a higher tax burden than their incumbent competitors. Moreover, reassessments (which reset the tax rate) are performed at the same rate for residential and commercial properties.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;With respect to local land use decisions, the LAO report finds that Prop 13 may have slowed the formation of new local governments, which now serve more residents than prior to the passage of Prop 13. The study also looks at the impact of Prop 13 on zoning decisions made by local governments, sampling 73 cities of similar size and populations with different tax revenue makeup (i.e. property tax versus sales tax) to evaluate any differences. It found that cities with higher property taxes did not tend to rezone for more housing, nor did cities with lower property taxes tend to rezone for less housing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When developers seek to build new properties, the costs associated with that new development must be offset in other ways by local governments who can no longer solely rely on property taxes. Impact fees are one way to do this, and pose minimal political challenges as they do not require voter approval. However, impact fees raise the cost of construction, which in turn increase home and rental prices.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;California is not alone in imposing these fees; nearly half of states have them. However, according to this study, California’s fees were almost three times as high as the average across all the states in the survey. The report makes only brief mention of renters, positing that “landlords facing slower increases in their property tax bills may be less inclined to increase rents.” Due to the uncertainty of this effect, however, the LAO was unable to quantify those benefits.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The final question posed by the study, and implicitly baked into the measure’s aim itself: Does Prop 13 increase homeownership?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The LAO finds the Prop 13 reduced homeownership costs for some households, namely retirees on fixed incomes in certain parts of the state. But in coastal California, it has not. Since Prop 13 required local governments to raise fees on home builders, costs for new young buyers have gone up, leading to a significant reduction in their homeownership rates. Prior to Prop 13, households ages 35 to 45 made up nearly two-thirds of all homebuyers. Now they make up less than half. Meanwhile, the share of Californians who are homeowners at all has remained largely unchanged, suggesting that households aged 45 and older have made up for the losses of younger aspiring homeowners.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While calls for Prop 13 reform have increased as of late, Governor Jerry Brown &lt;a href=&quot;http://www.sfgate.com/news/amp/In-S-F-talk-Brown-says-he-won-t-refight-Prop-6555024.php&quot;&gt;recently stated&lt;/a&gt; he is not interested in fighting that battle. Brown, who vehemently opposed the bill when it was proposed in 1978, rejects proposals for a “split roll,” which would allow commercial properties to be assessed more frequently than they are currently, arguing that its implications are more complicated than proponents acknowledge.&lt;/p&gt;
 
     
   
