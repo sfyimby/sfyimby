@@ -2,13 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-10T00:00:00Z</updated>
+  <updated>2016-11-11T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/op-ed-what-this-election-really-means/">
+    <title type="text">Op-Ed: What This Election Really Means</title>
+    <id>urn:uuid:47736e59-d423-3131-a8d0-20c10f7f3e53</id>
+    <updated>2016-11-11T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/op-ed-what-this-election-really-means/" />
+    <author>
+      <name>Mike Ege</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;In 2017, Donald Trump will be our next president. That means that anything is possible politically, for better or worse.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Trump won in part due to the increasing numbers of people who feel marginalized, &lt;a href=&quot;https://www.washingtonpost.com/news/global-opinions/wp/2016/11/10/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump/?wpisrc=nl_most-draw7&amp;amp;wpmm=1&quot;&gt;regardless of background&lt;/a&gt;. The national election was more than anything about &lt;a href=&quot;https://www.thenation.com/article/inequality-gave-rise-to-donald-trumps-presidency/&quot;&gt;inequality&lt;/a&gt;, and the &lt;a href=&quot;http://inthesetimes.com/article/19618/listen-leftist-thomas-frank-donald-trump-hillary-clinton-bernie-sanders&quot;&gt;failure of political Progressives&lt;/a&gt; to respond to the marginalized in a meaningful way.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Whether you rent or own, &lt;a href=&quot;https://www.bloomberg.com/news/articles/2014-07-17/housings-30-percent-of-income-rule-is-near-useless&quot;&gt;paying for housing&lt;/a&gt; makes up the biggest chunk of working families’ budgets, and the rising cost of housing, along with stagnant wages, has been a primary engine of inequality in the United States. The result is that a whole range of working people, from food service workers to middle managers, now live in a state of &lt;a href=&quot;https://thedisorderofthings.com/2013/10/12/struggling-with-precarity-from-more-and-better-jobs-to-less-and-lesser-work/&quot;&gt;economic precarity&lt;/a&gt;. This includes many sectors that political Progressives simply &lt;a href=&quot;http://www.lrb.co.uk/v16/n07/edward-luttwak/why-fascism-is-the-wave-of-the-future&quot;&gt;don’t care about&lt;/a&gt;, because of the perception that they don’t vote for them.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Housing also figures into the rise of Donald Trump as a public figure. Trump first made a name for himself by taking advantage of New York City’s bankruptcy in 1975 to access redevelopment financing, using &lt;a href=&quot;http://www.motherjones.com/politics/2016/07/trump-files-how-donald-tricked-new-york-huge-deal&quot;&gt;the Grand Hyatt hotel project&lt;/a&gt; to elevate his business away from a portfolio of middle-class rental housing to one of luxury properties. In doing so, he contributed to the &lt;a href=&quot;http://www.businessinsider.com/high-income-renters-2016-11&quot;&gt;rising inequality in our cities&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;If we are to take Trump’s platform at face value, housing will continue to be an issue. While much of his rhetoric was likely &lt;a href=&quot;https://www.washingtonpost.com/politics/many-of-trumps-sweeping-promises-will-be-hard-if-not-impossible-to-fulfill/2016/11/09/b07867be-a6a9-11e6-ba59-a7d93165c6d4_story.html?wpisrc=nl_most-draw7&amp;amp;wpmm=1&quot;&gt;meant to be an analogy&lt;/a&gt; for an agenda which is at the same time more realistic and unfortunately only slightly less repugnant, that agenda will still exacerbate inequality in America, and housing will play a major role. The downsizing of government payrolls, increases in &lt;a href=&quot;https://newrepublic.com/article/138674/beware-donald-trumps-infrastructure-plan&quot;&gt;infrastructure spending&lt;/a&gt;, and the expansion of &lt;a href=&quot;https://www.rawstory.com/2016/11/donald-trump-will-be-the-fossil-fuel-industrys-greatest-gift/&quot;&gt;extractive industries&lt;/a&gt; will create another wave of worker migration, putting &lt;a href=&quot;https://www.bloomberg.com/news/articles/2015-09-29/man-camp-exodus-spurs-real-estate-crisis-across-u-s-shale-towns&quot;&gt;further stress&lt;/a&gt; on regional housing supplies.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Now more than ever, there is a real need to pivot the policy narrative on housing toward its consideration as human infrastructure, and not as an investment commodity. Here in the Bay Area, while the rhetoric will be different, the political obstacles will be the same.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Our region’s “Progressive” and “Neighborhood” movements may pay lip service to a social narrative which is very different from the Trump agenda, but in reality their agenda is equally reactionary.  The primary goals of these local anti-housing movements are to preserve existing wealth and power. This includes the continued assertion of intangible rights (such as to views) in association with property ownership, the &lt;a href=&quot;http://www.theatlantic.com/politics/archive/2015/12/san-francisco-is-confused-about-the-villain-thats-making-it-unaffordable/422091/&quot;&gt;unequal tax benefits&lt;/a&gt; granted by &lt;a href=&quot;https://www.thenation.com/article/have-california-voters-finally-had-enough-of-prop-13/&quot;&gt;Proposition 13&lt;/a&gt;, and opposition to &lt;a href=&quot;http://sf.streetsblog.org/2016/06/14/mission-transit-lane-removal-nudged-closer-to-reality/&quot;&gt;better transit&lt;/a&gt; and &lt;a href=&quot;https://www.bloomberg.com/view/articles/2016-08-02/san-francisco-progressives-declare-war-on-affordable-housing&quot;&gt;denser housing&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In contrast to the sad news on the national front, the YIMBY movement has scored significant political victories in the Bay Area. San Francisco’s pro-urbanist Supervisor &lt;a href=&quot;http://www.nbcbayarea.com/news/local/Scott-Wiener-Captures-State-Senate-Seat-400551351.html&quot;&gt;Scott Wiener&lt;/a&gt; was elected to the State Senate and will continue the fight for &lt;a href=&quot;http://www.mercurynews.com/2016/09/21/commentary-jerry-browns-by-right-housing-plan-needs-another-try/&quot;&gt;By-Right Development&lt;/a&gt; in Sacramento. A &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/news/2016/11/09/sf-board-of-supervisors-housing-policy.html&quot;&gt;pro-housing majority&lt;/a&gt; will likely be restored to the San Francisco Board of Supervisors, and ballot initiatives which would’ve been most harmful to the continued development of affordable housing were &lt;a href=&quot;https://www.hoodline.com/2016/11/san-francisco-ballot-results-2016-proposition-q-u-v-homeless-soda-tax&quot;&gt;defeated&lt;/a&gt;. In addition, more pro-housing members were elected to the&lt;a href=&quot;http://www.mercurynews.com/2016/11/03/palo-alto-city-council-race/&quot;&gt; Palo Alto City Council&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Some may attempt to portray these victories as part of a “Trump Wave.” It will be incumbent upon us to point out who the real Trumpists are.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/bay-area-protests-surge-in-response-to-national-election/">
     <title type="text">Bay Area Protests Surge in Response to National Election</title>
     <id>urn:uuid:457eab73-210c-358e-8237-6ca378922a2d</id>
@@ -4754,39 +4817,6 @@ Rather than approaching Skinner under the disingenuous guise of “objective” 
   
     
 				&lt;p&gt;Brisbane will be holding a series of hearings on the site’s Environmental Impact Report, and will not hold a decisive vote until May 2017.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/governor-signs-bill-for-teacher-housing/">
-    <title type="text">Governor Signs Bill for Teacher Housing</title>
-    <id>urn:uuid:e21007ae-3923-34ee-8aec-a5f3d8c9e66b</id>
-    <updated>2016-09-29T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/governor-signs-bill-for-teacher-housing/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Governor Jerry Brown signed more than 50 bills on Tuesday, including one allowing school districts to build affordable housing for school districts. &lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB1413&quot;&gt;SB1413&lt;/a&gt;, introduced by Senator Mark Leno (D-San Francisco), intends to stem the displacement of teachers and other school employees due to soaring housing costs. Previous efforts to harness the existing pipeline of housing production to help teachers, namely those &lt;a href=&quot;http://sfist.com/2016/02/02/campos_introduces_legislation_to_pr.php&quot;&gt;spearheaded&lt;/a&gt; by Supervisor David Campos, were &lt;a href=&quot;http://www.sfchronicle.com/opinion/editorials/article/Housing-protection-for-teachers-is-ill-advised-6802223.php&quot;&gt;admonished&lt;/a&gt; for incurring risks of violating federal law and disincentivizing landlords from renting to teachers.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The region’s educators mostly find themselves too highly paid to qualify for subsidized housing, but not wealthy enough to afford market-rate housing under current scarcity conditions. Leno’s bill would enable school districts to lease land for affordable housing construction, and allow housing projects for teachers to qualify for federal funding.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“When high quality teachers can’t afford to live where they work, the entire community suffers,” Senator Leno said via email. “Governor Brown’s approval of SB 1413 will help school districts directly address the housing affordability challenges facing teachers and reduce high turnover rates.”&lt;/p&gt;
 
     
   
