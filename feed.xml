@@ -2,13 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-11T00:00:00Z</updated>
+  <updated>2016-11-14T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/">
+    <title type="text">Study on “Tech Shuttles” Confirms, More Is Safer (and Greener)</title>
+    <id>urn:uuid:ea62d7ae-59e4-3577-8599-331662e7933f</id>
+    <updated>2016-11-14T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Whenever a public agency evaluates the efficacy of a private enterprise, tensions inevitably arise. This dynamic remains true today now that San Francisco’s Municipal Transportation Agency (SFMTA) has released its &lt;a href=&quot;https://www.sfmta.com/sites/default/files/agendaitems/2016/11-15-16%20Item%2011%20Commuter%20Shuttle%20Program%20Mid%20Term%20Status%20Report.PDF&quot;&gt;study on commuter shuttles&lt;/a&gt;, and in a separate report, found major faults with recent proposals to consolidate shuttle stops into a handful of “hubs.” Supporters of widespread commuter shuttle programs were not surprised by the results.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;SFMTA &lt;a href=&quot;https://www.sfmta.com/sites/default/files/projects/2016/Commuter_Shuttle_Hub_Report_Final.pdf&quot;&gt;evaluated&lt;/a&gt; four potential scenarios for redistributing commuter shuttles throughout the city, finding that each option would result in more commutes taken via personal vehicles. Despite decreasing the number of loading zones in the city by almost half, SFMTA’s initial status report found that their Commuter Shuttle pilot program had nevertheless reduced anticipated carbon emissions and increased ridership by 1,000 daily commuters.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;For some political stakeholders, &lt;a href=&quot;http://www.sfexaminer.com/city-makes-last-call-tech-shuttle-transit-hubs/&quot;&gt;that isn’t enough&lt;/a&gt;. Though hubs remain a popular option, SFMTA withholds any optimism from such proposals. In their concluding remarks, SFMTA states, “nearly all, or approximately 90%, of those riders who shift modes are expected to switch to driving. This forecast holds true under all scenarios.” The first option studied, a “Single Hub” plan with bus stops clustered around the developing Transbay Terminal, would result in an estimated eightfold increase of Vehicle Miles Traveled (VMT). The remaining three options were all estimated to encourage a fivefold VMT increase. All scenarios would also be expected to increase traffic collisions.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/shuttlehub2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;source: SFMTA&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;In other words, workers commuting from San Francisco to jobs on the Peninsula are generally expected to commute via automobile and contribute to increased traffic congestion if deprived of their current shuttle options. Only 10% of those surveyed said they would opt to take some form of public transit, such as Caltrain.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/shuttlehub1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;source: SFMTA&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Other scenarios still involved a significant decrease in the number of permitted shuttle stops: a BART-Oriented Scenario would have five bus hubs located around highly frequented BART stations in the city, namely Embarcadero, Civic Center, 16th &amp;amp; Mission, 24th &amp;amp; Mission, and Balboa Park. A Freeway-Adjacent Scenario would have nine hubs within a quarter-mile of freeway on-ramps, with all but two clustered around the eastern portion of the city. Finally, a Consolidated Network Scenario would preserve the current clustering of shuttle zones while aiming to reduce the total amount by at least half.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Erin McElroy, founder of the &lt;a href=&quot;http://www.antievictionmap.com/&quot;&gt;Anti-Eviction Mapping Project&lt;/a&gt;, expressed adamant opposition to the shuttle program. She claims her organization’s data shows a strong correlation between shuttle stops, evictions, and rent increases. “It seems as if the city is subsidizing the lives of people who ride the luxury commuter shuttles at the expense of those who don’t,” she stated &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Cutting-tech-shuttle-stops-will-add-cars-in-SF-10610440.php?t=66bdcd6df6&amp;amp;cmpid=twitter-premium&quot;&gt;in an interview&lt;/a&gt; with the &lt;em&gt;Chronicle&lt;/em&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Currently, there are 16 commuter shuttle services operating with permits from SFMTA. SFMTA’s current Commuter Shuttle Program has 110 shuttle stops in operation, with the total allowable number capped at 125 (down from over 200 before the program was implemented). Companies operating these shuttles are required to pay a “stop event” fee of $7.31 for every individual stop in a shuttle zone.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;McElroy moved to San Francisco to attend the Center for Integral Studies after receiving a BA in Cultural Studies from Hampshire College and a BA in Studio Art from NYU. In a phone interview, she criticized SFMTA’s analysis for omitting data regarding displacement. “When these stops raise property values,” she argues, the poorer residents displaced by rising rents “are moving to the suburbs, and they’re often driving back into the city for school or work. So you’re still going to see more car use.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;When asked what sort of analysis she would prefer to see, McElroy noted that “anyone in Urban Planning 101 can tell you, housing and transportation are very much connected. It’s unethical, I think, for the city to leave housing out of the equation.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;As for Caltrain—for many, the only available transit mode connecting the city to the Peninsula—the diesel-powered train that runs once an hour is slated to upgrade its rails to an electrified system after &lt;a href=&quot;http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/&quot;&gt;prevailing in a lawsuit&lt;/a&gt; that sought to stall High-Speed Rail development.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Adrian Covert, Vice President of Policy at the Bay Area Council, remains hopeful that the report will lead to improved transportation policy in San Francisco.  In his view, a calculated dispersal of shuttle stops throughout the city is critical for improving traffic safety, particularly to avoid bus travel on non-arterial or primarily residential streets. “The numbers speak for themselves,” he said in a phone interview.  “Any time you increase VMT, you minimize the benefits and maximize the impact on neighborhoods.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/analyzing-the-palo-alto-city-council-election/">
     <title type="text">Analyzing the Palo Alto City Council Election</title>
     <id>urn:uuid:4b1ce693-76d6-386c-a434-4aa3cbfd5165</id>
@@ -4724,79 +4835,6 @@ Rather than approaching Skinner under the disingenuous guise of “objective” 
   
     
 				&lt;p&gt;Besides easing traffic congestion, there are numerous environmental benefits cited for the project. According to &lt;a href=&quot;http://www.caltrain.com/about/MediaRelations/news/Caltrain_s_Board_Approves_Electrification_Design-Build_and_EMU_Contracts.html&quot;&gt;Caltrain’s website&lt;/a&gt;, an electrified system will improve regional air quality by up to 97% and reduce greenhouse gas emission by 176,000 metric tons of CO2, taking more than 619,000 daily vehicle miles off the region’s roadways by 2040.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-media-coverage/">
-    <title type="text">Dispatches from the Vote16 Campaign: Media Coverage</title>
-    <id>urn:uuid:2eb1ed96-2bdf-3330-b3e2-459bd0b86630</id>
-    <updated>2016-09-30T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/dispatches-from-the-vote16-campaign-media-coverage/" />
-    <author>
-      <name>Cami Doo</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Yes on F’s media coverage right now consists of this column and the SF Chronicle’s &lt;a href=&quot;http://www.sfchronicle.com/opinion/editorials/article/Voting-should-remain-a-privilege-for-adult-9206099.php&quot;&gt;editorial&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;After reaching out to major and local newspaper outlets, Yes on F’s media team received no response from most. KQED’s Matthew Green emailed Celi Tamayo-Lee, Generation Citizen’s Youth Empowerment Academy coordinator, requesting to make a Yes on F film and to interview two students. Green manages the &lt;a href=&quot;https://ww2.kqed.org/lowdown/&quot;&gt;Lowdown&lt;/a&gt;, a news education site that covers politics aimed at students.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Green and Dayton planned to film our Sept. 8 meeting and Sept. 18 canvassing event. Fallout Pictures’ Todd Dayton served as the videographer, and the video is scheduled to come out mid-October.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Oliver York, a 17-year-old Lick-Wilmerding senior who has helped in organizing the campaign, was chosen to do an interview. On the basis of being an aspiring journalist, I was asked to fulfill the second interview.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;York and I were interviewed in the hallway of the WeWork building, where Generation Citizen has a conference room for Yes on F.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The interview started with typical questions, such as “Tell me about yourself” and “Why are you part of this campaign?”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;More specific questions followed, including “What would you vote for if you could vote,” and, “If Prop F passes, do you think a lot of 16 and 17 year olds will be going to the polls or will it take a long time?”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In response to the second question, I replied that it depends. The change proposed by Prop F will be rolled out November 2018, but the Board of Education still has to reform curriculae to prepare high school voters.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The goal is not just to get 16 and 17 year olds to the polls and to give an opportunity to youth who are passionate about actively engaging in their community; it’s also about increasing voter turnout. Of course, I think that 16 and 17 year olds, whether or not they support Prop F, will be eager to voice their opinions through casting ballots.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;After the meeting, Green and Dayton filmed us canvassing in the Sunset District. Unfortunately, most voters were too distracted by cameras pointed at their houses. After the cameras left, I got my first “yes.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;But what’s important isn’t my experience with interviews and cameras; it’s that Yes on F deserves more media attention. There are so many unique aspects of this campaign: it is a youth-led, proactive step to promote more civic engagement in San Francisco.&lt;/p&gt;
 
     
   
