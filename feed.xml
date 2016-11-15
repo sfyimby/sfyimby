@@ -2,13 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-14T00:00:00Z</updated>
+  <updated>2016-11-15T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/activists-and-developers-negotiate-in-oakland-chinatown/">
+    <title type="text">Activists and Developers Negotiate in Oakland Chinatown</title>
+    <id>urn:uuid:7f396066-d5b8-3bea-8b35-1143728a6979</id>
+    <updated>2016-11-15T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/activists-and-developers-negotiate-in-oakland-chinatown/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Oakland’s City Council reviewed an appeal during a special meeting last night contesting the approval of 226 13th Street, a six-story mixed-use project with 262 residential units proposed by local developer Wood Partners. Though no legal basis was cited, a coalition of Chinatown neighborhood groups organized to oppose the project in order to “extract concessions” from the developer in the form of a “community benefits package.” Organized opposition was spearheaded by Lailan Huen, daughter of former Oakland Mayor Jean Quan.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Among a litany of community benefits acquired, Councilmember Abel Guillen cites retail space reserved for small businesses in Oakland's new Black Arts Movement Business District; $100,000 for local construction job training; a 20% local hire goal; a $250,000 contribution to anti-displacement programs; and a 1% “art fee” for the nearby Malonga Center. In total, Wood Partners will grant $1.8 million in community benefits.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/activists-and-developers-negotiate-in-oakland-chinatown/quan.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Former Mayor Jean Quan speaks at City Hall, with her daughter Lailan waiting in line behind her&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;With reference to current debates over immigration policy, Pamela Drake of the Wellstone Democratic Club said, “we also need to be a sanctuary for people who are already here…it’s incumbent upon regular residents to spend hours, days, and months making sure that we actually recognize the needs of our residents.” She urged city staff to find representatives with local experience to incorporate community concerns into the planning process, “not at the other end” after permits are issued.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In a &lt;a href=&quot;https://www.facebook.com/abelguillencinco/posts/1878592962372112&quot;&gt;Facebook post&lt;/a&gt;, Guillen elaborated: “Although this project predates the adoption of impact fees in Oakland, the developer will make a $675,000 contribution that will help close the gap necessary to build 60 units of affordable housing in the neighborhood.” The Councilmember added that replacing a surface parking lot with housing was essential for mitigating the housing shortage and curbing car dependence, but that he also intended to promote plans for creating a “historic overlay” to protect Chinatown as a cultural asset.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This sets a precedent that is really critical…We don’t want to have to fight every development,” Huen said during the public comment period. “We need the city to have more comprehensive development policies.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Oakland’s new &lt;a href=&quot;http://www.sfgate.com/bayarea/article/Oakland-to-impose-impact-fees-on-new-housing-7280444.php&quot;&gt;impact fee requirements&lt;/a&gt; for market-rate development came into effect on September 1st, before Wood Partners completed the permitting process for the project. Observers have speculated whether or not such policies will indeed satisfy community activists who would otherwise insist on politically bartering with every development that gets proposed.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Only time will tell.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/">
     <title type="text">Study on “Tech Shuttles” Confirms, More Is Safer (and Greener)</title>
     <id>urn:uuid:ea62d7ae-59e4-3577-8599-331662e7933f</id>
@@ -4772,69 +4844,6 @@ Rather than approaching Skinner under the disingenuous guise of “objective” 
   
     
 				&lt;p&gt;Should the number of applicants exceed the five new licenses available, the licenses will be issued in a lottery system. San Francisco will issue its first new liquor licenses in 77 years in September 2017.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/">
-    <title type="text">Caltrain Electrification to Proceed After Atherton Lawsuit Fails</title>
-    <id>urn:uuid:83f0bc17-5ccb-38ae-804d-1b46721b9de9</id>
-    <updated>2016-09-30T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Nearly two years since Atherton sued the Peninsula Corridor Joint Powers Board over the Caltrain electrification project, a ruling has come in favor of the project, validating the environmental impact report that was at issue.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The Peninsula Corridor Electrification Project (PCEP) is part of &lt;a href=&quot;http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html&quot;&gt;Caltrain’s Modernization Program&lt;/a&gt;. The plan is designed to improve Caltrain system performance, reduce noise, improve air quality, and is expected to accommodate increased system ridership through its improved service operations. An electrified Caltrain is scheduled to be operational by late 2020 or early 2021.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Atherton’s basis for the &lt;a href=&quot;http://www.almanacnews.com/media/reports/1423535501.pdf&quot;&gt;lawsuit&lt;/a&gt; was inadequate completion of the Environmental Impact Report, specifically claiming that it failed to address the cumulative impact of both the electrification project and the high speed rail project also slated to run through the corridor. In its complaint, Atherton disputed the “standalone” nature of the electrification project, citing proposed Caltrain compatibility with the high speed rail, as well as shared funding, as indicative of a blended system that would require additional environmental study.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Judge Barry P. Goode of Contra Costa County Superior Court ultimately rejected this claim. Siding with Caltrain, he stated the two projects were independent of one another, and that even if the High Speed Rail Project “never take[s] a step forward”, the electrification project could still be implemented successfully.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Stuart Flashman, a land use and environmental attorney who represented Atherton in the suit, has battled many infrastructure projects in the Bay Area. Earlier this year, &lt;a href=&quot;http://www.mercurynews.com/2016/04/06/cupertino-city-council-groups-initiative-could-raise-neighborhood-building-height-limits-to-45-feet/&quot;&gt;Flashman fought a ballot initiative&lt;/a&gt; in Cupertino that asked voters to approve a new housing and commerical development, effectively raising height limits from 30 feet to 45 feet. Flashman also sits on the Rockridge Community Planning Council (RCPC), and has frequently voiced traffic and parking concerns in response to several projects in the Rockridge neighborhood, including the &lt;a href=&quot;http://www.eastbayexpress.com/oakland/shall-we-shop-at-safeway-or-safeway/Content?oid=2967148&quot;&gt;renovated Safeway&lt;/a&gt; on College Avenue.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In 2011, Flashman also &lt;a href=&quot;http://www.westsideobserver.com/news/rogers.html&quot;&gt;represented litigants&lt;/a&gt; in an unsuccessful appeal to prevent housing construction in San Francisco's Parkmerced neighborhood (nearly 9,000 units in total, of which up to 3,200 units would be rent-controlled).&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Adina Levin, the Project Director at &lt;a href=&quot;http://www.greencaltrain.com/about/&quot;&gt;Friends of Caltrain&lt;/a&gt;, was thrilled with the ruling.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Caltrain electrification is a popular, highly beneficial, essential, and long-awaited project. It will help more people use sustainable transportation and relieve congestion, and it is critical to Peninsula corridor cities ongoing transit-oriented development,” she told the &lt;em&gt;Metro Observer&lt;/em&gt;. Levin described the lawsuit as “a vain attempt to defend against high speed rail by crippling our region's transportation and land use goals is baffling...We are glad to see this lawsuit dismissed so definitively.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Besides easing traffic congestion, there are numerous environmental benefits cited for the project. According to &lt;a href=&quot;http://www.caltrain.com/about/MediaRelations/news/Caltrain_s_Board_Approves_Electrification_Design-Build_and_EMU_Contracts.html&quot;&gt;Caltrain’s website&lt;/a&gt;, an electrified system will improve regional air quality by up to 97% and reduce greenhouse gas emission by 176,000 metric tons of CO2, taking more than 619,000 daily vehicle miles off the region’s roadways by 2040.&lt;/p&gt;
 
     
   
