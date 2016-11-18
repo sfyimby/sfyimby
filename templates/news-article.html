@@ -9,6 +9,8 @@
 <meta name="twitter:title" content="{{ this.title }}" />
 <meta name="twitter:description" content="Read on SF BAMO..." />
 <meta name="twitter:image" content="{{ this.banner_img | url(external=True) }}" />
+<meta property="og:image" content ="{{ this.banner_img | url(external=True) }}" />
+<meta property="og:title" content="{{ this.title }}" />
 {% endblock %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
@@ -149,7 +151,7 @@
 								<a href="{{ siblings.prev_page|url }}">&laquo; previous</a>
 						{% endif %}
 						{% if siblings.prev_page and siblings.next_page %}
-						/ 
+						/
 						{% endif %}
 						{% if siblings.next_page %}
 								<a href="{{ siblings.next_page|url }}">next &raquo;</a>

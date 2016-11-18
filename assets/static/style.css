@@ -249,11 +249,12 @@ img.splash-ad {
   width: 30%;
 
 }
-
+/* make the images smaller by fixing the max-width */
 img.news_banner {
-    max-width: 100%;
-    width: 100%;
+    max-width: 80%;
+    /* width: 100%; */
     margin: auto;
+		padding: 2%;
     text-align: center;
     display: inline-block;
 }
@@ -406,11 +407,11 @@ div.news-teaser-tag-holder {
   text-decoration: none;
 }
 
-.news-navigation-node { 
+.news-navigation-node {
   font-size: 16px;
 }
 
-.news-navigation-node a { 
+.news-navigation-node a {
   font-size: 19px;
 }
 
@@ -557,7 +558,8 @@ h3 a {
 }
 
 img.news_photo {
-  max-width: 100%;
+  max-width: 80%;
+	padding: 2%;
 }
 
 #mc_embed_signup .button {
