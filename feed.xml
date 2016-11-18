@@ -2,13 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-16T00:00:00Z</updated>
+  <updated>2016-11-17T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/caltrain-begins-construction-to-prepare-for-electrified-rail/">
+    <title type="text">Caltrain Begins Construction to Prepare for Electrified Rail</title>
+    <id>urn:uuid:17d019ab-d9e3-3026-88a5-8fa257d88d08</id>
+    <updated>2016-11-17T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/caltrain-begins-construction-to-prepare-for-electrified-rail/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;After enduring years of litigation, the diesel train system connecting San Francisco to the Peninsula and South Bay cities of San Jose and Gilroy will soon be &lt;a href=&quot;http://www.sfexaminer.com/caltrain-begins-3-month-construction-project-anticipation-system-electrification/&quot;&gt;upgraded&lt;/a&gt; to an electric rail system, in preparation for integrating with a future High Speed Rail. As part of the Caltrain Modernization Program (CalMod), the agency will begin work this week on the &lt;a href=&quot;http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html&quot;&gt;Peninsula Corridor Electrification Project&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Over the next three months, Caltrain will be upgrading utilities and testing soil along Peninsula stations, with an occasional need for single-tracking trains resulting in reduced service. By mid-2017, the agency expects to begin construction. The Peninsula Corridor portion of CalMod is expected to be completed by 2020.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/caltrain-begins-construction-to-prepare-for-electrified-rail/calmod.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(courtesy: Caltrain)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Among numerous improvements cited, Caltrain expects a 97% reduction in carbon emissions, less noise, and an approximately threefold increase in train service.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/bitter-sf-supes-send-landmark-mission-project-back-to-drawing-board/">
     <title type="text">Bitter SF Supes Send Landmark Mission Project Back to Drawing Board</title>
     <id>urn:uuid:6f068684-3927-3f39-9b14-cc71914a1abc</id>
@@ -4859,65 +4911,6 @@ Rather than approaching Skinner under the disingenuous guise of “objective” 
   
     
 				&lt;p&gt;Thank you, take care.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/supervisor-stonewalls-no-on-b-arguments/">
-    <title type="text">Supervisor Stonewalls &quot;No On B&quot; Arguments, SF Libertarians Allege</title>
-    <id>urn:uuid:dfac637b-9bd2-3cf3-87ba-e0b265a232c9</id>
-    <updated>2016-10-04T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/supervisor-stonewalls-no-on-b-arguments/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;San Francisco voters have received their ballot handbooks in the mail, and many have noticed that it’s awfully big and heavy. One reason is that there are record &lt;a href=&quot;http://www.beyondchron.org/sf-politics-skips-summer-break/&quot;&gt;25 local measures&lt;/a&gt; on the ballot, along with another 17 state measures and sundry races for public office. Adding to this are the various citizen- and committee-submitted ballot arguments for and against measures. In the case of local measures, there are both officially chosen representative arguments, plus a plethora of paid arguments.  It looks like there will be at least a small kerfuffle over one of those arguments, if correspondence we received from the San Francisco Libertarian Party is any indication.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The City’s Libertarians are opposing &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;cad=rja&amp;amp;uact=8&amp;amp;ved=0ahUKEwjD387f98HPAhVLyWMKHYYsAnYQFggcMAA&amp;amp;url=http%3A%2F%2Fvoterguide.sfelections.org%2Fen%2Fcity-college-parcel-tax&amp;amp;usg=AFQjCNH3IvynHlVVZ_5HykIN18v0jDzbFg&amp;amp;sig2=AB8Zq-cRyYDF7LofwZ17jA&amp;amp;bvm=bv.134495766,d.cGc&quot;&gt;Prop B&lt;/a&gt;, the extension of the parcel tax for City College. We may not necessarily agree with their principles, but certainly they’re entitled to express their opinion via the ballot handbook, either by submitting an entry for the randomly selected official argument, or a paid argument. Apparently, they were blocked from doing either, due to the action (or inaction) of Supervisor Aaron Peskin.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;According to the email the &lt;em&gt;Metro Observer&lt;/em&gt; received from Aubrey Freeman, SFLP chair:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;In a recent meeting of ours, one of our members offered to write an opposing argument to Prop B for submission to the DOE (Department of Elections) for the “free” lottery on August 18.  About a week prior to the deadline, we called the DOE for clarification on the pre-empting process, whereby members of the Board of Supervisors get first dibs at being the official opponents of ballot measures… Much to our surprise, we noted that Supervisor Aaron Peskin had pre-empted the opposing argument to Prop B… we decided not to submit our member’s solid argument (listed above) on August 18, and we would decide after the lottery what to submit as paid arguments the following Monday.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;To our utter shock, when the DOE ran the lottery (and it really is random—they literally put crumpled pieces of paper in a jar), John Arntz, the Director of the DOE, announced that that no argument was submitted against Prop B and moved on to the next one.  What happened to Peskin’s opposing argument?  We checked with the DOE the next day, and they confirmed that Peskin was the official opponent but had in fact submitted nothing…&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;… There was no question about submitting the above argument as a paid argument… Three days later we received a call from the DOE.  In reviewing all the documents received for the paid arguments, they discovered that Prop B is actually a “district” measure, not a regular ballot measure, and as such no paid argument can be accepted.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It gets worse. As it turns out, according to the DOE, because Prop B is considered to outside the scope of City government (the Community College District answers to the State), not only are there no paid arguments, but also Peskin, being a City official, was never entitled to submit an argument pre-empting any others in the first place.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;It’s certainly possible that this was just a bureaucratic snafu. The problem is that Peskin’s associates have a history of playing tricks with the ballot handbook. &lt;a href=&quot;http://www.planetizen.com/node/67821&quot;&gt;Back in 2013&lt;/a&gt;, one of Peskin’s ward heelers, Jon Gollinger, created a similar stir with ballot arguments against a measure that he sponsored in the June 2013 election – which, ironically was also designated Proposition B. The Board of Supervisors later passed an ordinance to prevent that sort of thing from happening again, but apparently, that doesn’t apply to State District measures.&lt;/p&gt;
 
     
   
