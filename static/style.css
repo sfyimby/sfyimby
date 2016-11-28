@@ -252,7 +252,7 @@ img.splash-ad {
 /* make the images smaller by fixing the max-width */
 img.news_banner {
     max-width: 80%;
-    /* width: 100%; */
+  	max-height: 80%;
     margin: auto;
 		padding: 2%;
     text-align: center;
@@ -275,6 +275,10 @@ div.photo-caption {
     color: #888;
     font-size: .8em;
     text-align: center;
+		/*background-color: #eee;*/
+		padding: 1%;
+		margin-right: 10%;
+		margin-left: 10%;
 }
 
 div.photo-with-caption {
@@ -282,7 +286,7 @@ div.photo-with-caption {
   page-break-inside: avoid;
   break-inside: avoid;
 	text-align: center;
-	padding: 4px 0 12px 0;
+	/*padding: 4px 0 12px 0;*/
 }
 
 div.news-splash {
@@ -560,6 +564,7 @@ h3 a {
 img.news_photo {
   max-width: 80%;
 	padding: 2%;
+
 }
 
 #mc_embed_signup .button {
