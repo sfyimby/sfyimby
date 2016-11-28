@@ -281,7 +281,7 @@ div.photo-with-caption {
   -webkit-column-break-inside: avoid;
   page-break-inside: avoid;
   break-inside: avoid;
-	text-align: left;
+	text-align: center;
 	padding: 4px 0 12px 0;
 }
 
