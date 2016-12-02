@@ -2,13 +2,278 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-11-30T00:00:00Z</updated>
+  <updated>2016-12-01T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/editorial-prop-13-or-the-california-progressive-blindspot-illuminated/">
+    <title type="text">Editorial: Prop 13, or, California's Progressive Blindspot Illuminated</title>
+    <id>urn:uuid:b8a7955f-e081-3b8c-bcf0-7596f08a8da4</id>
+    <updated>2016-12-01T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/editorial-prop-13-or-the-california-progressive-blindspot-illuminated/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;In 1979, California voters passed Proposition 13. This locked in property tax rates at a maximum change of 1% per year, positive or negative. Most voters (in the counties labeled green above) hoped to protect homeowners from the market volatility of their own equity values, preventing foreclosures that could occur if tax assessments became more than their incomes could bear. Sounds good, right?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;As it turns out, the ballot measure legislated a de facto caste system benefiting legacy landowners. Ralph McLaughlin, Chief Economist at the real estate website Trulia has &lt;a href=&quot;https://www.trulia.com/blog/trends/prop-13/&quot;&gt;recently published data to illustrate this&lt;/a&gt;: by comparing current assessments to market values, McLaughlin calculated “effective” property tax rates, essentially the difference between what an established owner pays, and what a new buyer would pay today.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Revolt” sounds too noble to me, even “populist.” I prefer to call it feudalism.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/editorial-prop-13-or-the-california-progressive-blindspot-illuminated/prop13fig2lao.png&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(source: Legislative Analyst's Office)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Prop 13 had further consequences: tax rates could only be reassessed upon sale of the property, whereas before, homes could be reassessed if anyone in the neighborhood sold for a higher price. Additionally, taxes in general became much more difficult to change. The state of California controls all property tax policy, and can only raise taxes with a 2/3 vote from the legislature. Municipalities could only introduce new taxes by referendum, also with a 2/3 margin if they intend to spend revenue for a specific purpose. Schools, infrastructure, and all sorts of public services have since relied on much less stable revenue streams, namely income and sales taxes.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Like most policies enacted in response to fear, Prop 13 has demonstrably done more harm than good. The Legislative Analyst’s Office &lt;a href=&quot;http://lao.ca.gov/Publications/Report/3497&quot;&gt;also reported&lt;/a&gt; what everyone has known for years: the tax burden has inordinately shifted to newer residents. Even within the same neighborhood, owners pay wildly diverging tax rates.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;More damningly, McLaughlin reports: “In 2015 alone, California homeowners received over $12.5 billion in savings from Prop 13, while local governments lost that same amount.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/editorial-prop-13-or-the-california-progressive-blindspot-illuminated/prop13fig4lao.png&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(source: LAO)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Furthermore, since higher-earning households are more likely to own higher-value properties, the tax break inordinately benefits the wealthiest Californians. Palo Alto, one of the state’s most expensive towns, has the lowest effective rate. And, to add injury to insult, if the value of a property &lt;em&gt;declines,&lt;/em&gt; Prop 13 also limits &lt;em&gt;decreases&lt;/em&gt; in tax assessments to 1% per year. Mercifully, Palo Altans do not live in fear of underwater equity.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Lucky children who inherit valuable property also inherit their parent’s Prop 13-based tax assessments. Not only does the policy establish a sort of feudalism via subsidy, it also encourages the consolidation of dynastic wealth. New, young computer programmers with six-figure salaries may easy to scapegoat as the emblem of the Bay Area’s 21st Century inequality, but even if they can afford real estate, their privilege is chump change compared to that of pre-1979 homebuyers and their descendants.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/editorial-prop-13-or-the-california-progressive-blindspot-illuminated/prop13_supportinggraphic_v07-1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(source: Trulia)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Meanwhile, renters &lt;em&gt;qua&lt;/em&gt; renters do not get tax benefits for renting a place to sleep, only a place to work. While the state codified price controls for property owners, many renters were stripped of similar protections in 1995 when the &lt;a href=&quot;http://www.eastbayexpress.com/oakland/its-time-to-overturn-the-state-ban-on-rent-control/Content?oid=4229744&quot;&gt;Costa Hawkins Act&lt;/a&gt; banned rent control in dwelling units built after 1977.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Let’s be clear: if your landlord raises your rent, and they’ve owned the building since before either tech boom, they are literally the landed gentry profiting off your serfdom. If that rent increase isn’t limited by rent control, you are being denied a privilege your landlord enjoys.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;You may assume that given this bleak picture, California lawmakers must be scrambling to make fundamental changes to the state’s tax structure, and you would not be wholly incorrect. State Senator Loni Hancock (SD09) has recently proposed a “split-roll” tax reform, which would gradually decouple Prop 13 caps on commercial real estate from those on residential property.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Split-roll reform has its own problems. Skeptics fear that only assessing commercial property at market rates would exacerbate imbalances between jobs and housing by further incentivizing commercial development over residential. But the logic in support is that it’s fairer to raise taxes on Disneyland than grandmothers living on Social Security checks. The cynical logic is that it’s the only politically palatable reform—but even current Governor Jerry Brown has said he won’t touch it.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Before you close out of this article and curse Jerry’s obstinate, some would say overzealous pragmatism, let’s take a look at where the conversation on housing costs &lt;em&gt;has&lt;/em&gt; gone. Like a feeble stream trickling through a rocky mountainside, the “third rail” of Prop 13 reform keeps the debate over housing reforms locked into tragicomic and ineffective limits.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;San Francisco projects a culture that is, shall we say, not fond of capitalism, and the so-called “progressive” faction has seized on this image, while the ostensible “moderates” remain largely agnostic, or at least anemic. The progressive faction’s rhetorically compassionate, class-warrior-tinged proposals to solve the region’s crippling housing crisis tend to follow this basic narrative:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;Yes, there is a shortage of housing supply. Yes, more must be built. But without strong protections for incumbent residents, and aggressive price controls to protect everyone without exorbitant incomes, all new privately financed market-rate development must be treated as guilty before proven innocent. New construction, lacking drastic state-wide rent control reform and ever-higher ratios of Below Market Rate units, will be guilty of gentrification and displacement. A shiny new mid-rise in the Mission District will not only fail to fully alleviate a supply shortage on its own, it will also raise median rents in the area such that vulnerable lower-income residents will be forced out. New development is bad until proven good. We need more housing, but let’s not be careless here.*&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;Reasonable enough, no? No.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I’ll point to the more obvious holes first. Most demand for new construction has concentrated in the Mission District because San Francisco has lower-density zoning in wealthier neighborhoods once explicitly segregated for “whites-only.” When activists rally to protect the Mission, the elephant in the room is that nobody is wringing their hands about gentrification in North Beach, Pac Heights, Bernal Heights, Russian Hill, Forest Hill, and so on—because those neighborhoods &lt;em&gt;are already rich&lt;/em&gt; and &lt;em&gt;they will be fine.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Marina Dwellers will be fine. Telegraph Hill Dwellers will be fine. Developers are not frothing at the mouth to build tall residences all over there for the influx of new workers coming to the city, except, notably, some low- and middle-income housing planned near the port](&lt;a href=&quot;http://sfbamo.com/news/designs-released-for-affordable-housing-in-telegraph-hill/&quot;&gt;http://sfbamo.com/news/designs-released-for-affordable-housing-in-telegraph-hill/&lt;/a&gt;). They should be.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In my paraphrase above, did you notice something missing? I used the term “Below Market Rate” (BMR) for what is often called “affordable housing,” but I did not use the term “subsidy.” This is because inclusionary zoning requirements do not provide price-indexed dwelling units with public money. Private development pays for it with a cut on investment returns—a cut that is passed on to market-rate renters.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;How curious, then, that the proposed “progressive” solutions to our housing affordability crisis contain many caveats that may end up being &lt;a href=&quot;http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/&quot;&gt;a detriment&lt;/a&gt; to longer-term affordability goals. In the context of Proposition 13, this is relevant because inclusionary zoning (or fees paid “in-lieu” of “affordable” units) are a tax, but are much easier to codify, because they are not called a tax. Affordable housing is largely not funded by actual taxes because the vast majority of real estate equity gains are left untouched.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I’m going to shoot the messengers now.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Supervisor Aaron Peskin, who &lt;a href=&quot;http://www.sfchronicle.com/politics/article/Prop-C-would-raise-new-housing-s-below-market-7388907.php&quot;&gt;coauthored&lt;/a&gt; the new 25% Below Market Rate requirements and &lt;a href=&quot;http://hoodline.com/2015/04/major-8-washington-opponent-backs-peskin-s-d3-supervisor-bid&quot;&gt;opposed development on the city’s waterfront&lt;/a&gt;, was given a duplex in Telegraph Hill by his parents, purchased for $800,000, which was since converted to a single-family residence. Sale prices in that neighborhood often hit the $2 million mark now, but Peskin pays taxes on an assessed value of $1 million. Though also a realtor and landlord, Peskin magnanimously lacks a profit-seeking talent, at least in his role as a public official. During negotiations to sell city-owned real estate, Peskin demanded $7 million higher than the highest bid of $80 million, and &lt;a href=&quot;http://sfbamo.com/news/aaron-peskins-art-of-no-deal/&quot;&gt;the deal fell through&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Dean Preston, a tenant defense attorney, recently ran an unsuccessful campaign to replace London Breed as Supervisor for District 5. He has regularly called for restricting density along the transit-rich corridor of &lt;a href=&quot;https://www.google.com/url?hl=en&amp;amp;q=http://hoodline.com/2015/10/affordable-divis-group-defines-goals&amp;amp;source=gmail&amp;amp;ust=1480730509962000&amp;amp;usg=AFQjCNFPhv5XnzAFsiATQ0Bbfi3dxPfUbQ&quot;&gt;Divisadero Street&lt;/a&gt;, building less housing at the site of a former gas station, and has often &lt;a href=&quot;http://www.sfchronicle.com/politics/article/London-Breed-Dean-Preston-argue-personal-9283790.php&quot;&gt;condescended&lt;/a&gt; to Breed, a lifelong renter, during the campaign. Preston has admirably called for &lt;a href=&quot;https://medium.com/@DeanPreston/rent-control-for-midtown-2dfc435b971c#.db8z27fye&quot;&gt;expanded rent control&lt;/a&gt;, which is particularly admirable given the price controls he enjoys. About that: his home on Alamo Square, purchased by his wife’s parents, is assessed at just under $1.2 million. Homes around Alamo Square regularly fetch between $2-2.5 million sale prices.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Calvin Welch, who sits on the board of the Haight-Ashbury Neighborhood Council (HANC), recently described the Affordable Housing Bonus Program (AHBP), a density bonus allowing additional floors in new buildings in exchange for higher BMR percentages, as &lt;a href=&quot;http://missionlocal.org/2016/01/sf-delays-controversial-housing-law-amidst-opposition-cries-of-ethnic-cleansing/&quot;&gt;“ethnic cleansing.”&lt;/a&gt; For &lt;a href=&quot;http://sfbamo.com/news/video-san-franciscos-pony-tailed-godfather-of-white-paternalism/&quot;&gt;a variety of reasons&lt;/a&gt;, he has been called the “godfather of white paternalism in San Francisco”—for example, after dismissing homeownership as a “bankrupt dream” in the early 1970s, he bought a duplex in the Haight. Its net taxable value hovers around $65,000 in a neighborhood with a median home price of $1.3 million (and that’s for single-family residences).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Zelda Bronstein, an allegedly socialist firebrand, has written at length about &lt;a href=&quot;http://48hills.org/2016/11/28/17209/&quot;&gt;the indignation&lt;/a&gt; she feels about San Francisco’s projected population growth reaching 1 million people without anyone personally requesting her permission. She pays property taxes on an assessed value of $467,790 in a neighborhood where homes regularly fetch $1 million. Her most lauded accomplishment as chair of Berkeley’s Planning Commission is the approval of a park across the street from her house.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Becky O’Malley, editor of the &lt;em&gt;Berkeley Daily Planet&lt;/em&gt;, is fond of writing screeds against new development and newer, younger residents in Berkeley. In one editorial, she &lt;a href=&quot;http://www.berkeleydailyplanet.com/issue/2016-06-10/article/44573?headline=Keeping-on-Keepin-On-even-in-the-summertime--Becky-O-Malley&quot;&gt;described&lt;/a&gt; a planned 7-story apartment building near the UC Berkeley campus as “the kind designed for cramming in as many students who want to party it up without dorm rules as possible.” (The project will be replacing a 2-story commercial building that does not meet seismic safety requirements.) Mr. and Mrs. O’Malley, who founded the &lt;em&gt;Planet&lt;/em&gt; as a retirement project after selling a successful software company for millions, pay taxes on an assessed value of $116,440. Homes regularly surpass the $2 million price in their neighborhood, though the median is closer to $1.5 million.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Joe Bravo, a lawyer and landlord residing in Forest Hills, has publicly opposed a proposal for a five-story housing project for low-income senior citizens. In an &lt;a href=&quot;http://sf.curbed.com/2016/11/18/13681294/forest-hill-sf-senior-housing-joe-bravo&quot;&gt;interview&lt;/a&gt; with Curbed SF, Bravo said he objected to the height of the project, and feared that allowing development above zoned height limits would only benefit “high tech” people. Bravo’s home in Forest Hill is assessed at a $1.1 million net taxable value. Homes of a similar size sell for up to $3 million in that neighborhood.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+  
+    
+				&lt;p&gt;I made a handy graphic to illustrate this coalition’s approach to housing affordability:&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/editorial-prop-13-or-the-california-progressive-blindspot-illuminated/malthus-lol.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;A funny joke inspired by &lt;a href=&quot;https://en.wikipedia.org/wiki/Malthusian_growth_model&quot;&gt;Thomas Malthus&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;It is a given that the Bay Area does not have enough housing to accommodate population growth. Few deny this. It is also a given that land is finite in coastal cities, and new rental properties so prohibitively expensive, so privately-financed development alone will not ease this crisis for the state’s lesser-privileged residents (or, for that matter, lesser-privileged hopeful migrants).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;What is not as commonly agreed upon is who should pay more to bridge that gap between what the market will bear and what people need &lt;em&gt;now&lt;/em&gt;. Who is holding out on us?&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;A friend once told me, only halfway joking, that “if you want to eat the rich, it helps to have them living nearby.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Thanks to Proposition 13, Old Money doesn’t want New Money living nearby. The rest of us are left to pick up the pieces.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/menlo-park-approves-fivefold-increase-in-housing-near-facebook/">
     <title type="text">Menlo Park Approves Fivefold Increase in Housing Near Facebook</title>
     <id>urn:uuid:55a86e1a-7676-3d0b-97ec-d0f89badbbc4</id>
@@ -4637,271 +4902,6 @@ His freestyle rapping often includes random syllables, a “made-up language” 
   
     
 				&lt;p&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNoDHLM%2Fvideos%2F368789926797082%2F&amp;show_text=0&amp;width=400&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/top-10-bay-area-nimby-moments-of-2016/">
-    <title type="text">Top 10 Bay Area NIMBY Moments of 2016</title>
-    <id>urn:uuid:099f4847-c8ac-3540-bc3b-9def33d4496c</id>
-    <updated>2016-10-10T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/top-10-bay-area-nimby-moments-of-2016/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;After covering SFHAC’s “Housing Heroes” award ceremony in &lt;a href=&quot;http://sfbamo.com/news/sfhac-honors-heroes-with-haughty-hors-doeuvres/&quot;&gt;delicious detail&lt;/a&gt;, &lt;em&gt;BAMO&lt;/em&gt; felt that it was only appropriate to give recognition to both sides of the housing conversation. Today, we are proud to present the region’s Top 10 Displays of NIMBYism this year.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt; 1) Susan Jaffe Speaks Fondly of the McDonald’s She’s Never Set Foot In&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Watching treasured San Francisco shops and restaurants shutter is never easy, especially if you have a long history in this city. But then there’s, you know, McDonald’s. The fast food location on 3rd and Townsend &lt;a href=&quot;http://hoodline.com/2016/10/3rd-townsend-mcdonald-s-goes-dark-in-preparation-for-demolition&quot;&gt;in the process of being replaced&lt;/a&gt; with much needed high density, transit-proximal housing, which is pretty tough to chalk up as a loss -- unless you are Susan Jaffe. In a shameless Facebook post, Susan laments the change as the destruction of one of her childhood memories. In fact, the golden arches of SoMa were so special to Susan that &lt;em&gt;she literally never even went there&lt;/em&gt;. “I'm a vegetarian,” Susan explains exasperatedly in a Facebook comment. “I don't eat there.” Susan goes on to stick the rhetorical landing, telling her opponent that he doesn’t understand what is sentimental to her. We join Susan’s interlocutor in pleading ignorance.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/top-10-bay-area-nimby-moments-of-2016/susan1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/top-10-bay-area-nimby-moments-of-2016/susan.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;2) Mission Resident Lucy Admits We Need Affordable Housing But Protests 100% Affordable Housing Complex for Seniors&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/top-10-bay-area-nimby-moments-of-2016/1296shotwell.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;1296 Shotwell St. rendering&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last year, Supervisor David Campos asked San Francisco to pass Prop I, which would temporarily ban all new housing in the Mission District unless the units are 100% affordable. An extreme proposal, and it didn’t pass. But apparently even when housing is 100% affordable, and explicitly set aside for an economically vulnerable segment of the population, residents of the Mission and Bernal Heights still find reason to oppose it.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A proposal at 1296 Shotwell for 94 units of permanently affordable senior housing failed to meet the standards of its future neighbor, Lucy, &lt;a href=&quot;http://missionlocal.org/2016/10/neighbors-double-down-against-mission-district-affordable-housing/&quot;&gt;who insisted the project be reduced in size&lt;/a&gt;, despite the fact that this concession would eliminate affordable units. Lucy acknowledged that “every unit counts”, but with the usual NIMBY caveat that one more affordable housing project “would not solve the problems of the city.” In a rare moment of self-awareness, Lucy declined to provide her last name to &lt;em&gt;Mission Local&lt;/em&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;3) Brisbane Woman Stands up for People Who Fear Becoming a Minority in Their Own Home&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Fox News somehow missed this story, but we didn’t. The city of Brisbane is considering whether or not to approve a development proposal for offices and housing on its little swath of bay-adjacent land, which would be totally fine with Brisbane except for the part where they have to let people live there. &lt;a href=&quot;https://www.google.com/url?q=http%3A%2F%2Fwww.ci.brisbane.ca.us%2Fspecial-council-meeting-to-discuss-brisbane-baylands-09-29-2016&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNEvlPHK_BXpMwSlr3IvDImKJC3UPw&quot;&gt;At a city council meeting in September&lt;/a&gt;, local Brisbanians contemplated the implications of housing, which are basically apocalyptic in nature.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“It really doesn’t matter why Brisbane is not going to build housing on the baylands,” this woman tells us, because apparently they don’t believe in reasons in Brisbane.  “Some don’t want to be a minority in their own home - who would?” she says around the 1h17m mark. Who would, indeed, white Brisbane lady?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;4) Millionaire Homeowner in Berkeley Complains about Housing for People That Aren’t Her&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/top-10-bay-area-nimby-moments-of-2016/nimby1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Being a retired Berkeley homeowner is hard. You have to helplessly watch your property value go up all the time, fight the glare of glittering views of the bay, and constantly toil through the philosophical conundrum of whether or not Philz Coffee is a chain. How does one manage? Well, one way to ease the stress is going to city planning hearings and eulogizing your first-world problems to anyone who is paid to listen.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;This woman, who owns a house worth over a million dollars but pays property taxes based on an assessed value of about 20% of that amount, spoke at a Berkeley City Council meeting this past July against three new homes, which she said would &lt;a href=&quot;https://twitter.com/hanlonbt/status/784140878541496320&quot;&gt;“set a dangerous precedent” in the neighborhood.&lt;/a&gt; Sharing is scaring, right?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;5) Peter Cohen, Director of an Affordable Housing Organization, Opposes Affordable Housing Initiative&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In one of the most head-scratching policy oppositions in San Francisco this year, a measure put forward to increase the amount of affordable housing through a density bonus program ended up getting challenged by members of the affordable housing community itself. Yes, we were also shocked. The proposal would allow developers to add three stories to a building irrespective of zoned height limits, but under the condition that all the extra units are affordable. More density, more affordability, and at no cost to taxpayers.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Sounds like an awesome deal (it is), but Peter Cohen, Director of the affordable housing nonprofit Council of Community Housing Organizations (CCHO), &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/SF-housing-density-plan-meets-opposition-6810769.php&quot;&gt;came out as one of the loudest opponents of the bill&lt;/a&gt;. Cohen said it was too much of a giveaway to private developers, which seems to completely miss the fact that it is actually a giveaway to middle-income families. We admit this one doesn’t technically qualify as NIMBYism in the literal sense, but Mr. Cohen doesn’t technically qualify as an affordable housing advocate, either.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;6) Man Who Can Walk to Fremont BART Explains How Important Cars Are&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Hugh Vassar, who would like you to know that he has purchased not one but two single-family homes in Fremont, doesn’t think building housing near BART will reduce people’s use of cars. How does Hugh know that? Because he lives right next to BART, &lt;a href=&quot;https://fremontca.viebit.com/#K7J3x1kL3QTQ&quot;&gt;and he drives all the time&lt;/a&gt;! Even as a frequent BART commuter, Hugh “never got rid of any cars” (is he a collector?), which means the future residents of the proposed BART-adjacent housing development he opposes won’t either. We would explain to Hugh that increasing density and walkability doesn’t happen overnight, and the development is a really good start, but he is already speeding away from us.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;7) Environmental Attorney Stu Flashman Fights Green, Eco-friendly CalTrain Project&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/top-10-bay-area-nimby-moments-of-2016/caltrain_baby_bullet.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Stu Flashman, who is not a character in a Marvel comic but a real-life land use and environmental attorney, represented Atherton in its fight against CalTrain’s electrification plan, a plan the Sierra Club called &lt;a href=&quot;http://www.sierraclub.org/sites/www.sierraclub.org/files/sce/loma-prieta-chapter/cool-cities-action/12.13.12%20-%20Article%20-%20Caltrain%20electrification%20project%20lauded%20by%20Sierra%20Club.pdf&quot;&gt;one of the best transportation projects of the year&lt;/a&gt; back in 2012.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The plan in question is to replace CalTrain’s diesel engine trains with electrified trains, in order to increase operating efficiency, accommodate more riders, and significantly reduce air pollution. Stu argued that the environmental review didn’t take into account the cumulative effects of an electrified CalTrain and the high speed rail, since apparently twice as much mass transit probably means twice as much pollution. Except electrifying CalTrain &lt;a href=&quot;http://www.caltrain.com/Assets/Caltrain+Modernization+Program/Documents/PCEP+Fact+Sheet+May+2015.pdf&quot;&gt;has enormous environmental benefits&lt;/a&gt;: taking cars off the road with 619,000 less vehicle miles traveled and reducing annual greenhouse gas emissions by 176,000 metric tons of CO2.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Stu Flashman and Atherton &lt;a href=&quot;http://www.almanacnews.com/news/2016/09/28/atherton-loses-lawsuit-over-caltrain-electrification-project&quot;&gt;ultimately lost the lawsuit&lt;/a&gt;, but they didn’t lose a place on this list.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;8) Berkeley Resident Kelly Hammargren Confuses NIMBYism with Valid Legal Argument&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Kelly Hammargren has spent more than two years fighting a proposed housing project at 2211 Harold Way, including a legal battle which might have made more headway by now if Hammargren actually had a lawyer. The project she’s opposing, a 300-plus unit building next to a BART station, has been in the works since December 2012. Although more than 30 community meetings having been held since the project’s application, Hammargren eventually decided to step it up to the big leagues by going to court.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Unfortunately for her, a judge is supposed to consider legal arguments, and it seems Hammargren didn’t really have any. At &lt;a href=&quot;http://www.berkeleyside.com/2016/08/29/court-considers-challenge-to-berkeleys-2211-harold-way-project/&quot;&gt;a hearing in August&lt;/a&gt;, the judge had to ask Hammargren to stick to legal arguments and not make political speeches, ultimately denying her motion. Without any mention of her lawsuit, Hammargren has exhorted Berkeley students to support her flagrant NIMBYism because, you know, &lt;a href=&quot;http://www.dailycal.org/2016/09/16/harold-way-project-mired-problems/&quot;&gt;historic views&lt;/a&gt; or something.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;9) Spike Kahn Doesn’t Want Any New Properties in the Mission Unless She Owns Them&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/top-10-bay-area-nimby-moments-of-2016/bbryant.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;The &quot;Beast&quot; on Bryant&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The Mission housing proposal dubbed the “Beast on Bryant” by opponents is more of a building than a Disney villain, but when you’re a NIMBY, nouns are relative and the dictionary is a capitalist manifesto. In any semantic case, Spike Kahn has been leading the charge against the housing proposal on 2000-2070 Bryant, a 300-plus unit building with a portion of affordable units. It’s such an inoffensive project that &lt;a href=&quot;http://sf.curbed.com/2016/9/15/12931964/beast-on-bryant-loses-appeals-lawsuit&quot;&gt;even David Campos supports it&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;But here’s where things get prickly for Spike. While Spike Kahn has spoken passionately against this housing project “destroying the neighborhood” because of all its moneyed implications, or something, she conveniently leaves out the fact that she owns rental properties and is totally killing it in on AirBnB. Yeah, the beast-slayer owns &lt;a href=&quot;http://datagovus.com/san-francisco-business.php?id=1027901-05-151&quot;&gt;numerous properties&lt;/a&gt; in San Francisco and regularly AirBnBs her home. Take a look at her &lt;a href=&quot;https://www.airbnb.com/users/show/30614&quot;&gt;user profile&lt;/a&gt;, and go ahead and ask her for a discount on your nightly price too, since affordability is so important to Spike.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;10) Jean Quan's Activist Daughter Sticks it to Developers by Demanding More Parking&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Fighting for the little guy is important, especially when the little guy is a car. Just ask Lailan Huen, daughter of former Oakland mayor Jean Quan, &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/05/oakland-housing-wood-partners-gentrification-quan.html&quot;&gt;who is leading the call for parking-related concessions from Wood Partners on one of its development proposals&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The project at issue is a 262-unit residential proposal that will, ironically, replace an existing parking lot located walking distance from several BART stations. In addition to calling for increased affordability percentages, which will likely require millions of dollars in subsidies, Huen and her followers want 25 parking spaces or a $50,000 payment to fund parking. Hint: the housing might be more affordable if it didn’t require so much parking.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Congratulations to our Top 10 NIMBYs! You earned it—at everyone else’s expense.&lt;/p&gt;
 
     
   
