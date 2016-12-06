@@ -2,13 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-02T00:00:00Z</updated>
+  <updated>2016-12-05T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/in-loving-memory/">
+    <title type="text">In Loving Memory</title>
+    <id>urn:uuid:018dd771-7335-3a2f-8e74-2e1741b0f53f</id>
+    <updated>2016-12-05T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/in-loving-memory/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Please donate to the &lt;a href=&quot;https://www.youcaring.com/firevictimsofoaklandfiredec232016-706684&quot;&gt;relief fund&lt;/a&gt; for victims of the &lt;a href=&quot;http://www.eastbaytimes.com/2016/12/03/oakland-massive-fire-at-live-work-space-in-fruitvale-district/&quot;&gt;Ghost Ship&lt;/a&gt; fire in Oakland.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Words cannot describe the devastation we feel at the loss of many beloved friends. I personally have lost heroes, mentors, incomparable kindred spirits. While I will remain offline for a few days to process this grief, readers should be aware of many &lt;a href=&quot;https://www.youcaring.com/firevictimsofoaklandfiredec232016-706684&quot;&gt;relief efforts&lt;/a&gt;, &lt;a href=&quot;https://www.facebook.com/events/1200018936718540/&quot;&gt;benefit concerts&lt;/a&gt;, and other &lt;a href=&quot;https://www.facebook.com/events/174030323063264/&quot;&gt;fundraisers&lt;/a&gt; to aid those affected and, hopefully, prevent future tragedy.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;On behalf of those who didn't, we owe it to each other to rise from the ashes. We need each other now more than ever.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/planning-commission-approves-senior-housing-in-mission-district/">
     <title type="text">Planning Commission Approves Senior Housing in Mission District</title>
     <id>urn:uuid:20e138a5-2410-3804-9f6a-0bd80a9a09e1</id>
@@ -4838,85 +4871,6 @@ His freestyle rapping often includes random syllables, a “made-up language” 
   
     
 				&lt;p&gt;(One can only assume she meant Clinton.)&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/wiener-talks-housing-condoms-soda-on-reddit-ama/">
-    <title type="text">Wiener Talks Housing, Condoms, Soda on Reddit AMA</title>
-    <id>urn:uuid:a4625f28-4c77-3779-988a-eb4194195dea</id>
-    <updated>2016-10-11T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/wiener-talks-housing-condoms-soda-on-reddit-ama/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Supervisor Scott Wiener took to the popular internet forum Reddit today to answer questions from anonymous users in a series of &lt;a href=&quot;https://www.reddit.com/r/politics/comments/5709cf/hi_reddit_im_san_francisco_supervisor_scott/?st=iu63tdkp&amp;amp;sh=eae38fc6&quot;&gt;“Ask Me Anything”&lt;/a&gt; interviews sponsored by the SF YIMBY Party. (Readers will continue to see advertisements for these interviews on the &lt;em&gt;Metro Observer&lt;/em&gt;, but we will continue to summarize them for readers who may not have the time to follow them live.) Wiener primarily focused on outlining his differences with Supervisor Jane Kim, with whom he is deadlocked in a bitter race for State Senate, but also responded to questions about his relationship with former Congressman Anthony Weiner (there is none).&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;San Francisco’s Proposition V, a sales tax increase on soda distribution, offered a prime opportunity to lash out at Kim’s corporate donors. In response to a question about the soda tax’s exemptions (e.g. milk, beer, diet soda) Wiener declared: “Her campaign is basically being funded by the soda industry - to date, the soda industry has poured neatly a quarter million into mailers promoting her. Her campaign consultant is also the consultant for the soda industry, and he directs where the soda industry money goes.” Citing evidence to back the policy, such as increased diabetes risk and a recent &lt;a href=&quot;http://www.latimes.com/science/sciencenow/la-sci-sn-who-soda-tax-20161011-snap-story.html&quot;&gt;WHO recommendation for soda taxes worldwide&lt;/a&gt;, seemed almost an afterthought to his prolonged Kim-bashing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The signature issue in San Francisco politics—and, not incidentally, of this publication as well—took center stage: housing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;One Redditor identified as a tech professional and native to Wiener’s supervisorial district asked about the issue in perhaps the most nuanced and even-handed form possible: “What specific policies would you pursue in Sacramento to best balance our recent economic resurgence with the impacts that insane cost of living has had on marginalized communities?” Unlike many inquiries about the housing crisis we’ve seen, this question specifically focused on the given context of the city’s current economic resurgence, and how best to “balance” growth with emergent inequality. Wiener seemed to agree: “the past 5 years have been completely predictable,” the Supervisor noted.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Characteristically, Wiener responded in terms of policies Supervisor Kim had opposed:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;Jane Kim has repeatedly proposed policies that kill off housing while opposing policies that could spur more housing and more affordable housing. Jane Kim co-authored the Mission Housing Moratorium, while I opposed it. Jane Kim opposed the 7,500 unit Park Merced project (west side housing, with a rail line through it, family sized as well), which I supported. Jane Kim opposed the Affordable Housing Density Bonus program (you get two extra floors in height in exchange for higher percentage of affordable housing), which I supported. And, Jane Kim opposed the Governor's by-right proposal to make it easier to get housing approved. I supported that proposal on the condition that it be amended to, for example, protect rent-controlled housing from demolition.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;Mercifully, not all of Wiener’s policy positions served as platforms for attacking his opponent. The Supervisor answered a question about California’s Cap and Trade policies for carbon emissions and continued GDP growth without once mentioning Kim. “We need to continue to de-carbonize our transportation sector. That means more transit, more no and low-carbon vehicles - with strong and equitable incentives to shift our fleet away from carbon,” he wrote.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Wiener has &lt;a href=&quot;http://www.sfexaminer.com/supervisor-scott-wiener-proposes-new-subway-tunnels-throughout-city/&quot;&gt;written&lt;/a&gt; extensively on the need to expand BART throughout western San Francisco, which, due to slow MUNI service, remains functionally as remote from San Francisco’s Civic Center as downtown Walnut Creek.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A brief argument ensued over Wiener’s opposition to Proposition 60, the state ballot measure that would require adult film actors to wear condoms on set. The anonymous interrogator, labeled “forever a troll” by another Redditor, harshly criticized Wiener’s preference for standard practices including regular STI testing and PrEP, a drug that prevents HIV transmission.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“At no point have I ever opposed condoms…Condoms helped save our community,” Wiener wrote. “We must continue to make condoms easily available, and I continue to support that. But we should also not pass laws that contradict current public health, scientific approaches to preventing HIV - approaches that, yes, include condoms but also include other prevention techniques, including PrEP” The Supervisor also shrugged off accusations that he had any connection to Gilead, the pharmaceutical conglomerate that manufactures PrEP.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Other issues that did not bring up Jane Kim included maintenance of bike lanes (Answer: “Our city needs a culture change around double parking”) and police accountability (“You can support the police while also supporting reform”).&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Marjan Philhour, candidate for District 1 Supervisor, will participate in the next SF YIMBY-sponsored AMA forum on October 20th.&lt;/p&gt;
 
     
   
