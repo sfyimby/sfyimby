@@ -140,7 +140,7 @@ body {
 
 .news-article .text-block {
     font-family: 'Alegreya', serif;
-    font-size: 1.2em;
+    font-size: 1.5em;
     line-height: 1.4em;
     text-align: justify;
 }
@@ -221,7 +221,7 @@ div.footer-contact {
 }
 
 div.page {
-    text-align: center;
+    /*text-align: center;*/
     margin: 0 auto;
     background: #FFFFFF;
 }
@@ -251,12 +251,13 @@ img.splash-ad {
 }
 /* make the images smaller by fixing the max-width */
 img.news_banner {
-    max-width: 80%;
-  	max-height: 80%;
+  	max-width: 80%;
+  	max-height: 450px;
     margin: auto;
 		padding: 2%;
     text-align: center;
     display: inline-block;
+		box-shadow: -10px 10px 20px #888888;
 }
 
 div.splash_ads {
