@@ -2,13 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-05T00:00:00Z</updated>
+  <updated>2016-12-12T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/san-francisco-approves-200-units-with-state-density-bonus/">
+    <title type="text">San Francisco Approves 200 Units with State Density Bonus</title>
+    <id>urn:uuid:87cf3fe1-4905-36a9-a8de-796815141ab6</id>
+    <updated>2016-12-12T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/san-francisco-approves-200-units-with-state-density-bonus/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;In a landmark decision last Thursday, the San Francisco Planning Commission voted 5-1 to approve a project with 200 dwelling units at 333 12th Street in the South of Market (SoMa) District. Spearheaded by local developer Panoramic Interests, the project makes local history by being the first development in San Francisco to invoke the State Density Bonus law to add more units to the project.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Dubbed &lt;a href=&quot;http://www.panoramic.com/cityspaces-location/cityspaces-333-12th-st/&quot;&gt;“CitySpaces 333,”&lt;/a&gt; the six-story building will contain 200 “micro-unit” apartments, some with up to four bedrooms, with bike storage and two car-sharing spots instead of private parking.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Initially planned solely for student housing, the project would have qualified under the city’s Student Housing Ordinance exempting the developer from including any on-site Below Market Rate (BMR) units. San Francisco recently raised those requirements to 25% BMR for new rental housing under June’s Proposition C, though CitySpaces 333 was grandfathered in under earlier, lower requirements.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“It’s a huge step forward,” said Zac Shore of Panoramic Interests. “The State Density Bonus dovetails nicely with our student housing application, enabling us to keep the subsidized units on-site while building 52 additional units of much needed student housing for nonprofit schools.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;CitySpaces 333 qualified for a 35% increase in density in exchange for providing 11% of its units—16 total—at rents permanently affordable to Very Low-Income households, defined as earning up to 50% of the Area Median Income. Should Panoramic end a leasing agreement with a 501(c)(3) educational nonprofit, the building would be required to provide an additional 7% BMR under the Western SoMa neighborhood plan.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In other words, this landmark project will combine student dormitories with subsidized housing for any low-income household that completes the lottery application process through the Mayor’s Office of Housing. Should the project cease to include dorms, more subsidized housing will take their place.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Shore also noted that the two additional floors would change the construction from a wood-frame building  to concrete. “The additional units granted under the state density bonus allow us to make that construction cost increase work financially, while keeping the subsidized units on site,” he said. “The state density bonus seems to be one of the only ways to work with the inclusionary housing requirements brought on by Prop C.” (Earlier this year, a &lt;em&gt;Metro Observer&lt;/em&gt; &lt;a href=&quot;http://sfbamo.com/news/over-three-months-prop-c-has-reduced-production-of-affordable-housing/&quot;&gt;investigation&lt;/a&gt; found that fewer residential units had been proposed after the passage of Proposition C.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The state density bonus has been a hot-button issue in San Francisco politics: up throughout this year,  legislators and stakeholders were bitterly divided over the proposed &lt;a href=&quot;http://hoodline.com/2016/06/votes-on-dueling-plans-reveal-what-sf-supervisors-really-believe-about-housing-solutions&quot;&gt;Affordable Housing Bonus Program (AHBP)&lt;/a&gt;, a local implementation of the state density bonus.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Planning Commissioner Dennis Richards voted in favor of the project, but also stated in an interview that he was open-minded to the opponents’ concerns that the density bonus did not adequately maximize affordability. “What we have is a policy issue, and you don’t evaluate policy over a specific project—you make policy to apply to many projects. So I think they got that backwards,” he said. “Now, what do you do to get the maximum number of affordable units you can? That’s what we have to figure out. That’s the policy issue.” Aside from their deliberations on specific projects, Commissioner Richards noted that the Planning Commission is able to send communications to the Board of Supervisors urging any number of policy reforms.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The developer has the law on their side,” Richards added. “We sat there with the seven pages of the law printed out in front of us.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In late September, Governor Jerry Brown approved &lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201520160AB2501&quot;&gt;AB 2501&lt;/a&gt; a bill proposed by State Assemblymember Richard Bloom (Santa Monica) requiring local municipalities to enact their own standards of compliance to the State Density Bonus. In part, the bill reads:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;&quot;All cities, counties, or cities and counties shall adopt an ordinance that specifies how compliance with this section will be implemented. Failure to adopt an ordinance shall not relieve a city, county, or city and county from complying with this section.&quot;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;… &quot;A local government shall not condition the submission, review, or approval of an application pursuant to this chapter on the preparation of an additional report or study that is not otherwise required by state law, including this section.&quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/in-loving-memory/">
     <title type="text">In Loving Memory</title>
     <id>urn:uuid:018dd771-7335-3a2f-8e74-2e1741b0f53f</id>
@@ -4663,214 +4747,6 @@ His freestyle rapping often includes random syllables, a “made-up language” 
   
     
 				&lt;p&gt;People will go far to find peace—though personally, I’m glad Oji didn’t move any farther. Here one can breathe deeply, and listen.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/arce-discusses-transit-and-housing-at-30th-and-mission/">
-    <title type="text">Arce Discusses Transit and Housing at 30th &amp; Mission</title>
-    <id>urn:uuid:81077869-6af6-3b06-85f9-69c4e0ad1fba</id>
-    <updated>2016-10-12T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/arce-discusses-transit-and-housing-at-30th-and-mission/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Joshua Arce, a civil rights attorney and native of the Mission District, has ambitious plans for the area's southwestern fringe. With almost no mention of his campaign for District 9 Supervisor, he has announced plans for a broad scope of infrastructure improvements for the area south of Cesar Chavez Street, including a new BART station at 30th &amp;amp; Mission. Last night, Arce gathered before a small but mixed crowd (ideologically and otherwise, as it turned out) to present his plan in more detail and field concerns from the public.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Now dubbed the Mission South of Cesar Chavez Sustainable Neighborhood Plan, Arce’s goals are hardly new: his presentation began with a historical timeline of transit proposals in the neighborhood, most recently including plans for a BART station that were abandoned after a gloomy fiscal study in 2003. But this new plan, &lt;a href=&quot;http://sfbamo.com/news/joshua-arce-proposes-bart-station-housing-south-of-cesar-chavez/&quot;&gt;unveiled&lt;/a&gt; several months ago with the support of State Assemblymember David Chiu and BART Director Nick Josefowitz, accounts for the many shortcomings that undermined older proposals.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/arce-discusses-transit-and-housing-at-30th-and-mission/slide5.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Housing aside, the plan’s most beneficial innovation is ultimately a fiscal one. Construction of the new BART station would cost $200 million, less than half of the $500 million projected in 2003—and tunnel boring would occur underground, causing no disruption to traffic on Mission Street.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/arce-discusses-transit-and-housing-at-30th-and-mission/slide2a.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Two design features are responsible for these savings: first, excavation would only have to account for 50% of the hill incline than previously estimated; second, BART would no longer consider expensive “pocket tracks” to repair trains at the station. Even though boring under Mission Street would cost more than tearing up an entire mile of the street, which the 2004 proposal estimated would last for 11 months, the overall cost is lower.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/arce-discusses-transit-and-housing-at-30th-and-mission/slide2b.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Arce’s ambitions go beyond transit, including plans to build dense, transit-oriented affordable housing around the station. Many vacant lots near the 30th &amp;amp; Mission Safeway had been identified as “opportunity sites” to build a combination of Below Market Rate (BMR) units, and market-rate construction to finance the subsidies. Unsurprisingly, this drew the ire of some neighbors who insisted that anything below 50% or 100% Affordable Housing could ease the city’s catastrophic displacement crisis.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Before the presentation even began, I had the distinct pleasure of hearing local landlord Spike Kahn lecture &lt;a href=&quot;https://about.me/gwynethborden&quot;&gt;Gwyneth Borden&lt;/a&gt;, a black tenant and transit advocate, about the “gentrifying effects” a new BART station would have. The same landlord, whose campaign against the “Beast on Bryant” project earned a place on our list of &lt;a href=&quot;http://sfbamo.com/news/top-10-bay-area-nimby-moments-of-2016/&quot;&gt;Top 10 NIMBY Moments&lt;/a&gt; this year, has previously asserted that &lt;a href=&quot;http://missionlocal.org/2016/08/big-bucks-spent-in-district-9-race/&quot;&gt;“No housing is better than gentrified housing.”&lt;/a&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When fears of gentrification were voiced during the presentation, Arce was not unprepared for criticism. He made particular note of London Breed’s recent Neighborhood Preference Ordinance, recently &lt;a href=&quot;http://sfist.com/2016/09/22/hud_breed_willie_kennedy.php&quot;&gt;approved&lt;/a&gt; by the federal government after a tense stalemate, whichallocates preferential lottery slots in BMR dwelling units for applicants living near the project. The Department of Housing and Urban Development approved Breed’s plan only for implementation in neighborhoods seeing the most displacement of long-term residents, the Mission chiefly among them. With 1900 units built in the area, Arce argued, Breed’s legislation could help stem displacement where new subsidized housing may not otherwise help locals.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/arce-discusses-transit-and-housing-at-30th-and-mission/slide1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Amid frequent check-ins on the score of the ongoing Giants game, Arce faced a deluge of criticism from a relative minority of concerned citizens, mostly focused on traffic impacts and the loss of a “chill” and “quiet” environment relative to the rest of the Mission. “We don’t want to be 16th Street,” one 30-year resident exclaimed. The woman told Arce she was there on behalf of her 91 year old neighbor, who could not walk down the hill to attend. “This needs to consider the needs of those who are mobility-impaired,” she added.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Arce remained steadfast in his assurance that the presentation was simply a “conversation” and that no plans had been set in stone. Borden added, as a candidate for BART’s Board of Directors, that BART did not plan to fund anything beyond core infrastructure maintenance.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Yet Arce also remained clear, despite some residents’ disdain for adding density to the Mission corridor, that the current status quo was the least attractive option. “The easiest thing to do here is to do nothing. We need to think about what will happen if we do that. Will the situation get worse, or will it get better?”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Arce additionally noted that his campaign had refused to receive any donations from real estate developers, in order to “negotiate the best deals” for affordable housing. The comment was undoubtedly an implicit jab at his opponent Hillary Ronen. Ronen, who has raised nearly twice as much funding as Arce, received &lt;a href=&quot;http://missionlocal.org/2016/08/big-bucks-spent-in-district-9-race/&quot;&gt;$2,700 from registered lobbyists&lt;/a&gt;, including one representing the developer for the “Beast on Bryant” project. When some members of the public urged a greater proportion of subsidized units, he typically responded that his goal was to have as much as possible.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Borden again chimed in with qualified optimism regarding the city’s growth. “Unless we build a moat around the city, people aren’t going to stop coming here,” she said. “As much as we want to focus on what’s impeding our quality of life &lt;em&gt;today&lt;/em&gt;, we also need to plan long-term...The city hasn’t planned for growth, and until that changes, each cycle is going to hit us even harder.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Speaking from her experience as chair of the Golden Gate Restaurant Association, Borden noted that retail revenues had been down across San Francisco, regardless of lost parking or new development. The presentation noted local retailers’ concerns that the influx of new high-income residents had failed to correlate with increased consumer spending or even more foot traffic.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;One landlord in the audience seemed to contend that the character of San Francisco’s newcomers may ultimately represent a net loss for local retail. “I have these tenants, and they’re all rocket scientists who went to MIT. They don’t know where to find a hardware store. They order everything online, commute to their jobs out of town, and only stay here to drink on weekends.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Arce’s response drew muted laughter: “What cannot be said of them is that they aren’t rocket scientists.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Other local planners and architects insisted that developing the area need not disrupt the “quality of life” in the area if designed accordingly. “There are many neighborhoods in Tokyo that are far more dense than this one, and they’re so calm, I mean—you can hear the birds sing,” one man remarked.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Many criticisms were met with the same tentative optimism: “this is why we’re having this conversation,” Arce said until it virtually became his mantra. But the response also drew him back to the night’s most prominent theme: is the status quo the best option?&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/arce-discusses-transit-and-housing-at-30th-and-mission/slide3.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Indeed, some attendees immediately shouted “no” when Arce reached a point on his final slide: &lt;em&gt;Does the community still want BART?&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Arce confirmed in a brief interview that he would be open to different plans if they proved to be a better option than “if we do nothing.” Other options may come to include a Bus Rapid Transit corridor, or a BART/MUNI transfer station.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Everything and nothing is on the table. Ultimately, everyone in attendance seemed to leave with a satisfied sense of having their input weighted against all options, including nothing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The aforementioned 30-year resident, attending for her mobility-impaired neighbor, had bigger plans that night. “I gotta go around the corner and cast my vote for Hillary,” she said to me as we exited the venue.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;(One can only assume she meant Clinton.)&lt;/p&gt;
 
     
   
