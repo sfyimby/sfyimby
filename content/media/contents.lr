@@ -1,8 +1,10 @@
 title: Media
 ---
 body:
+
 This is the media page!
 
 To Do:
-* embed youtube channel
 * embed podcast
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjduWg7J6pY?list=UUiKFyG2M8e62HOrDDJ7HYbw" frameborder="0" allowfullscreen></iframe>
