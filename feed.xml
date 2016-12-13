@@ -9,6 +9,90 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/farrells-internet-bill-may-bring-faster-cheaper-broadband-but-also-lawsuits/">
+    <title type="text">Farrell's Internet Bill May Bring Faster, Cheaper Broadband (But Also Lawsuits)</title>
+    <id>urn:uuid:e50e47c9-6524-34f7-b6c1-dc83a5eb7964</id>
+    <updated>2016-12-13T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/farrells-internet-bill-may-bring-faster-cheaper-broadband-but-also-lawsuits/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;You read this morning’s &lt;a href=&quot;http://sfbamo.com/news/op-ed-poor-housing-and-lackluster-broadband-access-in-san-francisco/&quot;&gt;op-ed&lt;/a&gt; by our webmaster Sonja Trauss. Now for the story:&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Supervisor Mark Farrell will introduce legislation at today’s Board of Supervisors meeting to mandate equal access for San Francisco tenants to all Internet Service Providers (ISPs) in the area. Farrell’s &lt;a href=&quot;https://sfgov.legistar.com/View.ashx?M=F&amp;amp;ID=4834773&amp;amp;GUID=0DCCBCFF-6110-4276-B446-D4A990723825&quot;&gt;ordinance&lt;/a&gt;, an amendment to the Police Code banning favorable financial agreements between major providers and landlords, was approved by the Board’s Budget and Finance Committee last month, and will now receive its second reading before the full Board.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The ordinance will ban “exclusive access agreements” in which a property owner can arrange with an ISP to offer access to a single service, which the city hopes will enable tenants to choose their broadband connection as freely as property owners themselves.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Critically, the bill's opening salvo reads: “No property owner shall interfere with the right of an occupant to obtain communications services from the communications services provider of the occupant's choice.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Fair market prices for internet access sounds like a no-brainer for such a tech-centric city as San Francisco, but the Supervisors are steeling themselves against much expected blowback. Today’s meeting will be preceded by a closed session with the City Attorney to discuss “anticipated litigation” in response to Farrell’s proposal, widely expected to pass.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;These concerns are not without precedent. For example, Comcast has sued the cities of &lt;a href=&quot;http://arstechnica.com/business/2015/04/comcast-brings-fiber-to-city-that-it-sued-7-years-ago-to-stop-fiber-rollout/&quot;&gt;Chattanooga&lt;/a&gt; and &lt;a href=&quot;https://www.techdirt.com/articles/20161026/07362935891/comcast-joins-att-files-lawsuit-against-nashville-to-slow-google-fiber.shtml&quot;&gt;Nashville&lt;/a&gt; in Tennessee to halt the construction of Google  Fiber infrastructure.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“We always like things that encourage competition in this market. This industry has suffered greatly due to monopolies,” said Anders Finn, Director of Technology at the local ISP &lt;a href=&quot;http://monkeybrains.net&quot;&gt;monkeybrains.net&lt;/a&gt;. “Now, I’ve seen some things in this bill that are going to force property owners to pay for upgrades, which I don’t think is completely fair. There’s a lot more market choice for the city’s more affluent residents, so in lower-income areas, we need to see more of a push for better internet.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Finn noted that Monkeybrains is working to install inexpensive broadband services in every unit at Hunters Point East/West, an apartment complex on Oakdale Avenue in the Bayview neighborhood, and that such projects would not be hindered by Farrell’s legislation.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“We’d like to see some of the onus to provide higher speeds and lower prices to be on the ISP, not entirely on property owners,” Finn continued. “Say you have a building from the 1920s with old wiring, and suddenly you find out you’re required to install Google Fiber and eat the cost. There are better ways to make that happen.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The ordinance’s latest amendments appear to have been adjusted to meet these concerns, at least for landlords in multi-unit buildings. Although a property owner is required by Farrell’s bill to notify the ISP if the building lacks the necessary utilities and infrastructure to accommodate upgrades, Section 5208 adds:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;A property owner is entitled to just and reasonable compensation from a communications services provider that obtains access to a multiple occupancy building from a property owner…to provide communications services to occupants.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;“Just and reasonable compensation” is defined as the “fair market value” of the impact work would have on a building.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Though lawsuits may ultimately be unlikely from larger landlords, ISPs could conceivably find themselves sharing grievances with property owners who rent out a room in a single-family home, or may not otherwise qualify for just compensation.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/op-ed-poor-housing-and-lackluster-broadband-access-in-san-francisco/">
     <title type="text">Op-Ed: Poor Housing and Lackluster Broadband Access in San Francisco</title>
     <id>urn:uuid:194b90dd-411b-3646-ae4d-1a0ebe02f80a</id>
@@ -4473,129 +4557,6 @@ complies with zoning requirements… Accordingly, the project does not violate t
   
     
 				&lt;p&gt;The LAO recommends the governor place checks on local authority when it comes to housing approvals, since many communities fail to fully account for the impact of their decision not to build adequate housing. But if Governor Brown’s attempt at a &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/unions-against-gov-browns-as-of-right-housing-plan.html&quot;&gt;by-right housing solution&lt;/a&gt; is any indication, state intervention may still be a long way away.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/op-ed-sleepwalking-in-the-tenderloin/">
-    <title type="text">Op-Ed: Sleepwalking in the Tenderloin</title>
-    <id>urn:uuid:d14e969f-2aaf-38b2-b6b5-385a29d8e113</id>
-    <updated>2016-10-17T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/op-ed-sleepwalking-in-the-tenderloin/" />
-    <author>
-      <name>Elvin Padilla</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;This article originally appeared on &lt;a href=&quot;https://tenderlion.org/about/&quot;&gt;Tenderlion.org&lt;/a&gt; and is reprinted here with permission from the author. It has been edited for clarity.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;The IFD Fizzle&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It’s tough trying to sell something with the moniker &lt;em&gt;Infrastructure Finance District&lt;/em&gt;, or IFD.  IFDs are a way to capture the increase in local taxes so they can be reinvested in an area over a prescribed period of time. Tax increment financing was considered as one of the ways to pay the tab for the Central Market Economic Strategy &lt;a href=&quot;https://tenderlion.files.wordpress.com/2016/10/central-marketeconomic-strategy-november-2011.pdf&quot;&gt;(CMES)&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The strategy was straightforward: We all can see the surge of investment in mid-Market coming and the commensurate surge in taxes collected by the city.  This is a way the city – having successfully attracted tech companies to the area – can reinvest and leverage those extra gains in the local community.  Everybody wins.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;As director of the Tenderloin Economic Development Project, I lobbied for the passage of an IFD.  I made the rounds to my neighboring community organizations, many of which signed on, and gave a tax-increment 101 presentation to an audience of residents and other stakeholders at the Tenderloin Futures Collaborative, which at the time was facilitated by much-loved Tenderloin legend Reverend Glenda Hope.  But the IFD campaign fizzled.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;I could not get the support of the Tenderloin Neighborhood Development Corporation (TNDC), the Tenderloin’s largest landlord.  IFDs did not provide funding for new construction of affordable housing, a deal killer for TNDC.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;This struck me as unfortunate for several reasons:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;•    The Tenderloin’s housing stock is already affordable and protected, much of it owned and managed by TNDC.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;•    TNDC residents would have been beneficiaries of neighborhood improvements.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;•    IFD legislation did allow for funds to be used to build replacement housing, which was an opportunity to rebuild some fucked-up SRO hotels like, say, the notorious Warfield Hotel on the corner of Turk &amp;amp; Taylor, or the entire eastside of 100 Taylor Street for that matter (built for the housing needs of the late 1900s), into high-density, high-quality, mixed-income housing two blocks from the Powell Street BART/MUNI station.  The Warfield Hotel’s historic plaque doesn’t do shit for poor people or the city’s twenty-first century urgent need for more housing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;•    In 2012 we voted for Proposition C to create a $1.5 billion dollar trust fund for affordable housing, so a much-needed war chest was already moving forward for housing. In comparison, nothing – zero – was available to invest in community facilities: homeless shelters; arts &amp;amp; education centers; recreation centers; parks; a new neighborhood YMCA; an SF community college campus; satellite libraries; streetscape improvements to improve public safety at several notoriously dangerous intersections; all these investments in community could have been paid for and/or catalyzed by an IFD.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It should be noted that California based affordable housing developer Mercy Housing, directed by Doug Shoemaker, said yes.   Also saying yes were:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;a href=&quot;https://allstars.org/&quot;&gt;All Stars Project&lt;/a&gt;, San Francisco Bay Area; &lt;a href=&quot;https://www.linesballet.org/&quot;&gt;Alonzo King LINES Ballet&lt;/a&gt;; &lt;a href=&quot;http://counterpulse.org/&quot;&gt;CounterPulse&lt;/a&gt;; &lt;a href=&quot;https://www.demarillac.org/&quot;&gt;De Marillac Academy&lt;/a&gt;; &lt;a href=&quot;http://www.theintersection.org/&quot;&gt;Intersection for the Arts&lt;/a&gt;; &lt;a href=&quot;http://www.kunst-stoff.org/ksarts&quot;&gt;Kunst-Stoff&lt;/a&gt; arts &amp;amp; dance company; &lt;a href=&quot;http://www.lhtsf.org/&quot;&gt;Lorraine Hansberry Theater&lt;/a&gt;; &lt;a href=&quot;http://www.luggagestoregallery.org/&quot;&gt;Luggage Store Gallery &amp;amp; 509 Cultural Center&lt;/a&gt;; &lt;a href=&quot;http://www.tlcbd.org/&quot;&gt;North of Market Tenderloin Community Benefit District&lt;/a&gt;; &lt;a href=&quot;http://www.ncclf.org/&quot;&gt;Northern California Community Loan Fund&lt;/a&gt;; &lt;a href=&quot;http://www.sfcamerawork.org/&quot;&gt;SF Camerawork&lt;/a&gt;; &lt;a href=&quot;https://www.ymcasf.org/locations/shih-yu-lang-central-ymca&quot;&gt;Shih Yu-Lang Central YMCA&lt;/a&gt;; &lt;a href=&quot;https://www.stanthonysf.org/&quot;&gt;St. Anthony’s&lt;/a&gt;; &lt;a href=&quot;http://www.kidsclub.org/find-a-club/tenderloin-clubhouse/&quot;&gt;Tenderloin Boys &amp;amp; Girls Club&lt;/a&gt;; &lt;a href=&quot;http://www.tedpsf.org/&quot;&gt;Tenderloin Economic Development Project&lt;/a&gt;; &lt;a href=&quot;http://www.uchastings.edu/&quot;&gt;UC Hastings School of Law&lt;/a&gt;; &lt;a href=&quot;http://www.vydc.org/&quot;&gt;Vietnamese Youth Development Center&lt;/a&gt;; &lt;a href=&quot;http://youthspeaks.org/&quot;&gt;Youth Speaks&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;A pretty impressive line-up – arts, affordable housing, education, public health, business, nonprofit lending, youth development, social services – all represented here.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Unfortunately, I couldn’t get ahold of Hospitality House to add them to the list.  Given that mid-Market/Tenderloin is the epicenter of San Francisco’s homeless population it would only be appropriate to dedicate a portion of captured tax funds to invest in whatever facilities could help meet their needs.  Each year, responses seem limited to service providers’ annual operating budget add-back requests that keep us as indentured servants and do nothing to change the status quo.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Perhaps at some point this status quo just became our norm and we no longer even see or question it: a kind of collective sleepwalking.  Except, of course, for poor families in the Tenderloin, they definitely still notice it because they have to live with it. They don’t get evenings and weekends off.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;There’s little “active” left in the “activist,” it seems to me.  We are lulled to sleep by bi-weekly paychecks and the droning sound of the BART train at the end of each weekday as we head back to our comfortable homes in East Bay neighborhoods where the concentration of poverty in the Tenderloin is far, far away.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Supervisor Kim wouldn’t support an IFD; perhaps she was getting pushback from other sources.  I remember her saying we had to be careful about improving the neighborhood, which pretty much sums up her entire tenure as district supervisor.  I don’t get how building neighborhood art centers or parklets or a community college are a threat against the backdrop of an enormous inventory of protected housing, much of which, by the way, is dangerously substandard and in need of rebuilding.   A perplexing Progressive paradox – over five years living and working in the Tenderloin and I still don’t see the progress in Progressive.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;Lessons Learned&lt;/strong&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While Mayor Ed Lee initially championed an IFD only to deliver a disappearing act instead, I often think the IFD campaign failure is largely on me.  I made the naïve assumption that delivering a well-crafted letter – co-authored by the Tenderloin Economic Development Project and the Northern California Community Loan Fund – signed by numerous and influential stakeholder organizations would grab the attention of city hall and elicit a response.  It doesn’t work that way; what was needed was an organized political campaign – a machine – that worked the chambers in city hall.  I was a newbie and didn’t know how to work the politics.  One dude getting his neighbor nonprofits – however impressive they may be – to sign a &lt;a href=&quot;https://tenderlion.org/2015/03/06/cbos-letter-to-supervisor-kim-and-mayor-ed-lee/&quot;&gt;petition&lt;/a&gt; doesn’t cut it.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Witness what &lt;a href=&quot;http://arts4bayarea.nationbuilder.com/allocation_of_hotel_tax_fund&quot;&gt;Arts for A Better Bay Area&lt;/a&gt; is doing to build support for &lt;a href=&quot;http://bettersf.com/&quot;&gt;Proposition S&lt;/a&gt;, a super important moment for restoring arts funding and improving services for homeless families.  That’s how you bring important initiatives from concept to reality.&lt;/p&gt;
 
     
   
