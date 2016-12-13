@@ -1,0 +1,42 @@
+title: Farrell's Internet Bill May Bring Faster, Cheaper Broadband (But Also Lawsuits)
+---
+author: Diego Aguilar-Canabal
+---
+banner_img: farrell-1-.jpg
+---
+body:
+
+#### text-block ####
+text:
+
+You read this morning’s [op-ed](http://sfbamo.com/news/op-ed-poor-housing-and-lackluster-broadband-access-in-san-francisco/) by our webmaster Sonja Trauss. Now for the story:
+
+Supervisor Mark Farrell will introduce legislation at today’s Board of Supervisors meeting to mandate equal access for San Francisco tenants to all Internet Service Providers (ISPs) in the area. Farrell’s [ordinance](https://sfgov.legistar.com/View.ashx?M=F&ID=4834773&GUID=0DCCBCFF-6110-4276-B446-D4A990723825), an amendment to the Police Code banning favorable financial agreements between major providers and landlords, was approved by the Board’s Budget and Finance Committee last month, and will now receive its second reading before the full Board.
+
+The ordinance will ban “exclusive access agreements” in which a property owner can arrange with an ISP to offer access to a single service, which the city hopes will enable tenants to choose their broadband connection as freely as property owners themselves.
+
+Critically, the bill's opening salvo reads: “No property owner shall interfere with the right of an occupant to obtain communications services from the communications services provider of the occupant's choice.”
+
+Fair market prices for internet access sounds like a no-brainer for such a tech-centric city as San Francisco, but the Supervisors are steeling themselves against much expected blowback. Today’s meeting will be preceded by a closed session with the City Attorney to discuss “anticipated litigation” in response to Farrell’s proposal, widely expected to pass. 
+
+These concerns are not without precedent. For example, Comcast has sued the cities of [Chattanooga](http://arstechnica.com/business/2015/04/comcast-brings-fiber-to-city-that-it-sued-7-years-ago-to-stop-fiber-rollout/) and [Nashville](https://www.techdirt.com/articles/20161026/07362935891/comcast-joins-att-files-lawsuit-against-nashville-to-slow-google-fiber.shtml) in Tennessee to halt the construction of Google  Fiber infrastructure. 
+
+“We always like things that encourage competition in this market. This industry has suffered greatly due to monopolies,” said Anders Finn, Director of Technology at the local ISP [monkeybrains.net](http://monkeybrains.net). “Now, I’ve seen some things in this bill that are going to force property owners to pay for upgrades, which I don’t think is completely fair. There’s a lot more market choice for the city’s more affluent residents, so in lower-income areas, we need to see more of a push for better internet.”
+
+Finn noted that Monkeybrains is working to install inexpensive broadband services in every unit at Hunters Point East/West, an apartment complex on Oakdale Avenue in the Bayview neighborhood, and that such projects would not be hindered by Farrell’s legislation.
+
+“We’d like to see some of the onus to provide higher speeds and lower prices to be on the ISP, not entirely on property owners,” Finn continued. “Say you have a building from the 1920s with old wiring, and suddenly you find out you’re required to install Google Fiber and eat the cost. There are better ways to make that happen.”
+
+The ordinance’s latest amendments appear to have been adjusted to meet these concerns, at least for landlords in multi-unit buildings. Although a property owner is required by Farrell’s bill to notify the ISP if the building lacks the necessary utilities and infrastructure to accommodate upgrades, Section 5208 adds:
+
+> A property owner is entitled to just and reasonable compensation from a communications services provider that obtains access to a multiple occupancy building from a property owner…to provide communications services to occupants.
+
+“Just and reasonable compensation” is defined as the “fair market value” of the impact work would have on a building.
+
+Though lawsuits may ultimately be unlikely from larger landlords, ISPs could conceivably find themselves sharing grievances with property owners who rent out a room in a single-family home, or may not otherwise qualify for just compensation.
+---
+pub_date: 2016-12-13
+---
+tags: San Francisco
+---
+twitter_handle: daguilarcanabal
