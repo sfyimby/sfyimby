@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-15T00:00:00Z</updated>
+  <updated>2016-12-16T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/tweets-from-the-front-affordable-housing-in-forest-hill/">
+    <title type="text">Tweets from the Front: Affordable Housing in Forest Hill</title>
+    <id>urn:uuid:6764eb3b-ba27-371a-a982-a20db98c5a2d</id>
+    <updated>2016-12-16T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/tweets-from-the-front-affordable-housing-in-forest-hill/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Last night, local residents met at the Forest Hill Christian Church for an informational session on a &lt;a href=&quot;http://www.sfexaminer.com/forest-hill-neighbors-oppose-150-unit-senior-housing-proposal/&quot;&gt;proposed 150-unit apartment building&lt;/a&gt; for low-income seniors. The non-profit developer Christian Church Homes, along with a representative from the mayor's Department of Homelessness &amp;amp; Supportive Services, fielded questions from an often hostile audience over a tense two hours.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Webmaster Sonja Trauss and I reported the meeting live on Twitter, so rather than recap at length, I thought it best to offer highlights from our play-by-play coverage.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Some important fact checks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;http://sf.curbed.com/2016/11/18/13681294/forest-hill-sf-senior-housing-joe-bravo&quot;&gt;Joe Bravo&lt;/a&gt;, a lawyer and landlord who has &lt;a href=&quot;http://sfgov.org/bdappeal/sites/default/files/Item%204,%20Jurisdiction%20Request%20@%20665%20San%20Jose%20Avenue_2.pdf&quot;&gt;evicted tenants&lt;/a&gt; in the Mission, objected to one comment pointing out the neighborhood's history of discrimination. &quot;Not since the '30s,&quot; he scoffed. &lt;a href=&quot;http://www.outsidelands.org/sw5.php&quot;&gt;In 1957&lt;/a&gt;, the iconic baseball player Willie Mays almost had his home purchase revoked in Forest Hill after furious opposition from nearby residents. After racist threats were thrown through their window, Mays and his wife sold their house at 175 Miraloma and returned to New York.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Many neighbors objected to the proposed project being &quot;too tall&quot; and &quot;a giant in the neighborhood.&quot; At six stories, it would be far less of a giant than the ten-story &lt;a href=&quot;http://www.outsidelands.org/sw5.php&quot;&gt;Avalon Sunset Towers&lt;/a&gt; just a few blocks away.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;storify&quot;&gt;&lt;iframe src=&quot;//storify.com/MetroObserver/forest-hill-neighborhood-meeting-12-15/embed?header=false&amp;template=slideshow&quot; width=&quot;100%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;//storify.com/MetroObserver/forest-hill-neighborhood-meeting-12-15.js?header=false&amp;template=slideshow&quot;&gt;&lt;/script&gt;&lt;noscript&gt;[&lt;a href=&quot;//storify.com/MetroObserver/forest-hill-neighborhood-meeting-12-15&quot; target=&quot;_blank&quot;&gt;View the story &quot;Forest Hill Neighborhood Meeting 12/15&quot; on Storify&lt;/a&gt;]&lt;/noscript&gt;&lt;/div&gt;
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/editorial-real-affordable-housing-activists-dont-oppose-new-housing/">
     <title type="text">Editorial: Real Affordable Housing Activists Don't Oppose New Housing</title>
     <id>urn:uuid:4a280e75-2995-3f61-b150-f7a650405114</id>
@@ -4596,103 +4643,6 @@ complies with zoning requirements… Accordingly, the project does not violate t
   
     
 				&lt;p&gt;&lt;em&gt;BAMO&lt;/em&gt; sides with Peter Cohen on this one - Prop U is not good affordable housing policy.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/">
-    <title type="text">Housing Non-Profit Under Investigation for Dark Money Politics</title>
-    <id>urn:uuid:c25038dd-fc22-3214-bb46-c04e661598e0</id>
-    <updated>2016-10-19T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last month, we &lt;a href=&quot;http://sfbamo.com/news/is-a-nonprofit-developer-laundering-money-to-local-campaigns/&quot;&gt;reported&lt;/a&gt; on a city ethics complaint against John Elberling, director of the affordable housing developer TODCO Group, LLC. Elberling is accused of funneling money from his subsidized rental assets through another LLC, the Yerba Buena Neighborhood Consortium (YNBC), to fund political campaigns. In an &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Pre-election-opening-for-Warm-Springs-BART-looks-9981990.php&quot;&gt;interview&lt;/a&gt; with the &lt;em&gt;Chronicle&lt;/em&gt;, Elberling largely admitted to doing so, and argued that nothing illegal or unethical had occurred.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Not everyone agrees with Elberling. Supervisor Mark Farrell released a press statement today, calling for a federal investigation into YNBC, labeled a “&lt;a href=&quot;https://en.wikipedia.org/wiki/Dark_money&quot;&gt;dark money&lt;/a&gt; shell entity” for contributing $375,000 to local ballot measure campaigns in 2016. YNBC’s election mailer was a driving force behind the campaign to pass Proposition C in June, an increase in Below Market Rental requirements for private development co-sponsored by Supervisors Jane Kim and Aaron Peskin.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Profiting from taxpayer subsidy and funneling those profits into local political campaigns is reprehensible,” Farrell said in his statement.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In a press conference at &lt;em&gt;BAMO&lt;/em&gt; offices today, Tim Colen, Executive Director of the San Francisco Housing Action Coalition, reiterated the sentiment. “Who knows if it’s legal or not, but it stinks,” Colen said. “It is so frustrating to learn that housing units built by taxpayers, through clever financial engineering, is being used as a cash cow for political slush funds…to support political measures that are directly harmful to tenants,” he added.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/todco1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Courtesy: &lt;a href=&quot;https://medium.com/@AbleDart&quot;&gt;Able Dart&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Colen, joined by Supervisor Scott Wiener, insisted that the campaign funds should have been reinvested into existing tenants, and could also be used to build more affordable housing. YBNC’s funding mostly came from a profit earned when Elberling refinanced several TODCO properties,&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Elberling conceded as much in his interview with the Chronicle, remaining adamantly without remorse. After refinancing netted several million dollars, TODCO found itself with “a big surplus that we didn’t need for regular expenses, so we funded our ... Yerba Buena Neighborhood Consortium to do community advocacy”—specifically, by allotting at least $300,000 per year for campaign contributions.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In this election cycle, YBNC has contributed $149,000 to the Proposition X campaign, a measure setting high requirements to preserve industrial space, spearheaded by Supervisor Jane Kim. $83,000 has gone to support Propositions D, H, L, and M, four ballot measures Supervisor Aaron Peskin has championed to create special elections for Supervisor vacancies (D), create a Public Advocate office (H), and reorganize existing executive offices in committees with supervisorial appointments (L and M).&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“These four measures are a fraud and a scam,” said Tony Winnicker, and aide to Mayor Ed Lee who has taken a leave of absence to campaign against D, H, L, and M. “Now we know they are primarily funded by money that originated with taxpayers, intended to benefit affordable housing and low-income tenants,” he continued. “These measures have nothing to do with sunshine and reform.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The state’s Fair Political Practices Commission (FPPC) has opened an investigation in response to the complaint. Elberling insisted that everything he did was legal, and not a defrauding of taxpayers. In his estimation, the properties were originally financed by federal and state funding decades ago, which have since been paid off (indeed, yielding a net profit after refinancing).&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In the coming days, the &lt;em&gt;Metropolitan Observer&lt;/em&gt; will be investigating tenant complaints filed with the San Francisco Department of Building Inspection regarding TODCO properties. We will continue to report as the story develops.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;You can watch the entire press conference below:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNoDHLM%2Fvideos%2F373964636279611%2F&amp;show_text=0&amp;width=400&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
     
   
