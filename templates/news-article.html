@@ -108,12 +108,12 @@
 
 						{% set articleLength = articleLength + (2500 * (numImages | length)) %}
 
-						{% if articleLength < 1500 %}
-								{% set numAds = 0 %}
-						{% elif articleLength < 3500 %}
+						{% if articleLength < 200 %}
 								{% set numAds = 1 %}
-						{% else %}
+						{% elif articleLength < 900 %}
 								{% set numAds = 2 %}
+						{% else %}
+								{% set numAds = 4 %}
 						{% endif %}
 
 						{% if numAds > 0 %}
