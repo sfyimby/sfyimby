@@ -1,5 +1,5 @@
 {% macro render_ad(ad_num) %}
-	{% set ads = [ ("BARP.jpg", "https://www.thegamecrafter.com/games/bay-area-regional-planner"), ("rhoades_ad.jpg", "http://rhoadesplanninggroup.com/"), ("square_ad.png", "mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!")] %}
+	{% set ads = [ ("BARP.jpg", "https://www.thegamecrafter.com/games/bay-area-regional-planner"), ("rhoades_ad.jpg", "http://rhoadesplanninggroup.com/"), ("square_ad.png", "mailto:sonja.trauss@gmail.com?subject=I'm interested in ad space!"), ("owlsandanarchists.jpg", " https://www.kickstarter.com/projects/sfbamo/burrowing-owls-vomiting-anarchists-and-sf-housing")] %}
 	{% set adIndex = ad_num % (ads | length) %}
 		<a href="{{ ads[adIndex][1] }}">
 			<img src="{{ ('/static/%s' % ads[adIndex][0]) | url }}" class="news-article-ad">
