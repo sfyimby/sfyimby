@@ -103,7 +103,13 @@
 
     
   
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/editorial-please-help-us-publish-our-first-book/atherton2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+&lt;/div&gt;</content>
   </entry>
   <entry xml:base="http://sfbamo.com/news/in-memoriam-jsun-adrian-mccarty/">
     <title type="text">In Memoriam: Jsun Adrian McCarty</title>
