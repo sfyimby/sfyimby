@@ -2,13 +2,105 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-20T00:00:00Z</updated>
+  <updated>2016-12-21T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/race-class-and-place-uneven-impacts-of-the-housing-shortage-audio/">
+    <title type="text">Race, Class, and Place: Uneven Impacts of the Housing Shortage (Audio)</title>
+    <id>urn:uuid:c673e5b6-0540-359c-9f9e-5778cbfc3d7b</id>
+    <updated>2016-12-21T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/race-class-and-place-uneven-impacts-of-the-housing-shortage-audio/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Two weeks ago, the &lt;a href=&quot;http://www.carlaef.org/resources/&quot;&gt;California Renters Legal Advocacy &amp;amp; Education Fund&lt;/a&gt; (CaRLA) hosted a panel discussion on intersectional justice issues arising from the state's housing shortage. An estimated 130 people attended.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&quot;Yes, zoning restrictions and requiring multiple approvals harms affordability and increases segregation,&quot; said Brian Hanlon, co-founder of CaRLA. Mr. Hanlon gives us the scoop on the four panelists:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;As a scholar at UCLA, Michael Lens' research interests vary, but he published a major paper about the effects of land use policies on economic segregation. Professor Lens understands that saying no to housing means saying yes to segregation and denying people access to opportunity.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kate Downing not only co-founded a successful YIMBY organization in Palo Alto, she was a former Planning Commissioner who regularly critiqued Palo Alto's exclusionary land use practices, which drove low- and middle-income people away from the city.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;As a long-time affordable housing practitioner and now Chief of Staff to the Mayor of Oakland, Tomiquia Moss is uniquely qualified to discuss the effects of the housing shortage in Oakland and the politics of possible solutions.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Before leading California's Department of Housing and Community Development, Ben Metcalf was an Assistant Secretary at HUD and worked at BRIDGE Housing. Ben understands which legislative changes at the state level could spur housing construction and ease the housing shortage, as well as the complicated politics that have thwarted past efforts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;Stream the recording of this fascinating panel below:&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298914402&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+The presentation from Michael Lens:
+
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.carlaef.org/s/SF-Yimby-Dec-2016.pdf&amp;embedded=true&quot; style=&quot;width:718px; height:500px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/race-class-and-place-uneven-impacts-of-the-housing-shortage-audio/laura-crowd-2.jpeg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(courtesy: Laura Clark)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Kate Downing's  presentation:&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.carlaef.org/s/CARLA-talk-Kate.pdf&amp;embedded=true&quot; style=&quot;width:718px; height:500px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Cover photo by Bobak Esfandiari&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/chiu-seeks-additional-housing-funds-by-ending-real-estate-tax-benefit/">
     <title type="text">Chiu Seeks Additional Housing Funds by Ending Real-Estate Tax Benefit</title>
     <id>urn:uuid:008d02f1-dd5e-3d66-bdbd-1ca526d035f9</id>
@@ -4566,117 +4658,6 @@ We are trying to register as 501(c)(3) and this hurts our ability to do so becau
   
     
 				&lt;p&gt;Kou, a local realtor, pays property taxes on a $1 million assessed value of her home, though the average sale price in the neighborhood is $2.5 million (lower than Palo Alto’s median home price of $4 million). Public tax records show she did not claim a homeowner’s exemption on filings over the past two years. The &lt;em&gt;Metro Observer&lt;/em&gt; has launched an ongoing investigation to ensure that Kou’s primary residence is in fact in Palo Alto, as local election laws require.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/south-bay-stoner-titans-sleep-triumph-at-the-warfield/">
-    <title type="text">South Bay Stoner Titans SLEEP Triumph at The Warfield</title>
-    <id>urn:uuid:65ddd43f-5588-3174-bc8c-a3936edfdb0d</id>
-    <updated>2016-10-24T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/south-bay-stoner-titans-sleep-triumph-at-the-warfield/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Ten years ago, last Friday night at the Warfield would have been unthinkable. San Jose’s stoner-metal heroes Sleep were historic legends, their few albums revered as untouchable classics while the trio splintered into newer, heavier projects. But returns in the market for classic metal albums churn out slower than their songs, and over 20 years after disbanding, the band has found the audience that was always waiting for them.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Hearing the sheer force of air pressure that is their songs, it’s hard to believe the masses weren’t ready for Sleep in the early ‘90s. The trio of Al Cisneros, Matt Pike, and Chris Hakius split up in 1995 after major label London Records refused to release their “unmarketable” hour-long dirge, &lt;em&gt;Dopesmoker.&lt;/em&gt; Those record executives may have been embarrassed to see how many fans were willfully subjecting themselves to whiplash at the Warfield as they played a relatively brief, half-hour snippet of the tune.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Brandishing joints and glass pipes that filled the air with a psychedelic scent, legions chanted along with Cisneros:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;Drrrop out of life&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;with BONG&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;IN&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;HAAAAAAAAAND&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hIw7oeZKpZc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-Opening act Helen Money, an enormously talented solo cellist, hardly needed to mention the debt her sound owed to Sleep. Augmented with distortion and loop pedals, her strings filled the air with a thundering, metallic roar. 
-
-“It’s really an honor” she said of her role in the short tour. The honor was equally ours in getting to see her take up the mantle of stoner-metal pioneer with such aplomb, with her own neoclassical twist.
-
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cQCO-opZKBc?list=PLN3lgHnAvXz5j8_JiJq8GQLvOrpp-tbOh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-    
-  
-    
-				&lt;p&gt;Until recently, Sleep remained in relative obscurity, their records hungrily sought-after by the niche crowd adoring “stoner metal,” “stoner doom,” “sludge,” really all the drug-laced sub-sub-genres that trace their lineage directly back to Black Sabbath’s first three albums. (One of Sleep’s songs “Inside the Sun” is not so much an homage or blatant rip-off as it is a deliberate sequel, lyrically and musically, to Black Sabbath’s “Into the Void” from 1971.) The legend seeped into some cult films—Harmony Korrine famously used “Dragonaut” for a sequence in his experimental collage &lt;em&gt;Gummo&lt;/em&gt;, and Jim Jarmusch sampled “Dopesmoker” in &lt;em&gt;Broken Flowers.&lt;/em&gt; But their influence spread like an adaptive mutation that strengthened the musical species.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Sleep’s monolithic status in the metal pantheon stretches beyond the human members, who kept on being pioneers long after the group folded. Al Cisneros and Chris Hakius formed Om, initially just a drum-bass duo distilling Sleep’s slow-blues into a yoga meditation soundtrack. Matt Pike now leads a faster, more aggressive group, High On Fire, which still regularly tours the country. In the seven years since their initial reunion, as Sleep continues to headline festivals worldwide and prepare to release new music, it’s as though they never left.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Sleep added one new song to their set, and a mere three songs from their perennial classic &lt;em&gt;Holy Mountain.&lt;/em&gt; The record is a testament to their underground popularity, originally an unsolicited demo tape that was released by Earache Records virtually as soon as they received it. The titular track, drawing cheers when the audience recognized its one-chord riff, was played at roughly a third of the speed.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Guitarist Matt Pike, barechested as always, oozed sheer volume that could silence a jet engine. His lightspeed-blues solos, showing equal influence from Black Sabbath and Ravi Shankar, explored some quieter, subtler terrain sometimes.  Bassist Al Cisneros sang in a higher, more meditative register typical of his band Om, where he applies Sleep’s THC-drenched technique to forms inspired by Islamic and Buddhist ritual. By the end of a crushing, monumental 90 minutes, the audience was fully entranced.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Y4cxaVEqZsE&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;While “Holy Mountain” was merely a slower, heavier interpretation of the original, “Dragonaut” took on a new life as Pike noodled through the iconic guitar lick with the drunken abandon of an early blues musician.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“The line isn’t really that bad,” someone said as the crowd staggered slowly out the Warfield’s gilded doors. “It’s just everyone’s so fuckin’ high.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;True, audience members had passed me several joints—and I was up in the balcony seats. I briefly wondered how Stravinsky’s “Rite of Spring” would have fared had it debuted here, at the Warfield in San Francisco, October 2016.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;I could see plumes of smoke from below, eventually resembling a miniature diorama of a 19th century British coal town. I felt transported not so much to the past, when my fellow suburban teenagers and I would gather in secret to worship at the altar of Sleep and street-grade marijuana, but to an eternal present, a “riff-filled land” as Cisneros says. A land where the riffs never end because they’re slow enough to last forever.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Photo courtesy of Argyris Zymnis&lt;/em&gt;&lt;/p&gt;
 
     
   
