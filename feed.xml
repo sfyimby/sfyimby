@@ -2,13 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-21T00:00:00Z</updated>
+  <updated>2016-12-22T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/court-rules-muni-light-rail-expansion-may-proceed/">
+    <title type="text">Court Rules Muni Light-Rail Expansion May Proceed</title>
+    <id>urn:uuid:5de72565-0143-3e49-9811-401c74e1ac1f</id>
+    <updated>2016-12-22T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/court-rules-muni-light-rail-expansion-may-proceed/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;A relatively quiet decision by California’s First Circuit Court of Appeals may have significant impacts on future lawsuits regarding urban infrastructure. In &lt;em&gt;The Committee for Re-Evaluation of the T-Line Loop v. San Francisco Municipal Transportation Agency, et al,&lt;/em&gt; the appellate court dismissed a suit seeking to require a new Environmental Impact Report (EIR) for the expansion of the T-Line Muni Train into San Francisco’s Bayview neighborhood. Drawing from the precedent of a previous case from this year, &lt;em&gt;Friends of the College of San Mateo Gardens v. San Mateo County Community College District&lt;/em&gt;, the court ruled that the SFMTA could proceed with the project relying on an EIR from 1998, rather than having to submit a new report.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The T-Line Loop was originally designed as part of the Third Street Light Rail Project, which submitted an EIR in 1998. Due to budget shortfalls, the expansion was stalled until 2013, when SFMTA received a $10 million grant from the Federal Transportation Agency to complete infrastructure projects in the Mission Bay and Bayview area.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The particular loop in question would allow trains to turn around midway through the line to accommodate passengers for special events at AT&amp;amp;T Park and other nearby venues. SFMTA submitted memorandums several years ago to the Planning Department asserting that the California Environmental Quality Act (CEQA) did not require an additional EIR to be submitted, and the city agency agreed.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;By definition, opponents of the project did not.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;J.R. Eppler, president of the Potrero Boosters Neighborhood Association, &lt;a href=&quot;http://www.sfexaminer.com/muni-t-third-loop-alleviate-overcrowding-simplify-travel/&quot;&gt;told&lt;/a&gt; the San Francisco &lt;em&gt;Examiner&lt;/em&gt; that significant residential development in the Dogpatch neighborhood necessitated further environmental study. He also argued that because loop itself lacked any stop for passengers to board, there may be dangers to pedestrian safety supporting his preference to relocate the loop several blocks South.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Supervisor Malia Cohen also told the &lt;em&gt;Examiner&lt;/em&gt; that she was sensitive to local residents’ concerns and would help advocate for the alternative loop location.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The appellate court found that the 1998 EIR still met substantial standards of evidence—“that the original environmental document retains some informational value.” The court considered SFMTA’s memorandums to the Planning Department from 2012 and 2014 as satisfactory signs of “informational value.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The decision affirms under the &lt;em&gt;San Mateo Gardens&lt;/em&gt; substantial evidence standard that agencies may continue to rely on previous Environmental Impact Reports (EIRs), regardless of age, so long as they retain information value,” &lt;a href=&quot;https://www.hklaw.com/publications/Reliance-on-1998-EIR-Under-CEQA-Upheld-Based-on-Substantial-Evidence-12-20-2016/&quot;&gt;writes Jennifer Hernandez&lt;/a&gt;, an attorney at Holland &amp;amp; Knight. The firm is known for releasing &lt;a href=&quot;https://www.hklaw.com/publications/In-the-Name-of-the-Environment-Litigation-Abuse-Under-CEQA-August-2015/&quot;&gt;numerous studies&lt;/a&gt; on the use/abuse of CEQA to suppress the construction of infill development and transit infrastructure.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“We were advocating for moving the loop several blocks further south, so that there would be stops serving Dogpatch,” Eppler wrote in an email. “We're also concerned about potential reductions in service to Bayview. We were advocating for &lt;em&gt;more&lt;/em&gt; T-expansion, and smarter, modern, routing of transit.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The decision may set precedent unfavorable to other appeals under CEQA, such as the recent appeal of a project at &lt;a href=&quot;http://missionlocal.org/2016/11/in-stunner-city-strikes-down-major-mission-project/&quot;&gt;1515 South Van Ness Avenue&lt;/a&gt;, in which opponents claimed the Eastern Neighborhood Plan EIR did not address the new dwelling units’ risk of displacement effects. Outgoing Supervisor David Campos led the Board’s unanimous vote to uphold the appeal, despite his observation that the appeal was not yet legally sound.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/race-class-and-place-uneven-impacts-of-the-housing-shortage-audio/">
     <title type="text">Race, Class, and Place: Uneven Impacts of the Housing Shortage (Audio)</title>
     <id>urn:uuid:c673e5b6-0540-359c-9f9e-5778cbfc3d7b</id>
@@ -4581,87 +4649,6 @@ In the meantime, the Community Council of Housing Organizations (CCHO) apparentl
   
     
 				&lt;p&gt;The crowd repeated after him: “who’s next?”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/palo-alto-forward-blasts-subterfuge-by-impersonator-pac/">
-    <title type="text">Palo Alto Forward Blasts Subterfuge by 'Impersonator' PAC</title>
-    <id>urn:uuid:2a5fd0ba-2865-3308-8c5d-eef407c5cb75</id>
-    <updated>2016-10-24T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/palo-alto-forward-blasts-subterfuge-by-impersonator-pac/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Members of the unincorporated housing advocacy group Palo Alto Forward were shocked to find filings for a Political Action Committee (PAC) under their name last week, which could set back their ongoing efforts to register as a 501(c)(3) non-profit. The PAC was registered by Timothy Gray, treasurer for the City Council campaign of Lydia Kou.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Gray claimed in an &lt;a href=&quot;http://www.paloaltoonline.com/news/2016/10/24/palo-alto-forward-claims-impersonation-after-its-name-is-registered-as-a-pac&quot;&gt;interview&lt;/a&gt; with &lt;em&gt;Palo Alto Weekly&lt;/em&gt; that he had no knowledge of the preexisting Palo Alto Forward, and that he registered the name to prevent citizens from being “duped.” Gray claims, paradoxically, that he was not aware of Palo Alto Forward’s activities, and that he registered the PAC name after the city had registered paloaltoforward.org to conduct community outreach for its Comprehensive Plan back in 2014.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Sandra Slater, co-founder of Palo Alto Forward, called Gray’s claims “patently ridiculous,” given that Gray had co-signed a letter opposing the group last year. Gray registered the PAC within days of formally registering as the treasurer of Lydia Kou’s city council campaign.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Until recently, Gray served as treasurer of Palo Altans for Sensible Zoning (PASZ), a PAC that formed opposition to a 2013 ballot measure that would have rezoned for greater residential density on Maybell Avenue, and has endorsed Kou in this election cycle. Lydia Kou’s &lt;a href=&quot;http://www.lydiakou.com/about_me&quot;&gt;website&lt;/a&gt; boasts of the candidate’s direct involvement in defeating the referendum, known as Measure D:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;Faced with an uncompromising Council, I became one of the leaders of the group that put the issue on the ballot. I knew from listening to residents that there was widespread opposition to the project, but to confirm that, I had my neighborhood association conduct a survey of its membership and subsequently authorize funding a petition drive to have a referendum on the project.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;Kou told the &lt;em&gt;Weekly&lt;/em&gt; that she was unaware of Gray’s PAC registration until recently. She asserts that he told her he was “trying to ensure the city of Palo Alto is not inadvertently being misled by an organization taking a domaine [sic] that the city has used.” Gray also claimed that Palo Alto Forward had been “under investigation for violation of reporting rules”—something Slater vehemently denies. Such allegations, Slater pointed out, further undermine his claim that he had not heard of the group.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Slater added that Gray had never contacted Palo Alto Forward to raise any concerns that the name was deceptive. Palo Alto Forward had communicated with the city before launching their own website, ensuring that Palo Alto had taken down paloaltoforward.org as legally required in 2014, after the Comprehensive Plan referendum measure was placed on the ballot.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;We have never taken money from anyone, and we certainly have not spent money on electioneering or politics - just community education following the rules for 501c3 non-profits,” Palo Alto Forward said in a press release. Further:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;We have NEVER been “under investigation for violation of reporting rules.”
-We are trying to register as 501(c)(3) and this hurts our ability to do so because they're not supposed to be involved in political efforts and PAF isn't. We don't take in any money from outside sources and we don't spend any on political campaigns.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;“I buy all the refreshments for our meetings,” Slater added in a phone interview. “I pick up fruit, soda, cheese, and crackers, because we know people will be hungry when they leave work and we want them to be able to focus on the issues we’re discussing. We’re entirely about community education. I host many events at my house, and some at the public library, which is all free.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Lydia Kou’s council campaign, along with that of Arthur Keller, recently made &lt;a href=&quot;http://www.paloaltoonline.com/news/2016/10/14/large-checks-boost-campaigns-of-kou-keller#comment_form&quot;&gt;headlines&lt;/a&gt; for receiving over $30,000 each in contributions from a small number of residents.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Kou, a local realtor, pays property taxes on a $1 million assessed value of her home, though the average sale price in the neighborhood is $2.5 million (lower than Palo Alto’s median home price of $4 million). Public tax records show she did not claim a homeowner’s exemption on filings over the past two years. The &lt;em&gt;Metro Observer&lt;/em&gt; has launched an ongoing investigation to ensure that Kou’s primary residence is in fact in Palo Alto, as local election laws require.&lt;/p&gt;
 
     
   
