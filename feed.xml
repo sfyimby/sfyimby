@@ -2,13 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-22T00:00:00Z</updated>
+  <updated>2016-12-23T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/mountain-view-tenants-rally-to-defend-rent-control-measure/">
+    <title type="text">Mountain  View Tenants Rally to Defend Rent Control Measure</title>
+    <id>urn:uuid:a2f3ad5a-c571-31fd-8a3e-1af648f41ce3</id>
+    <updated>2016-12-23T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/mountain-view-tenants-rally-to-defend-rent-control-measure/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Yesterday morning, Judge Beth McGowen approved a restraining order filed against the City of Mountain View by the California Apartment Association (CAA) to halt the implementation of a voter-approved rent control ordinance known as Measure V. The order stipulates that protections against just-cause evictions are to remain in place, meaning that tenants could still feasibly resist evictions filed in anticipation of caps on rent increases.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;By 4:30pm, the Mountain View Tenants Coalition (MVTC) had organized a demonstration in front of City Hall to protest the decision. Mountain View’s City Council voted in a closed session to encourage City Attorney Jamie Quinn to accept the temporary restraining order. The CAA is expected to seek an injunction against Measure V in February or March. Until then, tenants will have no legal recourse to protect themselves from rent increases.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The temporary restraining order is effective through February 3, 2017.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Median rents in Mountain View have increased by over $1000 in the past five years, with some estimates closer to $2,000. &lt;a href=&quot;http://www.zillow.com/mountain-view-ca/home-values/&quot;&gt;Zillow&lt;/a&gt; estimates the median home price at $1.4 million.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“[The council] tried to sabotage Measure V by putting a competing measure on the ballot,” said Daniel DeBolt, spokesperson for MVTC. “It was confusing because it was also a rent control measure, but much weaker.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;He credited the grassroots organizing of at least 150 Tenants Coalition volunteers, who were able to pass Measure V with only $43,000 raised in campaign funds.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;DeBolt also insisted that many opponents’ arguments were specious or unsupported by data. Measure V specifically exempts new developments, and allows landlords to pass through capital improvement costs to tenants, which &lt;a href=&quot;http://www.yesonvmv.org/faq&quot;&gt;MVTC says&lt;/a&gt; invalidates claims that rent control would hinder construction or disincentivize maintenance of rental properties.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The bottom line is that landlords lost, and the council lost. Now they’re neglecting their duty as public officials to uphold the law, allowing landlords to get this temporary restraining order before we could intervene,” DeBolt continued. “It’s totally shameful.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;DeBolt qualified his criticism by noting that Councilmember Lenny Siegel and Mayor Pat Showalter largely supported Measure V, though the mayor was hesitant to support it as a charter amendment that would be more difficult to amend or repeal.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Ironically,” DeBolt added, “the City Council declared Mountain View a ‘human rights city’ this week, but they refuse to honor and defend the renters rights that voters approved on November 8.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Cover photo by Daniel DeBolt&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/court-rules-muni-light-rail-expansion-may-proceed/">
     <title type="text">Court Rules Muni Light-Rail Expansion May Proceed</title>
     <id>urn:uuid:5de72565-0143-3e49-9811-401c74e1ac1f</id>
@@ -4388,180 +4461,6 @@ In the meantime, the Community Council of Housing Organizations (CCHO) apparentl
   
     
 				&lt;p&gt;The prime takeaway from these two articles is that the struggle to reform policy and community thinking about housing supply is far from over. Talk of San Francisco’s “historic burst” of housing production in 2013 ultimately remains a distraction from the fundamental supply and structural policy issues which define the region’s affordability crisis. Nobody is off the hook on this one.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/open-letter-recommendations-for-improving-the-residential-expansion-threshold/">
-    <title type="text">Open Letter: Recommendations for Improving the Residential Expansion Threshold</title>
-    <id>urn:uuid:83328248-a427-34a6-b18d-670071ae1ba4</id>
-    <updated>2016-10-26T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/open-letter-recommendations-for-improving-the-residential-expansion-threshold/" />
-    <author>
-      <name>Laura Fingal-Surma</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Laura Fingal-Surma serves on the &lt;a href=&quot;http://progressnoe.com&quot;&gt;Progress Noe Valley&lt;/a&gt; Advisory Board.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Dear San Francisco Planning Department staff, President Fong, and Commissioners,&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;We advocate on behalf of more than 200 neighbors who believe that Noe Valley’s brightest days are still ahead of us. We want more of what urban life has to offer and not less. The current housing affordability crisis moved us beyond frustration into action. As part of the growing Yes In My Back Yard movement, we believe that our neighborhood should be part of the solution and not the problem.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The current Tantamount to Demolition policy is too open to interpretation and doesn’t work well for anyone, including those seeking residential expansions. Unclear policies create financial incentive for less scrupulous behavior and reward the wrong people. We applaud your &lt;a href=&quot;http://sf-planning.org/residential-expansion-threshold&quot;&gt;effort&lt;/a&gt; to tackle the complex problem of replacing the current policy with something better.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;That being said, any new process of reviewing residential expansion projects in neighborhoods like ours is a major opportunity for those who resist growth and change to create a new tool that locks out newcomers, artificially inflates property values, drives gentrification of lower income neighborhoods, and pushes new housing production to environmentally irresponsible locations. Other methods of obstruction are proving unsuccessful in the midst of the unprecedented housing crisis, so opponents of growth are shifting their focus to strict interpretations of scale and neighborhood compatibility. It is very concerning to see this NIMBY preoccupation with “scale” creeping in as the focus of an otherwise sensible reworking of flawed policy.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The evidence is clear. Even the Obama administration has weighed in, &lt;a href=&quot;https://www.whitehouse.gov/sites/whitehouse.gov/files/images/Housing_Development_Toolkit%20f.2.pdf&quot;&gt;saying&lt;/a&gt; that overly restrictive land use policy is driving income inequality and dragging down the national economy. We are counting on you to prevent the new policy replacing Tantamount to Demolition from becoming just another tool of obstructionism. The Residential Expansion Threshold should be data-driven and rigorously tested against real-world data from past projects. While we trust that there are certainly completed projects that could have benefited from more sophisticated design review, we already have the Residential Design Guidelines to guide scale. If appropriate scale really must be reconsidered, evidence should first be compiled to demonstrate the flaws in the current policy.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Although intellectually interesting, it is pointless to define and debate the appropriate threshold to trigger a Planning Commission hearing in the abstract. In order to define the solution, we must first clearly define the problem. We encourage the Planning Department and Commission to identify numerous examples of past projects that would have ideally been modified had they been affected by the new process — and generate the policy from there. The policy should then be tested against a substantial set of additional past projects and revised until it achieves the desired outcomes before being implemented.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;We offer our more detailed input as bullet points.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt; 
-&lt;strong&gt;IDEAS WE SUPPORT&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;If not floor area ratio, square footage may very well be the best way to define the threshold as it is one of the most straightforward methods for objectively quantifying a building. However, even such a simple measurement is not entirely straightforward and can be manipulated. There should be clearly defined standards for how square footage is measured for this purpose, the calculations should be easily replicable, and Planning staff should spot check for compliance.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;Many of the more ambitious residential projects that we need to grow and maintain our housing stock will inevitably face Discretionary Review. Approval timelines for such projects are already exceptionally long in San Francisco. Every opportunity should be explored to prevent the proposed new hearing from adding months to approvals for these projects — through parallelization, qualifying a significant percentage of affected projects for the consent calendar, and new monthly meeting dates dedicated to this type of hearing with not just theoretical but real limits on turnaround time. Time added to a project is also cost added, and hence housing cost.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;AREAS OF CONCERN&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;The current proposal amounts to a doubling down on RH-1 zoning at exactly the time we should be questioning whether such zoning belongs in the city in the first place. Reducing allowable massing in RH-1 areas all but ensures that they will never evolve into RH-2 and RH-3 areas, with the “out of scale” massing requirements of multiunit buildings cited as the excuse. RH-1 zoning is so widespread that this significantly reduces the potential capacity of the city.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;Earlier proposals incentivized maximization of principally permitted density — without penalizing multiunit projects constrained by outdated density controls that prevent them from taking full advantage of their buildable area before exceeding the threshold. An easy win-win solution would be for such a situation to trigger a relaxation of density controls.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;Is the intention of any expansion threshold, such as 3000 ground square feet per unit, to incentivize production of new dwelling units — or to effectively ban units larger than the threshold? If not a de facto ban, the merits of which would be dubious, does the Planning Commission belong in the business of judging who is deserving of a larger unit? How could a fair process possibly be established to determine who is deserving? Regardless of the threshold, there will be many existing units larger than it, and there will be no test for purchasing one of those. If a reduction in allowable scale can be made objective enough to be fair, surely it can be performed administratively with Planning Commission oversight.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;In addition to the many concerns about introducing even more barriers to city living for families (that were well-represented at the September 22 hearing), a de facto ban on new larger units could amount to a handout to the wealthy owners of existing larger homes and units.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;We see aesthetic preferences for small scale living within the city as a much greater driver of housing scarcity than the occasional oversized unit occupying space that might have accommodated more households.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;We strongly question the idea of neighborhood-specific thresholds that reinforce existing patterns of economic segregation and imply that, holding lot size constant, some neighborhoods are less responsible for accommodating growth than others. The scale of building expansions allowable under the Residential Design Guidelines is already context-specific.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;We are especially skeptical of any neighborhood-specific threshold determined by an average of the square footages of existing buildings. Records are simply not reliable, and they err significantly low:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;There is little reason to believe that the available square footage records were measured consistently in the first place.&lt;/li&gt;
-&lt;li&gt;San Francisco is full of older residential buildings that have been modified and expanded without permits. &lt;/li&gt;
-&lt;li&gt;Even when older buildings were expanded with permits, records do not always accurately reflect increased floor area.&lt;/li&gt;
-&lt;li&gt;Even if square footage records could be trusted, they are not in terms of gross square feet like the currently proposed threshold. An older unmodified single family home often features an entire floor plate of valuable garage and/or storage space that would not show up in any records.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;Excluding historic district status, what entitles an underutilized neighborhood to stay that way indefinitely? Every individual parcel derives significant value from collective investment that should not be squandered. If a citywide threshold is not appropriate, a threshold based upon lot size would be equitable.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-    
-  
-    
-				&lt;p&gt;If the goal is truly to generate more units per parcel and not to appease NIMBYs, carrots are better than sticks. Have the available carrots been thoroughly explored? For example:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;How can approvals be expedited for projects that achieve this objective rather than slowed for others?&lt;/li&gt;
-&lt;li&gt;At least in our neighborhood, there are clearly market forces driving production of large single family homes on RH-2 lots that could have otherwise become two units. Would that be happening if more (smaller) units were possible within the same massing?&lt;/li&gt;
-&lt;li&gt;Historically, existing larger homes were commonly subdivided during hard economic times to drive costs down. How can we enable this again?&lt;/li&gt;
-&lt;li&gt;It is widely recognized that small units are more affordable by design. While we understand the concerns raised about “sham units,” we are even more concerned about discouraging production of new units through a top-down approach to the distribution of space between them. Each family and building is unique, and the sizes and configurations of units affected by the new policy should not be overly prescriptive.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Keeping a fixed amount of housing smaller and older is not an effective method for making housing more affordable, especially in the long term. Building more housing is.&lt;/li&gt;
-&lt;/ul&gt;
-
-    
-  
-    
-				&lt;p&gt;In reviewing the information available about the Residential Expansion Threshold, we see and hear a strong theme of moving toward a planning process that is more predictable, accountable, and easier to explain. We have confidence in you as professionals and leaders and are optimistic that this will remain a driving principle as the new policy takes shape.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Sincerely,&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Progress Noe Valley Advisory Board&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Read the original document &lt;a href=&quot;https://drive.google.com/open?id=0BwIcMtCqttV2aEJuNVczMFc1TGhEMXdwNHpyVnNBZmtWZ2F3&quot;&gt;here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
     
   
