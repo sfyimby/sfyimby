@@ -2,13 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-23T00:00:00Z</updated>
+  <updated>2016-12-27T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/from-the-editor-next-week-today/">
+    <title type="text">From the Editor: Next Week, Today</title>
+    <id>urn:uuid:9a8e9fdb-5069-3514-8736-9cebc739ba85</id>
+    <updated>2016-12-27T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/from-the-editor-next-week-today/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;As the despondency and disgust for the burning dumpster fire that is 2016 gives way to dread and ambivalence toward the unknown horrors of 2017, we wish to alert our readers to an abundance of political and cultural happenings taking place in the Greater Bay Area Metropolis as of next week. This may also serve as a subtle preview for next week’s content.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Monday, January 2nd: &lt;strong&gt;The Ivy Room&lt;/strong&gt; in Albany hosts &lt;a href=&quot;https://www.facebook.com/events/1074708429321927/&quot;&gt;a tribute&lt;/a&gt; to Berkeley’s iconic punk imprint Lookout! Records as part of a week-long &lt;em&gt;Lookouting&lt;/em&gt; retrospective. The concert will feature resurrected punk bands from days of yore—the spastic, slapstick Surrogate Brains from Stockton, and Santa Rosa booze-laden garage-punks The Invalids—along with Dr. Frank, the polymath auteur behind classic pop-punk outfit &lt;a href=&quot;https://www.youtube.com/watch?v=4Xn9ZhmY_10&quot;&gt;The Mr. T Experience&lt;/a&gt;. $10 / 21+ / 8pm&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Tuesday, January 3rd: The San Francisco Municipal Transit Agency (SFMTA) Board of Directors meeting will be held at 1:00pm in City Hall, 1 Dr. Carlton B. Goodlett Place, Room 400. The Board is widely expected to approve the Final Environmental Impact Report (FEIR) for the Geary Bus Rapid Transit project, which would dedicate a lane on either side of Geary Boulevard to Muni buses. With an initial feasibility report completed in 2007, Geary BRT is nearly a decade in the making, but evidently, some still feel that change has come too soon. &lt;a href=&quot;http://www.sfexaminer.com/transit-officials-offer-tweaks-to-geary-brt-project/&quot;&gt;Despite local pressure&lt;/a&gt; for the Board to delay approval to make time for more “community input,” former Richmond District Supervisor Eric Mar argued that “endless delays” were no longer necessary.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Wednesday, January 4th: &lt;strong&gt;Oakland Councilmember-at-large Rebecca Kaplan&lt;/strong&gt; will host &lt;a href=&quot;https://www.facebook.com/events/1543924842289311/&quot;&gt;a forum with the Oakland Warehouse Coalition&lt;/a&gt; in Council  Chambers, Oakland City Hall,  at 5pm to discuss the city’s responses to the Ghost Ship warehouse fire. Kaplan’s office has announced: “The forum will address housing, homelessness, and jobs, and will be focused on solutions. We’d love for you to come and bring folks.”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/from-the-editor-next-week-today/oneoak.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;One Oak Street Project&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+				&lt;p&gt;&lt;ul&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Thursday, January 5th: San Francisco’s &lt;strong&gt;Planning Commission&lt;/strong&gt; will review the &lt;a href=&quot;http://commissions.sfplanning.org/cpcpackets/2009.0159E_Draft%20EIR.pdf&quot;&gt;Draft Environmental Impact Report&lt;/a&gt; (EIR) for the One Oak Street Project, a 40-story 310-unit residential tower proposed at 1500-1540 Market Street. The project seeks to add a public plaza on Oak Street, to be serviced by new elevators to the Van Ness Muni station below. &lt;a href=&quot;http://www.themarkcompany.com/project/one-oak/&quot;&gt;The Mark Company&lt;/a&gt;, the developer behind One Oak, will need to extend the Height and Bulk District 120/400-R-2 designation across the block for the design to be zoning-compliant.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;Friday, January 6th: Oakland techno showcase &lt;strong&gt;Obscura Machina&lt;/strong&gt; will go on as planned, despite the passing of its gregarious organizer, &lt;a href=&quot;http://sfbamo.com/news/in-memoriam-micah-danemayer/&quot;&gt;Micah Danemayer&lt;/a&gt;, in the tragic Ghost Ship fire. Danemayer’s collaborator Devyn Saturnus will debut their new project Red Cellar as part of his plans to carry on the torch for his fallen friend’s imprint, Discarded Records. Red Cellar will be joined by the dark, minimal electro-croonings of &lt;a href=&quot;https://stacian.bandcamp.com/album/songs-for-cadets&quot;&gt;Stacian&lt;/a&gt;, the industrial duo &lt;a href=&quot;https://soundcloud.com/glowingdaggerrecords/sets/plattenbau-body-of-desire&quot;&gt;Plattenbau&lt;/a&gt;, lo-fi ambient producer &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/fascination-scenarios-of-violence-009-2&quot;&gt;Fascination&lt;/a&gt;, and Los Angeles-based &lt;a href=&quot;https://soundcloud.com/djsailorsaturn/&quot;&gt;DJ Sailor Saturn&lt;/a&gt;. The event will be held at The Night Light, 311 Broadway, Oakland. All proceeds will fund the Micah Danemayer Memorial Scholarship at the Massachusetts College of Art and Design. $7 / 21+ / 9pm.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298150738&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/mountain-view-tenants-rally-to-defend-rent-control-measure/">
     <title type="text">Mountain  View Tenants Rally to Defend Rent Control Measure</title>
     <id>urn:uuid:a2f3ad5a-c571-31fd-8a3e-1af648f41ce3</id>
@@ -4395,75 +4478,5 @@ In the meantime, the Community Council of Housing Organizations (CCHO) apparentl
   &lt;img src=&quot;../../news/op-ed-capitelli-campaign-responds-to-lauriefactscom-attacks/jessehousingmap.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
 
 &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/op-ed-convergence-and-consolidation-in-san-francisco-real-estate/">
-    <title type="text">Op-Ed: Convergence and Consolidation in San Francisco Real Estate</title>
-    <id>urn:uuid:625cbb61-3c2b-3c92-9c42-cba17a64785a</id>
-    <updated>2016-10-26T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/op-ed-convergence-and-consolidation-in-san-francisco-real-estate/" />
-    <author>
-      <name>Mike Ege</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Two new articles discuss interacting milestones in the global economy and local housing market, and how the fundamental problem of supply still remains.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;First, the bad news: on Thursday, the SF &lt;em&gt;Business Times&lt;/em&gt; published a &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/2016/10/guest-opinion-sf-housing-future-nimby-rental.html?utm_content=buffere66a1&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&quot;&gt;guest editorial&lt;/a&gt; by affordable housing developer John Stewart, discussing how the recent bump in unit production fails to put a meaningful dent in San Francisco's affordability problem:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;...As the Business Times reported last week, that’s resulted in a historic burst of housing, with an estimated 5,000 units to be completed this year. Unfortunately, this slope reversed direction just as quickly: Concord’s estimate of permit issuances for this year is approximately 3,000, meaning San Francisco will return to its low level of housing production.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In round numbers, the city of San Francisco has approximately 365,000 dwelling units of which two-thirds, or about 250,000 units are rental. Producing 3,000 unis a year (and San Francisco normally does even less) represents a modest 1.2 percent annual increase in rental inventory. When attrition and Ellis Act conversions are taken into account, we are barely better than replacement.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;He then points to the slim pickings left in the pipeline: these include large-scale, long-timeline projects such as Treasure Island, Park Merced, Pier 70 and Schlage Lock, well away from the City center, and which continue to face considerable political and financial difficulties, all for “a little over 24,000 units.” It also includes another not quite 17,000 units in the neighborhoods, which while lower profile, also have lower percentages of affordable housing, and are more exposed to the City’s death-of-a-thousand-cuts discretionary permitting.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Stewart’s prognosis, particularly for renters, isn’t good: any drop in rents will come from lower demand, if at all.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Meanwhile, in San Francisco Magazine,  Kim-Mai Cutler has only &lt;a href=&quot;http://modernluxury.com/san-francisco/story/the-great-cooling&quot;&gt;slightly better news&lt;/a&gt; for prospective home buyers, mainly as a consequence of uncertainty over the throttling of economic growth:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;This isn’t a dramatic slowdown. After all, employment levels are near all-time highs, as are rents and median housing prices. And inventory is still distressingly low: There are currently only about 400 single-family homes and 540 condos for sale in San Francisco, and both categories of housing spend an average of 49 days on the Bay Area market, according to Zillow—the lowest in the nation. But there’s an air of uncertainty over job production in the tech sector, which has for the past several years fueled much of the outlandish growth in housing prices in the Bay Area. “We’re thinking there will be a correction in the next couple of years, but we think it starts with the high end turning, and then it spreads [to slowing] job creation,” says UC Berkeley economist Kenneth Rosen, who has been studying Bay Area real estate markets for 37 years. “The key to the Bay Area depends on capital markets. The question is, will unicorns succeed and go public or have to cut back?”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;Cutler then outlines how ownership demand hasn’t declined so much as diffused - rippling out to the East Bay, driven in some measure by the increasing use of company shuttles by employers. The suburbs are no longer cheap. Barring economic catastrophe, lack of supply, along with little growth in salaries, means the affordability issues afflicting the Bay Area will still be with us.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The prime takeaway from these two articles is that the struggle to reform policy and community thinking about housing supply is far from over. Talk of San Francisco’s “historic burst” of housing production in 2013 ultimately remains a distraction from the fundamental supply and structural policy issues which define the region’s affordability crisis. Nobody is off the hook on this one.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
   </entry>
 </feed>
