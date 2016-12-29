@@ -2,13 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2016-12-28T00:00:00Z</updated>
+  <updated>2016-12-29T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/heres-the-package-four-assembly-bills-aim-to-tackle-housing-shortage/">
+    <title type="text">Here's &quot;The Package&quot;: Four Assembly Bills Aim to Tackle Housing Shortage</title>
+    <id>urn:uuid:9de3728a-a616-3d04-bfd5-ee4b74e23958</id>
+    <updated>2016-12-29T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/heres-the-package-four-assembly-bills-aim-to-tackle-housing-shortage/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Last week, we &lt;a href=&quot;http://sfbamo.com/news/chiu-seeks-additional-housing-funds-by-ending-real-estate-tax-benefit/&quot;&gt;covered&lt;/a&gt; Assemblymember David Chiu’s (D-SF) proposed bill to end the mortgage interest tax deduction for second homes to increase funding for the Low Income Housing Tax Credit (LIHTC). Since then, we’ve interviewed Assm. Chiu to discuss an &lt;a href=&quot;http://asmdc.org/members/a17/news-room/press-releases/assemblymember-david-chiu-joins-colleagues-to-announce-bills-to-address-affordable-housing-crisis&quot;&gt;entire package of ambitious legislation&lt;/a&gt; aimed at curbing the state’s crisis-level housing shortage.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In sum:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180AB71&quot;&gt;AB 71&lt;/a&gt; would eliminate the mortgage interest deduction that taxpayers can currently claim on a second home, typically a vacation residence. “Economists across the spectrum agree that the Mortgage Interest Deduction is highly regressive,” Chiu said. Because lower-income households typically do not itemize their deductions, the MID largely benefits higher-earning households. In 2012, 77% of benefits accrued from the federal MID went to those with incomes higher than $100,000 per year. Chiu estimates that the vacation home deduction cost California’s general fund $360 million in the past fiscal year.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB72&quot;&gt;AB 72&lt;/a&gt;, introduced by Assemblymember Miguel Santiago (D-LA), would allocate funds for the state Attorney General’s office to enforce the &lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&amp;amp;sectionNum=65589.5&quot;&gt;Housing Accountability Act&lt;/a&gt;. So far, only private entities have sought litigation under the HAA.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB73&quot;&gt;AB 73&lt;/a&gt; would create an incentive payments for cities to zone at higher densities and permit the construction of Transit-Oriented Development (TOD) with a minimum allotment of 20% of dwelling units price-indexed for middle- and lower-income households. The bill includes an environmental review component and prevailing wage requirement for union labor, two factors largely believed to have stalled &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/unions-against-gov-browns-as-of-right-housing-plan.html&quot;&gt;Governor Jerry Brown’s housing streamlining proposa&lt;/a&gt;l this summer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180AB74&quot;&gt;AB 74&lt;/a&gt;, known as the Housing for a Healthy California Act, would create a funding program to house chronically homeless Californians enrolled in Medi-Cal services. In other words, the bill explicitly ties supportive housing to healthcare funding. “To break the endless cycle of the revolving doors of emergency rooms, inpatient facilities, treatment centers and nursing homes,” Chiu wrote in a press release, “this new program would shift the paradigm by providing rental assistance for supportive housing to those individuals who are both homeless and receive significant public health care services.”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+  
+    
+				&lt;p&gt;In our interview, Assemblymember Chiu spoke more broadly of difficult times ahead under a Trump administration. “The threat to cut federal healthcare spending alone,” he said, “is very daunting” when considering its impact on the state’s budget. When asked if this could lead to reform for so-called “third-rail” fiscal issues, such as the property tax cap codified under Proposition 13, Chiu simply stated: “Everything is on the table.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/fear-and-finance-in-saint-francis-police-and-the-politics-of-city-pension-reform-part-1/">
     <title type="text">Fear &amp; Finance in Saint Francis: Policing the Politics of City Pension Reform (Part 1)</title>
     <id>urn:uuid:4fdb480a-4eff-3508-accb-c7253152206b</id>
@@ -4380,81 +4439,6 @@ In the meantime, the Community Council of Housing Organizations (CCHO) apparentl
   
     
 				&lt;p&gt;&lt;em&gt;Cover photo: Sonja Trauss,&lt;/em&gt; Metro Observer &lt;em&gt;webmaster, voting Yes on F.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/asian-community-alliance-rallies-against-dark-money-in-kim-and-fewer-campaigns/">
-    <title type="text">Asian Community Alliance Rallies Against “Dark Money” in Kim and Fewer Campaigns</title>
-    <id>urn:uuid:618b9f34-d449-3b97-bf10-0405d395b709</id>
-    <updated>2016-10-27T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/asian-community-alliance-rallies-against-dark-money-in-kim-and-fewer-campaigns/" />
-    <author>
-      <name>Diego Aguilar Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Under a drizzle of rain on the steps of city hall, a crowd of several dozen gathered, hoisting signs critical of State Senate candidate Jane Kim and District 1 Supervisorial candidate Sandra Lee Fewer.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Some read “Jane Kim Is For Sale” while others were more simply labeled, “$$$ Dark Money $$$.” The Asian Community Alliance’s grievances are twofold: first, they sought to draw attention to the American Beverage Association’s &lt;a href=&quot;http://www.sfchronicle.com/politics/article/Soda-industry-trying-hard-to-block-Bay-Area-taxes-10326676.php&quot;&gt;$19.3 million&lt;/a&gt; in local campaign contributions this election cycle. In particular, $40,000 went to fund an election mailer from the San Francisco Tenants Union endorsing Supervisor Kim and Supervisor-hopeful Fewer, and $180,000 from a similar mailer by the &lt;a href=&quot;http://www.sfexaminer.com/big-soda-backs-jane-kim/&quot;&gt;Affordable Housing Alliance&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Second, John Elberling of affordable housing developer TODCO was &lt;a href=&quot;http://sfbamo.com/news/dark-money-from-subsidized-real-estate-faces-calls-for-investigation/&quot;&gt;recently revealed&lt;/a&gt; to have funneled millions of profits from refinancing subsidized housing into a shell company, the Yerba Buena Neighborhood Consortium, to fund ballot measure campaigns. Elberling contributed significantly to the Yes On C campaign in June in support of a ballot measure largely spearheaded by Supervisor Kim.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Demonstrators alternated between chants of “No no no—No vote for Jane Kim!” and several slogans in Chinese.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/asian-community-alliance-rallies-against-dark-money-in-kim-and-fewer-campaigns/aca2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Sonja Trauss, founder of the SF Bay Area Renters Federation and webmaster of this publication, was also present. She posed for cameras with a detailed sign critical of TODCO and the American Beverage Association.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Toward the end of the rally, Trauss was given the megaphone to explain the TODCO scandal, with interpolation from a Chinese interpreter.&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;TODCO owns nine affordable housing developments in Jane Kim’s District. Recently, they made a large profit off of their building by refinancing. They did not use that profit to build more affordable housing, even though we need it. Instead, they used that money to attack good people like Marjan Philhour, and to promote bad politicians like Jane Kim.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;“At first TODCO hid the fact that it was spending money on politics,” Trauss later said to a nearby reporter (not yours truly). “Now Elberling is &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Pre-election-opening-for-Warm-Springs-BART-looks-9981990.php&quot;&gt;saying&lt;/a&gt; quite plainly that they had an excess of income over expenses—which as a non-profit, that’s not supposed to happen, they’re supposed to reinvest it…That’s the public’s money, and we really do need more subsidized housing. He’s wasting our money on politics.”&lt;/p&gt;
 
     
   
