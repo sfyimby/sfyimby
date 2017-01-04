@@ -2,13 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-03T00:00:00Z</updated>
+  <updated>2017-01-04T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/op-ed-all-is-in-flux-nothing-stays-the-same/">
+    <title type="text">Op-Ed: All Is in Flux, Nothing Stays the Same</title>
+    <id>urn:uuid:baa452a4-0e20-3593-a5a5-a19cb99a42b1</id>
+    <updated>2017-01-04T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/op-ed-all-is-in-flux-nothing-stays-the-same/" />
+    <author>
+      <name>Brian Hanlon</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;https://boomcalifornia.com/&quot;&gt;Boom California&lt;/a&gt; recently published an &lt;a href=&quot;https://boomcalifornia.com/2016/12/29/a-boom-interview-in-conversation-with-jennifer-wolch-and-dana-cuff/&quot;&gt;interview&lt;/a&gt; with Mike Davis, a “chronicler of the California dark side and LA’s underbelly,” and advocate for community planning. I’ve [excerpted] &lt;a href=&quot;https://twitter.com/hanlonbt/status/802318722429952000&quot;&gt;https://twitter.com/hanlonbt/status/802318722429952000&lt;/a&gt;) sections from Davis’ best-known work, &lt;a href=&quot;http://ouleft.org/wp-content/uploads/Mike_Davis_City_of_Quartz.pdf&quot;&gt;“City of Quartz,”&lt;/a&gt; on Twitter to highlight how Los Angeles homeowners demanded land use and tax policies that enriched themselves while furthering racial and class exclusion. Davis is a talented prose stylist with a knack for skewering profiteering and segregationist Angelenos, but his lack of understanding of real estate markets leads him to support perverse policies. Below, I discuss shortcomings in his “progressive” approach and propose four suggestions when thinking about land use policy.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Devise policy to limit home prices, not land prices.&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Davis assumes that “the stabilization of land values is the precondition for long-term democratic planning.” Like Davis, I support a Georgist Land-Value Tax, but the real problem for low- and middle-income people isn’t high land prices, it’s high home prices. Few people live on unimproved land. High land prices are a market signal to use land more intensely, i.e., to build dense housing instead of detached single-family homes.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In hyper-expensive San Francisco, land acquisition costs are a small portion of the costs for new condo towers, but they are the majority of the costs for detached single-family homes. Urban policy that values class and racial inclusion will limit home-price appreciation by permitting more homes to be built.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Most poor people live in market-rate housing. Don’t abandon them.&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Aside from a Land-Value Tax, Davis’ other big “nonrevolutionary” solution is to more strictly regulate land use. He wants to “municipalize strategic parts of the land inventory for affordable housing, parks and form-giving greenbelts.” Those are fine ideas IF the city either a) builds massive amounts of social housing on restricted land (politically &amp;amp; fiscally impossible) or b) permits private developers to meet the need for housing on unrestricted land (politically hard, fiscally easy, but not what Davis supports).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Otherwise, home prices will climb and the poor will be displaced. Rent control helps incumbent residents, but does little for low-income migrants. If local policymakers seek to prevent displacement and permit in-migration of low-income people, they need to think more about the real estate market and less about publicly subsidized housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Value a diversity of uses and urban play over rigid long-term planning.&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;On the one hand, Davis supports “long-term democratic planning” and thinks developers ruin social democracy by engaging in the political process to secure variances for their projects. On the other hand, Davis wants to allow a “democratic variety” in urban space and encourage “unprogrammed fun and discovery.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;These desires are incompatible. Limiting development and prescribing permissible land use activities restricts in-migration to wealthy residents and proscribes the creative adaptation of disused space. Weirdo 22 year-old artists aren’t going to apply for a below-market-rate housing waiting list, they’re going to move where rent and studio space are cheap.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Economic dynamism militates against long-term planning. Support flexible land use policies.&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Davis believes “if you don’t intervene in the operation of land markets, you’ll usually end up producing the opposite result from what you intended.” As &lt;a href=&quot;https://journals.law.stanford.edu/sites/default/files/stanford-law-policy-review/print/2014/01/mangin_25_stan._l._poly_rev_91.pdf&quot;&gt;housing scholarship&lt;/a&gt; makes clear, the reality is the opposite – if cities intervene in the operation of land markets via restrictive zoning, they may lower the price of land, but will increase the price of homes and worsen segregation. That’s not to say there is no need for infrastructure planning and encouraging home building along transit corridors, but councils of local residents are unlikely to concern themselves with the interests of nonresidents and therefore shouldn’t direct policy. What’s more, would-be planners face many unknown unknowns. As a former manager of the Communist Party’s bookstore, Mike Davis should take Marx’s analysis of capitalism in the “The Communist Manifesto” seriously:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;The bourgeoisie cannot exist without constantly revolutionising the instruments of production, and thereby the relations of production, and with them the whole relations of society. Conservation of the old modes of production in unaltered form, was, on the contrary, the first condition of existence for all earlier industrial classes. Constant revolutionising of production, uninterrupted disturbance of all social conditions, everlasting uncertainty and agitation distinguish the bourgeois epoch from all earlier ones. All fixed, fast-frozen relations, with their train of ancient and venerable prejudices and opinions, are swept away, all new-formed ones become antiquated before they can ossify. All that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses his real conditions of life, and his relations with his kind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;Not only do localities further exclusion when given the opportunity, they attempt to preserve existing built form and use when changed economic and social conditions demand alternatives. Marx could have been writing about California land use and tax policy when he &lt;a href=&quot;https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm&quot;&gt;declared&lt;/a&gt;, “the tradition of all dead generations weighs like a nightmare on the brains of the living.” Let’s embrace the future by surrendering our futile desires for stability. Achieving inclusive communities demands it.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Brian Hanlon is co-Executive Director of the &lt;a href=&quot;http://www.carlaef.org/&quot;&gt;California Renters Legal Advocacy and Education Fund&lt;/a&gt; (CaRLA).&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/meet-the-democrat-who-wants-california-democrats-to-focus-on-the-big-issues/">
     <title type="text">Meet the Democrat Who Wants California Democrats to Focus on the Big Issues</title>
     <id>urn:uuid:a66e9abf-b968-3641-91f0-c6e11adbac0c</id>
@@ -4423,65 +4517,6 @@ In the meantime, the Community Council of Housing Organizations (CCHO) apparentl
   
     
 				&lt;p&gt;Creating more affordable housing through targeted policy is a good thing. Ignoring evidence that the policy in question &lt;em&gt;might not deliver the intended goal&lt;/em&gt; is dangerous thinking.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/five-alarm-fire-spells-uncertain-future-for-lake-merritt-development/">
-    <title type="text">Five-Alarm Fire Spells Uncertain Future for Lake Merritt Development</title>
-    <id>urn:uuid:2d67bd0a-d4ce-33c2-b8ab-e1cec84c5804</id>
-    <updated>2016-10-31T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/five-alarm-fire-spells-uncertain-future-for-lake-merritt-development/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Residents in Oakland’s Eastlake neighborhood awoke in the early morning hours today to a frenzy of sirens and a massive conflagration. The five-alarm fire consumed a construction site at 317 Lester Avenue and forced nearly 200 locals to evacuate the area. Firefighters managed to contain the blaze and prevent it from spreading to nearby buildings, though ABC 7 News has since &lt;a href=&quot;https://twitter.com/LauraAnthony7/status/793171989926031360&quot;&gt;announced&lt;/a&gt; that the Bureau of Alcohol, Tobacco and Firearms (ATF) will be launching an investigation due to the size of the construction site.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Maria Grazer, resident of a nearby condominium, awoke to sirens around 5 A.M. and just barely had time to evacuate with her dog. “The flames looked like they were growing and we were moved down the street because the embers were falling all around us,” she wrote in an email. “It was a rather scary scene, and I kept thinking that it could jump to our building at any moment. It's a scary feeling, thinking that in a moment, you could lose absolutely everything.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/five-alarm-fire-spells-uncertain-future-for-lake-merritt-development/fire4.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;The site at 317 Lester Avenue had been &lt;a href=&quot;https://www.buildzoom.com/property-info/317-lester-ave-oakland-ca&quot;&gt;permitted&lt;/a&gt; for the construction of a five-story building with 41 market-rate housing units. Athan Magganas, manager at the development firm Adelphos LLC, told &lt;a href=&quot;https://ww2.kqed.org/news/2016/10/31/massive-4-alarm-fire-near-oaklands-lake-merritt-causes-millions-of-dollars-in-damage/&quot;&gt;KQED&lt;/a&gt; that he estimated nearly $5 million in property damage. The site’s contractors are now out of work, and he is uncertain that Adelphos’s insurance policy will cover it.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;This is the second construction project in Oakland to burn down this year. In July, &lt;a href=&quot;http://sfbamo.com/news/construction-site-in-emeryville-burns-down/&quot;&gt;a fire&lt;/a&gt; forestalled a project with 100 units on the Emeryville border.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Photos courtesy of Maria Grazer&lt;/em&gt;&lt;/p&gt;
 
     
   
