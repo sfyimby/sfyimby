@@ -2,13 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-04T00:00:00Z</updated>
+  <updated>2017-01-05T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/oakland-town-hall-addresses-inequality-warehouse-displacement/">
+    <title type="text">Oakland Town Hall Addresses Inequality, Warehouse Displacement</title>
+    <id>urn:uuid:1a35452e-3dcf-3361-aef8-b5aee8ddbb0e</id>
+    <updated>2017-01-05T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/oakland-town-hall-addresses-inequality-warehouse-displacement/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Rebecca Kaplan, Oakland’s City Councilmember-at-large, convened a forum in City Hall with the &lt;a href=&quot;https://www.facebook.com/OaktownWarehouseCoalition/&quot;&gt;Oakland Warehouse Coalition&lt;/a&gt; last night. A panel including Councilmembers Gallo and Kalb, religious leaders, non-profit activists, and private sector organizers briefly discussed policy responses to the deadly Ghost Ship warehouse fire that killed 36 concertgoers on December 2nd. Over the course of three hours, attendance ranged from standing-room only to a handful of stragglers after the final public comment.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“As I see it, there’s no reason we can’t fight for fire safety and protecting people from displacement,” Kaplan said. “Whether it’s fire safety or lead paint safety, we shouldn’t accept that displacing everybody is the only solution.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kaplan mentioned pending legislation she would be bringing before the Council’s &lt;a href=&quot;https://www.facebook.com/events/191829997947283/&quot;&gt;Community Economic Development Committee&lt;/a&gt; to protect tenants from eviction as a result of code compliance.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Central to the discussion was a proposed ordinance passed around the room printed on neon green paper by the Oakland Warehouse Coalition, the Emergency Tenant Protection Ordinance. The proposal includes many popular provisions—such as extending Just Cause eviction protection to tenants in properties not zoned for residential use—and other proposals widely not expected to be considered. For example, the Warehouse Coalition calls for the city to seize underutilized warehouse spaces via eminent domain to donate to artists.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The meeting began at an awkward pace, as many audible groans could be heard from the audience when a speaker quoted the bible for a second time in the first five minutes. “I’m a pagan,” the woman next to me grumbled. “Can I get up and say something irrelevant?”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Yet Kaplan dissuaded attendees from seeing her own religious background as a form of exclusion. Alluding to President-elect Donald Trump’s Muslim registry proposal, she declared that she intended to sign up for any such registry herself if it were introduced.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Reverend Ken Chambers of the Westside Missionary Baptist Church adhered to concrete policy issues, discussing various financial hurdles to publicly financing affordable housing projects. In his view, tax liens imposed on vacant properties had some potential, but were insufficient. “The problem with those liens is, if you don’t have enough properties together, it doesn’t pencil out.” On the other hand, private developers, he argued, could muster the financing to make such projects work when they bought up properties, but that that made the need for inclusionary zoning policies even more urgent.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Two members of the panel were residents of undocumented live-work spaces themselves, including Jonah Strauss, a co-founder of the Oakland Warehouse Coalition. After briefly discussing the merits of the proposed ordinance, Strauss noted that the eviction of artists living at the &lt;a href=&quot;http://www.eastbayexpress.com/SevenDays/archives/2016/01/28/dozens-of-renters-lose-homes-as-city-closes-1919-market-street-warehouse-in-oakland&quot;&gt;1919 Market Street&lt;/a&gt; warehouse had been “encouraged by the owners.” He urged immediate action from the City Council to prevent landlords from knowingly fostering building code violations in order to evict tenants at their convenience.
+“99.9% of live-work spaces in Oakland don’t look anything like the Ghost Ship. We don’t build like that,” Strauss said to marked applause.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The panel quickly expanded beyond the topic of housing and code enforcement to include calls for job training and a stronger social safety net for low-income residents. Susan Harmon of the Oakland non-profit Planting Justice not only described plans to create a “tiny homes” village on city land in West Oakland, but also called for a Guaranteed Basic Income to end the cycle of poverty for the most vulnerable Oaklanders.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;But the bulk of the three hours, and the majority of the city’s pent-up frustrations regarding crushing economic inequality, was dominated by an open public comment period.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/oakland-town-hall-addresses-inequality-warehouse-displacement/oakmtg.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Roughly 50% of the line to deliver public comment at Oakland City Hall&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;James Vann, an attorney with the Oakland Tenants Union, advocated for wider-reaching policy reform at the state level. “We think the definition of affordable housing must change,” Vann said, citing a current threshold of 60% Area Median Income as inadequate. (While some Below Market Rate units are price-indexed for 80-120% AMI, the Department of Housing and Urban Development defines “low-income” at 60-80%.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The majority of evictions are not caused by tenants,” he continued. Vann went on to advocate for a “flipping or speculation” tax so that real estate property transfers would fund city services and subsidized cooperative housing such as the Oakland Land Trust. He further urged the city to enforce owner occupancy for Ellis Act “owner move-in” evictions and require landlords to accept federal Section 8 vouchers.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Several homeless speakers, the majority of them black, spoke angrily of the city’s failure to care for its growing homeless population. While some described the situation as “genocide,” others offered tutorials in business law administered under the 29th Street freeway overpass, and another urged the council to reduce fines for parking violations in order to decriminalize living in cars.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Many speakers came to corroborate Strauss’s argument that code compliance posed a significant threat for tenants. “I have so many documented personal stories of competent building inspectors being used in the wrong place,” one speaker said. “In one place with no fire code violations, they simply gave a cease-and-desist, which landlords use to void leases.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;To cries of outrage from the audience, proprietors of the Everett &amp;amp; Jones restaurant in Jack London Square announced that they had been served a notice of violation for hosting a &lt;a href=&quot;https://twitter.com/Lefebvre_Sam/status/816843769592979456&quot;&gt;benefit concert&lt;/a&gt; without a cabaret license. Journalist Sam Lefebvre, who lives next door to the restaurant, &lt;a href=&quot;https://twitter.com/Lefebvre_Sam/status/816843769592979456&quot;&gt;tweeted&lt;/a&gt; a picture of the notice.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Local artist B.G. Anaraki mused on the larger problem represented by art spaces and live-work houses. “When I moved in 2006 it seemed my landlord was very eager to learn that we were artists and that we would be hosting parties. It was a house, not a warehouse. My theory is that they used us to further the decades-long agenda of pushing out historical residents of Oakland.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Anaraki described reliving the experience of watching the Ghost Ship burn whenever he closed his eyes at night. “Now when I have my eyes open I have to worry about all my friends being on the street, and it’s a shame.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;A former resident of the Ghost Ship warehouse came with only two statements: thanking the public for their support, and urging immediate action. “I know that fire doesn’t wait,” she said. “It doesn’t wait for permits…Don’t wait.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Councilmembers Gallo and Kaplan stated that they would be supporting the proposed Emergency Ordinance. (Kalb had departed by the time they delivered their closing statements.) Oakland City Council returns from its winter recess on Tuesday, January 17.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/op-ed-all-is-in-flux-nothing-stays-the-same/">
     <title type="text">Op-Ed: All Is in Flux, Nothing Stays the Same</title>
     <id>urn:uuid:baa452a4-0e20-3593-a5a5-a19cb99a42b1</id>
@@ -4402,121 +4535,6 @@ opposing muscles.&lt;/p&gt;
   
     
 				&lt;p&gt;&lt;em&gt;Cover photo: Calvin Welch &lt;a href=&quot;http://sfbamo.com/news/stakeholders-search-for-common-ground-in-land-use-debate/&quot;&gt;debates&lt;/a&gt; Angelo King on Proposition O, October 2016. Courtesy: Brian Hanlon.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/editorial-why-is-ccho-afraid-of-the-city-controllers-prop-c-study/">
-    <title type="text">Editorial: Why is CCHO Afraid of the City Controller’s Prop C Study?</title>
-    <id>urn:uuid:8a60e13c-2922-3b83-91df-719bb34bd483</id>
-    <updated>2016-10-31T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/editorial-why-is-ccho-afraid-of-the-city-controllers-prop-c-study/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;When Proposition C passed in June of this year, increasing the required amount of affordable housing in new developments to 25%, the Supervisors behind the measure agreed to let the city conduct a study on how the policy would actually impact development. Many opponents of the measure, including the mayor, had concerns that such a requirement could slow down overall housing production if developers faced difficulty financing new projects.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The Controller’s Office published preliminary findings suggesting that 25% is indeed too high. According to the Controller, 18% is the economically feasible maximum for most developments. The Office is continuing to develop its findings, with its most recent draft available &lt;a href=&quot;http://sfcontroller.org/sites/default/files/Preliminary%20Report%20September%202016.pdf&quot;&gt;here&lt;/a&gt;.
-In the meantime, the Community Council of Housing Organizations (CCHO) apparently has deep concerns about what the Controller might find in regard to the 25% requirement, and penned an &lt;a href=&quot;https://drive.google.com/file/d/0BwIcMtCqttV2T3B3R0hTWXBTQ3NsSmZ6NDJ3M05uMl8wbFdN/view&quot;&gt;open letter&lt;/a&gt; urging the office to consider some additional factors. The letter to the Controller outlines six main points for the working group to consider, which in sum champion the current 25% requirement and take issue with any findings which might disturb that number.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Most of these points have their own problems, however.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Most glaringly, Directors Peter Cohen and Fernando Martí seem to consider housing low-income residents to be merely a tangential policy goal. “First,” they write, “is the goal of capturing the windfall profits from increasing land value.” Really? That’s their first goal?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Even if maximizing the construction of affordable housing units isn’t the primary goal, the authors go on to explain why economic feasibility should be a non-issue for the Controller.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;CCHO points us to two recent “real world projects” to be built a 25% inclusionary requirement. A large project at 1515 South Van Ness, as well as another development in the Excelsior, are both in the works and are slated to contain 25% affordable units. The South Van Ness development, it is worth noting, has still received &lt;a href=&quot;http://missionlocal.org/2016/08/mission-district-housing-project-reaches-25-percent-affordable/&quot;&gt;numerous complaints&lt;/a&gt; from resident groups such as Calle 24, who want to see the number bumped even higher.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The second development at 915-917 Cayuga &lt;em&gt;is&lt;/em&gt; a noteworthy and even exceptional project when it comes to affordability. The developer, SST Investments, &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Developer-wants-to-create-rent-controlled-housing-10152241.php&quot;&gt;has agreed to build 51 rent-controlled units and 52 BMR units&lt;/a&gt;, which is almost unheard of for a private developer.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;CCHO omits the fact that SST bought the land in 2009 for $1.8 million, an incredibly low price for 25,000 square feet. $1.8 million may only get you a single &lt;em&gt;house&lt;/em&gt; in San Francisco today. So, what does this example mean for developments more generally? Hardly anything. This scenario is &lt;strong&gt;extremely unlikely to be repeated today.&lt;/strong&gt; The referenced article, in fact, refers to the deal as “an unusual combination of the right developer buying the right piece of property at the right time.” Meanwhile, the developer called the deal a “philanthropic legacy project.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Touting &lt;strong&gt;two&lt;/strong&gt; real world projects is an arguably light body of “evidence.” Prop C passed in June of this year - it’s been four months since that happened, and if two projects that is all we can show, it doesn’t bode well for this mandated level of BMR.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;CCHO further claims that the Controller report ignores state density bonuses its study. The state density bonus lets developers build more floors if they include a certain portion of affordable units, which CCHO argues would make any project with 25% affordable housing eligible for the bonus.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;First of all, let’s not forget that &lt;em&gt;CCHO itself opposed an affordable housing density bonus in San Francisco&lt;/em&gt; &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/SF-housing-density-plan-meets-opposition-6810769.php&quot;&gt;earlier this year&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;This is a red herring. Just because a project is eligible for a density bonus doesn’t mean that project can economically support it, as CCHO eagerly concludes. Moreover, CCHO appears to be looking at the wrong starting point here. It argues that once a project is compliant with a 25% inclusionary rate, it becomes eligible for the 35% state density bonus. How does that &lt;em&gt;prove&lt;/em&gt; the 25% itself is supportable? It doesn’t.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;CCHO also wants the Controller to consider increasing the inclusionary requirement for taller buildings, meaning those over 300 feet, which it characterizes as “a luxury category unaffordable to all but the wealthiest of buyers or renters.” With exactly zero numerical basis or any economic analysis attached this statement, CCHO insists that taller “luxury” buildings be subject to higher inclusionary requirements.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The entire point of the Controller’s analysis is to identify the upper limit of economic feasibility on new developments using rigorous, quantitative analyses. More importantly, the regression model developed for the Controller’s analysis &lt;em&gt;already takes building height into consideration.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;From the Controller’s report:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;&lt;strong&gt;“Second, the size of the potential development, &lt;em&gt;which is primarily driven by height restrictions&lt;/em&gt; and density limits, also matters.&lt;/strong&gt; The potential size of the housing that can be developed on the parcel is positively correlated with the addition of multifamily market-rate housing.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Based on this relationship derived from our regression analysis, we developed a simulation model to estimate the likely change in development that would result from setting an inclusionary policy at various levels.” (Emphasis added)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;In any arena of policy, selecting a number and working backward to support is recipe for cherry-picking and selective thinking. That is what CCHO appears to be doing in this letter. The Controller isn’t even finished completing its analysis, and already an outside organization is attempting to exert influence over the conclusions, based on a preconceived idea of what their touted policy will deliver.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Creating more affordable housing through targeted policy is a good thing. Ignoring evidence that the policy in question &lt;em&gt;might not deliver the intended goal&lt;/em&gt; is dangerous thinking.&lt;/p&gt;
 
     
   
