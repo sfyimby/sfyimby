@@ -2,13 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-05T00:00:00Z</updated>
+  <updated>2017-01-06T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/after-13-years-geary-rapid-bus-project-moves-forward/">
+    <title type="text">After 13 Years, Geary Rapid Bus Project Moves Forward</title>
+    <id>urn:uuid:41857312-8e51-3c91-9fd9-cc24dc1d186a</id>
+    <updated>2017-01-06T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/after-13-years-geary-rapid-bus-project-moves-forward/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Transit advocates saw a major victory at San Francisco City Hall last night after the County Transportation Authority (SFCTA) voted unanimously to &lt;a href=&quot;http://www.sfexaminer.com/transit-officials-approve-final-eir-geary-bus-project/&quot;&gt;certify the Environmental Impact Report&lt;/a&gt; (EIR) for the Bus Rapid Transit project along Geary Boulevard.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The dedicated center lanes for bus travel initially received a favorable feasibility report in 2004, after a funding shortfall rendered an underground subway proposal largely a pipe dream.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Supervisor London Breed, a commissioner on SFCTA, said that it had been her first goal upon winning her seat on the Board to “make magic happen” and replace all BRT projects with underground subways. Now, however, she was willing to accept that the project is something the city “can afford to accomplish.” Despite strenuous neighborhood efforts to delay the vote, the ten-person board unanimously agreed that it was high time to move the project forward.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Supervisor Eric Mar, serving his penultimate day in office, eagerly expressed the need for faster bus service on one of the country’s busiest transit corridors. He made comparisons as far-ranging as Mexico City and Bogotá, Colombia to underscore the importance of dedicated lanes.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;a href=&quot;http://www.sfcta.org/prop-k-home&quot;&gt;The funding for Geary BRT&lt;/a&gt; was secured in 2003 with the passage of Proposition K, a half-cent sales tax measure that renewed 1989’s Proposition B.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Andrew Sullivan, who sat on the Expenditure Plan Advisory Committee for Proposition K, was optimistic to see the project finally coming to fruition.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“No way did we expect the process to take &lt;em&gt;thirteen years&lt;/em&gt; until the EIR when we approved the expenditure plan,” Mr. Sullivan wrote in an email. “Since that time, many BRT projects in North America including the LA Organge Line and Mexico City Metrorail have opened, while Geary has languished.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Mr. Sullivan was also quick to dismiss concerns that Geary BRT approval could interfere with future plans for rail service. “Of course it's great news that the EIR has finally been approved, and we look forward to construction beginning ASAP,” he wrote.  “But we do also welcome the discussion of extending BART to the corridor.  There's no conflict between the two projects”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Storify compilation of our live Twitter coverage is below:&lt;/p&gt;
+&lt;div class=&quot;storify&quot;&gt;&lt;iframe src=&quot;//storify.com/MetroObserver/geary-brt-sfcta-hearing-1-5-17/embed?header=false&amp;template=slideshow&quot; width=&quot;100%&quot; height=&quot;750&quot; frameborder=&quot;no&quot; allowtransparency=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;script src=&quot;//storify.com/MetroObserver/geary-brt-sfcta-hearing-1-5-17.js?header=false&amp;template=slideshow&quot;&gt;&lt;/script&gt;&lt;noscript&gt;[&lt;a href=&quot;//storify.com/MetroObserver/geary-brt-sfcta-hearing-1-5-17&quot; target=&quot;_blank&quot;&gt;View the story &quot;Geary BRT: SFCTA Hearing (1/5/17)&quot; on Storify&lt;/a&gt;]&lt;/noscript&gt;&lt;/div&gt;
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/oakland-town-hall-addresses-inequality-warehouse-displacement/">
     <title type="text">Oakland Town Hall Addresses Inequality, Warehouse Displacement</title>
     <id>urn:uuid:1a35452e-3dcf-3361-aef8-b5aee8ddbb0e</id>
@@ -4667,34 +4730,6 @@ opposing muscles.&lt;/p&gt;
   
     
 				&lt;p&gt;At press time, TODCO had not responded to requests for comment. The John Stewart Company could not discuss specific legal proceedings regarding their residents.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/comics-the-atherton-police-blotter/">
-    <title type="text">Comics: The Atherton Police Blotter</title>
-    <id>urn:uuid:88b4ba4e-ddc9-352b-9764-cf76106c248f</id>
-    <updated>2016-11-01T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/comics-the-atherton-police-blotter/" />
-    <author>
-      <name>Krusty Wheatfield</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;This is an illustrated adaptation of &quot;The best of the Atherton police blotter,&quot; an irregular feature on the&lt;/em&gt; &lt;a href=&quot;http://www.mercurynews.com/2011/08/27/the-best-of-atherton-police-blotter/&quot;&gt;San Jose Mercury News&lt;/a&gt;. &lt;em&gt;-Eds.&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Copyright &lt;a href=&quot;http://www.krustywheatfield.com/&quot;&gt;Krusty Wheatfield&lt;/a&gt; 2016&lt;/p&gt;
 
     
   
