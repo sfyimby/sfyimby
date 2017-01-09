@@ -2,13 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-06T00:00:00Z</updated>
+  <updated>2017-01-09T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/the-progressive-fighter-hillary-ronen-district-9/">
+    <title type="text">The Progressive Fighter: Hillary Ronen (District 9)</title>
+    <id>urn:uuid:c08ac0d4-5169-32f9-aa98-ab9fd792ed0b</id>
+    <updated>2017-01-09T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/the-progressive-fighter-hillary-ronen-district-9/" />
+    <author>
+      <name>Bay City Beacon staff</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;This interview was originally published in the&lt;/em&gt; &lt;a href=&quot;http://www.thebaycitybeacon.com&quot;&gt;Bay City Beacon&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The Mission District has always been the progressive stronghold of San Francisco politics. It’s been the seat of Former Assemblymember Tom Ammiano and outgoing Supervisor David Campos, elected officials who have prided themselves on being the progressive vanguard. That pattern of left-leaning leadership continues as Hillary Ronen becomes the first woman in modern district elections to represent the Mission.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Ronen comes as a City Hall veteran, having served as Campos’ Chief of Staff for the last six years. She embraced those credentials throughout the campaign, leading to a solid victory this past November. Expect her to be the next progressive stalwart at City Hall.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;The interview below has been edited for clarity and brevity.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;What are your priorities for the first term?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I have three top priorities - the first is to not only build and create affordable housing in the district but also pass and introduce policies that will help us get there. The second priority is to deal with homeless and the tent encampments in the Mission, which is partially related to housing but also has different components and aspects to it, and make sure that we are building more navigation centers so that there are dignified shelters for people to stay in until they get housing. The third priority is responding to the Trump administration, and protecting immigrants, protecting people’s health insurance and making sure that we can continue to implement police reform in San Francisco.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Any immediate pieces of legislation you think about writing soon?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I have a few pieces, they are dealing with homelessness and different housing issues in the Mission, and also protecting the Latino Cultural District around 24th street.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;Can you tell me your thoughts about how the election went this year for you?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;It went extremely well in the end - I won, very candidly, with the vast majority of the votes, and it was an incredible learning experience. Incredible to talk to so many of the residents in the district and get to know the three neighborhoods on a deeper level, and I am incredibly happy with the resounding win. My excitement about that has been peppered by the results of the national election which was quite exciting.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;On the campaign you talked about how we have to build towards affordability. You talked about building 5000 affordable units in the mission. Where do you see this housing going? And when do you expect it to come?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;I want to build the 5000 affordable units over a 10-year period, some of those units are in the hopper right now, based on the work we been doing the past couple of years in David (Campos)’s office, and I am going to continue to fight for an average of 400-500 units a year going forward. It will be a mix of 100% affordable housing development, obtaining small sites and turning them into 100% permanent affordable housing, and then fighting for below-market-rate units and market-rate developments.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;What is the hardest challenge facing your district right now?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Housing and homelessness, which were my top two priorities (on the campaign).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;You spent time as David Campos’ Chief of Staff. What parts of this office or legislation style are you going to keep or change?&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;David (Campos) during his two terms in the office really focused a lot on city-wide issues in San Francisco, and I am really going to focusing inward on the district, at the issues that we been talking about housing, homelessness, schools - everything in our district - so I think that would be the main difference. I think what will be similar about us is that we both are very fierce fighters and we want to make sure the voices that are traditionally excluded from politics are front and center, and heard by the office and the city.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/after-13-years-geary-rapid-bus-project-moves-forward/">
     <title type="text">After 13 Years, Geary Rapid Bus Project Moves Forward</title>
     <id>urn:uuid:41857312-8e51-3c91-9fd9-cc24dc1d186a</id>
@@ -4493,99 +4591,6 @@ opposing muscles.&lt;/p&gt;
   
     
 				&lt;p&gt;&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNoDHLM%2Fvideos%2F382961665379908%2F&amp;show_text=0&amp;width=400&quot; width=&quot;400&quot; height=&quot;400&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowTransparency=&quot;true&quot; allowFullScreen=&quot;true&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/palo-alto-council-race-gets-greener-but-not-from-grassroots/">
-    <title type="text">Palo Alto Council Race Gets Greener, But Not from Grassroots</title>
-    <id>urn:uuid:1c8b75ed-1314-38e2-9fe8-8914dbf2363c</id>
-    <updated>2016-11-03T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/palo-alto-council-race-gets-greener-but-not-from-grassroots/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;There are four seats open on Palo Alto’s City Council, eleven candidates vying for them, and hundreds of thousands of dollars pouring into the race.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The October cash infusion into two candidate’s campaigns set a new level of political spending for a local race in Palo Alto, raising the eyebrows of residents, journalists, and former elected officials alike. &lt;a href=&quot;http://paloaltoonline.com/news/2016/10/19/huge-political-contributions-spark-outcry-suspicion-in-palo-altos-council-race&quot;&gt;Five families recently donated over $160,000&lt;/a&gt; to “residentialist” candidates Lydia Kou and Arthur Keller. “Residentialist” refers generally to slow-growth constituents who prefer to see the city temper new development, emphasizing concerns around traffic, parking, and overcrowding in schools.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;These amounts were surprising, to say the least, given the historic size of contributions in a city that prides itself on its small town character. A letter from Palo Alto’s eight previous mayors called the contributions “shocking”, noting that checks for $5,000 or more were unprecedented in Palo Alto City Council elections, with individual donations typically not exceeding $500. Lydia Kou, in fact, remarks &lt;a href=&quot;http://www.lydiakou.com/&quot;&gt;on her campaign website&lt;/a&gt; that after moving to Palo Alto she “grew to love belonging to a village”.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;But if its local elections are any indicator, this village, hen it comes to politics, plays the big city game.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The donors of $160k in question &lt;a href=&quot;http://www.paloaltoonline.com/news/reports/1476859852.pdf&quot;&gt;defended their contributions&lt;/a&gt; as a response to “big developer money” and a Chamber of Commerce endorsement, which they perceive to be unfairly influencing the campaigns of “pro-growth” or “pro-development” candidates, including Adrian Fine, Greg Tanaka, and incumbent Liz Kniss. In line with those remarks, a recent mailer ad from the Kou and Keller camps claims that nearly one-third of Fine’s contributions came from developers.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;This claim was fact-checked by &lt;em&gt;Palo Alto Weekly&lt;/em&gt;, who concluded that &lt;a href=&quot;http://paloaltoonline.com/news/2016/10/25/palo-alto-council-candidates-trade-barbs-over-negative-ads&quot;&gt;only about $6,000&lt;/a&gt; of the $50,000-plus Adrian Fine has raised to date actually came from real estate developers.  Palo Altans for Sensible Zoning, the residentialist political action committee who is behind the ad, appears to have overreached in &lt;a href=&quot;http://www.paszaction.com/developer_money_part_2&quot;&gt;their definition of real estate&lt;/a&gt;, including donors in professions such as land use consulting, environmental planning, and architecture –  even retired architects and consultants.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;If one considers campaign finance to be the sole determining influence over future city policy, it seems Palo Alto is destined to become a retirement community.  Of $63,124 contributed to Lydia Kou’s campaign in the last month, more than half of donations were made by retirees. Keller’s numbers are even higher; of $63,575 raised in the last reporting period, $44,150 came from retired donors – more than two-thirds of the total. In total, Lydia Kou has raised $90,061 to date and Arthur Keller has raised $97,650.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Fine, on the other hand, seems to be receiving financial support from a broader base of the community – technology workers, attorneys, consultants, and entrepreneurs. His contributions have also come in much smaller dollar amounts. In his latest filing, the vast majority of donations came in under $500, and all but three were under $1,000. In &lt;a href=&quot;http://www.votefine.com/negative_ad_response&quot;&gt;a response to the negative ad claim&lt;/a&gt;, Fine notes that his campaign is funded by 182 individual donors, averaging $280 per donor. In total, Adrian Fine has raised $68,821.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Similarly, Tanaka has received support from residents in fields such as technology, finance, consulting, architecture, public service, and yes, real estate. Liz Kniss’s contributors show similar professional diversity, with total dollars raised to date of $54,158. Tanaka raised $11,249 in the last month, bringing his total funding to $58,572.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In total, the “pro-growth” slate of Adrian Fine, Liz Kniss, and Greg Tanaka have raised $181,541, coming in just shy of Keller and Kou’s combined $187,711.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The latest development in the residentialist campaign is the sizeable expenditures by the committees of Lydia Kou and Arthur Keller on a political consultancy firm, RMS Associates. RMS Associates, a subsidiary of &lt;a href=&quot;http://www.rmsdigitalinteractive.com/team/&quot;&gt;RMS Interactive&lt;/a&gt;, is a political consultancy firm founded by Richard Schlackman. Schlackman touts over 40 years of experience in political campaigns and is credited with conceiving the idea of mailed ads as an effective tool for political advertising.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The two candidates combined have spent $86,148 on RMS Associates’ services, according to filings published by Lydia Kou’s and Arthur Keller’s campaigns last Thursday, $47,321 by Ms. Kou and $38,827 by Mr. Keller. The services rendered by Mr. Schlackman’s firms appear to be related to the mailer ads targeting Adrian Fine discussed above. In total, Lydia Kou and Arthur Keller have spent over $130,000 combined in their political campaigns for city council, just over $66,000 each.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Meanwhile, Palo Altans for Sensible Zoning, the political action committee supporting residentialist policies and candidates, has raised nearly $30,000 itself to date. In its latest filing, PASZ reports spending $20,000 to have two polls conducted for Kou and Keller, at $10,000 per survey. The poll was conducted by Lincoln Park Strategies, a nationally-known, Washington D.C.-based firm. Its founder, Stefan Hankin, worked as a pollster on Barack Obama’s presidential campaign in 2008.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;No other candidates aside from Mr. Keller or Ms. Kou have retained political consulting firms in their campaign efforts.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Evidently, when it comes to raising campaign funds for the residentialists, it takes a village.&lt;/p&gt;
 
     
   
