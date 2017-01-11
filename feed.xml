@@ -2,13 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-10T00:00:00Z</updated>
+  <updated>2017-01-11T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/sf-sketchfest-brings-local-flavor-and-global-laughs/">
+    <title type="text">SF Sketchfest Brings Local Flavor and Global Laughs</title>
+    <id>urn:uuid:d13b8a50-2481-314d-8700-09dbf5734e6e</id>
+    <updated>2017-01-11T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/sf-sketchfest-brings-local-flavor-and-global-laughs/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;San Francisco is perpetually a city of rising stars, but conventional wisdom dictates that once they rise, they must flee for Los Angeles with all deliberate haste. SF Sketchfest has established itself as a global institution to counter the tinsel-town dominance of show business, pushing the envelope with new and innovative comedians alongside the star power of established stalwarts.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;If you find yourself staring at a list of obscure names, don’t worry—it’s as much of a celebration for twisted comedy nerds as it is a festival rife with conventional punchline structures for the casual consumer.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Whether casual or obsessive, you would do yourself a huge disservice to stick to the standup shows, as improv is arguably just as crucial in the chemistry of comedy. That’s why the almost-daily improv showcase at PianoFight is absolutely essential for those seeking a deep dive into the most unpredictable form of comedy available. Of particular note is the showcase on Thursday, January 19th, hosted by the local clothing-optional sketch comedy troupe &lt;a href=&quot;https://sfsketchfest2017.sched.com/artist/chardonnay.1vyfjsd0&quot;&gt;Chardonnay&lt;/a&gt;. (Yes, we recommend them because &lt;em&gt;they are funny,&lt;/em&gt; okay? Get your head out of the gutter.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;On that same night, the &lt;a href=&quot;https://sfsketchfest2017.sched.com/event/8wLz/sf-sketchfest-nightlife-at-the-california-academy-of-sciences?iframe=no&amp;amp;w=100%&amp;amp;sidebar=yes&amp;amp;bg=no&quot;&gt;California Academy of Sciences&lt;/a&gt; will host an adults-only extravaganza with a live performance by “scientists” Frank Beaulieu and Frank Conniff of Mystery Science Theater 3000, live DJs, alcoholic beverages, and satirical TED Talks, among other weird offerings.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;When it comes to the avant-garde, San Francisco plays second fiddle to no one. It will be especially delightful to the most curious comedy-seekers to see Ian Abramson’s &lt;a href=&quot;https://sfsketchfest2017.sched.com/event/8wMm/7-minutes-in-purgatory-with-ian-abramson-and-guests-alex-jude-joel-kim-booster-dave-hill-joyelle-nicole-johnson-seaton-smith-brent-weinbach-ahamed-weinberg-and-alice-wetterlund?iframe=no&amp;amp;w=100%&amp;amp;sidebar=yes&amp;amp;bg=no&quot;&gt;7 Minutes of Purgatory&lt;/a&gt;, which debuts this Friday, 8:00pm at the Eureka Theater. Abramson encloses comedians in a soundproof booth, where they perform for an audience in a separate room via closed-circuit television. It’s a disorienting experience for both audience and performer, robbed of their symbiotic relationship, often to hilarious effect.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Our fair city of Saint Francis can no longer be mistaken for a provincial backwater town—not with an international standup showcase featuring award-winning commedians Aisling Bea and James Acaster, from Ireland and New Zealand, respectively. On &lt;a href=&quot;https://sfsketchfest2017.sched.com/event/8wLl/international-standup-spotlight-aisling-bea-and-james-acaster-hosted-by-josh-johnson?iframe=no&amp;amp;w=100%&amp;amp;sidebar=yes&amp;amp;bg=no&quot;&gt;Friday, January 20th at the Brava Theater&lt;/a&gt;, showgoers can treat themselves to unfamiliar comedy delivered by strangely-accented yet masterful performers whose sense of humor is never lost in translation.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;What delights us most, frankly, is that readers could ignore all our suggestions and would still be guaranteed a great time. Ultimately, SF Sketchfest is simply a celebration of human speech and movement. Nobody really knows why we enjoy laughter so much, but we’re more than happy to suspend our disbelief and leave our jaded cynicism at coat-check.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jhA2OEN5Dxo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j_VQVYWwz_U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+    
+  
+    
+				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xpZLusV-1IY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/at-first-sight-alamedans-welcome-density-on-waterfront/">
     <title type="text">At First Sight, Alamedans Welcome Density on Waterfront</title>
     <id>urn:uuid:5bafcf39-a312-3738-9070-2e6f4df16d56</id>
@@ -4643,84 +4704,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Copyright &lt;a href=&quot;http://www.krustywheatfield.com/&quot;&gt;Krusty Wheatfield&lt;/a&gt; 2016 ©&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/editorial-questioning-priorities-in-the-affordable-housing-community/">
-    <title type="text">Editorial: Questioning Priorities in the Affordable Housing Community</title>
-    <id>urn:uuid:a5e52183-da1f-314f-bdf5-9e448f876507</id>
-    <updated>2016-11-08T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/editorial-questioning-priorities-in-the-affordable-housing-community/" />
-    <author>
-      <name>Leigha Beckman</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;We recently &lt;a href=&quot;http://sfbamo.com/news/editorial-why-is-ccho-afraid-of-the-city-controllers-prop-c-study/&quot;&gt;responded to an open letter&lt;/a&gt; from the Council of Community Housing Organizations (CCHO), an affordable housing organization, to the City Controller on its &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/09/prop-c-affordable-housing-study-for-sf.html&quot;&gt;study of Proposition C&lt;/a&gt; and its 25% inclusionary requirement.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;One of  CCHO’s most surprising positions was that the very first goal of the city’s housing policy should be to “capture the windfall profits resulting from increased land values.” This means the actual creation of affordable housing comes somewhere after first in CCHO’s ranking of goals.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Perhaps this indicates that we can add “personal political agendas” to the list of priorities that rank above affordable housing.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;As part of its case for the 25% middle- and low-income housing requirement, CCHO cited two real-world projects that demonstrate the feasibility of the policy, one of which is an affordable housing proposal by a private developer at 915-917 Cayuga, SST Investments. The project is an unusually generous one: 103 units with 51 of them set to be rent-controlled, and 52 rented at below market-rate rents at varying low and moderate income levels. The developer has been working with the Mayor’s Office to ensure tenant protections under the city’s rent control laws, which currently extend only to properties built before 1979.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At the same time, CCHO has &lt;a href=&quot;http://www.sfccho.org/some-sf-ballot-measures-trump-would-love/&quot;&gt;stated support&lt;/a&gt; for Proposition M, a ballot measure to create a new commission to oversee housing and economic development, in addition to replacing two existing commissions. One of the major concerns about Prop M from opponents is that it would obstruct or delay the building of housing, including affordable housing when it is rolled into market-rate as part of the city’s inclusionary program.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Now it turns out 915-917 Cayuga, CCHO’s 25% inclusionary champion, might be on &lt;a href=&quot;https://ballotpedia.org/San_Francisco,_California,_Housing_and_Development_Commission_Establishment_Amendment,_Proposition_M_(November_2016&quot;&gt;Prop M&lt;/a&gt;)’s chopping block (if it passes), by way of the district’s own supervisor.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Joe Fitz Rodriguez of the &lt;em&gt;SF Examiner&lt;/em&gt; &lt;a href=&quot;http://www.sfexaminer.com/related-entities/?eid=3083244971&amp;amp;ename=Aaron%20Peskin&amp;amp;lang=en&quot;&gt;writes&lt;/a&gt;, “The newest barrier for the plan for 915-917 Cayuga Ave., the site of the affordable housing, may be Supervisor Aaron Peskin’s Proposition M, which is now on the ballot.” According to Fitz, insiders familiar with the deal believe the project will face scrutiny from Prop M due to possible ethics violations committed by Ahsha Safai, the District 11 Supervisor candidate who played a role in the deal.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The complaint against Safaí, filed by Supervisor John Avalos, is that Safai failed to register as a lobbyist when pitching the affordable housing idea to his friend, project developer Siavash Tahbahzof. According to the complaint, Safai’s consulting firm, Kitchen Cabinet Public Affairs, has between $10,000 and $100,000 in business activity with SST Investments, a fact he should have disclosed to the city before negotiating the deal.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Avalos &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Developer-wants-to-create-rent-controlled-housing-10152241.php&quot;&gt;was skeptical&lt;/a&gt; of the deal from the beginning, calling the near-election timing “dubious.” He accused Safai of using insider deal to get “maximum benefit” during election season. Avalos is supporting Safai’s opponent, Kimberly Alvarenga, and defeated Safai in his first run for D11 Supervisor in 2008.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;To reiterate, CCHO supports the creation of Proposition M, a commission to oversee proposed housing developments, which in theory should line up with its push for more affordable housing. Now, one of only two affordable housing projects CCHO is holding up as an example of 25% inclusionary feasibility &lt;em&gt;is expected to be held up, if not blocked entirely&lt;/em&gt;, by Prop M&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;There are two takeaways from this: 1) At least one of the two projects CCHO cites as a “real-world” project that can pencil out 25% affordable units is probably not going to end up going through in the real world, and 2) The reason it won’t go through is because a politician has an axe to grind, and would rather see his opponent’s project go down than get affordable housing built in his own district.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Affordable housing should not be a political tool, and holding projects hostage in petty political battles doesn’t help people who need affordable housing.&lt;/p&gt;
 
     
   
