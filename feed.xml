@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-11T00:00:00Z</updated>
+  <updated>2017-01-12T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/lawsuit-eliminates-23-homes-from-redwood-city-condo-proposal/">
+    <title type="text">Lawsuit Eliminates 23 Homes from Redwood City Condo Proposal</title>
+    <id>urn:uuid:05ce8607-5f96-325e-8ab6-a2af46dd1266</id>
+    <updated>2017-01-12T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/lawsuit-eliminates-23-homes-from-redwood-city-condo-proposal/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;A coalition of neighbors in San Mateo County dubbed “Redwood City Residents for Responsible Development” (RCRFRD) successfully leveraged environmental litigation to downsize new development in the downtown area. The developer, Jefferson Res, LLC, submitted applications for a permit in September 2015 for an 8-story condominium building with 91 dwelling units at 603 Jefferson Avenue. After approving it in May of 2016, the City Council voted to deny an appeal brought by two residents in late July.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Following the settlement of a &lt;a href=&quot;https://static1.squarespace.com/static/55dbb5e9e4b0703ec759c956/t/587697f320099e396b9c5553/1484167439462/Redwood+City+-+603+Jefferson+-+Suit.pdf&quot;&gt;lawsuit&lt;/a&gt; brought under the California Environmental Quality Act (CEQA), the developer agreed to shorten the project to 6 stories, comprising only 68 units.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Multiple studies from the law firm &lt;a href=&quot;https://www.hklaw.com/news/holland-knight-study-uncovers-widespread-ceqa-litigation-abuse-08-04-2015/&quot;&gt;Holland &amp;amp; Knight&lt;/a&gt; have shown that the majority of CEQA lawsuits target public transit, renewable energy, and infill housing development. The appellants alleged “severe” impacts on traffic in their suit, relying on a Level Of Service (LOS) measure for traffic impacts which California lawmakers &lt;a href=&quot;https://www.opr.ca.gov/docs/SB_743_CEQA_Guidelines_Update_Local_Government_Roundtable_8_18_14.pdf&quot;&gt;have begun phasing out&lt;/a&gt;, instead quantifying traffic impact in terms of Vehicle Miles Travelled (VMT).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Isabelle Chu, founder of the non-profit advocacy group &lt;a href=&quot;http://www.redwoodcityforward.com/&quot;&gt;Redwood City Forward&lt;/a&gt;, was deeply disappointed by the outcome of the lawsuit. “If these [developments] were deeply unpopular, we’ve had ample opportunity to vote out our current city council. That has not happened,” she said in a brief phone interview. “Judging from the actions and voting patterns, the city of Redwood City likes the downtown, or at least doesn’t object to it. Consequently, these actions are overriding the will of everyone who elected the city council; everybody who gave input into the Downtown Specific Plan; and everyone who lives, works, and visits the downtown.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Ms. Chu reserved particular ire for the grounds on which the suit was filed. “It’s based on an outdated measure [LOS] which indicates that their primary concern is not, in fact, the environment, but rather the convenience of their drive. First of all, the primary determinant of traffic is the economy, not housing,” she added.  “Housing near jobs reduces traffic, all things being equal. Traffic is an inconvenience. Housing is a basic necessity. To deny somebody a place to life because you’re inconvenienced is unjust.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Brian Hanlon, founder of the California Renters Legal Advocacy and Education Fund (CaRLA), sees the lawsuit as part of a broader pattern of abusing environmental litigation to maintain suburban sprawl. “Local NIMBYs should not be able to use CEQA to compel a reduction of 23 homes in a downtown development,” Mr. Hanlon wrote in an email. “The claim that building an 8-story residential building would cause ‘severe significant environmental impacts’ is absurd.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In the event that plaintiffs lose their case, an unincorporated club can easily avoid liability for damages or attorney’s fees. (Holland &amp;amp; Knight researchers recommend reforming this aspect of the law, requiring litigants to state their full names to deter CEQA abuse.) Consequently, the plaintiffs could not be reached for comment.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/sf-sketchfest-brings-local-flavor-and-global-laughs/">
     <title type="text">SF Sketchfest Brings Local Flavor and Global Laughs</title>
     <id>urn:uuid:d13b8a50-2481-314d-8700-09dbf5734e6e</id>
@@ -4681,29 +4734,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;&lt;em&gt;Cover image: &quot;The Disembarkation of Christopher Colombus on the Island of Guanahani in 1492&quot; by Jose Garnelo y Alda&lt;/em&gt;&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/cartoon-not-for-sale/">
-    <title type="text">Cartoon: &quot;Not For Sale&quot;</title>
-    <id>urn:uuid:fa41cc91-7c25-3fc5-9a14-86cdb6bf8fe8</id>
-    <updated>2016-11-08T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/cartoon-not-for-sale/" />
-    <author>
-      <name>Krusty Wheatfield</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Copyright &lt;a href=&quot;http://www.krustywheatfield.com/&quot;&gt;Krusty Wheatfield&lt;/a&gt; 2016 ©&lt;/p&gt;
 
     
   
