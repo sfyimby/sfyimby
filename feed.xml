@@ -2,13 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-12T00:00:00Z</updated>
+  <updated>2017-01-13T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/feeding-the-hungry-studying-shadows-top-priorities-at-planning-commission/">
+    <title type="text">Feeding the Hungry, Studying Shadows Top Priorities at Planning Commission</title>
+    <id>urn:uuid:f1858de3-ebc9-38fb-becd-2e638e3c1ca2</id>
+    <updated>2017-01-13T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/feeding-the-hungry-studying-shadows-top-priorities-at-planning-commission/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Dennis Richards (pictured above), acting president of the San Francisco Planning Commission, told a pair of French nuns, “I’ll even try your food,” before moving to approve their application for a use permit to run a non-profit soup kitchen out of vacant retail space. “You can donate, too,” one Sister replied.
+“I’ll come volunteer,” Richards added without missing a beat. 
+Thus concluded the first, heartwarming half of the Planning Commission’s Discretionary Review agenda yesterday. The stars were aligned: Tony Robbins, celebrity business consultant, had partnered with Salesforce CEO Marc Benioff to donate a new space, located at 1928 Mmission Street, to the Fraternite Notre Dame Mary of Nazareth House, after the landlord of their soup kitchen at 54 Turk Street moved to evict the nuns. Both Robbins and Benioff testified in favor. Newly sworn-in District 9 Supervisor Hillary Ronen brought droves of local supporters to the meeting, saying it was the most “compassionate, appropriate service to come to the Mission.”
+Several neighbors from the 1930 Mission Street condominiums above the storefront came out to oppose the use permit, citing safety concerns. One man stated, after a litany of supporting testimonies, that although he still felt “this is just not the right place,” he would still be open to it being “very nearby.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Estimated sale prices for the condos at 1930 Mission Street range from $800 to $1200 per square foot. Property tax assessments in the building were, on average, roughly half of their market value. The vacant storefront and condominiums also share the building with a medical marijuana office.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Another resident of 1930 Mission, a visibly younger woman sporting dyed blue hair (pictured above), had already spoken in support of the soup kitchen, mostly anticipating the man’s later rebuttals. “This will make the area safer,” she said. She was one among many nearby residents who insisted that alleviating the hunger of local homeless population would positively impact their daily life.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The mood was not as cheerful when the meeting’s Discretionary Review portion turned to a five-story mixed-use proposal with 28 dwelling units and ground-floor retail at 198 Valencia Street.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;A nearby decades-old beer garden, Zeitgeist, had complained publicly for weeks prior that the proposed apartment building would cast shadows over their outdoor patio and drive away customers. Although the city typically does not study shadows for space on private property, appellants from the bar brought a shadow impact analysis that did not follow officially mandated methodologies.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“I would like to see more granular data here,” Commissioner Richards told the Zeitgeist representatives. “I feel for you guys, I really do, but right now I just don’t see it.” Zeitgeist claimed the building would shade 7% of their patio after 4pm between March and May, and from August to September. (Planning Department staff argued that a 4% estimate was more likely under their methodology.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;One man who had been working at Zeitgeist for 13 years testified, “without the sunshine, we would no longer be Zeitgeist.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The project at 198 Valencia would be replacing a one-story automobile oil changing station, which drea concern from Peter Pappadopolous of the non-profit Cultural Action Network. “We're concerned about the loss of another auto shop,” he said. “The city has been losing many of its auto repair shops to housing in recent years.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Yet many speakers were more forceful in their support for the project than a mere “I just don’t see it.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Think of if the other way around—would we consider removing 28 homes if this place wanted more sunshine?” asked Sonja Trauss, webmaster of this publication. “Of course not.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“We shouldn't allow special interests to obstruct the construction of housing and inflation of property values,” one man said.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Multiple speakers also mentioned California’s &lt;a href=&quot;http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&amp;amp;sectionNum=65589.5&quot;&gt;Housing Accountability Act&lt;/a&gt;, which requires cities to approve housing developments that meet local zoning requirements in the absence of a quantified health or environmental detriments. For this reason, the alternate option of removing ground-floor retail to include more residential units was quickly dismissed, since the building could still legally rise to 50 feet. (Under the current proposal, an additional five-foot “parapet” is allowed.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Supporters and opponents alike will have to wait over a month to see if any detriment can be quantified. The commission voted 5-1 to continue the item until their February 16th meeting, pending another study of shadows.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/lawsuit-eliminates-23-homes-from-redwood-city-condo-proposal/">
     <title type="text">Lawsuit Eliminates 23 Homes from Redwood City Condo Proposal</title>
     <id>urn:uuid:05ce8607-5f96-325e-8ab6-a2af46dd1266</id>
@@ -4631,109 +4717,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;“The answer to fear is hope,” Villaraigosa said in a recent &lt;a href=&quot;http://www.latimes.com/politics/la-pol-ca-governor-villaraigosa-20161110-story.html&quot;&gt;interview&lt;/a&gt; with the Los Angeles &lt;em&gt;Times&lt;/em&gt;. “I’ll be as fair as the day is long.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/letter-from-the-editor-who-is-we/">
-    <title type="text">Letter from the Editor: Who Is &quot;We&quot;?</title>
-    <id>urn:uuid:966a6470-b922-3961-8cd9-5e99b48bc8b7</id>
-    <updated>2016-11-09T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/letter-from-the-editor-who-is-we/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;This is a failed experiment.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;White people are the quintessential carpetbaggers. Insofar as “white” has coalesced as an abstraction to include once-disparate cultural groups united by colorist prejudices, today it seems merely a distinction of who emigrated to the Americas with some degree of autonomy (Bering Strait notwithstanding, of course). Abstractions may not be tangible, but they can kill.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;We—and my hand trembles as I type “we,” since my status among you has always been ambiguous—we fled Europe for a better life here, bringing smallpox, swine, and iron-fisted ideals. Sometimes we fled war, only to settle on land other Europeans had conquered long ago. My great-grandfather fled Spain during the Civil War, opting to grow crops on barren soil in Puerto Rico centuries after the last Taino stood there.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When he was almost exactly my age, my father fled his hometown of Mexico City after surviving the 1968 &lt;a href=&quot;https://en.wikipedia.org/wiki/Tlatelolco_massacre&quot;&gt;Tlatelolco Massacre&lt;/a&gt;. As we spoke on the phone this morning, both on the verge of tears, he told me he feels quite old, and frankly, he doesn’t know if he’ll live to see the silver lining. “I understand if you want to run away,” he said. “I know the feeling.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Today I live in fear that my relatives will be murdered by a white supremacist militia, or that they will starve, or—anything. Which “we” does this put me in now?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The Latinx community, as long as it has existed, is defined by feeling like refugees in any country with a spare bed for us. Hijos de la chingada: children of the rape. Bastards, anomalies. Last night, many of those with the privilege of a discrete identity reinforced the popular notion that we do not matter. Entire generations have lived and died wondering if they will ever matter.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Abstractions can kill, but only tangible action can save lives. In San Francisco, the campaign for the &lt;a href=&quot;http://www.sfgate.com/bayarea/article/Moratorium-on-new-Mission-District-housing-is-6609187.php&quot;&gt;Mission Moratorium&lt;/a&gt; wasn’t about distorting market forces. For many residents, it was simply a desperate attempt to stop Colonialism in its tracks. Desperate, yes, but not stupid. We (again, we?—not I) know how this goes. We know this chimeric, ancient evil will take on any form it needs to, particularly a benevolent one. Especially greatness, past or future.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Those of us with the privilege to dwell in abstractions—and clearly, I am one of them sometimes—scoffed at this paranoia. It seemed absurd, unrealistic, that shiny new condos would bring about some insidious cultural genocide.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;How many of us opposing Proposition I offered our free time to help undocumented migrants living in fear of deportation? Did we do our part to stand up to daily horrors with daily acts of solidarity? I fear not.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Many also laughed when this all started. We told you this wasn’t funny: here I count myself among this “we.” We never found this funny. We knew, despite all the snickering at the primaries, the certainty that scandal after scandal would rescue this Republic, we knew we’d seen this before. We’ve seen it before because today’s nightmare is the nightmare the United States has inflicted on so many countries around the world, including in Latin America.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;So where do I belong? For a few years, I thought it was the Bay Area. I’ve dedicated my relatively young career to advocating for a more inclusive, open region, documenting the many harms wrought by localized immigration controls (hello, Palo Alto). Along the way, I occasionally confronted older residents who wondered why I had to come here at all. Why did I have to add to the growth this region struggles with so strenuously?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;I’ll tell you. With federal and private grants, I was able to attend Stanford University at virtually no cost to my family. My parents, both professors on the east coast, could not afford to send me anywhere out of state (and hardly anywhere in our home state) without this financial aid.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;My education, and yes, much of the gratuitous privilege that bolsters my life, is premised on a country that values economic mobility. Do we really value this? Shall we accept that for many others, the grass &lt;em&gt;is&lt;/em&gt; indeed greener on our side?&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;I have no idea what to do. To be perfectly honest, I plan on visiting family in Vancouver in the coming weeks, and maybe I’ll ask them if they know anyone with a job opening. The terrible choice such privilege presents us is whether or not to take advantage of it for survival, or squander it to remain in solidarity with those less fortunate.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Last night, I could hear neighbors around me screaming. I couldn’t sleep. Neither could you.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;We must listen to our neighbors. We must listen closely, and be there for them—lest something louder comes to drown out their anguished cries.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Cover image: &quot;The Disembarkation of Christopher Colombus on the Island of Guanahani in 1492&quot; by Jose Garnelo y Alda&lt;/em&gt;&lt;/p&gt;
 
     
   
