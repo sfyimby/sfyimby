@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-13T00:00:00Z</updated>
+  <updated>2017-01-17T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/were-on-a-boat-the-lab-takes-noise-for-a-joyride/">
+    <title type="text">We’re On A Boat: The Lab Takes Noise for a Joyride</title>
+    <id>urn:uuid:a926308d-7589-3532-b0a5-c473eddfbbf5</id>
+    <updated>2017-01-17T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/were-on-a-boat-the-lab-takes-noise-for-a-joyride/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Sandy Buschman left San Francisco a year ago to open a bar in Puerto Rico. La Boveda, in San Juan’s Viejo San Juan district, hosts weekly experimental concerts largely of the same noisy, challenging nature that Sandy brought to the Bay Area. We really want want her back.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;So much so, in fact, that Mission-based music non-profit collective The Lab paid to fly her back for a one-of-a-kind (okay, four total) party on a boat cruise around the San Francisco Bay. Reunited with Oakland-via-Venezuela artist Danishta Rivera in the duo Las Sucias, Buschman formed part of a floating statement dubbed “Attention: We’ve Moved,” organized by artist and emcee Constance Hockaday to innovative artists who have left the Bay Area for greener pastures.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“They flew me out, they’re paying us well, and look at this,” Buschman said, gesturing to the enormous, golden full moon cresting over the Oakland hills. “I couldn’t have asked for more.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/were-on-a-boat-the-lab-takes-noise-for-a-joyride/boat1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Las Sucias&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+				&lt;p&gt;&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=1485333312/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless&gt;&lt;a href=&quot;http://ratskinrecords.bandcamp.com/album/las-sucias-salte-del-medio&quot;&gt;LAS  SUCIAS &amp;quot;¡Salte del Medio!&amp;quot; by LAS  SUCIAS&lt;/a&gt;&lt;/iframe&gt;
+    
+  
+    
+				&lt;p&gt;Las Sucias’ noisy, abrasive, feminist deconstruction of reggaeton was followed by the thoroughly disorienting light-sound synthesis of &lt;a href=&quot;http://mshr.info/index.html&quot;&gt;MSHR&lt;/a&gt; (pronounced “mesher”). The pair of seizure-immune engineers Birch Cooper and Brenna Murphy recently relocated to Portland (pictured in the cover photo above), but their blinding performance of sound-emitting light fixtures felt perfectly at home in the bay’s freaky music scene. What didn’t feel quite so familiar, of course, was holding back the seasickness as their stabbing multisensory oscillations synchronized with the swaying of the boat.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Nostalgia and nausea never felt quite so enjoyable.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/feeding-the-hungry-studying-shadows-top-priorities-at-planning-commission/">
     <title type="text">Feeding the Hungry, Studying Shadows Top Priorities at Planning Commission</title>
     <id>urn:uuid:f1858de3-ebc9-38fb-becd-2e638e3c1ca2</id>
@@ -4701,53 +4765,5 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   &lt;img src=&quot;../../news/bay-area-protests-surge-in-response-to-national-election/dumbeldore.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
 
 &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/former-la-mayor-villaraigosa-announces-run-for-governor/">
-    <title type="text">Former LA Mayor Villaraigosa Announces Run for Governor</title>
-    <id>urn:uuid:6bff0c8b-1b30-38c0-aa45-dea8fa2807d4</id>
-    <updated>2016-11-10T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/former-la-mayor-villaraigosa-announces-run-for-governor/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Former Mayor of Los Angeles Antonio Villaraigosa announced today that he would be running for Governor of California in 2018. The &lt;a href=&quot;http://antonioforcalifornia.com/&quot;&gt;candidate&lt;/a&gt; will be facing steep opposition in a crowded race that will include current Lt. Governor Gavin Newsom, State Treasurer John Chiang, and former schools superintendent Delaine Eastin.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Raised by a single mother in Boyle Heights, Villaraigosa served for two terms as the first Latino mayor of Los Angeles from 2005 to 2013. During his mayoralty, Los Angeles weathered a revenue shortfall resulting from the 2008 recession. After raising wages for public employees before the recession, Villaraigosa successfully &lt;a href=&quot;http://www.latimes.com/local/california/la-me-villaraigosa-legacy-20130629-dto-story.html&quot;&gt;negotiated&lt;/a&gt; pay cuts with public unions when tightening the city’s budget.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Before the recession, Villaraigosa’s proposals to address the city’s housing affordability crisis involved lobbying state and federal governments to support first-time home purchasing programs. When foreclosures began to soar, the mayor pivoted to focus on tenant protections, supportive housing for the growing homeless population, and &lt;a href=&quot;http://www.rooflines.org/1181/keeping_hope_and_housing_alive_in_la/&quot;&gt;inclusionary zoning requirements&lt;/a&gt; from market-rate development.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;His administration weathered numerous scandals, including an infidelity charge, and Villaraigosa encountered numerous roadblocks to his housing platform. First, a 2010 court ruling known as the &lt;a href=&quot;http://www.laobserved.com/boyarsky/2010/02/a_city_hall_backstabbing.php&quot;&gt;Palmer decision&lt;/a&gt; invalidated his plan to require a minimum amount of price-indexed units for lower incomes from private developers. The following year, outrage erupted when the city’s former Housing Authority director Rudolf Montiel received a $1.2 million severance package to settle his wrongful termination claim, and the Mayor’s office initially &lt;a href=&quot;http://www.dailybreeze.com/20111210/editorial-mayor-antonio-villaraigosa-looks-bad-over-housing-authority-head-scandal&quot;&gt;claimed&lt;/a&gt; Villaraigosa was unaware of the payoff.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Antonio Villaraigosa initially considered the gubernatorial race in 2010, before former and current Governor Jerry Brown obtained the Democratic nomination. His nascent campaign is at a monetary disadvantage compared to that of top contender Gavin Newsom, who has been fundraising since announcing his candidacy in February of 2015.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“The answer to fear is hope,” Villaraigosa said in a recent &lt;a href=&quot;http://www.latimes.com/politics/la-pol-ca-governor-villaraigosa-20161110-story.html&quot;&gt;interview&lt;/a&gt; with the Los Angeles &lt;em&gt;Times&lt;/em&gt;. “I’ll be as fair as the day is long.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
   </entry>
 </feed>
