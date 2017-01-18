@@ -2,13 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-17T00:00:00Z</updated>
+  <updated>2017-01-18T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/alameda-shows-support-for-housing-immigrants/">
+    <title type="text">Alameda Shows Support for Housing, Immigrants</title>
+    <id>urn:uuid:c0a10419-0d19-3d4c-b40b-6575dfa02506</id>
+    <updated>2017-01-18T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/alameda-shows-support-for-housing-immigrants/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Alameda’s City Council meeting covered a dizzying variety of issues last night—among other notable actions, the city affirmed its status as a sanctuary city. Over the objections of a handful of older residents, the Council largely supported the efforts of several dozen demonstrators urging the city to draft a more specific resolution to protect the civil rights of migrants.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;More subtly, but perhaps just as importantly, the City Council also united to support an ambitious mixed-use development on Alameda Point known as Site A. With a full 25% of the 800 units indexed at Below Market Rate rents, Site A is one of the Bay Area’s largest municipal efforts to tackle the regional housing shortage on mostly vacant land. It is here that the &lt;em&gt;Metro Observer&lt;/em&gt; will focus its coverage.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The decision focused on the &lt;a href=&quot;https://cityofalameda1.app.box.com/s/sgx1v3j9qp5b4zvk6tg990dhffpo4lkq&quot;&gt;Disposition and Development Agreement&lt;/a&gt; (DDA) between the city and Alameda Point Partners, LLC. The developer sought a three-month extension on its financing deadline to secure further funds for infrastructure. The 68-acre site, part of the former Naval Air Base, is not well-served by transit. The city estimated infrastructure costs for the project as up to $40 million.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This is just a development deal to finance infrastructure. Once we fund the infrastructure, a land development deal to finance infrastructure is through developer equity,” a city staffer explained, more for the public’s benefit than to educate elected officials.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Staff underscored that Site A is a “very complicated project” and that the developer had been “working very hard…on an aggressive timeline.” Though it was often noted that Alameda Point Partners had raised more funds in the month since the previous deadline had passed in December, the five-member council seemed to have already made up its mind. Mayor Trish Spencer repeatedly voiced her opposition to granting the extension, while the rest of the council supported it as a matter of “now or never.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Existing businesses on Alameda Point really need this infrastructure,” said Michael McDonough, President of the Alameda Chamber of Commerce. “The delay should be pushed through with approval, because we’ll still be getting the project we’ve wanted for twenty years,” he continued.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/alameda-shows-support-for-housing-immigrants/alamtg-sitea1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;project plan for Site A (source: City of Alameda)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Helen Sause of the Alameda Home Team testified, “It’s pretty exceptional for a developer to make serious efforts to meet with the community this much,” describing a litany of meetings in which the developer discussed and revised project design with the input of neighbors.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Delaying this now puts us in a position where it may never happen,” said local Alameda resident Philip James, recently elected as Assembly District Delegate to the state’s Democratic Party. “We have the ball rolling on a chance to turn a piece of land that has provided no benefit to Alameda—almost blighting it—into something positive.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Several Alamedans, however, shared Mayor Spencer’s reservations.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The lack of funding should be a point of concern to this council,” one woman testified. “A project of this size should have many sources of funding.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Another woman said she had scoured the developer’s website and found that they catered to a “luxury apartment” market, and questioned whether the developer’s plan was to create “a gated community without a gate.” (Alameda currently has a median home price of $880,000, according to Zillow.)
+“Most of all adults living in Site A will not be working here…they will not be a part of the community, but one of their own, and we will be left like children on the outside looking in,” she went on in requesting that the council deny approval.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;One man urged the council to consider local development alternatives controlled by nearby residents. “One suggestion we have is a raised foundation,” he said. “Alameda Point is susceptible to sea-level rise.”
+“The infrastructure isn’t just paid for in good wishes,” Councilmember Marilyn Ezzy Ashcraft noted. “This developer is making 25% of all units affordable.” She went on to urge the council to “keep the faith and not get cold feet.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This developer &lt;em&gt;is&lt;/em&gt; returning phone calls, they’re working with financers who aren’t as shady as they’ve been before,” said Councilmember Jim Oddie. “So I’m confident that this will work out…The leash is short,” he added. “The bottom line is, in order to build affordable housing, you have to have market-rate.” By comparison, he described the $22 million the city sought to finance subsidized housing as showing needs far above what public dollars could finance, given a recent $7 million apportionment from the countywide housing bond (2016’s Measure AA).&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“This is the greatest amount of affordable housing we’ve ever seen proposed here,” said Councilmember Frank Mataresse. In his view, the risk of a future default was much lower than the present risk of the entire project collapsing from lack of financing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Vice Mayor Malia Vella joined in the majority approving the delay, cautioning that she would be much more reluctant to support such an action the second time. “We’ve been burned before,” she said, “but in this scenario, the developer has shown a lot of good will.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;By a vote of 4-1, Alameda Point Partners received their requested three-month extension&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/were-on-a-boat-the-lab-takes-noise-for-a-joyride/">
     <title type="text">We’re On A Boat: The Lab Takes Noise for a Joyride</title>
     <id>urn:uuid:a926308d-7589-3532-b0a5-c473eddfbbf5</id>
@@ -4715,55 +4834,5 @@ While she largely succeeded in redrawing school district boundaries to desegrega
     
   
 &lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/bay-area-protests-surge-in-response-to-national-election/">
-    <title type="text">Bay Area Protests Surge in Response to National Election</title>
-    <id>urn:uuid:457eab73-210c-358e-8237-6ca378922a2d</id>
-    <updated>2016-11-10T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/bay-area-protests-surge-in-response-to-national-election/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Thousands of students in San Francisco walked out of class today to protest the election of an openly white supremacist and misogynist President. These protests follow in the wake of thousands marching along Market Street last night, from the Ferry Building to the Castro, and more confrontational protests &lt;a href=&quot;http://www.eastbayexpress.com/oakland/videos-photos-massive-crowd-of-anti-donald-trump-protesters-take-over-downtown-oakland/Content?oid=5030347&quot;&gt;in downtown Oakland&lt;/a&gt;. Oakland students also walked out en masse today, and &lt;a href=&quot;http://www.eastbayexpress.com/oakland/videos-photos-massive-crowd-of-anti-donald-trump-protesters-take-over-downtown-oakland/Content?oid=5030347&quot;&gt;Berkeley High School&lt;/a&gt; students staged a protest on the UC Berkeley campus yesterday.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;State Senator Mark Leno attended today’s demonstration in front of San Francisco City Hall, telling the &lt;em&gt;Metro Observer&lt;/em&gt; that he saw historical parallels between this year’s election and the early 1970s. “[This election] makes me remember how Richard Nixon was re-elected with one of the biggest landslides in American history, yet his term was cut short by one of the worst scandals in our history,” he said.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Mayor Ed Lee's office has announced that they will make contingency plans to prepare for a complete loss of federal funding in order to preserve San Francisco's &lt;a href=&quot;http://www.sfchronicle.com/politics/article/SF-preparing-in-case-Trump-cuts-federal-funds-10607210.php?t=faa8df36a2&amp;amp;cmpid=twitter-premium&quot;&gt;sanctuary city status&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In deference to the strength and courage of these demonstrators, we present photographs from staff photographer Mike Ege without comment, and encourage our readers to follow coverage by other local journalists such as &lt;a href=&quot;http://missionlocal.org/2016/11/mission-high-students-join-hundreds-in-anti-trump-protest/&quot;&gt;Joe Rivano Barros&lt;/a&gt; of &lt;em&gt;Mission Local&lt;/em&gt;.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/bay-area-protests-surge-in-response-to-national-election/conscientious.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/bay-area-protests-surge-in-response-to-national-election/dumbeldore.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;</content>
   </entry>
 </feed>
