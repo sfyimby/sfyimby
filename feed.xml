@@ -2,13 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-18T00:00:00Z</updated>
+  <updated>2017-01-19T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/modular-supportive-housing-proposal-coming-to-berkeley/">
+    <title type="text">Modular Supportive Housing Proposal Coming to Berkeley</title>
+    <id>urn:uuid:fc842df5-b58c-3907-b8fa-fb011d60f2b8</id>
+    <updated>2017-01-19T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/modular-supportive-housing-proposal-coming-to-berkeley/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;On a rainy, gusty day in Berkeley, the city’s homeless residents huddled in alleyways, under tarps and in tents, struggling to withstand elements. During last week’s stormy nights, a homeless woman &lt;a href=&quot;http://www.berkeleyside.com/2017/01/15/body-homeless-woman-found-near-berkeley-high/&quot;&gt;died of exposure&lt;/a&gt;  one block from city hall.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;As I walked past Berkeley High, I spotted a group of tourists gawking at an alien-like metal cuboid parked beside the curb that I recognized at once: the &lt;a href=&quot;http://sfbamo.com/news/tiny-houses-huge-hurdles-panoramic-and-the-future-of-supportive-housing/&quot;&gt;MicroPAD&lt;/a&gt; had arrived at last.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Far from an extraterrestrial spacecraft, Panoramic Interests’ 160 square foot modular studio home is designed to bring the costs of supportive housing further down to earth. Berkeley’s City Council will consider a &lt;a href=&quot;http://www.cityofberkeley.info/Clerk/City_Council/2017/01_Jan/Documents/2017-01-24_Item_35_Referral_to_City_Manager_Step_Up.aspx&quot;&gt;resolution&lt;/a&gt; on Tuesday, January 24, directing staff to research potential collaboration with the private developer known for modular or prefabricated projects across the Bay Area.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Panoramic advertises their prefabricated design, shipped from a Chinese factory, as costing only 40% of “traditional” brick-and-mortar construction. Owner and Director &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/print-edition/2012/12/21/patrick-kennedy-owner-of-panoramic.html&quot;&gt;Patrick Kennedy&lt;/a&gt; added in an interview, “it’s cheaper to bring them over on a ship from China than drive one over on a truck from Sacramento. That’s how much you save when buying in bulk.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Kennedy hopes to strike a deal with the city for Panoramic to build apartments with potentially hundreds of MicroPADs on city-owned land, with the units leased below market value (Kennedy estimates $1,000 compared to $1,400) to house its burgeoning homeless population. The units can essentially be “stacked” into full apartments, with a ground floor for services, in six to eight months. After fifteen years, Berkeley could make an offer to buy the buildings from Panoramic.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“These tiny houses they’ve displayed in places like Portland don’t have all the infrastructure you need for supportive housing,” Kennedy says. “With [the MicroPAD], you have all wiring, plumbing, and fire code already there, and you don’t need really as much land. The city pays less to house more people in better conditions. The way we see it, we’re a one-trick pony, but we’re the only pony around that does this trick.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/modular-supportive-housing-proposal-coming-to-berkeley/micropad_looking-in.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;MicroPAD interior view (courtesy: Panoramic Interests)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Panoramic’s tour guide, who detailed the sample unit’s amenities to us along with a Berkeley High School teacher and a homeless man, said that they also hope to be able to help the city save costs in health and public safety resulting from its current crisis of homelessness.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The “Step-Up Housing Initiative” is sponsored by Councilmembers Linda Maio, Lori Droste, and the newly-elected Ben Bartlett. Bartlett, representing South Berkeley, ran on a firmly positive, optimistic platform that included plans to build at last 600 backyard Accessory Dwelling Units. His successful campaign wasn’t even the most successful in a double-digit sweep by the city’s nominally “progressive” faction of Democrats.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“I’m always looking out for innovative ideas,” Councilmember Bartlett said in a phone interview. “An activist friend in Los Angeles showed [the MicroPAD] to me over a year ago, and I sought out the developer. It’s really simple to me. I saw an outcome, and I saw a mechanism to make it happen.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Bartlett repeatedly stressed that he was impressed by the cost-effectiveness Panoramic offered in potentially alleviating an emergent crisis. He also expressed surprise and dismay that there had been heated criticism to Panoramic in some local political circles.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“I’ve been surprised by some of the negative reactions. I guess because I’m new, maybe I have a fresh perspective, I don’t understand what the problem is,” he said of those criticisms. “For me, the messenger is not the medium. As an African-American, as a member of the population that has been challenged from the get-go—when it comes to solutions for economic inclusion, civic inclusion, and human well-being, I focus on the outcome. When it comes to moving a person forward to a better life, I’m about getting it done. Here, I was attracted by the affordability from the city’s standpoint, and the speed. We have 1,200 homeless people—conceivably, we could have one tenth of them housed in 6 months for $1,200,000 a year.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“An overemphasis on process, to the detriment of outcome, has us in the problem we’re in,” Bartlett added. “I’m not about personality politics, and it’s not what we need in the midst of a homelessness crisis.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Insiders have told the &lt;em&gt;Metro Observer&lt;/em&gt; that there is wild speculation over how MicroPAD will play out among the new majority. Councilmember Sophie Hahn, another candidate from the &quot;progressive&quot; bloc who just as deftly swept the District 5 election, was strenuously opposed to previous “micro-unit” proposals during her time on the Zoning Adjustments Board (ZAB). In 2013, Hahn joined a majority on the ZAB in opposing a &lt;a href=&quot;http://www.berkeleyside.com/2013/08/20/berkeley-neighbors-fight-micro-unit-proposal-on-shattuck/&quot;&gt;five-story apartment proposal&lt;/a&gt; on Shattuck Avenue and Derby Street with 70 micro-units. During the hearing, Hahn expressed disapproval of the overall concept of micro-units, which she described as “penitentiary housing” lacking enough room for exercise or “intimacy.” Two years later, Hahn also voted with a majority to &lt;a href=&quot;http://www.berkeleyside.com/2015/11/19/berkeley-zab-round-up-the-roost-approved-on-blake-center-street-hotel-previewed-kennedy-project-put-off/&quot;&gt;postpone action&lt;/a&gt; on a project by Panoramic Interests with 22 micro-units one block away.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The homeless man touring the MicroPAD with us, a Laney College student who identified himself as Derek, said the room was “beautiful” and planned to support it. He mentions that he has almost completed his degree program. “It’s pretty pathetic, you know,” he said to the tour guide, “people are always presenting these big plans on paper, but they’ll never get around to decide how to spend the money on something. They should just sit down and do it.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Derick eagerly took an informational pamphlet, along with a copy of next week’s city council meeting agenda, from the spotless plastic counter.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;We shook hands, wished each other a good day, and walked off separately into the rain.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/alameda-shows-support-for-housing-immigrants/">
     <title type="text">Alameda Shows Support for Housing, Immigrants</title>
     <id>urn:uuid:c0a10419-0d19-3d4c-b40b-6575dfa02506</id>
@@ -4767,69 +4884,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;These results could serve as a valuable cautionary tale for would-be public officials: no matter your funding, it always pays to court the vote beyond your own back yard.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/op-ed-what-this-election-really-means/">
-    <title type="text">Op-Ed: What This Election Really Means</title>
-    <id>urn:uuid:47736e59-d423-3131-a8d0-20c10f7f3e53</id>
-    <updated>2016-11-11T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/op-ed-what-this-election-really-means/" />
-    <author>
-      <name>Mike Ege</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;In 2017, Donald Trump will be our next president. That means that anything is possible politically, for better or worse.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Trump won in part due to the increasing numbers of people who feel marginalized, &lt;a href=&quot;https://www.washingtonpost.com/news/global-opinions/wp/2016/11/10/im-a-muslim-a-woman-and-an-immigrant-i-voted-for-trump/?wpisrc=nl_most-draw7&amp;amp;wpmm=1&quot;&gt;regardless of background&lt;/a&gt;. The national election was more than anything about &lt;a href=&quot;https://www.thenation.com/article/inequality-gave-rise-to-donald-trumps-presidency/&quot;&gt;inequality&lt;/a&gt;, and the &lt;a href=&quot;http://inthesetimes.com/article/19618/listen-leftist-thomas-frank-donald-trump-hillary-clinton-bernie-sanders&quot;&gt;failure of political Progressives&lt;/a&gt; to respond to the marginalized in a meaningful way.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Whether you rent or own, &lt;a href=&quot;https://www.bloomberg.com/news/articles/2014-07-17/housings-30-percent-of-income-rule-is-near-useless&quot;&gt;paying for housing&lt;/a&gt; makes up the biggest chunk of working families’ budgets, and the rising cost of housing, along with stagnant wages, has been a primary engine of inequality in the United States. The result is that a whole range of working people, from food service workers to middle managers, now live in a state of &lt;a href=&quot;https://thedisorderofthings.com/2013/10/12/struggling-with-precarity-from-more-and-better-jobs-to-less-and-lesser-work/&quot;&gt;economic precarity&lt;/a&gt;. This includes many sectors that political Progressives simply &lt;a href=&quot;http://www.lrb.co.uk/v16/n07/edward-luttwak/why-fascism-is-the-wave-of-the-future&quot;&gt;don’t care about&lt;/a&gt;, because of the perception that they don’t vote for them.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Housing also figures into the rise of Donald Trump as a public figure. Trump first made a name for himself by taking advantage of New York City’s bankruptcy in 1975 to access redevelopment financing, using &lt;a href=&quot;http://www.motherjones.com/politics/2016/07/trump-files-how-donald-tricked-new-york-huge-deal&quot;&gt;the Grand Hyatt hotel project&lt;/a&gt; to elevate his business away from a portfolio of middle-class rental housing to one of luxury properties. In doing so, he contributed to the &lt;a href=&quot;http://www.businessinsider.com/high-income-renters-2016-11&quot;&gt;rising inequality in our cities&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;If we are to take Trump’s platform at face value, housing will continue to be an issue. While much of his rhetoric was likely &lt;a href=&quot;https://www.washingtonpost.com/politics/many-of-trumps-sweeping-promises-will-be-hard-if-not-impossible-to-fulfill/2016/11/09/b07867be-a6a9-11e6-ba59-a7d93165c6d4_story.html?wpisrc=nl_most-draw7&amp;amp;wpmm=1&quot;&gt;meant to be an analogy&lt;/a&gt; for an agenda which is at the same time more realistic and unfortunately only slightly less repugnant, that agenda will still exacerbate inequality in America, and housing will play a major role. The downsizing of government payrolls, increases in &lt;a href=&quot;https://newrepublic.com/article/138674/beware-donald-trumps-infrastructure-plan&quot;&gt;infrastructure spending&lt;/a&gt;, and the expansion of &lt;a href=&quot;https://www.rawstory.com/2016/11/donald-trump-will-be-the-fossil-fuel-industrys-greatest-gift/&quot;&gt;extractive industries&lt;/a&gt; will create another wave of worker migration, putting &lt;a href=&quot;https://www.bloomberg.com/news/articles/2015-09-29/man-camp-exodus-spurs-real-estate-crisis-across-u-s-shale-towns&quot;&gt;further stress&lt;/a&gt; on regional housing supplies.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Now more than ever, there is a real need to pivot the policy narrative on housing toward its consideration as human infrastructure, and not as an investment commodity. Here in the Bay Area, while the rhetoric will be different, the political obstacles will be the same.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Our region’s “Progressive” and “Neighborhood” movements may pay lip service to a social narrative which is very different from the Trump agenda, but in reality their agenda is equally reactionary.  The primary goals of these local anti-housing movements are to preserve existing wealth and power. This includes the continued assertion of intangible rights (such as to views) in association with property ownership, the &lt;a href=&quot;http://www.theatlantic.com/politics/archive/2015/12/san-francisco-is-confused-about-the-villain-thats-making-it-unaffordable/422091/&quot;&gt;unequal tax benefits&lt;/a&gt; granted by &lt;a href=&quot;https://www.thenation.com/article/have-california-voters-finally-had-enough-of-prop-13/&quot;&gt;Proposition 13&lt;/a&gt;, and opposition to &lt;a href=&quot;http://sf.streetsblog.org/2016/06/14/mission-transit-lane-removal-nudged-closer-to-reality/&quot;&gt;better transit&lt;/a&gt; and &lt;a href=&quot;https://www.bloomberg.com/view/articles/2016-08-02/san-francisco-progressives-declare-war-on-affordable-housing&quot;&gt;denser housing&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In contrast to the sad news on the national front, the YIMBY movement has scored significant political victories in the Bay Area. San Francisco’s pro-urbanist Supervisor &lt;a href=&quot;http://www.nbcbayarea.com/news/local/Scott-Wiener-Captures-State-Senate-Seat-400551351.html&quot;&gt;Scott Wiener&lt;/a&gt; was elected to the State Senate and will continue the fight for &lt;a href=&quot;http://www.mercurynews.com/2016/09/21/commentary-jerry-browns-by-right-housing-plan-needs-another-try/&quot;&gt;By-Right Development&lt;/a&gt; in Sacramento. A &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/news/2016/11/09/sf-board-of-supervisors-housing-policy.html&quot;&gt;pro-housing majority&lt;/a&gt; will likely be restored to the San Francisco Board of Supervisors, and ballot initiatives which would’ve been most harmful to the continued development of affordable housing were &lt;a href=&quot;https://www.hoodline.com/2016/11/san-francisco-ballot-results-2016-proposition-q-u-v-homeless-soda-tax&quot;&gt;defeated&lt;/a&gt;. In addition, more pro-housing members were elected to the&lt;a href=&quot;http://www.mercurynews.com/2016/11/03/palo-alto-city-council-race/&quot;&gt; Palo Alto City Council&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Some may attempt to portray these victories as part of a “Trump Wave.” It will be incumbent upon us to point out who the real Trumpists are.&lt;/p&gt;
 
     
   
