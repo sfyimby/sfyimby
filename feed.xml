@@ -2,13 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-19T00:00:00Z</updated>
+  <updated>2017-01-20T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/club-chai-celebrates-first-year-of-oakland-grooves/">
+    <title type="text">Club Chai Celebrates First Year of Oakland Grooves</title>
+    <id>urn:uuid:a81109a2-8869-36fa-8f04-8ef3bfad5834</id>
+    <updated>2017-01-20T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/club-chai-celebrates-first-year-of-oakland-grooves/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;The popular term IDM, for “Intelligent Dance Music,” presupposes that simplicity of form is inherently dumb, or ta least of lesser intelligence. But we all know that’s bullshit. The Oakland DJ collective Club Chai knows there’s zero correlation between complexity and depth, and they seem to exploit the very falseness of that dichotomy into a wild success—not to mention a treat for the listener/dancer.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Club Chai’s new mixtape &lt;em&gt;Club Chai Vol. 1&lt;/em&gt; culls the best material from their sweaty, all-night sceances at the altar of Rhythm Itself. Founded by Oakland artists Foozool and 8ULETINA, the collective’s shows and accompanying mixtape center female and trans voices in a “diasporic” cross-cut of Bay Area. It’s hard to believe they’re just celebrating their first year.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;It’s not the intricacy so much as the, shall we say, intimacy that makes the collective’s unique sound so magical. You instantly feel a familiar pulse, evoking some primordial collective memory that you can never quite place. Stellar tracks like Nargiz’s “ooW No More” could find its way into a dance party of Syrian dabke, reggaeton, cumbia, or Western Sahel disco, or any Oakland club’s hip hop night. The Creatrix, who has been lighting up many a techno night in San Francisco over the past year, takes us through an airy, melancholy whirl before pummeling the listener with throbbing, industrial sub-bass tones.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Any pair of the 21 tracks could present an equally rich study in contrasts; I just happened to pick those two.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Any Club Chai artist is one not to be missed, the cream of the crop in the Bay Area’s heavily saturated dance subcultures. If, like myself, you lack the thighs and hips of steel to assiduously chase down every single one of their late-night sets, this mixtape will do quite nicely.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Club Chai will be hosting a &lt;em&gt;free&lt;/em&gt; live showcase to mark this milestone &lt;a href=&quot;https://www.facebook.com/events/1234718039941655/&quot;&gt;tomorrow&lt;/a&gt; at the Starline Social Club featuring Xuxa Santamaria, Fela Kutchii, Spellling, Jasmine Infiniti, and Lak, with 8ULENTINA and Foozool headlining.&lt;/p&gt;
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=1941114977/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/&quot; seamless&gt;&lt;a href=&quot;http://clubchai.bandcamp.com/album/club-chai-vol-1&quot;&gt;Club Chai Vol. 1 by Club Chai&lt;/a&gt;&lt;/iframe&gt;
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/modular-supportive-housing-proposal-coming-to-berkeley/">
     <title type="text">Modular Supportive Housing Proposal Coming to Berkeley</title>
     <id>urn:uuid:fc842df5-b58c-3907-b8fa-fb011d60f2b8</id>
@@ -4831,59 +4879,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Adrian Covert, Vice President of Policy at the Bay Area Council, remains hopeful that the report will lead to improved transportation policy in San Francisco.  In his view, a calculated dispersal of shuttle stops throughout the city is critical for improving traffic safety, particularly to avoid bus travel on non-arterial or primarily residential streets. “The numbers speak for themselves,” he said in a phone interview.  “Any time you increase VMT, you minimize the benefits and maximize the impact on neighborhoods.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/analyzing-the-palo-alto-city-council-election/">
-    <title type="text">Analyzing the Palo Alto City Council Election</title>
-    <id>urn:uuid:4b1ce693-76d6-386c-a434-4aa3cbfd5165</id>
-    <updated>2016-11-11T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/analyzing-the-palo-alto-city-council-election/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;After facing a deluge of &lt;a href=&quot;http://www.nytimes.com/2016/08/30/us/spotty-cell-reception-in-the-heart-of-silicon-valley.html?_r=0&quot;&gt;national media scrutiny&lt;/a&gt; for its resistance to residential growth, Palo Alto may have begun a new chapter in its history. After so-called “Residentialist” City Council candidates Arthur Keller and Lydia Kou raised upwards of $100,000 to run &lt;a href=&quot;http://sfbamo.com/news/palo-alto-council-race-gets-greener-but-not-from-grassroots/&quot;&gt;attack ads&lt;/a&gt; on candidates Adrian Fine and Liz Kniss, those in favor of keeping Palo Alto small and quaint now find themselves outnumbered in the city’s legislative body.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Hyperlocal pundits believe that the &lt;a href=&quot;http://www.paloaltoonline.com/news/2016/11/08/kniss-tanaka-kou-and-fine-take-lead-in-council-race&quot;&gt;election&lt;/a&gt; of Adrian Fine, Greg Tanaka, and Liz Kniss—as well as Lydia Kou—now puts the “Not In My Back Yard” cohort of the City Council at a 5-4 minority.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Fine, however, &lt;a href=&quot;http://sfbamo.com/news/palo-alto-candidates-talk-quality-of-life-and-regional-growth-in-forum/&quot;&gt;has remained steadfast&lt;/a&gt; in his refusal to play into any partisan or divisive narrative. “I'm honored and humbled to be elected,” he said in a brief interview. “I think that my message of inclusiveness and our ground game won the day. From day one, I focused on housing and transportation choices, and it really resonated.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Resonated” is one way to put it. In more practical terms, Fine’s success can largely be attributed to effective organizing and voter outreach.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The following map of voting precincts in Palo Alto illustrates the small city’s overall support for pro-housing candidates. The only precincts with a majority of votes going to the “slow-growth” coalition are in Arthur Keller’s neighborhood of Ramos Park, and Lydia Kou’s neighborhood of Barron Park. Curiously, Kou’s home precinct favored the pro-growth slate by 2%.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1mlfHeeZHKLcSkhRe7l53Ofqxmxw&amp;hl=en&quot; width=&quot;640&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;These results could serve as a valuable cautionary tale for would-be public officials: no matter your funding, it always pays to court the vote beyond your own back yard.&lt;/p&gt;
 
     
   
