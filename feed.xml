@@ -2,13 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-20T00:00:00Z</updated>
+  <updated>2017-01-23T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/wiener-proposal-brings-teeth-to-state-housing-goals/">
+    <title type="text">Wiener Proposal Brings Teeth to State Housing Goals</title>
+    <id>urn:uuid:5405ca4e-4df6-3aef-a183-ce14b58c90b3</id>
+    <updated>2017-01-23T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/wiener-proposal-brings-teeth-to-state-housing-goals/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;State Senator Scott Wiener (D – San Francisco) &lt;a href=&quot;https://medium.com/@Scott_Wiener/housing-for-a-growing-california-details-on-my-housing-reform-bill-e22dfff855e0?source=linkShare-5a2e5d91f709-1485186417&quot;&gt;announced further details&lt;/a&gt; today on SB-35, his proposed “Housing Accountability and Affordability Act.” The bill aims to streamline and incentivize infill housing development to ease the state’s housing shortage, and mend the flaws that stalled similar efforts by Governor Jerry Brown last summer.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Central to Wiener’s proposal is enabling California to enforce compliance with individual cities’ Regional Housing Need Allocation (RHNA), which the state’s Office of Housing and Community Development (HCD) measures every eight years but has little power to turn into reality. SB-35 would compel cities to submit reports on housing built toward their RHNA goals every two years, and establish as-of-right approval procedures if the city is found to be short of its allotted goals.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The streamlining applies only to the income levels that aren’t being built for,” Wiener wrote in a press release; “so if a city is building sufficient market-rate units but not enough low-income units, the project must add low-income units to qualify for streamlined approval.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Cities will only retain local control over residential construction permitting once they meet their goals for all income categories. Further, charter cities will be required to submit annual reports on housing production.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Local control must be about how a community meets its housing goals, not whether it meets those goals. Too many communities either ignore their housing goals or set up processes designed to impede housing creation,” Wiener’s office added in a fact sheet. “Allowing local communities to ignore their responsibility to create housing has led to a housing disaster — triggering huge economic, environmental, and social problems.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Brian Hanlon, founder of the &lt;a href=&quot;http://carlaef.org&quot;&gt;California Renters Advocacy and Legal Aid Fund&lt;/a&gt; (CaRLA), was ecstatic over the announcement. Hanlon’s group, a 501(c)3 non-profit, raises money in part to fund litigation against cities that violate state law in their aversion to new housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“SB 35 is an important step to make California's 48 year old Housing Element Law enforceable,” Hanlon wrote in an email. However, he was also cautious in noting that cities could still find ways to circumvent the enforcement mechanisms underlying Wiener’s bill.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“I urge Sen. Wiener to work with housing development feasibility analysts to ensure that his proposed streamlining measures will meaningfully expedite housing production. I also urge the Legislature to limit housing development fees and conditions to a feasible level. Streamlining the entitlement process matters little if localities levy cost-prohibitive fees and conditions to build homes.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/club-chai-celebrates-first-year-of-oakland-grooves/">
     <title type="text">Club Chai Celebrates First Year of Oakland Grooves</title>
     <id>urn:uuid:a81109a2-8869-36fa-8f04-8ef3bfad5834</id>
@@ -4768,117 +4826,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Only time will tell.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/">
-    <title type="text">Study on “Tech Shuttles” Confirms, More Is Safer (and Greener)</title>
-    <id>urn:uuid:ea62d7ae-59e4-3577-8599-331662e7933f</id>
-    <updated>2016-11-14T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Whenever a public agency evaluates the efficacy of a private enterprise, tensions inevitably arise. This dynamic remains true today now that San Francisco’s Municipal Transportation Agency (SFMTA) has released its &lt;a href=&quot;https://www.sfmta.com/sites/default/files/agendaitems/2016/11-15-16%20Item%2011%20Commuter%20Shuttle%20Program%20Mid%20Term%20Status%20Report.PDF&quot;&gt;study on commuter shuttles&lt;/a&gt;, and in a separate report, found major faults with recent proposals to consolidate shuttle stops into a handful of “hubs.” Supporters of widespread commuter shuttle programs were not surprised by the results.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;SFMTA &lt;a href=&quot;https://www.sfmta.com/sites/default/files/projects/2016/Commuter_Shuttle_Hub_Report_Final.pdf&quot;&gt;evaluated&lt;/a&gt; four potential scenarios for redistributing commuter shuttles throughout the city, finding that each option would result in more commutes taken via personal vehicles. Despite decreasing the number of loading zones in the city by almost half, SFMTA’s initial status report found that their Commuter Shuttle pilot program had nevertheless reduced anticipated carbon emissions and increased ridership by 1,000 daily commuters.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;For some political stakeholders, &lt;a href=&quot;http://www.sfexaminer.com/city-makes-last-call-tech-shuttle-transit-hubs/&quot;&gt;that isn’t enough&lt;/a&gt;. Though hubs remain a popular option, SFMTA withholds any optimism from such proposals. In their concluding remarks, SFMTA states, “nearly all, or approximately 90%, of those riders who shift modes are expected to switch to driving. This forecast holds true under all scenarios.” The first option studied, a “Single Hub” plan with bus stops clustered around the developing Transbay Terminal, would result in an estimated eightfold increase of Vehicle Miles Traveled (VMT). The remaining three options were all estimated to encourage a fivefold VMT increase. All scenarios would also be expected to increase traffic collisions.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/shuttlehub2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;source: SFMTA&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;In other words, workers commuting from San Francisco to jobs on the Peninsula are generally expected to commute via automobile and contribute to increased traffic congestion if deprived of their current shuttle options. Only 10% of those surveyed said they would opt to take some form of public transit, such as Caltrain.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/study-on-tech-shuttles-confirms-more-is-safer-and-greener/shuttlehub1.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;source: SFMTA&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Other scenarios still involved a significant decrease in the number of permitted shuttle stops: a BART-Oriented Scenario would have five bus hubs located around highly frequented BART stations in the city, namely Embarcadero, Civic Center, 16th &amp;amp; Mission, 24th &amp;amp; Mission, and Balboa Park. A Freeway-Adjacent Scenario would have nine hubs within a quarter-mile of freeway on-ramps, with all but two clustered around the eastern portion of the city. Finally, a Consolidated Network Scenario would preserve the current clustering of shuttle zones while aiming to reduce the total amount by at least half.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Erin McElroy, founder of the &lt;a href=&quot;http://www.antievictionmap.com/&quot;&gt;Anti-Eviction Mapping Project&lt;/a&gt;, expressed adamant opposition to the shuttle program. She claims her organization’s data shows a strong correlation between shuttle stops, evictions, and rent increases. “It seems as if the city is subsidizing the lives of people who ride the luxury commuter shuttles at the expense of those who don’t,” she stated &lt;a href=&quot;http://www.sfchronicle.com/bayarea/article/Cutting-tech-shuttle-stops-will-add-cars-in-SF-10610440.php?t=66bdcd6df6&amp;amp;cmpid=twitter-premium&quot;&gt;in an interview&lt;/a&gt; with the &lt;em&gt;Chronicle&lt;/em&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Currently, there are 16 commuter shuttle services operating with permits from SFMTA. SFMTA’s current Commuter Shuttle Program has 110 shuttle stops in operation, with the total allowable number capped at 125 (down from over 200 before the program was implemented). Companies operating these shuttles are required to pay a “stop event” fee of $7.31 for every individual stop in a shuttle zone.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;McElroy moved to San Francisco to attend the Center for Integral Studies after receiving a BA in Cultural Studies from Hampshire College and a BA in Studio Art from NYU. In a phone interview, she criticized SFMTA’s analysis for omitting data regarding displacement. “When these stops raise property values,” she argues, the poorer residents displaced by rising rents “are moving to the suburbs, and they’re often driving back into the city for school or work. So you’re still going to see more car use.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;When asked what sort of analysis she would prefer to see, McElroy noted that “anyone in Urban Planning 101 can tell you, housing and transportation are very much connected. It’s unethical, I think, for the city to leave housing out of the equation.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;As for Caltrain—for many, the only available transit mode connecting the city to the Peninsula—the diesel-powered train that runs once an hour is slated to upgrade its rails to an electrified system after &lt;a href=&quot;http://sfbamo.com/news/caltrain-electrification-to-proceed-after-atherton-lawsuit-fails/&quot;&gt;prevailing in a lawsuit&lt;/a&gt; that sought to stall High-Speed Rail development.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Adrian Covert, Vice President of Policy at the Bay Area Council, remains hopeful that the report will lead to improved transportation policy in San Francisco.  In his view, a calculated dispersal of shuttle stops throughout the city is critical for improving traffic safety, particularly to avoid bus travel on non-arterial or primarily residential streets. “The numbers speak for themselves,” he said in a phone interview.  “Any time you increase VMT, you minimize the benefits and maximize the impact on neighborhoods.”&lt;/p&gt;
 
     
   
