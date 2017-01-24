@@ -2,13 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-23T00:00:00Z</updated>
+  <updated>2017-01-24T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/oakland-delays-decision-on-warehouse-eviction-protections/">
+    <title type="text">Oakland Delays Decision on Warehouse Eviction Protections</title>
+    <id>urn:uuid:1f06ea80-32dd-3940-bc64-5f7ecb562ceb</id>
+    <updated>2017-01-24T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/oakland-delays-decision-on-warehouse-eviction-protections/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;In an occasionally tense special meeting last night, Oakland’s City Council voted unanimously to delay any decision on the &lt;a href=&quot;http://www.mercurynews.com/2016/12/23/oakland-warehouse-fire-tenant-protection-ordinance-proposed-as-artists-evicted/&quot;&gt;Emergency Tenant Protection Ordinance&lt;/a&gt; proposed by the Oakland Warehouse Coalition. In the wake of the fatal Ghost Ship fire, OWC has requested a 180-day moratorium on evictions, particularly “red-tagging” evictions caused by a lack of building code compliance. Among other policies, the Coalition is requesting that the city extend Just Cause eviction protections to residents in unpermitted properties.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;City Council approved a motion by Councilmember-at-large Rebecca Kaplan to request documents from the City Attorney comparing OWC’s ordinance with Mayor Libby Schaaf’s &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/news/2017/01/12/oakland-mayor-libby-schaaf-issues-executive-order.html&quot;&gt;executive order&lt;/a&gt;, which lacks an eviction moratorium.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Many speakers urged the Council to approve the Emergency Ordinance immediately, describing the artistic community as a “backbone” of the city’s culture facing immediate peril.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Let this be a Rennaisance, not just for rich people, but for everyone,” said one speaker.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Another speaker noted that Oakland’s intergenerational culture was a unique asset that the city should preserve with extraordinary “out-of-the-box thinking” policies. “Victims in the fire were ages 17 to 61,” she said. “There are almost no other cities where different generations hang out together, share ideas, party together.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“I’m a violinist and an artist, and I also work in tech,” said one visibly distressed speaker supporting OWC’s ordinance. “As a… ‘techie’… I feel a lot of guilt over the displacement going on. But for myself, and many others I work with, we didn’t move here just for a job. We moved here to be a part of the culture.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;An eerie silence fell over the audience as she went on: “I don’t want to live in a city where everyone works in tech, just like me. Who wants to live somewhere without different conversations going on all around you? That would be so boring. We need all sorts of people to make this community thrive.” Her comment was met with muted applause.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In a particularly emotional moment, Micah Allison, partner of the Ghost Ship’s master tenant Derick Almena (who is under criminal investigation) spoke of facing ostracism from the community. “I just want to say that I am deeply sorry for what happened,” she said. “We carry a really heavy weight on our shoulders now.” She related her family’s struggle in finding a new home to rent, and of wanting to keep her children in East Oakland public schools, to a loud applause from the public.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Several landlords spoke, to varying reactions from the public, about liability concerns the Ordinance would impose on them. One man confessed that he had several friends living in an unpermitted warehouse space that he owned. “I look forward to working with the city on this,” he said, “but I’m a father. I work to support my kids. If something happens during these 180 days, I would be personally liable. I can’t afford that.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;City Council did approve several uncontroversial measures: one to mark December 2nd as Ghost Ship Remembrance Day, and an ordinance by Councilmember Kaplan to amend the Code Enforcement Relocation Program to extend relocation payments to tenants in live-work spaces, regardless of residential permitting.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/wiener-proposal-brings-teeth-to-state-housing-goals/">
     <title type="text">Wiener Proposal Brings Teeth to State Housing Goals</title>
     <id>urn:uuid:5405ca4e-4df6-3aef-a183-ce14b58c90b3</id>
@@ -4754,78 +4822,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Supervisor Campos, a graduate of Harvard Law School, explained to the other supervisors that he was fully aware his comments could open the city up to litigation. To that admission, he simply added, “Bring it on.”&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/activists-and-developers-negotiate-in-oakland-chinatown/">
-    <title type="text">Activists and Developers Negotiate in Oakland Chinatown</title>
-    <id>urn:uuid:7f396066-d5b8-3bea-8b35-1143728a6979</id>
-    <updated>2016-11-15T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/activists-and-developers-negotiate-in-oakland-chinatown/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Oakland’s City Council reviewed an appeal during a special meeting last night contesting the approval of 226 13th Street, a six-story mixed-use project with 262 residential units proposed by local developer Wood Partners. Though no legal basis was cited, a coalition of Chinatown neighborhood groups organized to oppose the project in order to “extract concessions” from the developer in the form of a “community benefits package.” Organized opposition was spearheaded by Lailan Huen, daughter of former Oakland Mayor Jean Quan.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Among a litany of community benefits acquired, Councilmember Abel Guillen cites retail space reserved for small businesses in Oakland's new Black Arts Movement Business District; $100,000 for local construction job training; a 20% local hire goal; a $250,000 contribution to anti-displacement programs; and a 1% “art fee” for the nearby Malonga Center. In total, Wood Partners will grant $1.8 million in community benefits.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/activists-and-developers-negotiate-in-oakland-chinatown/quan.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Former Mayor Jean Quan speaks at City Hall, with her daughter Lailan waiting in line behind her&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;With reference to current debates over immigration policy, Pamela Drake of the Wellstone Democratic Club said, “we also need to be a sanctuary for people who are already here…it’s incumbent upon regular residents to spend hours, days, and months making sure that we actually recognize the needs of our residents.” She urged city staff to find representatives with local experience to incorporate community concerns into the planning process, “not at the other end” after permits are issued.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;In a &lt;a href=&quot;https://www.facebook.com/abelguillencinco/posts/1878592962372112&quot;&gt;Facebook post&lt;/a&gt;, Guillen elaborated: “Although this project predates the adoption of impact fees in Oakland, the developer will make a $675,000 contribution that will help close the gap necessary to build 60 units of affordable housing in the neighborhood.” The Councilmember added that replacing a surface parking lot with housing was essential for mitigating the housing shortage and curbing car dependence, but that he also intended to promote plans for creating a “historic overlay” to protect Chinatown as a cultural asset.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“This sets a precedent that is really critical…We don’t want to have to fight every development,” Huen said during the public comment period. “We need the city to have more comprehensive development policies.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Oakland’s new &lt;a href=&quot;http://www.sfgate.com/bayarea/article/Oakland-to-impose-impact-fees-on-new-housing-7280444.php&quot;&gt;impact fee requirements&lt;/a&gt; for market-rate development came into effect on September 1st, before Wood Partners completed the permitting process for the project. Observers have speculated whether or not such policies will indeed satisfy community activists who would otherwise insist on politically bartering with every development that gets proposed.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Only time will tell.&lt;/p&gt;
 
     
   
