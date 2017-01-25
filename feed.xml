@@ -9,6 +9,49 @@
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/farrell-proposes-ban-on-dark-money-in-affordable-housing-oversight/">
+    <title type="text">Farrell Proposes Ban on &quot;Dark Money&quot; in Affordable Housing Oversight</title>
+    <id>urn:uuid:ec4f722e-3249-3eaa-9fcd-8984199c2df9</id>
+    <updated>2017-01-25T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/farrell-proposes-ban-on-dark-money-in-affordable-housing-oversight/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;During yesterday’s San Francisco Board of Supervisors meeting, Supervisor Mark Farrell (District 2, Marina / Cow Hollow) announced plans to tighten regulations on affordable housing funds. Specifically, the ordinance will aim to prevent the use of public funds for anything other than “unrelated to the creation, development, or preservation of affordable housing.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Farrell’s proposal comes in the wake of [revelations] (&lt;a href=&quot;http://sfbamo.com/news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/&quot;&gt;http://sfbamo.com/news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/&lt;/a&gt;) that John Elberling, Director of the nonprofit development firm TODCO, funneled equity gains from properties originally funded by federal grants to sponsor political campaigns, such as the successful Proposition C ballot measure in 2016. An &lt;a href=&quot;http://sfbamo.com/news/tenants-in-todco-property-allege-abuse-neglect-and-intimidation/&quot;&gt;investigation&lt;/a&gt; by this publication found significant neglect of properties and tenant intimidation in a property built by TODCO and managed by the John Stewart Company.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The majority of affordable housing developers are good actors, but we’re in a housing crisis,” Farrell wrote in a &lt;a href=&quot;https://medium.com/@MarkFarrellSF/press-release-supervisor-farrell-aims-to-steer-developers-profits-toward-affordable-housing-4b2d813b7b37#.e1abnbja3&quot;&gt;press release&lt;/a&gt;. “We must ensure that every penny available for affordable housing is being used for affordable housing needs.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The ordinance would require further oversight on behalaf of the Mayor’s Office of Housing and Community Development (MOHCD) to ensure that excess proceeds are only directed toward capital improvement, operating costs, or the acquisition / construction of new affordable housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;In response to questions about specific implementation plans, Farrell’s staff wrote in an email: “MOHCD requires some of this already to a certain effect administratively, but our legislation makes sure that the practice is codified moving forward.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/mountain-view-city-council-votes-to-support-rent-control/">
     <title type="text">Mountain View City Council Votes to Support Rent Control</title>
     <id>urn:uuid:c5755377-1c47-3bca-8e80-81ff94a06baf</id>
@@ -4706,58 +4749,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Newsom is widely regarded as the &lt;a href=&quot;http://www.sfchronicle.com/politics/article/Gavin-Newsom-leading-candidate-in-18-10614220.php?t=e6e830851a&amp;amp;cmpid=email-premium&quot;&gt;top contender&lt;/a&gt; for Governor in the 2018 race.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/caltrain-begins-construction-to-prepare-for-electrified-rail/">
-    <title type="text">Caltrain Begins Construction to Prepare for Electrified Rail</title>
-    <id>urn:uuid:17d019ab-d9e3-3026-88a5-8fa257d88d08</id>
-    <updated>2016-11-17T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/caltrain-begins-construction-to-prepare-for-electrified-rail/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;After enduring years of litigation, the diesel train system connecting San Francisco to the Peninsula and South Bay cities of San Jose and Gilroy will soon be &lt;a href=&quot;http://www.sfexaminer.com/caltrain-begins-3-month-construction-project-anticipation-system-electrification/&quot;&gt;upgraded&lt;/a&gt; to an electric rail system, in preparation for integrating with a future High Speed Rail. As part of the Caltrain Modernization Program (CalMod), the agency will begin work this week on the &lt;a href=&quot;http://www.caltrain.com/projectsplans/CaltrainModernization/Modernization/PeninsulaCorridorElectrificationProject.html&quot;&gt;Peninsula Corridor Electrification Project&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Over the next three months, Caltrain will be upgrading utilities and testing soil along Peninsula stations, with an occasional need for single-tracking trains resulting in reduced service. By mid-2017, the agency expects to begin construction. The Peninsula Corridor portion of CalMod is expected to be completed by 2020.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/caltrain-begins-construction-to-prepare-for-electrified-rail/calmod.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(courtesy: Caltrain)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Among numerous improvements cited, Caltrain expects a 97% reduction in carbon emissions, less noise, and an approximately threefold increase in train service.&lt;/p&gt;
 
     
   
