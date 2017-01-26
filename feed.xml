@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-25T00:00:00Z</updated>
+  <updated>2017-01-26T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/bay-area-mayors-united-over-sanctuary-city-status/">
+    <title type="text">Bay Area Mayors United over Sanctuary City Status</title>
+    <id>urn:uuid:13a3c589-8c90-38a5-97f6-f985c046e037</id>
+    <updated>2017-01-26T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/bay-area-mayors-united-over-sanctuary-city-status/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Mayor Ed Lee joined Oakland Mayor Libby Schaaf, Berkeley Mayor Jesse Arreguín and San Jose Mayor Sam Liccardo in vowing to defend “sanctuary city” status in their respective cities. After President Trump signed an executive order to withhold federal funding from cities that do not cooperate with the ICE, many Bay Area activists and politicians redoubled on their commitments to keep local law enforcement from collaborating with deportation efforts.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Though it is unclear what power, if any, the executive order will have, Bay Area cities are bracing themselves for funding shortfalls. San Francisco receives $1 billion in federal funding; Oakland stands to lose $130 million with Mayor Schaaf expressing particular concern for $18 million in school funding that could now be jeopardized. San Jose’s current budget has $78 million in federal funding.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Our city is still a sanctuary city and we are going to remain a sanctuary city,” Mayor Lee said, reinforcing those marks again today in his State of the City address. San Francisco, as its own county, has far more power to refuse compliance with federal immigration policy. Its Board of Supervisors &lt;a href=&quot;http://hoodline.com/2016/11/board-of-supervisors-resolution-defies-trump-threats-reaffirms-sanctuary-city&quot;&gt;already passed a nonbinding resolution&lt;/a&gt; last year reaffirming its sanctuary city status.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Santa Clara County, however, leads California among counties refusing to hold prisoners for ICE, &lt;a href=&quot;http://www.mercurynews.com/2017/01/25/editorial-bay-area-cities-are-on-the-right-side-of-immigration-clash/&quot;&gt;according to ICE itself&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“There’s a broad consensus among major city police chiefs that having local officers meddle in federal immigration enforcement undermines public safety, and diminishes community trust,” San Jose Mayor Sam Liccardo said in a statement.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Elsewhere in the Bay Area, the story is different. An East Bay &lt;em&gt;Express&lt;/em&gt; &lt;a href=&quot;http://www.eastbayexpress.com/oakland/ambushed-contra-costa-county-law-enforcement-sets-up-surprise-stings-to-help-federal-immigration-agents-arrest-and-deport-immigrants/Content?oid=5078922&quot;&gt;investigation&lt;/a&gt; found that the Contra Costa County Sherriff’s Office covertly cooperated with ICE to deport longtime residents previously convicted of petty crimes in what some targets describe as “Kafkaesque” proceedings. On the southern fringes of Alameda county, Assemblywoman Catherine Baker (R – Dublin) &lt;a href=&quot;http://www.mercurynews.com/2017/01/25/bay-area-mayors-activists-denounce-trumps-push-to-defund-sanctuary-cities/&quot;&gt;told&lt;/a&gt; the &lt;em&gt;Mercury News&lt;/em&gt; that she believed loss of federal funding “absolutely has to be on the table” when noncompliance with deportation proceedings involves convicted violent felons.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;California’s newly-appointed Attorney General Xavier Becerra released a statement yesterday promising to protect all residents in the state from “unwarranted intrusion” from any entity, including federal agencies. “Executive orders cannot contradict existing law,” Becerra added. “And executive orders can be challenged for violating constitutional and legal standards in their enforcement.”&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/farrell-proposes-ban-on-dark-money-in-affordable-housing-oversight/">
     <title type="text">Farrell Proposes Ban on &quot;Dark Money&quot; in Affordable Housing Oversight</title>
     <id>urn:uuid:ec4f722e-3249-3eaa-9fcd-8984199c2df9</id>
@@ -4703,69 +4756,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
     
 				&lt;p&gt;Last year, our webmaster Sonja Trauss filed a &lt;a href=&quot;http://www.carlaef.org/s/FINAL-Second-Amended-Petition-with-exhibits.pdf&quot;&gt;lawsuit&lt;/a&gt; against the City of Lafayette, a wealthy East Bay suburb, for violating state housing law. The suit concerns Homes at Deer Hill, a development of 44 single-family homes estimated to sell for $1.2 million. The developer, O'Brien Homes, had previously proposed a 315-unit apartment complex at the same site, but was met with stiff local opposition. &lt;a href=&quot;http://www.modernluxury.com/san-francisco/story/city-housing-activists-test-out-brazen-new-battle-cry-sue-the-suburbs&quot;&gt;This article&lt;/a&gt; from &lt;em&gt;San Francisco Magazine&lt;/em&gt; provides ample background, and the recently filed &lt;a href=&quot;http://www.carlaef.org/s/Petitioners-Memorandum-of-Points-and-Authorities-in-Support-of-Petition-for-Writ-of-Administrative-M.pdf&quot;&gt;petitioners' brief&lt;/a&gt; is below.&lt;/p&gt;
 &lt;embed src=&quot;https://static1.squarespace.com/static/55dbb5e9e4b0703ec759c956/t/583b992cb8a79b774fbdee71/1480300858030/Petitioners%27+Memorandum+of+Points+and+Authorities+in+Support+of+Petition+for+Writ+of+Administrative+Manduamus.pdf&quot; width=&quot;800px&quot; height=&quot;2100px&quot; /&gt;
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/state-and-local-officials-double-down-on-immigrant-protections/">
-    <title type="text">State and Local Officials Double Down on Immigrant Protections</title>
-    <id>urn:uuid:53e9de37-5fb4-3860-bb32-dbfc538a58d0</id>
-    <updated>2016-11-18T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/state-and-local-officials-double-down-on-immigrant-protections/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;In the wake of a perceived federal mandate for legislated xenophobia after the 2016 Election, politicians both in San Francisco and the state of California have begun further publicizing their support for undocumented migrants.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;San Francisco’s Public Defender Jeff Adachi has &lt;a href=&quot;http://www.sfexaminer.com/sf-may-create-legal-team-fight-upcoming-trump-deportations/&quot;&gt;proposed&lt;/a&gt; a “universal representation” program to defend the rights of an estimated 30,000 undocumented immigrants living in the city. Adachi plants to request 30 or 40 attorneys on retainer to represent noncitizens facing deportation, a program modeled after a New York City program implemented in 2013.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The City Attorney’s Office has also stated that San Francisco stands by its legal obligation to protect the private information of undocumented residents holding &lt;a href=&quot;http://www.sfexaminer.com/sf-promises-keep-city-ids-undocumented-immigrants-private/?utm_campaign=magnet&amp;amp;utm_source=article_page&amp;amp;utm_medium=recommended_articles&quot;&gt;City ID cards&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;On the statewide front, Lt. Governor Gavin Newsom has penned an open letter to Chancellors of the University of California, California State University, and California Community College systems urging them to affirm the status of their universities as sanctuary campuses. Newsom advocated for these institutions to protect the information of their students from the federal government, particularly of students with an undocumented immigration status.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Last week, the former Mayor of San Francisco gave a rousing press conference on the steps of city hall. Though nominally a celebration of Propositions 63 and 64 passing, Newsom turned to the post-election fears expressed in subsequent protests throughout the country.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“If we can practice the politics of inclusion,” Newsom said, “if we can try to build bridges and bring people together...we have unlimited potential.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&quot;I think what makes California great…we don’t tolerate our diversity, we celebrate our diversity,” Newsom added. &quot;We believe that inclusive societies are adaptable societies. We believe that adaptability and flexibility are what will allow us not just to survive the 21st century, but to thrive.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At a press conference yesterday in the UCSF Mission Bay Campus, Newsom noted that the country has far fewer than 3 million undocumented immigrants reside in the country, and that the President-elect would likely have to deport non-felons if his stated goals remain in place.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Newsom is widely regarded as the &lt;a href=&quot;http://www.sfchronicle.com/politics/article/Gavin-Newsom-leading-candidate-in-18-10614220.php?t=e6e830851a&amp;amp;cmpid=email-premium&quot;&gt;top contender&lt;/a&gt; for Governor in the 2018 race.&lt;/p&gt;
-
     
   
 &lt;/div&gt; &lt;!-- END text-block --&gt;</content>
