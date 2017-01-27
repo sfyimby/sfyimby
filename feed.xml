@@ -2,13 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-26T00:00:00Z</updated>
+  <updated>2017-01-27T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/san-franciscans-stand-with-standing-rock/">
+    <title type="text">San Franciscans Stand with Standing Rock</title>
+    <id>urn:uuid:e7ec6f29-aefc-34c0-9311-23fa61179781</id>
+    <updated>2017-01-27T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/san-franciscans-stand-with-standing-rock/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;In the wake of a pair of executive orders, protesters gathered last night to protest ongoing plans to build the Dakota Access Pipeline and the KeystoneXL pipeline expansion.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Before sunset, a phalanx of federal Homeland Security police cars and motorcycles outnumbered a half-dozen protesters holding signs for the Standing Rock Sioux in front of the Federal Building on 7th and Mission Street. By nightfall, over one hundred held signs and banners in solidarity with Indigenous peoples.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Corrina Gould, a member of the Ohlone tribe, led the gathering in a prayer as the sweet aroma of burning sage filled the air. As several signature-gatherers wound their way through the crowd, Gould exhorted attendees to support her community’s opposition to a &lt;a href=&quot;http://www.eastbaytimes.com/2016/11/29/berkeley-remains-of-at-least-five-individuals-found-at-project-site-report-says/&quot;&gt;development&lt;/a&gt; on Fourth Street in Berkeley, near an archaeological site where the historic Ohlone Shellmound site is believed to have extended on its northern fringe. The site is currently occupied by a parking lot for Spenger’s Fish Grotto.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“The day after the election, I had lunch with an African-American friend who said, ‘this is how people must have felt after Reconstruction,’” Gould told the crowd. “We’ve been here before. We’ve thrived and we’ve survived.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Many speakers that followed urged attendees to divest from banks with financial interests in the Dakota Access Pipeline, including Wells Fargo. President Trump and his nominee for Secretary of Commerce Wilbur mentioned s having direct interests in the pipeline with stakes in Energy Transfer Partners. Rick Perry, Trump’s pick for Energy Secretary, sits on the company’s Board of Directors.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;While the City of Berkeley resolved this week to divest its finances from Wells Fargo, some spoke of future protests to call on the University of California Board of Regents to make a similar commitment.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Gloria Esteban, a representative of the Mission-based nonprofit Causa Justa, spoke in Soanish through an English translator on the need for an anticolonialist solidarity between all ethnicities in the Bay Area.
+“I stand here as a woman of Zapotec descent, and I am not an immigrant. My ancestors walked these lands too,” Esteban said.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“It’s not that all with white skin are responsible,” Esteban went on. “It’s the 1%, those with the blind ambition for power and wealth.”&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;And it’s up to the rest of us—as other speakers echoed—if we believe in justice, to stand up for it.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/bay-area-mayors-united-over-sanctuary-city-status/">
     <title type="text">Bay Area Mayors United over Sanctuary City Status</title>
     <id>urn:uuid:13a3c589-8c90-38a5-97f6-f985c046e037</id>
@@ -4736,28 +4800,5 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   &lt;img src=&quot;../../news/review-arrival-is-here-but-can-it-please-leave-now/story.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
 
 &lt;/div&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/trauss-sfbarf-v-city-of-lafayette-petitioners-brief/">
-    <title type="text">Trauss, SFBARF v. City of Lafayette: Petitioners' Brief</title>
-    <id>urn:uuid:9c3931b5-9102-3519-8d90-4cbcd8659065</id>
-    <updated>2016-11-28T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/trauss-sfbarf-v-city-of-lafayette-petitioners-brief/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Last year, our webmaster Sonja Trauss filed a &lt;a href=&quot;http://www.carlaef.org/s/FINAL-Second-Amended-Petition-with-exhibits.pdf&quot;&gt;lawsuit&lt;/a&gt; against the City of Lafayette, a wealthy East Bay suburb, for violating state housing law. The suit concerns Homes at Deer Hill, a development of 44 single-family homes estimated to sell for $1.2 million. The developer, O'Brien Homes, had previously proposed a 315-unit apartment complex at the same site, but was met with stiff local opposition. &lt;a href=&quot;http://www.modernluxury.com/san-francisco/story/city-housing-activists-test-out-brazen-new-battle-cry-sue-the-suburbs&quot;&gt;This article&lt;/a&gt; from &lt;em&gt;San Francisco Magazine&lt;/em&gt; provides ample background, and the recently filed &lt;a href=&quot;http://www.carlaef.org/s/Petitioners-Memorandum-of-Points-and-Authorities-in-Support-of-Petition-for-Writ-of-Administrative-M.pdf&quot;&gt;petitioners' brief&lt;/a&gt; is below.&lt;/p&gt;
-&lt;embed src=&quot;https://static1.squarespace.com/static/55dbb5e9e4b0703ec759c956/t/583b992cb8a79b774fbdee71/1480300858030/Petitioners%27+Memorandum+of+Points+and+Authorities+in+Support+of+Petition+for+Writ+of+Administrative+Manduamus.pdf&quot; width=&quot;800px&quot; height=&quot;2100px&quot; /&gt;
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
   </entry>
 </feed>
