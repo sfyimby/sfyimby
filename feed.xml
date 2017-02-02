@@ -2,13 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-01-31T00:00:00Z</updated>
+  <updated>2017-02-02T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/more-housing-coming-to-mid-market/">
+    <title type="text">More Housing Coming to Mid-Market</title>
+    <id>urn:uuid:2fafa554-189b-32e5-bb79-7b89cec28239</id>
+    <updated>2017-02-02T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/more-housing-coming-to-mid-market/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;San Francisco developer Group i announced an agreement forged with appellants of their 120-foot residential and hotel project at &lt;a href=&quot;http://950-974market.com/&quot;&gt;950-974 Market Street&lt;/a&gt;, between 5th and 6th Streets. In exchange for the appeal being withdrawn, Group I has agreed “to provide $300,000 in funding to the City to support a TLGB Cultural District, a transgender focused community facility, and transgender focused businesses in the Tenderloin,” according to Group i Project Manager Michelle Lin. The developer will be partnering to provide amenities with the local transgender community non-profit Compton’s Cafeteria.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The project has been significantly downsized from an initial plan for 310 dwelling units, shedding 80 feet off proposed height down its current zoning-compliant height, &lt;a href=&quot;http://sf.curbed.com/2015/10/5/9914544/big-designed-market-street-complex-downsizes-to-250-units&quot;&gt;due to financing issues&lt;/a&gt;.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The 242-unit building will including dedicated space for the Magic Theater, as well as retail space and non-profit office space. Additionally, Group I will be working with the Mayor’s Office of Housing and Community Development (MOHCD), the Tenderloin Neighborhood Development Corporation (TNDC), and Tenderloin Housing Clinic (THC) to provide off-site low- and middle-income housing at 180 Jones Street. Under the agreement, Group I will establish the 180 Jones Affordable Housing Trust Fund with a $14.8 million payment. The developer will then deed the land to MOHCD for the construction of 70 efficiency studio apartments.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/more-housing-coming-to-mid-market/974m2.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;Location of 950-974 Market project (source: SF Planning Department)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;950-974 Market is one of several high-rise projects to overcome significant challenges in the Mid-Market area, whether financial or political, likely due in part to &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2015/05/can-s-f-highrises-help-affordable-housing-bay-area.html&quot;&gt;favorable zoning updates&lt;/a&gt;. At &lt;a href=&quot;http://sf.curbed.com/2016/9/23/13036142/1028-market-impact-report-hollywood-billiards&quot;&gt;1028 Market Street&lt;/a&gt;, a 13-story project with 186 planned residential units known as “The Hall” has faced a backlash from the city’s Planning Department for proposing to demolish a “contributing historic resource”-the current building on the parcel dates back to 1907. The current ground floor retail space, which had been vacant for many years after the closure of Hollywood Billiards, is currently in use as a space for pop-up food vendors.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;1028 Market was &lt;a href=&quot;https://www.hoodline.com/2017/01/the-hall-to-shut-down-at-6th-market-as-new-186-unit-building-gains-approval&quot;&gt;finally approved last week&lt;/a&gt;, and the current cafeteria at The Hall is slated to close later this year.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;strong&gt;East Bay Update&lt;/strong&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Last night, Oakland's Planning Commission &lt;a href=&quot;http://www.bizjournals.com/sanfrancisco/blog/real-estate/2016/08/boston-properties-oakland-tower-temescal-bxp.html&quot;&gt;unanimously approved&lt;/a&gt; a 24-story apartment proposal by San Francisco-based real estate firm Boston Properties adjacent to the MacArthur BART station. The tower on the site's Parcel B will include 10,000 square feet of ground floor retail, and 11% of its 402 residential units will be priced Below Market Rate.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/local-profiles-tiffany-loewenberg-of-noe-valley-chamber-music/">
     <title type="text">Local Profiles: Tiffany Loewenberg of Noe Valley Chamber Music</title>
     <id>urn:uuid:42ae67a5-a801-3ac3-9ad7-8c6c3cb05ca3</id>
@@ -4726,89 +4798,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Thanks to Proposition 13, Old Money doesn’t want New Money living nearby. The rest of us are left to pick up the pieces.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/menlo-park-approves-fivefold-increase-in-housing-near-facebook/">
-    <title type="text">Menlo Park Approves Fivefold Increase in Housing Near Facebook</title>
-    <id>urn:uuid:55a86e1a-7676-3d0b-97ec-d0f89badbbc4</id>
-    <updated>2016-11-30T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/menlo-park-approves-fivefold-increase-in-housing-near-facebook/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;At a special meeting last night, Menlo Park’s City Council approved an upgrade to the city’s General Plan by a 4-1 vote, a significant reform to local land-use regulations that have been largely untouched since 1994. After weathering mild controversies over Facebook’s proposal to build workforce housing near their corporate campus, Menlo Park has essentially quintupled its allowable residential capacity.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Known as ConnectMenlo, the plan to encourage mixed-use development in Menlo Park has been a top priority on the City Council’s Work Plan for 2016. These efforts include rezonings that will allow for more “vibrant” uses of land, including entertainment and retail where such establishments were previously not allowed. Crucially, the plan rezones the Bayside area, home to Facebook’s global headquarters, to include 5,500 dwelling units—a net increase of 4,500 units. According to the &lt;a href=&quot;http://www.menlopark.org/DocumentCenter/View/12418&quot;&gt;staff report&lt;/a&gt; delivered to the Council, city staff “anticipates working with property owners to aggressively recruit new retail and entertainment uses as soon as the zoning allows.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The plan also includes goals for 20% Below Market Rate units in all new residential developments.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/menlo-park-approves-fivefold-increase-in-housing-near-facebook/g1-connectmenlo_201611231212296985.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(source: ConnectMenlo)&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;This update is the culmination of over 60 community meetings, in which neighbors and commercial stakeholders met to discuss a “live/work/play” neighborhood plan to revitalize a mostly industrial area. “Transportation was an important concern,” said Adina Levin, a Menlo Park resident and board member of Friends Of Caltrain who attended many meetings. “One of the motivations to approve the plan is that housing is an important transportation solution to help people commute and run errands without driving.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Under new Green and Sustainable Building Standards in the General Plan upgrade, future development will have to conform to requirements for water efficiency and recycling, including dual plumbing and water budgets.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;
-
-
-&lt;div class=&quot;photo-with-caption&quot;&gt;
-  &lt;img src=&quot;../../news/menlo-park-approves-fivefold-increase-in-housing-near-facebook/mp-far.jpg&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;In anticipation of an argument that arises time and again in San Francisco’s contentious land-use battles, the rezonings will also require a diversity of units, both for single occupants and families. One of the new districts will implement a “sliding scale” for the Floor Area Ratio (FAR) of units, which staff writes “would help create a mix of appropriately sized units instead of a few units that are very large.”&lt;/p&gt;
 
     
   
