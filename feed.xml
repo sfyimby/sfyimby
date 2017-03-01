@@ -2,13 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-02-21T00:00:00Z</updated>
+  <updated>2017-02-28T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/public-comment-planning-to-fail/">
+    <title type="text">Public Comment: Planning to Fail</title>
+    <id>urn:uuid:81e0a95b-f87f-3cdf-a747-bfa268c8235c</id>
+    <updated>2017-02-28T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/public-comment-planning-to-fail/" />
+    <author>
+      <name>SFBAMO Editors</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;&lt;em&gt;Metro Obsercer&lt;/em&gt; web master and SF Bay Area Renters Federation founder Sonja Trauss spoke at the Board of Supervisors’ Technical Advisory Committee last week urging considerable scrutiny over the city controller’s report. Trauss also published her concerns in an op-ed for the &lt;a href=&quot;http://www.thebaycitybeacon.com/32740/269472/a/guest-opinion-planning-to-fail&quot;&gt;Bay City Beacon&lt;/a&gt; last week, in which she argues that the city’s affordable housing policy should not be based on the current crisis as a baseline expectation. For a brief summary, watch the video below:&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/awgfhEqNyCQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
+  <entry xml:base="http://sfbamo.com/news/scene-report-los-angeles-affordability-threatened-by-measure-s/">
+    <title type="text">Scene Report: Los Angeles Affordability Threatened by Measure S</title>
+    <id>urn:uuid:80d5122a-b1a3-3d7e-bf45-7ebccacf0594</id>
+    <updated>2017-02-28T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/scene-report-los-angeles-affordability-threatened-by-measure-s/" />
+    <author>
+      <name>Diego Aguilar-Canabal</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;If you thought classism, racism, and an overall I-got-mine &lt;a href=&quot;https://www.youtube.com/watch?v=YjONsL4thQQ&quot;&gt;NIMBY&lt;/a&gt; mentality couldn’t get any worse in coastal California, Measure S should have you thinking again. The so-called “Neighborhood Integrity Initiative” brings staunch Trumpism to the nation’s most populous and diverse metropolitan area in an effort to bring nearly all development to a halt.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Measure S backers duplicitously claim that the initiative will only put a “time-out” on a small minority of projects, all in the name of affordability. But the campaign, spearheaded by wealthy homeowners like &lt;a href=&quot;http://www.latimes.com/local/lanow/la-me-ln-los-angeles-ballot-measure-campaign-jill-stewart-20160106-story.html&quot;&gt;LA Weekly editor Jill Stewart&lt;/a&gt; and AIDS Healthcare Foundation head honcho Michael Weinstein, has nothing to do with AIDS healthcare or, for that matter, affordability. While proponents claim that only 5% of projects in the pipeline will be affected, that includes &lt;a href=&quot;http://www.abundanthousingla.org/no-measure-s/debunking-measure-s-lies/measure-s-stop-more-5percent-new-housing/&quot;&gt;an overwhelming majority of &lt;em&gt;total units&lt;/em&gt; proposed&lt;/a&gt;, including permanently affordable housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Angelenos want more affordable housing, and they also want more jobs. Voters confirmed this when they approved &lt;a href=&quot;http://la.curbed.com/2016/11/9/13571390/measure-jjj-approved-affordable-housing-and-local-hiring&quot;&gt;Measure JJJ&lt;/a&gt;, which requires 11-20% permanently affordable housing in projects that receive a general plan amendment. So far, so good.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;When Measure S proponents claim their ballot initiative would preserve both, they are lying. While Measure S was amended to exempt 100% affordable projects from zoning restrictions and height limits, bill would still permanently ban any project seeking a general plan amendment, which would &lt;a href=&quot;http://urbanize.la/post/proposed-ballot-measure-would-prevent-homeless-housing-city-owned-sites&quot;&gt;effectively eliminate 229 homes at Lincoln Heights from the pipeline&lt;/a&gt;. According to a study by the LAEDC’s Institute for Applied Economics, Measure S would also cost the city 12,000 construction jobs and $700,000 in tax revenue &lt;em&gt;every year.&lt;/em&gt;&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Every. Goddamn. Year.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;So why is Measure S even on the table? The fact of the matter is that it’s merely an aggressive effort to maintain the status quo—a very old one, anyway.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;
+
+
+&lt;div class=&quot;photo-with-caption&quot;&gt;
+  &lt;img src=&quot;../../news/scene-report-los-angeles-affordability-threatened-by-measure-s/la-population-graph.png&quot; alt=&quot;&quot; class=&quot;news_photo&quot;/&gt;
+
+  &lt;div class=&quot;photo-caption&quot;&gt;&lt;p&gt;(Figure 1: Los Angeles Zoned Capacity)&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Until 5 years ago, Los Angeles still relied on a &lt;a href=&quot;http://la.curbed.com/2012/6/20/10360258/la-will-finally-get-a-major-overhaul-of-its-1946-zoning-code&quot;&gt;zoning code from 1946&lt;/a&gt; that reduced its residential capacity by 60%, from 10 million down to 4 million. The space between the lines on Fig. 1 above is the resulting affordability crisis.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Los Angeles has been here before. Proposition U, passed in 1986, can be seen where the two lines converge. The ballot measure reduced height limits everywhere except the downtown core, effectively preserving the &lt;a href=&quot;http://marketurbanism.com/2016/06/10/keep-los-angeles-affordable-by-repealing-proposition-u/&quot;&gt;costly, sprawling single-story strip mall character&lt;/a&gt; of many commercial corridors in the city. Prop U was passed by a 2:1 margin.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;During Mayor Antonio Villaraigosa’s second term, Angelenos seemed to turn in favor of new development as the city lurched out of the 2008 recession. Under his watch, the city passed major transit funding legislation and stronger affordable housing mandates. Measure S represents the backlash from slow-growth suburban preservationists, whose property values have largely benefited from the city’s low-density zoning restrictions.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;It should come as no surprise that Measure S is bankrolled largely by the notorious head of the AIDS Healthcare Foundation, Michael Weinstein. Weinstein has earned a reputation for everything but AIDS healthcare, with &lt;a href=&quot;http://www.hivplusmag.com/opinion/2015/06/24/op-ed-10-worst-offenses-aids-healthcare-foundations-michael-weinstein&quot;&gt;accusations ranging&lt;/a&gt; from union-busting, intimidation, and racketeering. His latest victory at the ballot box drove the porn industry out to neighboring San Bernardino County by requiring condoms in all pornographic film, which helped a total of zero AIDS patients.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Weinstein argues that he funds political ventures in the interest of “social justice”—&lt;a href=&quot;http://la.curbed.com/2017/2/24/14729554/measure-s-aids-healthcare-foundation-galperin-weinstein&quot;&gt;he cites San Francisco’s status as a “rich ghetto” as a motivation&lt;/a&gt; for funneling millions from AHF coffers to promote Measure S. San Francisco has lately seen &lt;a href=&quot;http://www.socketsite.com/archives/2017/02/cost-of-renting-a-room-in-sf-has-dropped-12-percent-from-peak.html&quot;&gt;falling rents&lt;/a&gt; after adding thousands of high-end apartment units to the market in the past two years. Measure S would prevent precisely that process from being replicated in Los Angeles, only exacerbating the displacement effects of gentrification.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Los Angeles generally wants more high-density development near transit to &lt;a href=&quot;http://www.dot.ca.gov/newtech/researchreports/reports/2016/CA16-2832_FinalReport.pdf&quot;&gt;reduce traffic&lt;/a&gt; and &lt;a href=&quot;http://www.urbandisplacement.org/sites/default/files/images/udp_research_brief_052316.pdf&quot;&gt;ease displacement pressures&lt;/a&gt;. Angelenos should fight tooth and nail against a small, privileged majority seeking to preserve their comfort and stifle opportunity for everyone else. &lt;a href=&quot;http://www.abundanthousingla.org/no-measure-s/take-action/&quot;&gt;Many already are&lt;/a&gt;, and &lt;a href=&quot;http://www.abundanthousingla.org/no-measure-s/get-friends-vote/&quot;&gt;voters&lt;/a&gt; will have their say on March 7.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/editorial-berkeley-finally-treats-crisis-like-a-crisis/">
     <title type="text">Editorial: Berkeley Finally Treats Crisis Like a Crisis</title>
     <id>urn:uuid:7a99d2ff-a451-37ba-a7da-2b0928aab7a1</id>
@@ -4579,129 +4704,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;Though lawsuits may ultimately be unlikely from larger landlords, ISPs could conceivably find themselves sharing grievances with property owners who rent out a room in a single-family home, or may not otherwise qualify for just compensation.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/op-ed-poor-housing-and-lackluster-broadband-access-in-san-francisco/">
-    <title type="text">Op-Ed: Poor Housing and Lackluster Broadband Access in San Francisco</title>
-    <id>urn:uuid:194b90dd-411b-3646-ae4d-1a0ebe02f80a</id>
-    <updated>2016-12-13T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/op-ed-poor-housing-and-lackluster-broadband-access-in-san-francisco/" />
-    <author>
-      <name>Sonja Trauss</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;It’s hard to believe that San Francisco, a city home to a large portion of the Internet, has residents suffering from a lack of quality broadband access— but its does. We live in a state with almost 200 different internet service providers, yet of the 40% of San Franciscans living in apartment buildings or condominiums, only &lt;a href=&quot;http://broadbandnow.com/California/San-Francisco&quot;&gt;3% have access to the fastest broadband technology available&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Many landlords and building owners get kickbacks in exchange for steering their tenants to big broadband providers or setting up exclusive contracts with those providers. Effectively, they get to cash in on limiting broadband choices while tenants pay the price. Fewer choices, and the resulting drop in service quality, mean that tenants are left to shell out more money for slower Internet.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Here at the San Francisco Bay Area Renters’ Federation (SFBARF), we find that alarming. The status quo of limited broadband choice benefits landlords, property managers and ISPs, and hurts tenants.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Opponents of the bill claim it is unnecessary, tenants should shop for apartments with an eye towards leases that allow tenants free choice of broadband provider. “We don’t need laws telling us we have to allow any company into our buildings. We have concerns about safety, about the physical space,” said Ken Cleaveland, vice president of public policy for the Building Owners and Managers Association of San Francisco. “We think everything should be dictated by leases — you write what kind of services you provide into the lease.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Of course that is nonsense. Tenants in San Francisco are shopping for apartments with an eye toward affordability, and are in no position currently to be able to bargain with their potential landlords over choice of internet service providers.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Today, December 13th, the San Francisco Board of Supervisors is considering an ordinance by Supervisor Mark Farrell that would make it easier for new ISPs to expand their services in residential buildings, helping spur competition in the broadband market to increase access and reduce prices.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The &lt;a href=&quot;https://sfgov.legistar.com/LegislationDetail.aspx?ID=2863893&amp;amp;GUID=E010FDC6-4024-4BA7-B282-C0F9DE32D9F4&amp;amp;Options=ID%7cText%7c&amp;amp;Search=&quot;&gt;“Choice of Communications Services Providers in Multiple Occupancy Buildings”&lt;/a&gt; ordinance would ban kickbacks from large ISPs to landlords and property owners, and would help promote the competition necessary for an equitable market and fair prices. The ordinance works for residents and for business—leveling barriers of entry for new ISPs and encouraging all providers to offer fair prices for faster, available internet.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It’s time for a change. Tell your Supervisor to vote “yes” on broadband choice by &lt;a href=&quot;https://www.votervoice.net/Engine/campaigns/48219/respond&quot;&gt;signing the petition&lt;/a&gt;.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;em&gt;Sonja Trauss is the Founder of the SF Bay Area Renters' Federation and webmaster for the&lt;/em&gt; Metro Observer.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/in-memoriam-micah-danemayer/">
-    <title type="text">In Memoriam: Micah Danemayer</title>
-    <id>urn:uuid:6005b4b9-2719-3139-a8dd-fa6503be4cf2</id>
-    <updated>2016-12-12T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/in-memoriam-micah-danemayer/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;Micah Danemayer, 28, channeled a life force that even death could not extinguish. Indeed, the Ghost Ship tragedy that claimed his terrestrial existence along with 35 others seems to only have brought me closer to the community Micah himself introduced me to, just a few years ago.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Micah was one of the first people to introduce themselves to me after I moved to the East Bay in 2014 and started attending local concerts. Between acts at the closing party for Downtown Oakland’s Moco Gallery, Micah simply passed me his bottle of bourbon and started talking to me about music, as though we’d known each other for decades. The feeling persisted, even after his passing, when he appeared to me in a dream this weekend.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“Micah,” I said, “there are tributes to you all over town. So many good shows—I wish you could be there, man!”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Micah smiled and responded in his habitually cheeky way, sticking his tongue out and flashing the devil-horns hand gesture, shouting &lt;em&gt;slayyy it duder!&lt;/em&gt; I woke from my dream with the image of him smiling and winking, very much in the style of his idol, David Bowie.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;At the Ghost Ship, Micah was manning the projector during various performances, conjuring masterful avant-garde splashes of light and color under the moniker Visual Aids, just as he had been last year, during my only visit to the ill-fated venue. I feel immensely fortunate to have experienced his multisensory art firsthand.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;It’s impossible to overstate what a pillar Micah was in the local arts community. Last performing under the name &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/paralycyst-damage-done-discarded-007&quot;&gt;Paralycyst&lt;/a&gt;, he combined a penchant for densely-textured industrial sounds with an unabashed love of pure, decadent acid techno. &lt;a href=&quot;https://soundcloud.com/redcellaroakland&quot;&gt;Red Cellar&lt;/a&gt;, his new duo with another local techno master &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/regretamine-headcave-microrave-006&quot;&gt;Regretamine&lt;/a&gt;, was slated to make its live debut next month at Obscura Machina, Micah’s monthly series of curated “micro-rave” concerts. &lt;a href=&quot;https://www.facebook.com/events/1150785288339183/&quot;&gt;The show will go on&lt;/a&gt; in his honor.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Micah’s personal warmth and open heart brought him to introduce me to many other heroes in the Bay Area’s incendiary techno scene including &lt;a href=&quot;https://soundcloud.com/countervulture&quot;&gt;Countervulture&lt;/a&gt;, &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/type-b-discarded-008&quot;&gt;Type B&lt;/a&gt;, &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/forbidden-colors-discarded-004&quot;&gt;Forbidden Colors&lt;/a&gt;, &lt;a href=&quot;https://soundcloud.com/heartworm&quot;&gt;Heartworm&lt;/a&gt;, &lt;a href=&quot;https://soundcloud.com/hom&quot;&gt;HOM&lt;/a&gt;, &lt;a href=&quot;https://soundcloud.com/404-not-found-4&quot;&gt;404 Not Found&lt;/a&gt;, and &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/bonus-beast-discarded-005&quot;&gt;Bonus Beast&lt;/a&gt;, to name but a few.&lt;/p&gt;
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277770433&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/291549147&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-    
-  
-    
-				&lt;p&gt;He was the glue that held us together and continues to inspire us. We love you, Micah.&lt;/p&gt;
 
     
   
