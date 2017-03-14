@@ -2,13 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Bay Area Metropolitan Observer</title>
   <id>urn:uuid:52c4ddef-40d4-3bc8-bbd3-d91037b58706</id>
-  <updated>2017-02-28T00:00:00Z</updated>
+  <updated>2017-03-14T00:00:00Z</updated>
   <link href="http://sfbamo.com/news/" />
   <link href="http://sfbamo.com/feed.xml" rel="self" />
   <author>
     <name></name>
   </author>
   <generator uri="https://github.com/ajdavis/lektor-atom" version="0.2">Lektor Atom Plugin</generator>
+  <entry xml:base="http://sfbamo.com/news/op-ed-dont-promise-to-not-be-racist-league-of-cities-says/">
+    <title type="text">Op-Ed: Don't Promise to Not Be Racist, Says League of California Cities</title>
+    <id>urn:uuid:59c788d8-a4b6-3c30-afaf-763c20ab6401</id>
+    <updated>2017-03-14T00:00:00Z</updated>
+    <link href="http://sfbamo.com/news/op-ed-dont-promise-to-not-be-racist-league-of-cities-says/" />
+    <author>
+      <name>Laura Clark</name>
+    </author>
+    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
+	
+	
+	
+
+  
+    
+  
+    
+				&lt;p&gt;Long ago in the ancient days of 2013, &lt;a href=&quot;https://www.cacities.org/&quot;&gt;The League of Cities&lt;/a&gt; published a useful manual: “How to Hide Your Segregation,” or as they put it, “Housing Elements: Beware of What You Promise.” In it, The League offers important advice on how to not get caught when your policies have widespread discriminatory impacts on protected classes of people.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The League of Cities is a membership organization of many California cities and towns that lobbies the state and federal government, generally for greater local control. They're often opposed to state laws that might make them actually hold cities to their word on providing housing.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;The League's manual contains sage wisdom for cities that might be doing something broadly discriminatory. The most important recommendation? Give a good public finger-wagging to overtly racist public comments! It's important that when you're doing something with discriminatory impacts, cities look like they didn't know. (Because, ya know, when someone says “I don’t want those [insert protected class] in my neighborhood,” a city official might need a reminder that at least overt prejudice should be denounced, not just quietly accepted.)&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;“Members of the public may not be aware that a city can also not discriminate against… persons with disabilities, or families with children,” The League points out. They note how important this is because later the city will need to be able to pretend that there was never any “intent of harming any of these groups” whatever the results might be. The manual tells City Councils and Planning Commissioners to — at least on the face of things — “disclaim speakers’ motivations,” so the city won’t get sued.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;But don’t fret too much for these at-risk municipalities. Successful lawsuits have had to rely on specific actions with intents. It’s difficult to prove intent in broadly discriminatory and zoning policies that have widespread disparate impacts, particularly on low-income residents and communities of color. So, California cities, don’t worry: it’s still fine for your entire zoning program to perpetuate institutional racism, as long as it’s widespread and hard to prove you intended to do so.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;A single small paragraph is reserved for the sage advice: maybe don’t actually “perpetuate segregated housing patterns.” That must be really important to them.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;For those of us who might want local governments to &lt;a href=&quot;https://www.huduser.gov/portal/affht_pt.html&quot;&gt;affirmatively further fair housing&lt;/a&gt;, the conclusion they draw should give us hope, despite what the League might prefer:&lt;/p&gt;
+&lt;blockquote&gt;
+    
+  
+    
+				&lt;p&gt;VII. Conclusion. 
+Housing advocates are convinced that local planning and zoning regulations account for the high cost and lack of affordability of housing in much of California, and they view housing elements as their chief mechanism for removing “exclusionary” zoning and planning policies. They have been highly successful in advancing State legislation consistent with these views. In recent years the Obama administration has also given high priority to fair housing issues. Consequently, local governments can expect to encounter continuing pressure and potential litigation from advocates regarding the adoption and implementation of their housing elements.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+    
+  
+    
+				&lt;p&gt;If you’d like to donate to housing advocates who are convinced that local planning and zoning regulations account for the high cost of housing and lack of affordable housing in much of California, consider &lt;a href=&quot;http://www.carlaef.org/&quot;&gt;The California Renters Legal Advocacy and Education Fund&lt;/a&gt;, to sue these assholes.&lt;/p&gt;
+
+    
+  
+    
+				&lt;p&gt;Join the &lt;a href=&quot;https://yimbyaction.org/&quot;&gt;Yes In My Back Yard&lt;/a&gt; movement today.&lt;/p&gt;
+
+    
+  
+&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
+  </entry>
   <entry xml:base="http://sfbamo.com/news/public-comment-planning-to-fail/">
     <title type="text">Public Comment: Planning to Fail</title>
     <id>urn:uuid:81e0a95b-f87f-3cdf-a747-bfa268c8235c</id>
@@ -27,12 +97,7 @@
   
     
 				&lt;p&gt;&lt;em&gt;Metro Observer&lt;/em&gt; web master and SF Bay Area Renters Federation founder Sonja Trauss spoke at the Board of Supervisors’ Technical Advisory Committee last week urging considerable scrutiny over the city controller’s report. Trauss also published her concerns in an op-ed for the &lt;a href=&quot;http://www.thebaycitybeacon.com/32740/269472/a/guest-opinion-planning-to-fail&quot;&gt;Bay City Beacon&lt;/a&gt; last week, in which she argues that the city’s affordable housing policy should not be based on the current crisis as a baseline expectation. For a brief summary, watch the video below:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/awgfhEqNyCQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/awgfhEqNyCQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
     
   
 &lt;/div&gt; &lt;!-- END text-block --&gt;</content>
@@ -1856,15 +1921,7 @@ An estimated 30% of renters in the Bay Area pay more than half their income towa
   
     
 				&lt;p&gt;What delights us most, frankly, is that readers could ignore all our suggestions and would still be guaranteed a great time. Ultimately, SF Sketchfest is simply a celebration of human speech and movement. Nobody really knows why we enjoy laughter so much, but we’re more than happy to suspend our disbelief and leave our jaded cynicism at coat-check.&lt;/p&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jhA2OEN5Dxo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j_VQVYWwz_U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xpZLusV-1IY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jhA2OEN5Dxo&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j_VQVYWwz_U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xpZLusV-1IY&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
     
   
 &lt;/div&gt; &lt;!-- END text-block --&gt;</content>
@@ -3354,12 +3411,7 @@ An estimated 30% of renters in the Bay Area pay more than half their income towa
 				&lt;p&gt;Friday, January 6th: Oakland techno showcase &lt;strong&gt;Obscura Machina&lt;/strong&gt; will go on as planned, despite the passing of its gregarious organizer, &lt;a href=&quot;http://sfbamo.com/news/in-memoriam-micah-danemayer/&quot;&gt;Micah Danemayer&lt;/a&gt;, in the tragic Ghost Ship fire. Danemayer’s collaborator Devyn Saturnus will debut their new project Red Cellar as part of his plans to carry on the torch for his fallen friend’s imprint, Discarded Records. Red Cellar will be joined by the dark, minimal electro-croonings of &lt;a href=&quot;https://stacian.bandcamp.com/album/songs-for-cadets&quot;&gt;Stacian&lt;/a&gt;, the industrial duo &lt;a href=&quot;https://soundcloud.com/glowingdaggerrecords/sets/plattenbau-body-of-desire&quot;&gt;Plattenbau&lt;/a&gt;, lo-fi ambient producer &lt;a href=&quot;https://discardedrecords.bandcamp.com/album/fascination-scenarios-of-violence-009-2&quot;&gt;Fascination&lt;/a&gt;, and Los Angeles-based &lt;a href=&quot;https://soundcloud.com/djsailorsaturn/&quot;&gt;DJ Sailor Saturn&lt;/a&gt;. The event will be held at The Night Light, 311 Broadway, Oakland. All proceeds will fund the Micah Danemayer Memorial Scholarship at the Massachusetts College of Art and Design. $7 / 21+ / 9pm.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298150738&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298150738&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
     
   
 &lt;/div&gt; &lt;!-- END text-block --&gt;</content>
@@ -3597,12 +3649,7 @@ An estimated 30% of renters in the Bay Area pay more than half their income towa
   
     
 				&lt;p&gt;Unlike most performances reviewed here, last night’s concert is unique in that it was filmed in its entirety for your viewing pleasure.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BQJG44PeHig&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BQJG44PeHig&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
     
   
     
@@ -3662,13 +3709,10 @@ An estimated 30% of renters in the Bay Area pay more than half their income towa
     
 				&lt;p&gt;Stream the recording of this fascinating panel below:&lt;/p&gt;
 &lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/298914402&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
-
-
-
-Michael Lens' presentation:
-
-
-
+    
+  
+    
+				&lt;p&gt;Michael Lens' presentation:&lt;/p&gt;
 &lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.carlaef.org/s/SF-Yimby-Dec-2016.pdf&amp;embedded=true&quot; style=&quot;width:718px; height:500px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
     
   
@@ -3693,12 +3737,7 @@ Michael Lens' presentation:
   
     
 				&lt;p&gt;Kate Downing's  presentation:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.carlaef.org/s/CARLA-talk-Kate.pdf&amp;embedded=true&quot; style=&quot;width:718px; height:500px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://www.carlaef.org/s/CARLA-talk-Kate.pdf&amp;embedded=true&quot; style=&quot;width:718px; height:500px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
     
   
     
@@ -4018,12 +4057,7 @@ Meanwhile, the working classes and the poor are being pushed further and further
   
     
 				&lt;p&gt;We love you, Jsun, and can’t wait to party it up with you in the next realm.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GB19ixZtGhQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GB19ixZtGhQ&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
     
   
     
@@ -4219,12 +4253,7 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;“They say they’re progressive,” she remarks, “so we need to hold them to it.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/msT23GpsQWU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/msT23GpsQWU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
     
   
     
@@ -4625,90 +4654,6 @@ While she largely succeeded in redrawing school district boundaries to desegrega
   
     
 				&lt;p&gt;For the next 45 days, the city of Oakland categorically agrees with his statement.&lt;/p&gt;
-
-    
-  
-&lt;/div&gt; &lt;!-- END text-block --&gt;</content>
-  </entry>
-  <entry xml:base="http://sfbamo.com/news/farrells-internet-bill-may-bring-faster-cheaper-broadband-but-also-lawsuits/">
-    <title type="text">Farrell's Internet Bill May Bring Faster, Cheaper Broadband (But Also Lawsuits)</title>
-    <id>urn:uuid:e50e47c9-6524-34f7-b6c1-dc83a5eb7964</id>
-    <updated>2016-12-13T00:00:00Z</updated>
-    <link href="http://sfbamo.com/news/farrells-internet-bill-may-bring-faster-cheaper-broadband-but-also-lawsuits/" />
-    <author>
-      <name>Diego Aguilar-Canabal</name>
-    </author>
-    <content type="html">&lt;div class=&quot;text-block&quot;&gt;
-	
-	
-	
-
-  
-    
-  
-    
-				&lt;p&gt;You read this morning’s &lt;a href=&quot;http://sfbamo.com/news/op-ed-poor-housing-and-lackluster-broadband-access-in-san-francisco/&quot;&gt;op-ed&lt;/a&gt; by our webmaster Sonja Trauss. Now for the story:&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Supervisor Mark Farrell will finalize legislation at today’s Board of Supervisors meeting to mandate equal access for San Francisco tenants to all Internet Service Providers (ISPs) in the area. Farrell’s &lt;a href=&quot;https://sfgov.legistar.com/View.ashx?M=F&amp;amp;ID=4834773&amp;amp;GUID=0DCCBCFF-6110-4276-B446-D4A990723825&quot;&gt;ordinance&lt;/a&gt;, an amendment to the Police Code banning favorable financial agreements between major providers and landlords, was approved by the Board’s Budget and Finance Committee last month, and will now receive its second reading before the full Board.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The ordinance will ban “exclusive access agreements” in which a property owner can arrange with an ISP to offer access to a single service, which the city hopes will enable tenants to choose their broadband connection as freely as property owners themselves.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Critically, the bill's opening salvo reads: “No property owner shall interfere with the right of an occupant to obtain communications services from the communications services provider of the occupant's choice.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Fair market prices for internet access sounds like a no-brainer for such a tech-centric city as San Francisco, but the Supervisors are steeling themselves against much expected blowback. Today’s meeting will be preceded by a closed session with the City Attorney to discuss “anticipated litigation” in response to Farrell’s proposal, widely expected to pass.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;These concerns are not without precedent. For example, Comcast has sued the cities of &lt;a href=&quot;http://arstechnica.com/business/2015/04/comcast-brings-fiber-to-city-that-it-sued-7-years-ago-to-stop-fiber-rollout/&quot;&gt;Chattanooga&lt;/a&gt; and &lt;a href=&quot;https://www.techdirt.com/articles/20161026/07362935891/comcast-joins-att-files-lawsuit-against-nashville-to-slow-google-fiber.shtml&quot;&gt;Nashville&lt;/a&gt; in Tennessee to halt the construction of Google  Fiber infrastructure.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“We always like things that encourage competition in this market. This industry has suffered greatly due to monopolies,” said Anders Finn, Director of Technology at the local ISP &lt;a href=&quot;http://monkeybrains.net&quot;&gt;monkeybrains.net&lt;/a&gt;. “Now, I’ve seen some things in this bill that are going to force property owners to pay for upgrades, which I don’t think is completely fair. There’s a lot more market choice for the city’s more affluent residents, so in lower-income areas, we need to see more of a push for better internet.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Finn noted that Monkeybrains is working to install inexpensive broadband services in every unit at Hunters Point East/West, an apartment complex on Oakdale Avenue in the Bayview neighborhood, and that such projects would not be hindered by Farrell’s legislation.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;“We’d like to see some of the onus to provide higher speeds and lower prices to be on the ISP, not entirely on property owners,” Finn continued. “Say you have a building from the 1920s with old wiring, and suddenly you find out you’re required to install Google Fiber and eat the cost. There are better ways to make that happen.”&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;The ordinance’s latest amendments appear to have been adjusted to meet these concerns, at least for landlords in multi-unit buildings. Although a property owner is required by Farrell’s bill to notify the ISP if the building lacks the necessary utilities and infrastructure to accommodate upgrades, Section 5208 adds:&lt;/p&gt;
-&lt;blockquote&gt;
-    
-  
-    
-				&lt;p&gt;A property owner is entitled to just and reasonable compensation from a communications services provider that obtains access to a multiple occupancy building from a property owner…to provide communications services to occupants.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-    
-  
-    
-				&lt;p&gt;“Just and reasonable compensation” is defined as the “fair market value” of the impact work would have on a building.&lt;/p&gt;
-
-    
-  
-    
-				&lt;p&gt;Though lawsuits may ultimately be unlikely from larger landlords, ISPs could conceivably find themselves sharing grievances with property owners who rent out a room in a single-family home, or may not otherwise qualify for just compensation.&lt;/p&gt;
 
     
   
