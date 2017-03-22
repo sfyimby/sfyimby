@@ -1,27 +1,31 @@
-{% extends "layout.html" %}
-{% from "macros/news.html" import render_news_teaser %}
-{% from "macros/news-list.html" import render_news_list %}
+{% extends "bookstore-layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   <div class="splash-message">
     <p>
-    {{ this.body }}
+    SF BAMO is now a bookstore
     </p>
   </div>
   <div class="pure-g">
+    <div class="pure-u-1-2">
+      <a href="https://yimby.store/product/burrowing-owls/">
+        <img src="{{ '/static/burrowing.jpg'|url }}" alt="Burrowing Owls front cover"/>
+      </a>
+    </div>
+    <div class="pure-u-1-2">
+      <p>
+        In 2014, Kim-Mai Cutler published her groundbreaking article,
+        <a href="https://techcrunch.com/2014/04/14/sf-housing/"
+          target="_blank">How Burrowing Owls Lead To Vomiting Anarchists (Or
+        SF’s Housing Crisis Explained)</a>.
+      We still think it is one of the
+      most important pieces of prose written about the ongoing housing crisis
+      in San Francisco and the Bay area. Last year, the
+      <a href="http://sfbamo.com/news/sfhac-honors-heroes-with-haughty-hors-doeuvres/"
+          target="_blank">San Francisco Housing Action Coalition (SFHAC)</a>
+      honored Cutler at their Housing Heroes Awards for inspiring legions of
+      grassroots activists.
+    </p>
+    </div>
   </div>
-  {% for child in this.children %}
-    {% if child.record_label == 'News' %}
-        {{ render_news_list(child.children) }}
-    {% endif %}
-  {% endfor %}
-   <div class="pure-u-1 news-splash">
-       <div class="page-footer">
-           <a href="./news/page/2">
-               <div class="page-footer-more">
-                   More stories
-               </div>
-           </a>
-       </div>
-   </div>
 {% endblock %}
